@@ -1,0 +1,1288 @@
+[
+  {
+    "datetime": "30.11.2016T19:00",
+    "place": "vs",
+    "num": 99,
+    "org": {"mod": "aa", "photo": ""},
+    "photo": [
+      "https://photos.google.com/share/AF1QipNGD-3lCfWZTU1WLUWN_CfFER2WKcmN2Cxo_EcUFI9yaanKpbrvrbL_PfQWFn4XUA?key=bkZiTnNnSWppREdMNHlHaWtBRmliVUlVdEU0bUdB"
+    ],
+    "event": "https://www.eventbrite.com/e/29660261641",
+    "speeches": [
+      {
+        "org": {"cam": "", "edit": "as"},
+        "lang": "ru",
+        "youtube": ["JtbR2bTmjkI"],
+        "speakers": [
+          {
+            "names": {"*": "Ilja Hämäläinen", "ru": "Илья Хямяляйнен"},
+            "url": "https://github.com/w32blaster",
+            "image": "ihamalainen.jpg"
+          }
+        ],
+        "titles": {"ru": "Concourse CI: «от винта!» или не Дженкинсом единым"},
+        "presentations": ["https://speakerdeck.com/w32blaster/introduction-to-concourseci"],
+        "examples": ["https://gist.github.com/w32blaster/965bad80a6613fe924eb2f82aa159e4f"],
+        "top": {"season": 2016, "place": 5}
+      },
+      {
+        "org": {"cam": "", "edit": "as"},
+        "lang": "ru",
+        "youtube": ["WVzzRvtK24M"],
+        "speakers": [
+          {
+            "names": {"*": "Ilja Livenson", "ru": "Илья Ливенсон"},
+            "url": "https://ee.linkedin.com/in/ilja-livenson-8015674",
+            "image": "ilivenson.jpg"
+          }
+        ],
+        "titles": {"ru": "Riigipilv: Начало"},
+        "top": {"season": 2016, "place": 6}
+      },
+      {
+        "org": {"cam": "", "edit": "as"},
+        "lang": "ru",
+        "youtube": ["-Dxm3jhk-W0"],
+        "speakers": [
+          {
+            "names": {"*": "Juri Timoshin", "ru": "Юрий Тимошин"},
+            "url": "https://ee.linkedin.com/in/juritimoshin",
+            "image": "jtimosin.jpg"
+          }
+        ],
+        "titles": {"ru": "Jenkins pipeline"}
+      }
+    ]
+  },
+  {
+    "datetime": "31.10.2016T19:00",
+    "place": "vs",
+    "num": 98,
+    "titles": {"*": "PostgreSQL"},
+    "org": {"mod": "Эрвин Вебер", "photo": ""},
+    "photo": [
+      "https://photos.google.com/share/AF1QipMEt4ySP4SBskEz4tbSOq8A_-FNZgw2w_qQy0ECkBoGBcZebKQtzZh7Ff0ICSoLdg?key=TnRrT1hxRDRQUmg2Y1FRWmN1SC1EOXJLMDk4VHJR"
+    ],
+    "event": "https://www.eventbrite.com/e/20-postgresql-tickets-28836396438",
+    "speeches": [
+      {
+        "org": {"cam": "", "edit": "as"},
+        "lang": "ru",
+        "youtube": ["O7aIUQG2rj4"],
+        "speakers": [
+          {
+            "names": {"*": "Aleksandr Aliashkevich", "ru": "Александр Олешкевич"},
+            "url": "https://www.linkedin.com/in/aliashkevich",
+            "image": "aaliashkevich.jpg"
+          }
+        ],
+        "titles": {"ru": "Внутренности SQL Tabs"}
+      },
+      {
+        "org": {"cam": "", "edit": "as"},
+        "lang": "ru",
+        "youtube": ["GcTP9epXqTc"],
+        "speakers": [
+          {
+            "names": {"*": "Oleg Bartunov", "ru": "Олег Бартунов"},
+            "url": "https://www.linkedin.com/in/olegbartunov",
+            "image": "obartunov.jpg"
+          },
+          {
+            "names": {"*": "Aleksandr Korotkov", "ru": "Александр Коротков"},
+            "url": "https://www.linkedin.com/in/avkorotkov/en",
+            "image": "akorotkov.jpg"
+          }
+        ],
+        "titles": {"ru": "Российский след в постгресе"}
+      },
+      {
+        "org": {"cam": "", "edit": "as"},
+        "lang": "ru",
+        "youtube": ["VLW-rARakXY"],
+        "speakers": [
+          {
+            "names": {"*": "Bruce Momjian", "ru": "Брюс Момджин"},
+            "url": "https://www.linkedin.com/in/bruce-momjian-74ab7b1",
+            "image": "bmomjian.jpg"
+          }
+        ],
+        "titles": {"ru": "PostgreSQL Past, Present and Future [eng]"}
+      }
+    ]
+  },
+  {
+    "datetime": "29.09.2016T19:00",
+    "place": "vs",
+    "num": 97,
+    "org": {"mod": "kl", "photo": ""},
+    "photo": [
+      "https://photos.google.com/share/AF1QipM_cLMsz8C9Ofsk4xMjfL4tD8Y7BjiwYcKMo18KsPdNt4QsR4cD5RbIO7dbmWWEtg?key=Slpmc3ZUT3Y2QWYta3g2Z3NHSmNLOVgxNWRPb0xR"
+    ],
+    "event": "https://www.eventbrite.com/e/27972867600",
+    "speeches": [
+      {
+        "org": {"cam": "as", "edit": "as"},
+        "lang": "ru",
+        "youtube": ["k6ng9g0956M"],
+        "speakers": [
+          {
+            "names": {"*": "Igor Bossenko", "ru": "Игорь Босенко"},
+            "url": "https://ee.linkedin.com/in/igor-bossenko-17b7822",
+            "image": "ibossenko.jpg"
+          }
+        ],
+        "titles": {"ru": "Осенние кораблики"},
+        "top": {"season": 2016, "place": 3}
+      },
+      {
+        "org": {"cam": "as", "edit": "as"},
+        "lang": "ru",
+        "youtube": ["rTUu5QaWneU"],
+        "speakers": [
+          {
+            "names": {"*": "Julia Jolkin", "ru": "Юлия Ёлкин"},
+            "url": "https://www.linkedin.com/in/julia-jolkin-b5758645",
+            "image": "jjolkin.jpg"
+          }
+        ],
+        "titles": {"ru": "Веселые Картинки, или типичные фейлы соискателей при составлении отличного резюме"}
+      },
+      {
+        "org": {"cam": "as", "edit": "as"},
+        "lang": "ru",
+        "youtube": ["nM92asjjde0"],
+        "speakers": [
+          {
+            "names": {"*": "Konstantin Root", "ru": "Константин Роот"},
+            "url": "https://ee.linkedin.com/in/konstantinroot",
+            "image": "kroot.jpg"
+          }
+        ],
+        "titles": {"ru": "Использование HTTP headers для обеспечения безопасности сайтов"},
+        "presentations": ["20160929_kroot_security-headers.pptx"]
+      }
+    ]
+  },
+  {
+    "datetime": "30.08.2016T19:00",
+    "place": "vs",
+    "num": 96,
+    "org": {"mod": "kl", "photo": ""},
+    "photo": [
+      "https://photos.google.com/share/AF1QipMK8zdpmhXgCa3M2tj5qG3mbU3E1EyrXXkIZ2uuHAxq_sqqDqUrJV3_x-3SnWb42g?key=YXRhWW5YRTJSZGhfQ1BrX2h0SkIyRDA5ajIzVXp3"
+    ],
+    "speeches": [
+      {
+        "org": {"cam": "jt", "edit": "as"},
+        "lang": "ru",
+        "youtube": ["QyXkCCC2PKo"],
+        "speakers": [
+          {
+            "names": {"*": "Mihhail Beshkin", "ru": "Михаил Бешкин"},
+            "url": "https://ee.linkedin.com/in/mihailsb",
+            "image": "mbeskin.jpg"
+          }
+        ],
+        "titles": {"ru": "Распознавание текста налету"}
+      },
+      {
+        "org": {"cam": "jt", "edit": "as"},
+        "lang": "ru",
+        "youtube": ["iFlAZNvWQP8"],
+        "speakers": [
+          {
+            "names": {"*": "Pavel Novitski", "ru": "Павел Новицкий"},
+            "url": "https://ee.linkedin.com/in/pavel-novitski-3b810435",
+            "image": "pnovitski.jpg"
+          }
+        ],
+        "titles": {"ru": "Обновление и миграция продукционных систем"}
+      },
+      {
+        "org": {"cam": "jt", "edit": "as"},
+        "lang": "ru",
+        "youtube": ["qMXvidzTu1Q"],
+        "speakers": [
+          {
+            "names": {"*": "Vitali Nartov", "ru": "Виталий Нартов"},
+            "url": "https://ee.linkedin.com/in/vitali-nartov-656ab75b",
+            "image": "vnartov.jpg"
+          }
+        ],
+        "titles": {"ru": "To be or not to be: Hybrid vs Native"}
+      }
+    ]
+  },
+  {
+    "datetime": "02.08.2016T19:00",
+    "place": "vs",
+    "num": 95,
+    "titles": {"ru": "33 июля", "en": "33. July", "ee": "33. juuli"},
+    "org": {"mod": "aa", "photo": ""},
+    "photo": [
+      "https://photos.google.com/share/AF1QipNpSNOvKpya3swyGrirkhaN73Qv0Nl52zIZOq0lUISGphVFCKWWJf_j5z0Erot8aQ?key=NmRCTmN5aFY4Mm1PZDlmdlUzb0JjYzdEUGdONy1R"
+    ],
+    "speeches": [
+      {
+        "org": {"cam": "jt", "edit": "as"},
+        "lang": "ru",
+        "youtube": ["N4Z2xEGWneU"],
+        "speakers": [
+          {
+            "names": {"*": "Nikita Salnikov-Tarnovski", "ru": "Никита Сальников-Тарновский"},
+            "url": "https://ee.linkedin.com/in/nikem",
+            "image": "nsalnikov.jpg"
+          }
+        ],
+        "titles": {"ru": "Java-погромист, убери за собой!"},
+        "examples": ["https://github.com/iNikem/jpoint2016"],
+        "top": {"season": 2016, "place": 2}
+      },
+      {
+        "lang": "ru",
+        "speakers": [
+          {
+            "names": {"*": "Dmitry Smirnov", "ru": "Дмитрий Смирнов"},
+            "url": "https://ru.linkedin.com/in/dmitry-smirnov-4a65a370",
+            "image": "dsmirnov.jpg"
+          }
+        ],
+        "titles": {"ru": "Защита Интернет периметра"},
+        "info": "По просьбе докладчика видео не снималось."
+      },
+      {
+        "org": {"cam": "jt", "edit": "as"},
+        "lang": "ru",
+        "youtube": ["vRFq2ZwKrUI"],
+        "speakers": [
+          {
+            "names": {"*": "Anton Keks", "ru": "Антон Кекс"},
+            "url": "https://www.linkedin.com/in/antonkeks",
+            "image": "akeks.jpg"
+          }
+        ],
+        "titles": {"ru": "Riot.js"},
+        "examples": ["https://github.com/angryziber/riot-demo"],
+        "top": {"season": 2016, "place": 4}
+      }
+    ]
+  },
+  {
+    "datetime": "28.06.2016T19:00",
+    "place": "vs",
+    "num": 94,
+    "org": {"mod": "aa", "photo": ""},
+    "photo": [
+      "https://photos.google.com/b/105266766340206558621/share/AF1QipMTmMSGEOFhEJV7eSH9GD0veCaxNcVVx5yO3GU8vIP4cBRvW27bBw71YjW48XYyTg?key=U2laam9CNHdXeVhfMUpkVkJ4Y21BM0Fhd09EZWdn"
+    ],
+    "speeches": [
+      {
+        "org": {"cam": "as", "edit": "as"},
+        "lang": "ru",
+        "youtube": ["dsGmoCgFtCo"],
+        "speakers": [
+          {
+            "names": {"*": "Sergei Didyk", "ru": "Сергей Дидык"},
+            "url": "https://ee.linkedin.com/in/sergei-didyk-48670549",
+            "image": "sdidyk.jpg"
+          }
+        ],
+        "titles": {"ru": "Эстонское плакатное искусство времён перестройки"},
+        "examples": ["https://www.facebook.com/DIDYKpictures/photos/?tab=album&album_id=720363338004923"],
+        "presentations": ["20160628_sdidyk_plakat-1-21.pdf", "20160628_sdidyk_plakat-22-49.pdf"]
+      },
+      {
+        "org": {"cam": "as", "edit": "as"},
+        "lang": "ru",
+        "youtube": ["1qA8wGJff3g"],
+        "speakers": [
+          {
+            "names": {"*": "Jevgeni Goloborodko", "ru": "Евгений Голобородько"},
+            "url": "https://ee.linkedin.com/in/jevgeni-goloborodko-65a048a",
+            "image": "jgoloborodko.jpg"
+          }
+        ],
+        "titles": {"ru": "DSL на Scala"},
+        "examples": ["https://github.com/digital-magic-io/dsl-examples"]
+      },
+      {
+        "org": {"cam": "as", "edit": "as"},
+        "lang": "ru",
+        "youtube": ["q7uOeFEBkiI"],
+        "speakers": [
+          {
+            "names": {"*": "Konstantin Root", "ru": "Константин Роот"},
+            "url": "https://ee.linkedin.com/in/konstantinroot",
+            "image": "kroot.jpg"
+          }
+        ],
+        "titles": {"ru": "ASK.FM: про внутренности большой социальной сети"},
+        "presentations": ["20160628_kroot_askfm.pptx"]
+      }
+    ]
+  },
+  {
+    "datetime": "24.05.2016T19:00",
+    "place": "vs",
+    "num": 93,
+    "org": {"mod": "aa", "photo": ""},
+    "photo": [
+      "https://photos.google.com/share/AF1QipMswSrND-In7Km6LkSM0Oj_DJybkimDeOYLlWhoZh617qXSSL1eIRE-Gw415stqXw?key=UEdZRXBKRVdJa2ZKNmFRaFNZUFdpUWVjNjlPaHZR"
+    ],
+    "event": "https://www.eventbrite.com/e/25522212625",
+    "speeches": [
+      {
+        "org": {"cam": "as", "edit": "as"},
+        "lang": "ru",
+        "youtube": ["9lpDjZUGhKA"],
+        "speakers": [
+          {
+            "names": {"*": "Sergei Jegorov", "ru": "Сергей Егоров"},
+            "url": "https://ee.linkedin.com/in/bsideup/en",
+            "image": "segorov.jpg"
+          }
+        ],
+        "titles": {"ru": "С нуля в Облака: ваши оценки времени не верны!"}
+      },
+      {
+        "org": {"cam": "as", "edit": "as"},
+        "lang": "ru",
+        "youtube": ["P-s7LlVf9hg"],
+        "speakers": [
+          {
+            "names": {"*": "Sergei Anikin", "ru": "Сергей Аникин"},
+            "url": "https://ee.linkedin.com/in/sergei-anikin-4448714",
+            "image": "sanikin.jpg"
+          }
+        ],
+        "titles": {"ru": "Pipedrive как он есть"}
+      },
+      {
+        "org": {"cam": "as", "edit": "as"},
+        "lang": "ru",
+        "youtube": ["Z5SzA_Q-l14"],
+        "speakers": [
+          {
+            "names": {"*": "Ervin Weber", "ru": "Эрвин Вебер"},
+            "url": "https://ee.linkedin.com/in/webervin",
+            "image": "eweber.jpg"
+          }
+        ],
+        "titles": {"ru": "Ой - BLE"}
+      }
+    ]
+  },
+  {
+    "datetime": "21.04.2016T19:00",
+    "place": "Nortal",
+    "num": 92,
+    "org": {"mod": "kl", "photo": ""},
+    "operator": [
+      "Антон Стальнухин",
+      "Юрий Тимошин"
+    ],
+    "photo": [
+      "https://photos.google.com/share/AF1QipOfEEihjou75xbHec0vJIkUSi4aBFmOfFm00XHVDbFXwYrUziQBCs64aPljc7lBVw?key=SzRsSTFoSWhQZ3MxTk41RTNRU0ktdHBDLVRwUTl3"
+    ],
+    "event": "https://www.eventbrite.com/e/nortal-tickets-24507074319",
+    "speeches": [
+      {
+        "org": {"cam": "", "edit": "as"},
+        "lang": "ru",
+        "youtube": ["wOdAdXj4TsI"],
+        "speakers": [
+          {
+            "names": {"*": "Jevgeni Goloborodko", "ru": "Евгений Голобородько"},
+            "url": "https://ee.linkedin.com/in/jevgeni-goloborodko-65a048a",
+            "image": "jgoloborodko.jpg"
+          }
+        ],
+        "titles": {"ru": "Event Sourcing"}
+      },
+      {
+        "org": {"cam": "", "edit": "as"},
+        "lang": "ru",
+        "youtube": ["EzVwHHD0JX4"],
+        "speakers": [
+          {
+            "names": {"*": "Jakob Rosin", "ru": "Якоб Росин"},
+            "url": "https://www.facebook.com/jakob.rosin",
+            "image": "jrosin.jpg"
+          }
+        ],
+        "titles": {"ru": "How to build the best software for visually impaired or blind people [eng]"}
+      },
+      {
+        "org": {"cam": "", "edit": "as"},
+        "lang": "ru",
+        "youtube": ["qxAA1u1IfZs"],
+        "speakers": [
+          {
+            "names": {"*": "Oleg Shvaikovsky", "ru": "Олег Швайковский"},
+            "url": "https://www.linkedin.com/in/olegshvaikovsky",
+            "image": "oshvajkovski.jpg"
+          }
+        ],
+        "titles": {"ru": "Agile в госсекторе - миф или реальность?"}
+      }
+    ]
+  },
+  {
+    "datetime": "29.03.2016T19:00",
+    "place": "vs",
+    "num": 91,
+    "org": {"mod": "aso", "photo": ""},
+    "photo": [
+      "https://photos.google.com/share/AF1QipNrtE6O0lgIrss1zbvqXbTtXBKohUFJeOKsHlGuhJStmFIdNmXm1gnrKcRRZSUD4Q?key=elVNUS1rMmNtRm9FWXBLZU9DdHRqQzF4UTEtT0pR"
+    ],
+    "speeches": [
+      {
+        "org": {"cam": "jt", "edit": "as"},
+        "lang": "ru",
+        "youtube": ["piAFQOAgU5U"],
+        "speakers": [
+          {
+            "names": {"*": "Andrei Utkin", "ru": "Андрей Уткин"},
+            "url": "https://ee.linkedin.com/in/andrey-utkin-8b4430100",
+            "image": "autkin.jpg"
+          }
+        ],
+        "titles": {"ru": "Есть ли жизнь без DAO?"}
+      },
+      {
+        "org": {"cam": "jt", "edit": "as"},
+        "lang": "ru",
+        "youtube": ["N3AMGsUS-yU"],
+        "speakers": [
+          {
+            "names": {"*": "Ivan Shapran", "ru": "Иван Шапран"},
+            "url": "https://ee.linkedin.com/in/ivan-shapran-60142a45",
+            "image": "ishapran.jpg"
+          }
+        ],
+        "titles": {"ru": "AstrecData - дата-центр для разработки"}
+      },
+      {
+        "org": {"cam": "jt", "edit": "as"},
+        "lang": "ru",
+        "youtube": ["DQqOCx2UJ10"],
+        "speakers": [
+          {
+            "names": {"*": "Ilya Ryzhenkov", "ru": "Илья Рыженков"},
+            "url": "http://vk.com/ilya.ryzhenkov",
+            "image": "iryzhenkov.jpg"
+          }
+        ],
+        "titles": {"ru": "Про Kotlin"}
+      }
+    ]
+  },
+  {
+    "datetime": "24.02.2016T19:00",
+    "place": "vs",
+    "num": 90,
+    "org": {"mod": "aso", "photo": ""},
+    "photo": [
+      "https://photos.google.com/share/AF1QipOuHfEqvaNg7xeoYv_xopxB4OV7hjuXRkR1GTnYbMa7xMQpnbenBoAHJKNVsM6BfA?key=MnQxRk1naHJpOVJlSzNud19BMU5kMEdxbzAxc3Jn"
+    ],
+    "event": "http://www.eventbrite.com/e/24-tickets-21759454113",
+    "speeches": [
+      {
+        "org": {"cam": "as", "edit": "as"},
+        "lang": "ru",
+        "youtube": ["zaqZYDFm7Wo"],
+        "speakers": [
+          {
+            "names": {"*": "Stanislav Katkov", "ru": "Станислав Катков"},
+            "url": "https://www.linkedin.com/in/stanislav-katkov-582b7832",
+            "image": "skatkov.jpg"
+          }
+        ],
+        "titles": {"ru": "Дигитальные Номады"},
+        "presentations": ["http://www.howtodigitalnomad.com/"]
+      },
+      {
+        "org": {"cam": "as", "edit": "as"},
+        "lang": "ru",
+        "youtube": ["XZi67qYZ1UY"],
+        "speakers": [
+          {
+            "names": {"*": "Gleb Smirnov", "ru": "Глеб Смирнов"},
+            "url": "https://www.linkedin.com/in/gvsmirnov",
+            "image": "gsmirnov.jpg"
+          }
+        ],
+        "titles": {"ru": "Расчленяем многопоточность"},
+        "presentations": ["http://gvsmirnov.ru/docs/presentations/java-concurrency-hands-on/devclub-feb-2016.html"]
+      },
+      {
+        "org": {"cam": "as", "edit": "as"},
+        "lang": "ru",
+        "youtube": ["BgkzGCfTkoE"],
+        "speakers": [
+          {
+            "names": {"*": "Jens Kuehlers", "ru": "Дженс Кухлерс"},
+            "url": "https://www.linkedin.com/in/kuehlers",
+            "image": "jkuehlers.jpg"
+          }
+        ],
+        "titles": {"ru": "Big Data at Google"}
+      }
+    ]
+  },
+  {
+    "datetime": "27.01.2016T19:00",
+    "place": "vs",
+    "num": 89,
+    "org": {"mod": "aa,as,kl", "photo": ""},
+    "operator": [
+      "Антон Стальнухин",
+      "Юрий Тимошин"
+    ],
+    "photo": [
+      "https://photos.google.com/share/AF1QipMf1ESWguU8gNXHl7a6bFDKAEPxekX17xDZ2xITFchszJ_Fsyr0kDRA2xgPrShjIg?key=dzQwNzU3THB3Y2FlMURhRDZ5N1VUOHBUc1M2OW9B"
+    ],
+    "event": "http://www.eventbrite.com/e/-tv-bi-hr-tickets-20925794615",
+    "speeches": [
+      {
+        "org": {"cam": "", "edit": "as"},
+        "lang": "ru",
+        "youtube": ["kkGuxKYvHaI"],
+        "speakers": [
+          {
+            "names": {"*": "Igor Bossenko", "ru": "Игорь Босенко"},
+            "url": "https://ee.linkedin.com/in/igor-bossenko-17b7822",
+            "image": "ibossenko.jpg"
+          }
+        ],
+        "titles": {"ru": "BIть или не BIть — вот в чём вопрос"}
+      },
+      {
+        "org": {"cam": "", "edit": "as"},
+        "lang": "ru",
+        "youtube": ["o050WmqoMz4"],
+        "speakers": [
+          {
+            "names": {"*": "Anton Anisimov", "ru": "Антон Анисимов"},
+            "url": "https://ee.linkedin.com/in/anisimov",
+            "image": "aanisimov.jpg"
+          }
+        ],
+        "titles": {"ru": "Дигитальное телевидение"}
+      },
+      {
+        "org": {"cam": "", "edit": "as"},
+        "lang": "ru",
+        "youtube": ["dwb0qdiUPiU"],
+        "speakers": [
+          {
+            "names": {"*": "Julia Jolkin", "ru": "Юлия Ёлкин"},
+            "url": "https://www.linkedin.com/in/julia-jolkin-b5758645",
+            "image": "jjolkin.jpg"
+          }
+        ],
+        "titles": {
+          "ru": "Тонкости работы IT рекрутера, или как вам уменьшить спам и получать самые лучшие предложения?"
+        }
+      }
+    ]
+  },
+  {
+    "datetime": "29.12.2015T19:00",
+    "place": "vs",
+    "num": 88,
+    "org": {"mod": "aa", "photo": ""},
+    "photo": ["https://plus.google.com/photos/105266766340206558621/album/6233979055616720961"],
+    "event": "https://www.eventbrite.com/e/3c9eff-tickets-20043606968",
+    "speeches": [
+      {
+        "org": {"cam": "jt", "edit": "as"},
+        "lang": "ru",
+        "youtube": ["n3APDzvPF0k"],
+        "speakers": [
+          {
+            "names": {"*": "Nikita Makarov", "ru": "Никита Макаров"},
+            "url": "http://lnkd.in/H7VBZQ",
+            "image": "nmakarov.jpg"
+          }
+        ],
+        "titles": {"ru": "Микросервисы в тестировании"},
+        "presentations": ["http://www.slideshare.net/kronar/microservices-for-test-automation"],
+        "examples": ["https://github.com/kronar/one-nio-microservice-example"]
+      },
+      {
+        "org": {"cam": "jt", "edit": "as"},
+        "lang": "ru",
+        "youtube": ["H739IbLytyQ"],
+        "speakers": [
+          {
+            "names": {"*": "Kirill Linnik", "ru": "Кирилл Линник"},
+            "url": "https://ee.linkedin.com/pub/kirill-linnik/50/a65/976",
+            "image": "klinnik.jpg"
+          }
+        ],
+        "titles": {"ru": "Выйти замуж за иностранца"},
+        "presentations": ["20151229_klinnik_marriage.pptx"]
+      },
+      {
+        "org": {"cam": "jt", "edit": "as"},
+        "lang": "ru",
+        "youtube": ["kPC043A0Op0"],
+        "speakers": [
+          {
+            "names": {"*": "Anton Stalnuhhin", "ru": "Антон Стальнухин"},
+            "url": "https://ee.linkedin.com/in/astalnuhhin",
+            "image": "astalnuhhin.jpg"
+          }
+        ],
+        "titles": {"ru": "Код в кино #1"},
+        "presentations": ["20151229_astalnuhhin_movies.pdf"],
+        "top": {"season": 2016, "place": 1}
+      },
+      {
+        "org": {"cam": "jt", "edit": "as"},
+        "lang": "ru",
+        "youtube": ["d_oOvd793Lo"],
+        "speakers": [
+          {
+            "names": {"*": "Anton Keks", "ru": "Антон Кекс"},
+            "url": "https://www.linkedin.com/in/antonkeks",
+            "image": "akeks.jpg"
+          }
+        ],
+        "titles": {"ru": "Про чувство стиля"}
+      }
+    ]
+  },
+  {
+    "datetime": "25.11.2015T19:00",
+    "place": "vs",
+    "num": 87,
+    "org": {"mod": "aa", "photo": ""},
+    "photo": [
+      "https://plus.google.com/photos/105266766340206558621/albums/6221209806882800433"
+    ],
+    "speeches": [
+      {
+        "org": {"cam": "", "edit": "as"},
+        "lang": "ru",
+        "youtube": ["qKTREnERaec"],
+        "speakers": [
+          {
+            "names": {"*": "Aleksei Fjodorov", "ru": "Алексей Фёдоров"},
+            "image": "afjodorov.jpg"
+          }
+        ],
+        "titles": {"ru": "Синхронизация без блокировок и СМС"},
+        "presentations": ["http://www.slideshare.net/23derevo/ss-55524945"],
+        "top": {"season": 2015, "place": 4}
+      },
+      {
+        "org": {"cam": "", "edit": "as"},
+        "lang": "ru",
+        "youtube": ["j8EoGX5at1w"],
+        "speakers": [
+          {
+            "names": {"*": "Mihhail Lapushkin", "ru": "Михаил Лапушкин"},
+            "url": "https://ee.linkedin.com/in/mihhail",
+            "image": "mlapushkin.jpg"
+          }
+        ],
+        "titles": {"ru": "Node.js как платформа для всего"},
+        "examples": ["https://github.com/mihhail-lapushkin/devclub_nov2015"]
+      },
+      {
+        "org": {"cam": "", "edit": "as"},
+        "lang": "ru",
+        "youtube": ["xBYkGBqFPeI"],
+        "speakers": [
+          {
+            "names": {"*": "Nikita Salnikov-Tarnovski", "ru": "Никита Сальников-Тарновский"},
+            "url": "https://ee.linkedin.com/in/nikem",
+            "image": "nsalnikov.jpg"
+          }
+        ],
+        "titles": {"ru": "Как изобретение велосипедов спасло компанию Plumbr"},
+        "top": {"season": 2015, "place": 4}
+      }
+    ]
+  },
+  {
+    "datetime": "28.10.2015T19:00",
+    "place": "t",
+    "num": 86,
+    "org": {"mod": "kl", "photo": ""},
+    "photo": [
+      "https://plus.google.com/photos/105266766340206558621/albums/6210823207533670865"
+    ],
+    "speeches": [
+      {
+        "org": {"cam": "", "edit": "as"},
+        "lang": "ru",
+        "youtube": ["OdbXwQPV3dw"],
+        "speakers": [
+          {
+            "names": {"*": "Dmitri Nesteruk", "ru": "Дмитрий Нестерук"},
+            "url": "https://www.linkedin.com/in/dmitri-nesteruk-87b069aa/",
+            "image": "dnesteruk.png"
+          }
+        ],
+        "titles": {"ru": "Обзор технологий высокопроизводительных вычислений (HPC)"},
+        "top": {"season": 2015, "place": 7}
+      },
+      {
+        "org": {"cam": "", "edit": "as"},
+        "lang": "ru",
+        "youtube": ["A8MetRHGv4U"],
+        "speakers": [
+          {
+            "names": {"*": "", "ru": "Артём Курапов"},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"ru": "Многообразие автоматических тестов"},
+        "presentations": ["http://www.slideshare.net/totra/variety-of-automated-tests"]
+      },
+      {
+        "org": {"cam": "", "edit": "as"},
+        "lang": "ru",
+        "youtube": ["GMK_0b6Wgjw"],
+        "speakers": [
+          {
+            "names": {"*": "", "ru": "Роберт Каэв"},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"ru": "Reactive Enterprise Architecture"}
+      }
+    ]
+  },
+  {
+    "datetime": "29.09.2015T19:00",
+    "place": "vs",
+    "num": 85,
+    "org": {"mod": "kl", "photo": ""},
+    "photo": [
+      "https://plus.google.com/photos/105266766340206558621/albums/6200352494143601265"
+    ],
+    "speeches": [
+      {
+        "org": {"cam": "", "edit": "as"},
+        "lang": "ru",
+        "youtube": ["DbLYqRqbQSw"],
+        "speakers": [
+          {
+            "names": {"*": "Konstantin Tretyakov", "ru": "Константин Третьяков"},
+            "url": "http://kt.era.ee/",
+            "image": "ktretyakov.jpg"
+          }
+        ],
+        "titles": {"ru": "Весёлые картинки"},
+        "top": {"season": 2015, "place": 3}
+      },
+      {
+        "org": {"cam": "", "edit": "as"},
+        "lang": "ru",
+        "youtube": ["QmluxspuS8E"],
+        "speakers": [
+          {
+            "names": {"*": "Anton Keks", "ru": "Антон Кекс"},
+            "url": "https://www.linkedin.com/in/antonkeks",
+            "image": "akeks.jpg"
+          }
+        ],
+        "titles": {"ru": "Digital Signatures: Estonia vs The World"},
+        "presentations": ["https://prezi.com/vsm7g2gbjtmy/digital-signatures"],
+        "top": {"season": 2015, "place": 1}
+      },
+      {
+        "org": {"cam": "", "edit": "as"},
+        "lang": "ru",
+        "youtube": ["nttZNPPC1cQ"],
+        "speakers": [
+          {
+            "names": {"*": "Vitali Nartov", "ru": "Виталий Нартов"},
+            "url": "https://ee.linkedin.com/in/vitali-nartov-656ab75b",
+            "image": "vnartov.jpg"
+          }
+        ],
+        "titles": {"ru": "Эффективная разработка пользовательских интерфейсов под Android"}
+      }
+    ]
+  },
+  {
+    "datetime": "19.08.2015T19:00",
+    "place": "vs",
+    "num": 84,
+    "org": {"mod": "aso", "photo": ""},
+    "photo": [
+      "https://plus.google.com/photos/105266766340206558621/albums/6184829266311516977"
+    ],
+    "speeches": [
+      {
+        "org": {"cam": "", "edit": "as"},
+        "lang": "ru",
+        "youtube": ["cGXorQkw3JE"],
+        "speakers": [
+          {
+            "names": {"*": "Anton Arhipov", "ru": "Антон Архипов"},
+            "url": "https://ee.linkedin.com/in/antonarhipov",
+            "image": "aarhipov.jpg"
+          }
+        ],
+        "titles": {"ru": "Go!"},
+        "presentations": ["http://www.slideshare.net/arhan/something-about-golang"]
+      },
+      {
+        "org": {"cam": "", "edit": "as"},
+        "lang": "ru",
+        "youtube": ["1PZmalhJyS0"],
+        "speakers": [
+          {
+            "names": {"*": "Anton Keks", "ru": "Антон Кекс"},
+            "url": "https://www.linkedin.com/in/antonkeks",
+            "image": "akeks.jpg"
+          },
+          {
+            "names": {"*": "Dmitri Ess", "ru": "Дмитрий Эсс"}
+          }
+        ],
+        "titles": {"ru": "Школа программирования Codeborne"}
+      },
+      {
+        "org": {"cam": "", "edit": "as"},
+        "lang": "ru",
+        "youtube": ["tf_7Drar-NU"],
+        "speakers": [
+          {
+            "names": {"*": "", "ru": "Алексей Баранцев"},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"ru": "Aspiration Driven Development"}
+      }
+    ]
+  },
+  {
+    "datetime": "30.07.2015T19:00",
+    "place": "vs",
+    "num": 83,
+    "org": {"mod": "aso", "photo": ""},
+    "photo": [
+      "https://plus.google.com/photos/105266766340206558621/albums/6177456314153147201",
+      "https://picasaweb.google.com/107973065832795673929/Devclub_300715?authkey=Gv1sRgCJLVzo2hlYOikgE"
+    ],
+    "speeches": [
+      {
+        "speakers": [
+          {
+            "names": {"*": "", "ru": "Алек Альджанов"},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"ru": "Про хранилище картинок"},
+        "info": "Дефект флешки. Восстановить файлы видеозаписи не удалось."
+      },
+      {
+        "org": {"cam": "", "edit": "as"},
+        "lang": "ru",
+        "youtube": ["ME4HqzRjjJs"],
+        "speakers": [
+          {
+            "names": {"*": "", "ru": "Ирина Иванова"},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"ru": "Ловушки мышления в тестировании"},
+        "presentations": ["http://www.slideshare.net/iiiirina/devclubeu-30072015"]
+      },
+      {
+        "speakers": [
+          {
+            "names": {"*": "", "ru": "Антон Карпуткин"},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"ru": "Квантовые компьютеры"},
+        "info": "Дефект флешки. Восстановить файлы видеозаписи не удалось.",
+        "presentations": ["20150730_akarputkin_kvant.pdf"]
+      }
+    ]
+  },
+  {
+    "datetime": "02.07.2015T19:00",
+    "place": "vs",
+    "num": 82,
+    "titles": {"ru": "32 июня", "en": "32. June", "ee": "32. juuni"},
+    "org": {"mod": "kl", "photo": ""},
+    "photo": [
+      "https://plus.google.com/photos/105266766340206558621/albums/6176157478914898561"
+    ],
+    "speeches": [
+      {
+        "org": {"cam": "", "edit": "as"},
+        "lang": "ru",
+        "youtube": ["8VZU5_Dsqyg"],
+        "speakers": [
+          {
+            "names": {"*": "", "ru": "Сергей Куксенко"},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"ru": "Stream Style"}
+      },
+      {
+        "org": {"cam": "", "edit": "as"},
+        "lang": "ru",
+        "youtube": ["fRQhYKqpfog"],
+        "speakers": [
+          {
+            "names": {"*": "Martin Kiuru", "ru": "Мартин Киуру"},
+            "url": "https://ee.linkedin.com/in/martinkiuru",
+            "image": "mkiuru.jpg"
+          }
+        ],
+        "titles": {"ru": "HFT или How Deep the Rabbit Hole Goes"}
+      },
+      {
+        "org": {"cam": "", "edit": "as"},
+        "lang": "ru",
+        "youtube": ["5ZHSdwRnKvQ"],
+        "speakers": [
+          {
+            "names": {"*": "Igor Bossenko", "ru": "Игорь Босенко"},
+            "url": "https://ee.linkedin.com/in/igor-bossenko-17b7822",
+            "image": "ibossenko.jpg"
+          }
+        ],
+        "titles": {"ru": "Трансформация данных чайником"},
+        "examples": ["20150702_ibossenko_kettle.zip"]
+      }
+    ]
+  },
+  {
+    "datetime": "26.05.2015T19:00",
+    "place": "vs",
+    "num": 81,
+    "org": {"mod": "aa", "photo": ""},
+    "photo": [
+      "https://plus.google.com/photos/105266766340206558621/albums/6153474564634814241"
+    ],
+    "speeches": [
+      {
+        "org": {"cam": "", "edit": "as"},
+        "lang": "ru",
+        "youtube": ["kZDa5hD-oQI"],
+        "speakers": [
+          {
+            "names": {"*": "Andrei Solntsev", "ru": "Андрей Солнцев"},
+            "url": "https://ee.linkedin.com/in/asolntsev",
+            "image": "asolntsev.jpg"
+          }
+        ],
+        "titles": {"ru": "50 оттенков Play!"},
+        "top": {"season": 2015, "place": 4}
+      },
+      {
+        "org": {"cam": "", "edit": "as"},
+        "lang": "ru",
+        "youtube": ["wJa7oIuR-a0"],
+        "speakers": [
+          {
+            "names": {"*": "Mihhail Lapushkin", "ru": "Михаил Лапушкин"},
+            "url": "https://ee.linkedin.com/in/mihhail",
+            "image": "mlapushkin.jpg"
+          }
+        ],
+        "titles": {"ru": "Веб технологии Facebook"}
+      },
+      {
+        "org": {"cam": "", "edit": "as"},
+        "lang": "ru",
+        "youtube": ["05GZoxdSYfk"],
+        "speakers": [
+          {
+            "names": {"*": "Grigori Beshkin", "ru": "Григорий Бешкин"},
+            "url": "https://ee.linkedin.com/in/grigorij-beshkin-50016b31",
+            "image": "grigorib.jpg"
+          }
+        ],
+        "titles": {"ru": "MQL4, или играем в деньги"}
+      }
+    ]
+  },
+  {
+    "datetime": "30.04.2015T00:00",
+    "place": "vs",
+    "num": 80,
+    "org": {"mod": "aso", "photo": ""},
+    "photo": [
+      "https://plus.google.com/photos/105266766340206558621/albums/6144187603665325441",
+      "https://plus.google.com/photos/+IvanGaidamakin/albums/6143805836340961425"
+    ],
+    "speeches": [
+      {
+        "org": {"cam": "", "edit": "as"},
+        "lang": "ru",
+        "youtube": ["pRpY-s6ivOc"],
+        "speakers": [
+          {
+            "names": {"*": "Ilja Livenson", "ru": "Илья Ливенсон"},
+            "url": "https://ee.linkedin.com/in/ilja-livenson-8015674",
+            "image": "ilivenson.jpg"
+          }
+        ],
+        "titles": {"ru": "Наши люди в Омане"}
+      },
+      {
+        "org": {"cam": "", "edit": "as"},
+        "lang": "ru",
+        "youtube": ["NZ1QaiDJP3o"],
+        "speakers": [
+          {
+            "names": {"*": "", "ru": "Олег Мюрк"},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"ru": "Big Data & Spark"}
+      },
+      {
+        "org": {"cam": "", "edit": "as"},
+        "lang": "en",
+        "youtube": ["PzYGWCCDK7M"],
+        "speakers": [
+          {
+            "names": {"*": "Taavi Kotka", "ru": "Таави Котка"},
+            "url": "https://ee.linkedin.com/in/taavi-kotka-26335b33",
+            "image": "tkotka.jpg"
+          }
+        ],
+        "titles": {"ru": "Всё, что вы хотели знать об IT в Эстонии [eng]"},
+        "top": {"season": 2015, "place": 2}
+      }
+    ]
+  },
+  {
+    "datetime": "26.03.2015T00:00",
+    "place": "vs",
+    "num": 79,
+    "org": {"mod": "kl", "photo": ""},
+    "photo": [
+      "https://plus.google.com/photos/101124267861537730212/albums/6131754921509327009"
+    ],
+    "speeches": [
+      {
+        "org": {"cam": "", "edit": "as"},
+        "lang": "ru",
+        "youtube": ["lr0N5kyHny8"],
+        "speakers": [
+          {
+            "names": {"*": "Ilja Hämäläinen", "ru": "Илья Хямяляйнен"},
+            "url": "https://github.com/w32blaster",
+            "image": "ihamalainen.jpg"
+          }
+        ],
+        "titles": {"ru": "Прекомпиляция на примере GWT"}
+      },
+      {
+        "org": {"cam": "", "edit": "as"},
+        "lang": "ru",
+        "youtube": ["6wYdwpPnPTg"],
+        "speakers": [
+          {
+            "names": {"*": "Vitali Nartov", "ru": "Виталий Нартов"},
+            "url": "https://ee.linkedin.com/in/vitali-nartov-656ab75b",
+            "image": "vnartov.jpg"
+          }
+        ],
+        "titles": {"ru": "И снова о разработке под мобильные платформы"}
+      },
+      {
+        "org": {"cam": "", "edit": "as"},
+        "lang": "ru",
+        "youtube": ["54Og5qW_pu8"],
+        "speakers": [
+          {
+            "names": {"*": "Anton Keks", "ru": "Антон Кекс"},
+            "url": "https://www.linkedin.com/in/antonkeks",
+            "image": "akeks.jpg"
+          }
+        ],
+        "titles": {"ru": "Chromecast, или почему это лучший способ потратить 30€"}
+      }
+    ]
+  },
+  {
+    "datetime": "26.02.2015T00:00",
+    "place": "Tallink",
+    "num": 78,
+    "org": {"mod": "aa", "photo": ""},
+    "photo": [
+      "https://plus.google.com/photos/101124267861537730212/albums/6120870846920387953"
+    ],
+    "speeches": [
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["SsrmLyVxnoE"],
+        "origVid": ["https://www.youtube.com/watch?v=6oqyFbopU6w"],
+        "speakers": [
+          {
+            "names": {"*": "Mihhail Beshkin", "ru": "Михаил Бешкин"},
+            "url": "https://ee.linkedin.com/in/mihailsb",
+            "image": "mbeskin.jpg"
+          }
+        ],
+        "titles": {"ru": "Android, Black Jack и … тапёр"}
+      },
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["mG2irGDbuRA"],
+        "origVid": ["https://www.youtube.com/watch?v=nK9vvySp8Rc"],
+        "speakers": [
+          {
+            "names": {"*": "", "ru": "Филипп Кекс"},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"ru": "Разработка как живопись"}
+      },
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["Qlq3e7_EGeU"],
+        "origVid": ["https://www.youtube.com/watch?v=12kQ_-nDs7M"],
+        "speakers": [
+          {
+            "names": {"*": "", "ru": "Владимир Фунтиков"},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"ru": "Как проиграть в игровой индустрии"}
+      }
+    ]
+  },
+  {
+    "datetime": "27.01.2015T00:00",
+    "place": "Euroopa",
+    "num": 77,
+    "org": {"mod": "kl", "photo": ""},
+    "photo": [
+      "https://plus.google.com/photos/101124267861537730212/albums/6109818874996592129"
+    ],
+    "speeches": [
+      {
+        "speakers": [
+          {
+            "names": {"*": "", "ru": "Ирина Марценюк"},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"ru": "Профессиональные проблемы IT-шника с точки зрения массажиста"},
+        "info": "Встреча не снималась на камеру. Видео нет."
+      },
+      {
+        "speakers": [
+          {
+            "names": {"*": "Jevgeni Goloborodko", "ru": "Евгений Голобородько"},
+            "url": "https://ee.linkedin.com/in/jevgeni-goloborodko-65a048a",
+            "image": "jgoloborodko.jpg"
+          }
+        ],
+        "titles": {"ru": "Реактивные приложения"},
+        "info": "Встреча не снималась на камеру. Видео нет."
+      },
+      {
+        "speakers": [
+          {
+            "names": {"*": "Gleb Smirnov", "ru": "Глеб Смирнов"},
+            "url": "https://www.linkedin.com/in/gvsmirnov",
+            "image": "gsmirnov.jpg"
+          }
+        ],
+        "titles": {"ru": "Мутационный Анализ или О Чём Молчит Code Coverage"},
+        "info": "Встреча не снималась на камеру. Видео нет."
+      }
+    ]
+  },
+  {
+    "datetime": "18.12.2014T00:00",
+    "place": "oru",
+    "num": 76,
+    "org": {"mod": "aa", "photo": ""},
+    "photo": [
+      "https://plus.google.com/photos/101124267861537730212/albums/6094961666805579297"
+    ],
+    "speeches": [
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["sjvUf3lWT7U"],
+        "origVid": ["https://www.youtube.com/watch?v=ypyAvJ4FHxk"],
+        "speakers": [
+          {
+            "names": {"*": "", "ru": "Антон Литвиненко"},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"ru": "Что делать программисту после 30?"}
+      },
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["_0PsWV6nhmQ"],
+        "origVid": ["https://www.youtube.com/watch?v=LLhyrvckGqU"],
+        "speakers": [
+          {
+            "names": {"*": "Kirill Linnik", "ru": "Кирилл Линник"},
+            "url": "https://ee.linkedin.com/pub/kirill-linnik/50/a65/976",
+            "image": "klinnik.jpg"
+          }
+        ],
+        "titles": {"ru": "Почему логистической компании может понадобиться так много программистов"}
+      },
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["j_V6TZ3ZU6c"],
+        "origVid": ["https://www.youtube.com/watch?v=qBXgYDav40g"],
+        "speakers": [
+          {
+            "names": {"*": "Andrei Solntsev", "ru": "Андрей Солнцев"},
+            "url": "https://ee.linkedin.com/in/asolntsev",
+            "image": "asolntsev.jpg"
+          }
+        ],
+        "titles": {"ru": "Как получить чёрный пояс по программированию"}
+      },
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["-ZZm6qO1CvY"],
+        "origVid": ["https://www.youtube.com/watch?v=HQvzPxHbJQQ"],
+        "speakers": [
+          {
+            "names": {"*": "", "ru": "Дарья Крушевская"},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"ru": "Как мы собрали всю рекламу в мире"}
+      }
+    ]
+  }
+]

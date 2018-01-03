@@ -1,0 +1,67 @@
+{
+  "t": {
+    "name": "Tallink Spa & Conference",
+    "loc": "https://www.google.ee/maps/place/Tallink+Spa+%26+Conference+Hotel/@59.4443023,24.7527513,15z/data=!4m2!3m1!1s0x0:0xcf6e8d5ad7b5c430",
+    "info": ""
+  },
+  "vi": {
+    "name": "Victoria",
+    "loc": "https://www.google.ee/maps/place/Viktoria+keskus/@59.4259234,24.7898301,14z/data=!4m2!3m1!1s0x0000000000000000:0x3b6b21ad1636eb22?hl=ru",
+    "info": ""
+  },
+  "vs": {
+    "name": "Von Stackelberg",
+    "loc": "https://www.google.ee/maps/place/von+Stackelberg+Hotel+Tallinn/@59.4351679,24.7272051,15z/data=!4m2!3m1!1s0x0000000000000000:0xf97f297140aa2b60?hl=ru",
+    "info": ""
+  },
+  "oru": {
+    "name": "Oru",
+    "loc": "https://www.google.ee/maps/place/Oru+Hotell+%D0%9E%D1%82%D0%B5%D0%BB%D1%8C/@59.443921,24.789404,14z/data=!4m7!1m4!3m3!1s0x4692934c71023ec9:0x1b366c52450d8ec3!2sOru,+10127+Tallinn!3b1!3m1!1s0x0000000000000000:0x4e0cedcf6155ac51?hl=ru",
+    "info": ""
+  },
+  "no": {
+    "name": "Nortal",
+    "loc": "https://www.google.ru/maps/place/Nortal+AS/@59.4211965,24.7996885,589m/data=!3m2!1e3!4b1!4m2!3m1!1s0x4692eb568a4c4107:0xb6d60952ca19354",
+    "info": ""
+  },
+  "wa": {
+    "name": "Wabadus",
+    "loc": "https://www.google.ru/maps/@59.4340997,24.7441126,3a,75y,13.61h,94.47t/data=!3m8!1e1!3m6!1s-wdxevl5iUTw%2FV8OfhCvZgkI%2FAAAAAAAAJng%2FsGfTuwhEi8IIxaGWNVqEqDqbo59l9gNsgCLIB!2e4!3e11!6s%2F%2Flh6.googleusercontent.com%2F-wdxevl5iUTw%2FV8OfhCvZgkI%2FAAAAAAAAJng%2FsGfTuwhEi8IIxaGWNVqEqDqbo59l9gNsgCLIB%2Fw203-h100-k-no-pi-0-ya346.3035-ro-0-fo100%2F!7i9728!8i4080",
+    "info": ""
+  },
+  "me": {
+    "name": "Meriton",
+    "loc": "https://www.google.ru/maps/@59.4349691,24.7311825,3a,75y,11.4h,103.31t/data=!3m6!1e1!3m4!1s-4UaFbzG0KzaW02bykd_nQ!2e0!7i13312!8i6656",
+    "info": ""
+  },
+  "p": {
+    "name": "Pipedrive",
+    "loc": "",
+    "info": ""
+  },
+  "play": {
+    "name": "Playtech",
+    "loc": "",
+    "info": ""
+  },
+  "move": {
+    "name": "MOVE Guides",
+    "loc": "",
+    "info": ""
+  },
+  "tw": {
+    "name": "TransferWise",
+    "loc": "",
+    "info": ""
+  },
+  "eu": {
+    "name": "Euroopa",
+    "loc": "",
+    "info": ""
+  },
+  "susi": {
+    "name": "Susi hotell",
+    "loc": "",
+    "info": ""
+  }
+}

@@ -1,0 +1,671 @@
+[
+  {
+    "num": 112,
+    "datetime": "29.12.2017T19:00",
+    "place": "me",
+    "photo": ["https://photos.app.goo.gl/FCHiRi8xtapSzPcz2"],
+    "event": "https://www.eventbrite.com/e/41538878905",
+    "org": {"mod": "aa", "photo": "kl"},
+    "speeches": [
+      {
+        "org": {"cam": "as", "edit": "as"},
+        "lang": "ru",
+        "youtube": [""],
+        "speakers": [
+          {
+            "names": {"*": "Anton Keks", "ru": "Антон Кекс"},
+            "url": "https://www.linkedin.com/in/antonkeks",
+            "image": "akeks.jpg"
+          }
+        ],
+        "titles": {"ru": "Kotlin puzzlers"}
+      },
+      {
+        "org": {"cam": "gb", "edit": "as"},
+        "lang": "ru",
+        "youtube": [""],
+        "speakers": [
+          {
+            "names": {"*": "Andrei Solntsev", "ru": "Андрей Солнцев"},
+            "url": "https://ee.linkedin.com/in/asolntsev",
+            "image": "asolntsev.jpg"
+          }
+        ],
+        "titles": {"ru": "Selenide puzzlers"}
+      },
+      {
+        "org": {"cam": "gb,as", "edit": "as"},
+        "lang": "ru",
+        "youtube": [""],
+        "speakers": [
+          {
+            "names": {"*": "Jevgeni Goloborodko", "ru": "Евгений Голобородько"},
+            "url": "https://ee.linkedin.com/in/jevgeni-goloborodko-65a048a",
+            "image": "jgoloborodko.jpg"
+          }
+        ],
+        "titles": {"ru": "Что меня бесило в 2017 году"}
+      }
+    ]
+  },
+  {
+    "num": 111,
+    "datetime": "29.11.2017T19:00",
+    "place": "vs",
+    "photo": ["https://photos.app.goo.gl/QyrXo0YFMWRfJ4rg2"],
+    "event": "https://www.eventbrite.com/e/7-tickets-40601586438",
+    "org": {"mod": "kl", "photo": "kl,aa"},
+    "speeches": [
+      {
+        "org": {"cam": "as", "edit": "as"},
+        "lang": "ru",
+        "youtube": [""],
+        "speakers": [
+          {
+            "names": {"*": "Konstantin Root", "ru": "Константин Роот"},
+            "url": "https://ee.linkedin.com/in/konstantinroot",
+            "image": "kroot.jpg"
+          }
+        ],
+        "titles": {"ru": "Трудовое законодательство Эстонии - снимаем розовые очки"}
+      },
+      {
+        "org": {"cam": "as", "edit": "as"},
+        "lang": "ru",
+        "youtube": ["y5TqMKdzmlk"],
+        "speakers": [
+          {
+            "names": {"*": "Andrei Solntsev", "ru": "Андрей Солнцев"},
+            "url": "https://ee.linkedin.com/in/asolntsev",
+            "image": "asolntsev.jpg"
+          }
+        ],
+        "titles": {"ru": "Flaky tests"},
+        "top": {"season": 2017, "place": 6}
+      },
+      {
+        "org": {"cam": "as", "edit": "as"},
+        "lang": "ru",
+        "youtube": ["JFYs7tV6CZY"],
+        "speakers": [
+          {
+            "names": {"*": "Stanislav Gorski", "ru": "Станислав Горский"},
+            "url": "https://www.linkedin.com/in/stanislav-gorski-1b5b5b55/",
+            "image": "sgorski.jpg"
+          }
+        ],
+        "titles": {"ru": "Прикладное применение AWS Lambda"}
+      }
+    ]
+  },
+  {
+    "num": 110,
+    "datetime": "23.10.2017T19:00",
+    "place": "vs",
+    "photo": ["https://photos.app.goo.gl/dubNfYwYN9NBVsbw2"],
+    "event": "https://www.eventbrite.com/e/110-tickets-39007785336",
+    "org": {"mod": "ag", "photo": "kl"},
+    "speeches": [
+      {
+        "org": {"cam": "gb", "edit": "as"},
+        "lang": "ru",
+        "youtube": ["FBIedQl_KTc"],
+        "speakers": [
+          {
+            "names": {"*": "Andrey Adamovich", "ru": "Андрей Адамович"},
+            "url": "https://www.linkedin.com/in/andreyadamovich/",
+            "image": "aadamovich.jpg"
+          }
+        ],
+        "titles": {"ru": "Chatbots at Community Service"}
+      },
+      {
+        "org": {"cam": "gb", "edit": "as"},
+        "lang": "ru",
+        "youtube": ["K587n8XRmWM"],
+        "speakers": [
+          {
+            "names": {"*": "Jevgeni Marenkov", "ru": "Евгений Маренков"},
+            "url": "https://www.linkedin.com/in/jevgeni-marenkov-97a59b47",
+            "image": "jmarenkov.jpeg"
+          }
+        ],
+        "titles": {"ru": "Пишем документацию красиво!"}
+      },
+      {
+        "org": {"cam": "as", "edit": "as"},
+        "lang": "ru",
+        "youtube": ["MjB4P34zAJM"],
+        "speakers": [
+          {
+            "names": {"*": "Ilja Hämäläinen", "ru": "Илья Хямяляйнен"},
+            "url": "https://github.com/w32blaster",
+            "image": "ihamalainen.jpg"
+          }
+        ],
+        "titles": {"ru": "Catch me if you can!"},
+        "top": {"season": 2017, "place": 4}
+      }
+    ]
+  },
+  {
+    "num": 109,
+    "datetime": "26.09.2017T19:00",
+    "place": "vs",
+    "photo": ["https://photos.app.goo.gl/4cjpEqsZc1jy83ql2"],
+    "event": "https://www.eventbrite.com/e/109-skype-elixir-tickets-38076004354",
+    "org": {"mod": "aa", "photo": "kl"},
+    "speeches": [
+      {
+        "org": {"cam": "gb", "edit": "as"},
+        "lang": "ru",
+        "youtube": ["0GdOPxKXEx0"],
+        "speakers": [
+          {
+            "names": {"*": "Mihhail Raer", "ru": "Михаил Раер"},
+            "url": "https://www.facebook.com/mraer",
+            "image": "mraer.jpg"
+          }
+        ],
+        "titles": {"ru": "Написание ботов под Skype"}
+      },
+      {
+        "org": {"cam": "gb", "edit": "as"},
+        "lang": "ru",
+        "youtube": ["oLEWdeBEuCY"],
+        "speakers": [
+          {
+            "names": {"*": "Aleksei Mihhailov", "ru": "Алексей Михайлов"},
+            "url": "https://www.linkedin.com/in/alexei-mikhaylov-33b282a6/",
+            "image": "amihailov.jpg"
+          }
+        ],
+        "titles": {"ru": "Elixir"}
+      },
+      {
+        "org": {"cam": "gb", "edit": "as"},
+        "lang": "ru",
+        "youtube": ["Lf47F_DCjn4"],
+        "speakers": [
+          {
+            "names": {"*": "Dmitri Nesteruk", "ru": "Дмитрий Нестерук"},
+            "url": "https://www.linkedin.com/in/dmitri-nesteruk-87b069aa/",
+            "image": "dnesteruk.png"
+          }
+        ],
+        "titles": {"ru": "Хорошие идеи в языках программирования"}
+      }
+    ]
+  },
+  {
+    "num": 108,
+    "datetime": "24.08.2017T19:00",
+    "place": "vs",
+    "photo": ["https://goo.gl/photos/NxMwtdaqFR69AzgJ6"],
+    "event": "https://www.eventbrite.com/e/108-tickets-37059103777",
+    "org": {"mod": "jg", "photo": "kl"},
+    "speeches": [
+      {
+        "org": {"cam": "gb", "edit": "as"},
+        "lang": "ru",
+        "youtube": ["ri8yRAIxMzg"],
+        "speakers": [
+          {
+            "names": {"*": "Jekaterina Tšukrejeva", "ru": "Екатерина Чукреева"},
+            "url": "https://www.linkedin.com/in/jekaterina-t%C5%A1ukrejeva-ivask-95065311/",
+            "image": "jtsukrejeva.jpg"
+          }
+        ],
+        "titles": {"ru": "Креативность и инновативность в IT"}
+      },
+      {
+        "org": {"cam": "gb", "edit": "as"},
+        "lang": "ru",
+        "youtube": ["Ekvb9EgQDLk"],
+        "speakers": [
+          {
+            "names": {"*": "Konstantin Tretyakov", "ru": "Константин Третьяков"},
+            "url": "http://kt.era.ee/",
+            "image": "ktretyakov.jpg"
+          }
+        ],
+        "titles": {"ru": "Дип Лёрнинг"},
+        "top": {"season": 2017, "place": 2}
+      },
+      {
+        "org": {"cam": "gb", "edit": "as"},
+        "lang": "ru",
+        "youtube": ["IYfA934cYKs"],
+        "speakers": [
+          {
+            "names": {"*": "Konstantin Root", "ru": "Константин Роот"},
+            "url": "https://ee.linkedin.com/in/konstantinroot",
+            "image": "kroot.jpg"
+          }
+        ],
+        "titles": {"ru": "Переносим художественный стиль картин на ваши фотографии - как сделать аналог Prisma AI используя Deep Learning"}
+      }
+    ]
+  },
+  {
+    "num": 107,
+    "datetime": "27.07.2017T19:00",
+    "place": "me",
+    "photo": ["https://photos.app.goo.gl/BBv9U58eSlw4BPmf1"],
+    "event": "https://www.eventbrite.com/e/107-tickets-36456578608",
+    "org": {"mod": "ag", "photo": "aa,as"},
+    "speeches": [
+      {
+        "org": {"cam": "as", "edit": "as"},
+        "lang": "ru",
+        "youtube": ["ednUmqbra9s"],
+        "speakers": [
+          {
+            "names": {"*": "Anna Iokhimovich", "ru": "Анна Иохимович"},
+            "url": "https://www.linkedin.com/in/aiokhimovich/",
+            "image": "aiokhimovitch.jpg"
+          }
+        ],
+        "titles": {"ru": "Как мы переводили Evernote на клингонский"}
+      },
+      {
+        "org": {"cam": "as", "edit": "as"},
+        "lang": "ru",
+        "youtube": ["PC1VVulS3_E"],
+        "speakers": [
+          {
+            "names": {"*": "Dmitri Tsimbal", "ru": "Дмитрий Цимбал"},
+            "image": "dtsimbal.jpg"
+          }
+        ],
+        "titles": {"ru": "Компьютерное зрение за 30 минут, или как стать адептом искусственного разума"}
+      },
+      {
+        "org": {"cam": "as", "edit": "as"},
+        "lang": "ru",
+        "youtube": ["ohrdeXKMHWQ"],
+        "speakers": [
+          {
+            "names": {"*": "Anton Arhipov", "ru": "Антон Архипов"},
+            "url": "https://ee.linkedin.com/in/antonarhipov",
+            "image": "aarhipov.jpg"
+          }
+        ],
+        "titles": {"ru": "Интеграционное тестирование и TestContainers"}
+      }
+    ]
+  },
+  {
+    "num": 106,
+    "titles": {"ru": "медицинская", "en": "medical", "ee": "meditsiiniline"},
+    "datetime": "20.06.2017T19:00",
+    "place": "wa",
+    "photo": ["https://goo.gl/photos/n6TDwUS7ugjDrYBh9"],
+    "event": "https://www.eventbrite.com/e/35339911627",
+    "org": {"mod": "kl", "photo": "kl"},
+    "speeches": [
+      {
+        "org": {"cam": "gb", "edit": "as"},
+        "lang": "ru",
+        "youtube": ["CTB516GtVKU"],
+        "speakers": [
+          {
+            "names": {"*": "Igor Bossenko", "ru": "Игорь Босенко"},
+            "url": "https://ee.linkedin.com/in/igor-bossenko-17b7822",
+            "image": "ibossenko.jpg"
+          }
+        ],
+        "titles": {"ru": "Soft Wars: A New Hope"}
+      },
+      {
+        "org": {"cam": "gb", "edit": "as"},
+        "lang": "ru",
+        "youtube": ["ud26J5LduM4"],
+        "speakers": [
+          {
+            "names": {"*": "Anton Stalnuhhin", "ru": "Антон Стальнухин"},
+            "url": "https://ee.linkedin.com/in/astalnuhhin",
+            "image": "astalnuhhin.jpg"
+          }
+        ],
+        "titles": {"ru": "eHL: What the Health?"}
+      },
+      {
+        "org": {"cam": "gb,as", "edit": "as"},
+        "lang": "ru",
+        "youtube": ["-4OOrtL4f6Q"],
+        "speakers": [
+          {
+            "names": {"*": "Maksim Boiko", "ru": "Максим Бойко"},
+            "url": "https://www.linkedin.com/in/maksim-boiko-73aa3048",
+            "image": "mboiko.jpg"
+          }
+        ],
+        "titles": {"ru": "Lithuania: FHIR walk with me"}
+      }
+    ]
+  },
+  {
+    "num": 105,
+    "datetime": "23.05.2017T19:00",
+    "place": "wa",
+    "photo": ["https://goo.gl/photos/Mp64i6S8chW1CUFS6"],
+    "event": "https://www.eventbrite.com/e/devclubeu-wabaduse-tickets-34624193896",
+    "org": {"mod": "sg", "photo": "kl"},
+    "speeches": [
+      {
+        "org": {"cam": "jt", "edit": "as"},
+        "lang": "ru",
+        "youtube": ["QtlcJpQl1pk"],
+        "speakers": [
+          {
+            "names": {"*": "Julia Jolkin", "ru": "Юлия Ёлкин"},
+            "url": "https://www.linkedin.com/in/julia-jolkin-b5758645",
+            "image": "jjolkin.jpg"
+          }
+        ],
+        "titles": {"ru": "Выпускной. Как набраться опыта и получить свою первую работу в IT"},
+        "presentations": ["https://www.slideshare.net/JuliaJolkin/dev-club-2305-pdf", "20170523_jjolkin_1job.pdf"]
+      },
+      {
+        "org": {"cam": "jt", "edit": "as"},
+        "lang": "ru",
+        "youtube": ["0dXJQ3gQKDU"],
+        "speakers": [
+          {
+            "names": {"*": "Stanislav Katkov", "ru": "Станислав Катков"},
+            "url": "https://www.linkedin.com/in/stanislav-katkov-582b7832",
+            "image": "skatkov.jpg"
+          }
+        ],
+        "titles": {"ru": "Страшная правда о работающих удалённо фирмах"}
+      },
+      {
+        "org": {"cam": "gb", "edit": "as"},
+        "lang": "ru",
+        "youtube": ["MP5d_GAHJ20"],
+        "speakers": [
+          {
+            "names": {"*": "Andrei Utkin", "ru": "Андрей Уткин"},
+            "url": "https://ee.linkedin.com/in/andrey-utkin-8b4430100",
+            "image": "autkin.jpg"
+          }
+        ],
+        "titles": {"ru": "О стримах наших меньших"},
+        "presentations": ["20170523_autkin_stream.pptx"]
+      }
+    ]
+  },
+  {
+    "num": 104,
+    "titles": {"*": "UX"},
+    "datetime": "26.04.2017T19:00",
+    "place": "vs",
+    "photo": ["https://goo.gl/photos/vSDJ2K1KoPcKoxHV7"],
+    "event": "https://www.eventbrite.com/e/devclub-ux--tickets-33850769563",
+    "org": {"mod": "as", "photo": "kl"},
+    "speeches": [
+      {
+        "org": {"cam": "jt", "edit": "as"},
+        "lang": "ru",
+        "youtube": ["pq9JktHh8zA"],
+        "speakers": [
+          {
+            "names": {"*": "Igor Gubaidulin", "ru": "Игорь Губайдулин"},
+            "url": "https://www.linkedin.com/in/gubaidulin/",
+            "image": "igubaidulin.jpg"
+          }
+        ],
+        "titles": {"ru": "«PET design» методика: дизайн на базе воздействия, эмоций и доверия"},
+        "examples": ["https://uxdesign.cc/designing-for-persuasion-emotion-and-trust-cdac44c61d53"]
+      },
+      {
+        "org": {"cam": "jt", "edit": "as"},
+        "lang": "ru",
+        "youtube": ["RxrAiTm5Drk"],
+        "speakers": [
+          {
+            "names": {"*": "Kirill Slavetski", "ru": "Кирилл Славецкий"},
+            "url": "https://www.linkedin.com/in/erillar/",
+            "image": "kslavetski.jpg"
+          }
+        ],
+        "titles": {"ru": "Design-sprint по методу Google Ventures"}
+      },
+      {
+        "org": {"cam": "jt", "edit": "as"},
+        "lang": "ru",
+        "youtube": ["lkTH4-jsioA"],
+        "speakers": [
+          {
+            "names": {"*": "Mihhail Dunaev", "ru": "Михаил Дунаев"},
+            "url": "https://www.linkedin.com/in/mikhail-dunaev-ab6b6a68/",
+            "image": "mdunajev.jpg"
+          }
+        ],
+        "titles": {"ru": "Красивые картинки со смыслом. Инфографика и визуализация данных в браузере с помощью d3.js"},
+        "top": {"season": 2017, "place": 3}
+      }
+    ]
+  },
+  {
+    "num": 103,
+    "datetime": "28.03.2017T19:00",
+    "place": "vs",
+    "photo": ["https://goo.gl/photos/5bLf7LnQFKE9VFHk8"],
+    "event": "https://www.eventbrite.com/e/33121810226",
+    "org": {"mod": "kl", "photo": "aa,kl"},
+    "speeches": [
+      {
+        "org": {"cam": "jt", "edit": "as"},
+        "lang": "ru",
+        "youtube": ["chcGxKAQnSk"],
+        "speakers": [
+          {
+            "names": {"*": "Stasys Brilis", "ru": "Стасис Брилис"},
+            "url": "https://www.linkedin.com/in/stasys-brilis-27221453/",
+            "image": "sbrilis.jpg"
+          },
+          {
+            "names": {"*": "Igor Shats", "ru": "Игорь Шац"},
+            "url": "https://www.linkedin.com/in/igor-shats-24338021/",
+            "image": "ishats.jpg"
+          }
+        ],
+        "titles": {"ru": "Вычисления на GPU серверах: мифы и реальность"}
+      },
+      {
+        "org": {"cam": "jt", "edit": "as"},
+        "lang": "ru",
+        "youtube": ["99wz9XkyucY"],
+        "speakers": [
+          {
+            "names": {"*": "Konstantin Tšistjakov", "ru": "Константин Чистяков"},
+            "url": "https://www.linkedin.com/in/konstantin-tšistjakov-56a85b63",
+            "image": "ktsistjakov.jpg"
+          }
+        ],
+        "titles": {"ru": "Использование Swift на сервере"}
+      },
+      {
+        "org": {"cam": "as", "edit": "as"},
+        "lang": "ru",
+        "youtube": ["xAL9scgNcCA"],
+        "speakers": [
+          {
+            "names": {"*": "Juri Timoshin", "ru": "Юрий Тимошин"},
+            "url": "https://ee.linkedin.com/in/juritimoshin",
+            "image": "jtimosin.jpg"
+          }
+        ],
+        "titles": {"ru": "Vim, insert mode."}
+      }
+    ]
+  },
+  {
+    "num": 102,
+    "datetime": "28.02.2017T19:00",
+    "place": "vs",
+    "photo": ["https://goo.gl/photos/d2dBgsAAy9hTF5hVA"],
+    "event": "https://www.eventbrite.com/e/32285098599",
+    "org": {"mod": "aa", "photo": "kl"},
+    "speeches": [
+      {
+        "org": {"cam": "jt", "edit": "as"},
+        "lang": "ru",
+        "youtube": ["eYobx9EXR_I"],
+        "speakers": [
+          {
+            "names": {"*": "Mihhail Raer", "ru": "Михаил Раер"},
+            "url": "https://www.facebook.com/mraer",
+            "image": "mraer.jpg"
+          }
+        ],
+        "titles": {"ru": "Asynchronous IO в .NET"},
+        "presentations": ["20170228_mraer_async-io-net.pdf"]
+      },
+      {
+        "org": {"cam": "jt", "edit": "as"},
+        "lang": "ru",
+        "youtube": ["V7LDcwoTfcI"],
+        "speakers": [
+          {
+            "names": {"*": "Alexey Buzdin", "ru": "Алексей Буздин"},
+            "url": "https://www.linkedin.com/in/alexeybuzdin",
+            "image": "abuzdin.jpg"
+          }
+        ],
+        "titles": {"ru": "Marvel of Annotation Preprocessing in Java"}
+      },
+      {
+        "org": {"cam": "jt", "edit": "as"},
+        "lang": "ru",
+        "youtube": ["PMCKjrwL5rM"],
+        "speakers": [
+          {
+            "names": {"*": "Dmitry Buzdin", "ru": "Дмитрий Буздин"},
+            "url": "https://www.linkedin.com/in/dmitrybuzdin",
+            "image": "dbuzdin.jpg"
+          }
+        ],
+        "titles": {"ru": "Modern Security with OAuth 2.0, JWT and Spring"}
+      }
+    ]
+  },
+  {
+    "num": 101,
+    "datetime": "31.01.2017T19:00",
+    "place": "vs",
+    "photo": ["https://goo.gl/photos/5i3ErAcLaSwgAe45A"],
+    "event": "https://www.eventbrite.com/e/31464706785",
+    "org": {"mod": "aa", "photo": "kl"},
+    "speeches": [
+      {
+        "org": {"cam": "jt", "edit": "as"},
+        "lang": "ru",
+        "youtube": ["Vlb_Is-rRTQ"],
+        "speakers": [
+          {
+            "names": {"*": "Anton Arhipov", "ru": "Антон Архипов"},
+            "url": "https://ee.linkedin.com/in/antonarhipov",
+            "image": "aarhipov.jpg"
+          }
+        ],
+        "titles": {"ru": "Неадекватное Java-интервью"},
+        "presentations": ["http://www.slideshare.net/arhan/devclub-012017-java"],
+        "top": {"season": 2017, "place": 1}
+      },
+      {
+        "org": {"cam": "jt", "edit": "as"},
+        "lang": "ru",
+        "youtube": ["0ThCqyNS0ZE"],
+        "speakers": [
+          {
+            "names": {"*": "Artur Schaback", "ru": "Артур Шабак"},
+            "url": "https://www.linkedin.com/in/artur-schaback-20b9b720",
+            "image": "ashabak.jpg"
+          }
+        ],
+        "titles": {"ru": "Как защищать от хакеров fintec-приложение на примере bitcoin marketplace"}
+      },
+      {
+        "org": {"cam": "jt", "edit": "as"},
+        "lang": "ru",
+        "youtube": ["HlNUUAXD-E0"],
+        "speakers": [
+          {
+            "names": {"*": "Martin Kiuru", "ru": "Мартин Киуру"},
+            "url": "https://ee.linkedin.com/in/martinkiuru",
+            "image": "mkiuru.jpg"
+          }
+        ],
+        "titles": {"ru": "Путь из программиста в предприниматели (и стоит ли по нему идти)"},
+        "top": {"season": 2017, "place": 5}
+      }
+    ]
+  },
+  {
+    "num": 100,
+    "datetime": "22.12.2016T19:00",
+    "place": "vs",
+    "photo": ["https://goo.gl/photos/eCwqWxcaJRHbw1Ti7"],
+    "event": "https://www.eventbrite.com/e/100-tickets-30092958850",
+    "org": {"mod": "kl", "photo": "kl"},
+    "speeches": [
+      {
+        "org": {"cam": "jt", "edit": "as"},
+        "lang": "en",
+        "youtube": ["zIptAtTNVvc", "ny75q_hbT7w"],
+        "speakers": [
+          {
+            "names": {"*": "Taavi Kotka", "ru": "Таави Котка"},
+            "url": "https://ee.linkedin.com/in/taavi-kotka-26335b33",
+            "image": "tkotka.jpg"
+          }
+        ],
+        "titles": {"ru": "Вот теперь точно всё, что вы хотели знать об IT в Эстонии [eng]"}
+      },
+      {
+        "org": {"cam": "as", "edit": "as"},
+        "lang": "ru",
+        "youtube": ["luKdI0MXJpQ"],
+        "speakers": [
+          {
+            "names": {"*": "DEVCLUB.EU"},
+            "url": "http://devclub.eu",
+            "image": "devclubeu.jpg"
+          }
+        ],
+        "titles": {"ru": "Небольшой сюрприз к 8-летию и 100-й встрече"}
+      },
+      {
+        "org": {"cam": "jt", "edit": "as"},
+        "lang": "ru",
+        "youtube": ["JyO43q-_TTY"],
+        "speakers": [
+          {
+            "names": {"*": "Nikita Salnikov-Tarnovski", "ru": "Никита Сальников-Тарновский"},
+            "url": "https://ee.linkedin.com/in/nikem",
+            "image": "nsalnikov.jpg"
+          }
+        ],
+        "titles": {"ru": "Как один программист себе жизнь улучшил"},
+        "presentations": ["20161222_nsalnikovtarnovski_10percent-happier.pdf"]
+      },
+      {
+        "org": {"cam": "jt", "edit": "as"},
+        "lang": "ru",
+        "youtube": ["PN2MQF9siBM"],
+        "speakers": [
+          {
+            "names": {"*": "Konstantin Root", "ru": "Константин Роот"},
+            "url": "https://ee.linkedin.com/in/konstantinroot",
+            "image": "kroot.jpg"
+          }
+        ],
+        "titles": {"ru": "Бег - от мифов до data science"},
+        "presentations": ["20161222_kroot_running.pptx"]
+      }
+    ]
+  }
+]

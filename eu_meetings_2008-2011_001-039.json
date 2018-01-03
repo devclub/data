@@ -1,0 +1,2084 @@
+[
+  {
+    "datetime": "30.11.2011T00:00",
+    "place": "oru",
+    "num": 39,
+    "org": {"mod": "aa", "photo": ""},
+    "photo": [
+      "https://plus.google.com/photos/101124267861537730212/albums/5681055133647019921"
+    ],
+    "speeches": [
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["xbYElideOms"],
+        "origVid": ["https://vimeo.com/33022539"],
+        "speakers": [
+          {
+            "names": {"*": "Juri Mulenko", "ru": "Юрий Муленко"},
+            "url": "https://ee.linkedin.com/in/jurimulenko",
+            "image": "jmulenko.jpg"
+          }
+        ],
+        "titles": {"ru": "LINQ"},
+        "top": {"season": 2011, "place": 4}
+      },
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["vbfn2atZvbY"],
+        "origVid": ["https://vimeo.com/33056564"],
+        "speakers": [
+          {
+            "names": {"*": "", "ru": "Евгений Щепотьев"},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"ru": "Применение MPS"},
+        "presentations": ["http://www.slideshare.net/arhan/applied-mps"]
+      },
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["5GDNFl4OpmE"],
+        "origVid": ["https://vimeo.com/33020346"],
+        "speakers": [
+          {
+            "names": {"*": "", "ru": "Михаил Мухин"},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"ru": "MetaProgramming System"},
+        "presentations": ["http://www.slideshare.net/arhan/intro-to-mps"]
+      }
+    ]
+  },
+  {
+    "datetime": "26.10.2011T00:00",
+    "place": "oru",
+    "num": 38,
+    "org": {"mod": "kl", "photo": ""},
+    "photo": [
+      "https://plus.google.com/photos/+AntonArhipov/albums/5668462541831969041"
+    ],
+    "speeches": [
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["1z32YuiyncI"],
+        "origVid": ["https://vimeo.com/31425219"],
+        "speakers": [
+          {
+            "names": {"*": "Anton Keks", "ru": "Антон Кекс"},
+            "url": "https://www.linkedin.com/in/antonkeks",
+            "image": "akeks.jpg"
+          },
+          {
+            "names": {"*": "Aleksandr Jastremski", "ru": "Александр Ястремский"}
+          }
+        ],
+        "titles": {"ru": "Java vs .NET"},
+        "presentations": ["https://prezi.com/v9hxrsrs-grm/java-strengths"],
+        "labels": ["батл"],
+        "top": {"season": 2011, "place": 4}
+      },
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["lp8uyJ2Ay8c"],
+        "origVid": ["https://vimeo.com/31198295"],
+        "speakers": [
+          {
+            "names": {"*": "", "ru": "Андрей Ткачев"},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"ru": "ScalaCheck"}
+      },
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["L2_oDoGumqU"],
+        "origVid": ["https://vimeo.com/31197861"],
+        "speakers": [
+          {
+            "names": {"*": "Aleksandr Motsjonov", "ru": "Александр Мочёнов"},
+            "url": "https://au.linkedin.com/pub/aleksandr-motsjonov/11/306/719",
+            "image": "amotsenov.jpg"
+          }
+        ],
+        "titles": {"ru": "Fronteers 2011"}
+      },
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["ItowIKu2jbA"],
+        "origVid": ["https://vimeo.com/31196719"],
+        "speakers": [
+          {
+            "names": {"*": "", "ru": "Денис Платонов"},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"ru": "HTML5 под соусом CSS3"}
+      }
+    ]
+  },
+  {
+    "datetime": "28.09.2011T00:00",
+    "place": "oru",
+    "num": 37,
+    "org": {"mod": "aso", "photo": ""},
+    "photo": [
+      "https://plus.google.com/photos/101124267861537730212/albums/5658598654151271761"
+    ],
+    "speeches": [
+      {
+        "speakers": [
+          {
+            "names": {"*": "", "ru": "Сергей Павлов"},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"ru": "Байки о работе IT в Испании и Германии"},
+        "info": "Встреча не снималась на камеру. Видео нет."
+      },
+      {
+        "speakers": [
+          {
+            "names": {"*": "", "ru": "Эдуард Шустров"},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"ru": "Возможности работы за границей"},
+        "info": "Встреча не снималась на камеру. Видео нет."
+      },
+      {
+        "speakers": [
+          {
+            "names": {"*": "", "ru": "Дмитрий Жучков"},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"ru": "Exploits"},
+        "info": "Встреча не снималась на камеру. Видео нет.",
+        "top": {"season": 2011, "place": 3}
+      },
+      {
+        "speakers": [
+          {
+            "names": {"*": "Jevgeni Goloborodko", "ru": "Евгений Голобородько"},
+            "url": "https://ee.linkedin.com/in/jevgeni-goloborodko-65a048a",
+            "image": "jgoloborodko.jpg"
+          }
+        ],
+        "titles": {"ru": "Готовим Symfony"},
+        "info": "Встреча не снималась на камеру. Видео нет."
+      }
+    ]
+  },
+  {
+    "datetime": "30.08.2011T00:00",
+    "place": "oru",
+    "num": 36,
+    "org": {"mod": "jh", "photo": ""},
+    "photo": [
+      "https://plus.google.com/photos/101124267861537730212/albums/5647134102856040449"
+    ],
+    "speeches": [
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["KXF5JqAEUrc"],
+        "origVid": ["https://vimeo.com/28408020"],
+        "speakers": [
+          {
+            "names": {"*": "Anton Arhipov", "ru": "Антон Архипов"},
+            "url": "https://ee.linkedin.com/in/antonarhipov",
+            "image": "aarhipov.jpg"
+          }
+        ],
+        "titles": {"ru": "JVM/Java future"}
+      },
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["dNeuE5cFWio"],
+        "origVid": ["https://vimeo.com/28445672"],
+        "speakers": [
+          {
+            "names": {"*": "Aleksandr Motsjonov", "ru": "Александр Мочёнов"},
+            "url": "https://au.linkedin.com/pub/aleksandr-motsjonov/11/306/719",
+            "image": "amotsenov.jpg"
+          }
+        ],
+        "titles": {"ru": "JavaScript.next"},
+        "top": {"season": 2011, "place": 4}
+      },
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["0qFZMfaxfQ4"],
+        "origVid": ["https://vimeo.com/28395233"],
+        "speakers": [
+          {
+            "names": {"*": "", "ru": "Вадим Кимлайчук"},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"ru": "Oracle Fusion Middlware 11g"}
+      }
+    ]
+  },
+  {
+    "datetime": "28.07.2011T00:00",
+    "place": "oru",
+    "num": 35,
+    "org": {"mod": "kl", "photo": ""},
+    "photo": [
+      "https://plus.google.com/photos/+AleksandrMotsjonov/albums/5634467187902624577"
+    ],
+    "speeches": [
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["r677ObvGXT4"],
+        "origVid": ["https://vimeo.com/27032526"],
+        "speakers": [
+          {
+            "names": {"*": "Anton Anisimov", "ru": "Антон Анисимов"},
+            "url": "https://ee.linkedin.com/in/anisimov",
+            "image": "aanisimov.jpg"
+          }
+        ],
+        "titles": {"ru": "Устройства по приему и проверке денег"}
+      },
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["bqkNS5xTDTw"],
+        "origVid": ["https://vimeo.com/27031099"],
+        "speakers": [
+          {
+            "names": {"*": "", "ru": "Ян Солодухо"},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"ru": "knockout.js"}
+      },
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["avEvIMhN_-0"],
+        "origVid": ["https://vimeo.com/27026620"],
+        "speakers": [
+          {
+            "names": {"*": "", "ru": "Андрей Тукин"},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"ru": "Мой новый start-up"}
+      },
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["aWeUSzWlNOE"],
+        "origVid": ["https://vimeo.com/27027479"],
+        "speakers": [
+          {
+            "names": {"*": "", "ru": "Дмитрий Филимонов"},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"ru": "Облачные вычисления с Microsoft Azure"}
+      }
+    ]
+  },
+  {
+    "datetime": "28.06.2011T00:00",
+    "place": "Susi",
+    "num": 34,
+    "org": {"mod": "aa", "photo": ""},
+    "photo": [
+      "https://plus.google.com/photos/101124267861537730212/albums/5623758505165301937"
+    ],
+    "speeches": [
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["L2i7iAq7MOw", "q9YXk8vKheY"],
+        "origVid": ["https://vimeo.com/25751274"],
+        "speakers": [
+          {
+            "names": {"*": "Anton Arhipov", "ru": "Антон Архипов"},
+            "url": "https://ee.linkedin.com/in/antonarhipov",
+            "image": "aarhipov.jpg"
+          }
+        ],
+        "titles": {"ru": "Pimp My IDEA!"}
+      },
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["KhOEDb2IIk0"],
+        "origVid": ["https://vimeo.com/25743465"],
+        "speakers": [
+          {
+            "names": {"*": "", "ru": "Яков Сироткин"},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"ru": "Спектры и Протеины"}
+      },
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["KVCLnkMGk9I"],
+        "origVid": ["https://vimeo.com/25743952"],
+        "speakers": [
+          {
+            "names": {"*": "", "ru": "Алек Козлов"},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"ru": "Генерация Бизнес-Модели – Инструмент Беневалентного Диктатора"}
+      },
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["ZmU0rTrXQnU"],
+        "origVid": ["https://vimeo.com/25744262"],
+        "speakers": [
+          {
+            "names": {"*": "Juri Mulenko", "ru": "Юрий Муленко"},
+            "url": "https://ee.linkedin.com/in/jurimulenko",
+            "image": "jmulenko.jpg"
+          }
+        ],
+        "titles": {"ru": "Semantic Web"}
+      },
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["B0ZrfE5KtOU"],
+        "origVid": ["https://vimeo.com/25744836"],
+        "speakers": [
+          {
+            "names": {"*": "Jevgeni Holodkov", "ru": "Евгений Холодков"},
+            "url": "https://ch.linkedin.com/in/jevgeni",
+            "image": "jholodkov.jpg"
+          }
+        ],
+        "titles": {"ru": "GitHub"}
+      },
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["vHrLGmyyQtE"],
+        "origVid": ["https://vimeo.com/25745306"],
+        "speakers": [
+          {
+            "names": {"*": "Aleksandr Motsjonov", "ru": "Александр Мочёнов"},
+            "url": "https://au.linkedin.com/pub/aleksandr-motsjonov/11/306/719",
+            "image": "amotsenov.jpg"
+          }
+        ],
+        "titles": {"ru": "Lisp-подобный код на JavaScript"}
+      },
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["CFyLnXq_CM8"],
+        "origVid": ["https://vimeo.com/25742455"],
+        "speakers": [
+          {
+            "names": {"*": "", "ru": "Андрей Соколов"},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"ru": "Мир Лиспа"}
+      }
+    ]
+  },
+  {
+    "datetime": "31.05.2011T00:00",
+    "place": "oru",
+    "num": 33,
+    "org": {"mod": "aa", "photo": ""},
+    "photo": [
+      "https://plus.google.com/photos/+AleksandrMotsjonov/albums/5614275420582271297",
+      "https://plus.google.com/photos/+AndreiTkachyov/albums/5613006743887433937"
+    ],
+    "speeches": [
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["eeKLwvWbaGA"],
+        "origVid": ["https://vimeo.com/24502413"],
+        "speakers": [
+          {
+            "names": {"*": "Andrei Solntsev", "ru": "Андрей Солнцев"},
+            "url": "https://ee.linkedin.com/in/asolntsev",
+            "image": "asolntsev.jpg"
+          }
+        ],
+        "titles": {"ru": "Real-life unit tests"}
+      },
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["wJA18d0HbFs"],
+        "origVid": ["https://vimeo.com/24502683"],
+        "speakers": [
+          {
+            "names": {"*": "", "ru": "Филипп Савкин"},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"ru": "Scala by Example"}
+      },
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["rrE5MwV71cs"],
+        "origVid": ["https://vimeo.com/24502927"],
+        "speakers": [
+          {
+            "names": {"*": "", "ru": "Дмитрий Буздин"},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"ru": "Google Web Toolkit с 2007 до 2012"}
+      }
+    ]
+  },
+  {
+    "datetime": "27.04.2011T00:00",
+    "place": "Susi",
+    "num": 32,
+    "org": {"mod": "Александр Моченов", "photo": ""},
+    "photo": [
+      "https://plus.google.com/photos/+AleksandrMotsjonov/albums/5601037805169689521"
+    ],
+    "speeches": [
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["r2WYregWiDY"],
+        "origVid": ["https://vimeo.com/22979363"],
+        "speakers": [
+          {
+            "names": {"*": "", "ru": "Владислав Иванищев"},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"ru": "Что нас ждёт в будущем"}
+      },
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["udeYPJnk92U"],
+        "origVid": ["https://vimeo.com/22972277"],
+        "speakers": [
+          {
+            "names": {"*": "", "ru": "Юрий Гуляев"},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"ru": "Как спроектировать БД так, что бы потом не надо было тюнить"}
+      },
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["QCKUkr8XCkw"],
+        "origVid": ["https://vimeo.com/22967629"],
+        "speakers": [
+          {
+            "names": {"*": "Konstantin Tretyakov", "ru": "Константин Третьяков"},
+            "url": "http://kt.era.ee/",
+            "image": "ktretyakov.jpg"
+          }
+        ],
+        "titles": {"ru": "Machine Learning"}
+      }
+    ]
+  },
+  {
+    "datetime": "25.03.2011T00:00",
+    "place": "oru",
+    "num": 31,
+    "org": {"mod": "jm", "photo": ""},
+    "photo": [
+      "https://plus.google.com/photos/+AndreiTkachyov/albums/5588502412497265697",
+      "https://plus.google.com/photos/101124267861537730212/albums/5588548753860041633?authkey=CKj1--201ZeTaA"
+    ],
+    "speeches": [
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["RmaTatjf2os"],
+        "origVid": ["https://vimeo.com/21513455"],
+        "speakers": [
+          {
+            "names": {"*": "", "ru": "Александр Ястремский"},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"ru": "БОТы и Автоматизация процессов"},
+        "top": {"season": 2011, "place": 1}
+      },
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["VXrpK_kUiPI"],
+        "origVid": ["https://vimeo.com/21511867"],
+        "speakers": [
+          {
+            "names": {"*": "Anton Keks", "ru": "Антон Кекс"},
+            "url": "https://www.linkedin.com/in/antonkeks",
+            "image": "akeks.jpg"
+          }
+        ],
+        "titles": {"ru": "Рефакторинг Баз Данных"}
+      }
+    ]
+  },
+  {
+    "datetime": "25.02.2011T00:00",
+    "place": "oru",
+    "num": 30,
+    "org": {"mod": "kl", "photo": ""},
+    "photo": [
+      "https://picasaweb.google.com/112734643471916024675/Devclub20110225",
+      "https://plus.google.com/photos/+AndreiTkachyov/albums/5577962012213367537"
+    ],
+    "speeches": [
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["kyXriUBppMk"],
+        "origVid": ["https://vimeo.com/20403696"],
+        "speakers": [
+          {
+            "names": {"*": "Jevgeni Holodkov", "ru": "Евгений Холодков"},
+            "url": "https://ch.linkedin.com/in/jevgeni",
+            "image": "jholodkov.jpg"
+          }
+        ],
+        "titles": {"ru": "Мир Lisp’а"},
+        "top": {"season": 2011, "place": 2}
+      },
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["YCc3g7pNZFI"],
+        "origVid": ["https://vimeo.com/20401054"],
+        "speakers": [
+          {
+            "names": {"*": "", "ru": "Эдуард Шустров"},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"ru": "Регулярные выражения"}
+      },
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["0D2kqPSn3DE"],
+        "origVid": ["https://vimeo.com/20388824"],
+        "speakers": [
+          {
+            "names": {"*": "", "ru": "Дмитрий Жучков"},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"ru": "Garage48"}
+      }
+    ]
+  },
+  {
+    "datetime": "26.01.2011T00:00",
+    "place": "oru",
+    "num": 29,
+    "org": {"mod": "aa", "photo": ""},
+    "photo": [
+      "https://picasaweb.google.com/112734643471916024675/Devclub201101262",
+      "https://picasaweb.google.com/112734643471916024675/Devclub201101261",
+      "https://plus.google.com/photos/+AndreiTkachyov/albums/5566644621073184881"
+    ],
+    "speeches": [
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["Q5L3R7kyE7E"],
+        "origVid": ["https://vimeo.com/19230557"],
+        "speakers": [
+          {
+            "names": {"*": "", "ru": "Тыну Самуель"},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"ru": "О безопасности веб-сайтов."},
+        "top": {"season": 2011, "place": 4}
+      },
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["TGOFX5vrfgo"],
+        "origVid": ["https://vimeo.com/19273009"],
+        "speakers": [
+          {
+            "names": {"*": "Dmitri Nesteruk", "ru": "Дмитрий Нестерук"},
+            "url": "https://www.linkedin.com/in/dmitri-nesteruk-87b069aa/",
+            "image": "dnesteruk.png"
+          }
+        ],
+        "titles": {"ru": "ReSharper: Архитектура и Расширения"}
+      }
+    ]
+  },
+  {
+    "datetime": "22.12.2010T00:00",
+    "place": "oru",
+    "num": 28,
+    "org": {"mod": "aa", "photo": ""},
+    "photo": [
+      "https://picasaweb.google.com/112734643471916024675/Devclub201012221",
+      "https://picasaweb.google.com/112734643471916024675/Devclub201012222",
+      "https://plus.google.com/photos/+AndreiTkachyov/albums/5556260289101096705"
+    ],
+    "speeches": [
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["V3QqbYozjeg"],
+        "origVid": ["https://vimeo.com/18105141"],
+        "speakers": [
+          {
+            "names": {"*": "Mihhail Beshkin", "ru": "Михаил Бешкин"},
+            "url": "https://ee.linkedin.com/in/mihailsb",
+            "image": "mbeskin.jpg"
+          }
+        ],
+        "titles": {"ru": "Второе пришествие: “Человек 2.0″"}
+      },
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["w0EENBYf_Ak"],
+        "origVid": ["https://vimeo.com/18170384"],
+        "speakers": [
+          {
+            "names": {"*": "", "ru": "Алексей Разин"},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"ru": "О ГеймКлубе"}
+      },
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["SLHIqf8MqYk"],
+        "origVid": ["https://vimeo.com/18104065"],
+        "speakers": [
+          {
+            "names": {"*": "Aleksandr Motsjonov", "ru": "Александр Мочёнов"},
+            "url": "https://au.linkedin.com/pub/aleksandr-motsjonov/11/306/719",
+            "image": "amotsenov.jpg"
+          }
+        ],
+        "titles": {"ru": "AI contest"}
+      },
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["0L4cjpsFduU"],
+        "origVid": ["https://vimeo.com/18102648"],
+        "speakers": [
+          {
+            "names": {"*": "Kirill Linnik", "ru": "Кирилл Линник"},
+            "url": "https://ee.linkedin.com/pub/kirill-linnik/50/a65/976",
+            "image": "klinnik.jpg"
+          }
+        ],
+        "titles": {"ru": "Progress VS Devoxx VS Devclub"}
+      }
+    ]
+  },
+  {
+    "datetime": "23.11.2010T00:00",
+    "place": "oru",
+    "num": 27,
+    "org": {"mod": "aa", "photo": ""},
+    "photo": [
+      "https://picasaweb.google.com/112734643471916024675/Devclub20101123"
+    ],
+    "speeches": [
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["3DHM-XzfHaM"],
+        "origVid": ["https://vimeo.com/17134998"],
+        "speakers": [
+          {
+            "names": {"*": "", "ru": "Александр Рудаков"},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"ru": "Эра перерождения PHP"},
+        "top": {"season": 2010, "place": 4}
+      },
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["4indjKPKBQU"],
+        "origVid": ["https://vimeo.com/17135822"],
+        "speakers": [
+          {
+            "names": {"*": "Jevgeni Goloborodko", "ru": "Евгений Голобородько"},
+            "url": "https://ee.linkedin.com/in/jevgeni-goloborodko-65a048a",
+            "image": "jgoloborodko.jpg"
+          }
+        ],
+        "titles": {"ru": "Нет плохих технологий, есть плохие практики"},
+        "top": {"season": 2010, "place": 1}
+      },
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["OUXTQc-PxCo"],
+        "origVid": ["https://vimeo.com/17136348"],
+        "speakers": [
+          {
+            "names": {"*": "", "ru": "Артём Курапов"},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"ru": "Oauth"}
+      }
+    ]
+  },
+  {
+    "datetime": "26.10.2010T00:00",
+    "place": "oru",
+    "num": 26,
+    "org": {"mod": "jm", "photo": ""},
+    "photo": [
+      "https://picasaweb.google.com/112734643471916024675/Devclub20101026",
+      "https://plus.google.com/photos/102725365159851236118/albums/5532838614526213953"
+    ],
+    "speeches": [
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["mH15Djb9wnE"],
+        "origVid": ["https://vimeo.com/16221665"],
+        "speakers": [
+          {
+            "names": {"*": "Andrei Solntsev", "ru": "Андрей Солнцев"},
+            "url": "https://ee.linkedin.com/in/asolntsev",
+            "image": "asolntsev.jpg"
+          }
+        ],
+        "titles": {"ru": "BDD Workshop"},
+        "presentations": ["https://prezi.com/zfjermx0qw41/bdd"]
+      },
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["kj6OdfKEh-o"],
+        "origVid": ["https://vimeo.com/16222535"],
+        "speakers": [
+          {
+            "names": {"*": "", "ru": "Евгений Запорожец"},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"ru": "Автодиагностика"}
+      }
+    ]
+  },
+  {
+    "datetime": "29.09.2010T00:00",
+    "place": "oru",
+    "num": 25,
+    "org": {"mod": "kl", "photo": ""},
+    "photo": [
+      "https://plus.google.com/photos/+AndreiTkachyov/albums/5522722426006692897"
+    ],
+    "speeches": [
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["2kis7Svn4D0"],
+        "origVid": ["https://vimeo.com/15405162"],
+        "speakers": [
+          {
+            "names": {"*": "Juri Mulenko", "ru": "Юрий Муленко"},
+            "url": "https://ee.linkedin.com/in/jurimulenko",
+            "image": "jmulenko.jpg"
+          }
+        ],
+        "titles": {"ru": "Что за зверь NoSQL?"}
+      },
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["0rojGPOBYdo"],
+        "origVid": ["https://vimeo.com/15421721"],
+        "speakers": [
+          {
+            "names": {"*": "", "ru": "Игорь Меньков"},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"ru": "Размышления на тему… CEPEDA – другой подход к проектированию систем"}
+      },
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["L75gDNE_cdk"],
+        "origVid": ["https://vimeo.com/15421412"],
+        "speakers": [
+          {
+            "names": {"*": "Anton Arhipov", "ru": "Антон Архипов"},
+            "url": "https://ee.linkedin.com/in/antonarhipov",
+            "image": "aarhipov.jpg"
+          }
+        ],
+        "titles": {"ru": "Practical *nix utilities"},
+        "presentations": ["http://www.slideshare.net/arhan/practical-unix-utilities-for-text-processing"]
+      }
+    ]
+  },
+  {
+    "datetime": "26.08.2010T00:00",
+    "place": "oru",
+    "num": 24,
+    "org": {"mod": "aso", "photo": ""},
+    "photo": [
+      "https://plus.google.com/photos/101124267861537730212/albums/5510359004663580177",
+      "https://plus.google.com/photos/+AleksandrMotsjonov/albums/5509842566639579937"
+    ],
+    "speeches": [
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["tzhoCKLLzc0"],
+        "origVid": ["https://vimeo.com/14489233"],
+        "speakers": [
+          {
+            "names": {"*": "Anton Keks", "ru": "Антон Кекс"},
+            "url": "https://www.linkedin.com/in/antonkeks",
+            "image": "akeks.jpg"
+          }
+        ],
+        "titles": {"ru": "Юнит-тесты"},
+        "presentations": ["https://prezi.com/bvs_5sphpp3s/unit-tests"],
+        "top": {"season": 2010, "place": 4}
+      },
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["WmmUfUyA2b8"],
+        "origVid": ["https://vimeo.com/14483986"],
+        "speakers": [
+          {
+            "names": {"*": "", "ru": "Антон Литвиненко"},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"ru": "DevPulse"}
+      },
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["tomWSZjdIHU"],
+        "origVid": ["https://vimeo.com/14462910"],
+        "speakers": [
+          {
+            "names": {"*": "", "ru": "Андрей Соснин"},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"ru": "Микроконтроллеры и микроэлектроника как хобби"}
+      }
+    ]
+  },
+  {
+    "datetime": "27.07.2010T00:00",
+    "place": "oru",
+    "num": 23,
+    "org": {"mod": "aa", "photo": ""},
+    "photo": [
+      "https://picasaweb.google.com/112734643471916024675/Devclub20010727",
+      "https://plus.google.com/photos/101124267861537730212/albums/5498841008094424881"
+    ],
+    "speeches": [
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["7WiEduiDnkQ"],
+        "origVid": ["https://vimeo.com/13818756"],
+        "speakers": [
+          {
+            "names": {"*": "", "ru": "Сергей Авдеев"},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"ru": "Инфотехнологии в строительстве"}
+      },
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["WPfmbUkjqfk"],
+        "origVid": ["https://vimeo.com/13697449"],
+        "speakers": [
+          {
+            "names": {"*": "", "ru": "Андрей Лунёв"},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"ru": "Агрессивные XML решения"},
+        "presentations": ["http://www.slideshare.net/arhan/agressive-xml-solutions-by-andrei-lunjov"]
+      },
+      {
+        "speakers": [
+          {
+            "names": {"*": "", "ru": "Сергей Моисеев"},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"ru": "Migrate!"},
+        "info": "По обоснованной просьбе докладчика видео удалено."
+      }
+    ]
+  },
+  {
+    "datetime": "28.06.2010T00:00",
+    "place": "oru",
+    "num": 22,
+    "org": {"mod": "jh", "photo": ""},
+    "photo": [
+      "https://picasaweb.google.com/112734643471916024675/Devclub20100628",
+      "https://plus.google.com/photos/101124267861537730212/albums/5488248741635970385"
+    ],
+    "speeches": [
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["ITWmC-e5XmE"],
+        "origVid": ["https://vimeo.com/15898107"],
+        "speakers": [
+          {
+            "names": {"*": "", "ru": "Евгений Кабанов"},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"ru": "Про евангелизм и как делается маркетинг для программистов"}
+      },
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["y-f-R1UvgbM"],
+        "origVid": ["https://vimeo.com/15898758"],
+        "speakers": [
+          {
+            "names": {"*": "Aleksandr Motsjonov", "ru": "Александр Мочёнов"},
+            "url": "https://au.linkedin.com/pub/aleksandr-motsjonov/11/306/719",
+            "image": "amotsenov.jpg"
+          }
+        ],
+        "titles": {"ru": "Google App Engine"}
+      },
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["k7XZi5LUsgI"],
+        "origVid": ["https://vimeo.com/15898252"],
+        "speakers": [
+          {
+            "names": {"*": "", "ru": "Виктор Ларионов"},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"ru": "POSМодернизм"}
+      }
+    ]
+  },
+  {
+    "datetime": "26.05.2010T00:00",
+    "place": "oru",
+    "num": 21,
+    "org": {"mod": "aa", "photo": ""},
+    "photo": [
+      "https://picasaweb.google.com/112734643471916024675/Devclub201005261",
+      "https://picasaweb.google.com/112734643471916024675/Devclub201005262"
+    ],
+    "speeches": [
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["9ozWTKRasv8"],
+        "origVid": ["https://vimeo.com/14121775"],
+        "speakers": [
+          {
+            "names": {"*": "Andrei Solntsev", "ru": "Андрей Солнцев"},
+            "url": "https://ee.linkedin.com/in/asolntsev",
+            "image": "asolntsev.jpg"
+          }
+        ],
+        "titles": {"ru": "WTF code"},
+        "top": {"season": 2010, "place": 3}
+      },
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["euB0gLFgt_I"],
+        "origVid": ["https://vimeo.com/12692751"],
+        "speakers": [
+          {
+            "names": {"*": "", "ru": "Евгений Чайкин"},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"ru": "Windows Phone 7"},
+        "presentations": ["http://www.slideshare.net/eugenedotnet/windows-phone-7-4332496"]
+      },
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["vub9lLtiojw"],
+        "origVid": ["https://vimeo.com/12659234"],
+        "speakers": [
+          {
+            "names": {"*": "Arseni Grigorjev", "ru": "Арсений Григорьев"},
+            "url": "https://ee.linkedin.com/in/arsenig",
+            "image": "agrigorjev.jpg"
+          }
+        ],
+        "titles": {"ru": "Aspect-Oriented Programming using Spring Framework"},
+        "presentations": ["http://www.slideshare.net/arsenikum/spring-aop-devclubeu"],
+        "presentations-hidden": ["http://www.slideshare.net/arhan/aspectoriented-programming-by-arseni-grigorjev"]
+      }
+    ]
+  },
+  {
+    "datetime": "30.04.2010T00:00",
+    "place": "oru",
+    "num": 20,
+    "org": {"mod": "aso", "photo": ""},
+    "photo": [
+      "https://picasaweb.google.com/100467396985255209330/TallinnDevelopersClub30042010",
+      "https://plus.google.com/photos/101124267861537730212/albums/5466060806339521553",
+      "https://plus.google.com/photos/+AndreiTkachyov/albums/5466688960462685649"
+    ],
+    "speeches": [
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["BAPKM-j1BFY"],
+        "origVid": ["https://vimeo.com/11382206"],
+        "speakers": [
+          {
+            "names": {"*": "Anton Keks", "ru": "Антон Кекс"},
+            "url": "https://www.linkedin.com/in/antonkeks",
+            "image": "akeks.jpg"
+          }
+        ],
+        "titles": {"ru": "Git"},
+        "top": {"season": 2010, "place": 4}
+      },
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["Rk1hW72Ad4g"],
+        "origVid": ["https://vimeo.com/11458707"],
+        "speakers": [
+          {
+            "names": {"*": "", "ru": "Никита Кошелев"},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"ru": "Getting Things Done and Common Sense"}
+      },
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["h71k_JH0RRs"],
+        "origVid": ["https://vimeo.com/11413473"],
+        "speakers": [
+          {
+            "names": {"*": "Jevgeni Holodkov", "ru": "Евгений Холодков"},
+            "url": "https://ch.linkedin.com/in/jevgeni",
+            "image": "jholodkov.jpg"
+          }
+        ],
+        "titles": {"ru": "Clojure как практический Lisp, или как полюбить скобочки"}
+      }
+    ]
+  },
+  {
+    "datetime": "30.03.2010T00:00",
+    "place": "oru",
+    "num": 19,
+    "org": {"mod": "aso", "photo": ""},
+    "speeches": [
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["2P4hE-xcanM"],
+        "origVid": ["https://vimeo.com/10732531"],
+        "speakers": [
+          {
+            "names": {"*": "Ilja Hämäläinen", "ru": "Илья Хямяляйнен"},
+            "url": "https://github.com/w32blaster",
+            "image": "ihamalainen.jpg"
+          }
+        ],
+        "titles": {"ru": "Обзор платформы Android"}
+      },
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["BSMH-KkYbpI"],
+        "origVid": ["https://vimeo.com/10693395"],
+        "speakers": [
+          {
+            "names": {"*": "Aleksandr Motsjonov", "ru": "Александр Мочёнов"},
+            "url": "https://au.linkedin.com/pub/aleksandr-motsjonov/11/306/719",
+            "image": "amotsenov.jpg"
+          }
+        ],
+        "titles": {"ru": "Секреты JavaScript"},
+        "presentations": ["http://www.slideshare.net/arhan/javascript-secrets-by-aleksandr-motsjonov"],
+        "top": {"season": 2010, "place": 4}
+      },
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["U6hWXFpqLgE"],
+        "origVid": ["https://vimeo.com/10694122"],
+        "speakers": [
+          {
+            "names": {"*": "", "ru": "Эдуард Шустров"},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"ru": "Scala для новичков"},
+        "presentations": ["http://www.slideshare.net/arhan/introduction-to-scala-by-eduard-shustrov"]
+      }
+    ]
+  },
+  {
+    "datetime": "26.02.2010T00:00",
+    "place": "oru",
+    "num": 18,
+    "org": {"mod": "jm", "photo": ""},
+    "speeches": [
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["VFFp_ziHzNo"],
+        "origVid": ["https://vimeo.com/10175629"],
+        "speakers": [
+          {
+            "names": {"*": "Anton Arhipov", "ru": "Антон Архипов"},
+            "url": "https://ee.linkedin.com/in/antonarhipov",
+            "image": "aarhipov.jpg"
+          }
+        ],
+        "titles": {"ru": "Считаем людей"},
+        "presentations": ["http://www.slideshare.net/arhan/counting-people-by-anton-arhipov"],
+        "top": {"season": 2010, "place": 4}
+      },
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["f9AdmMxWXKw"],
+        "origVid": ["https://vimeo.com/10176007"],
+        "speakers": [
+          {
+            "names": {"*": "", "ru": "Андрей Зиновьев"},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"ru": "Плюсы и минусы парного программирования"},
+        "presentations": ["http://www.slideshare.net/arhan/pair-programming-by-andrei-zinovjev"]
+      }
+    ]
+  },
+  {
+    "datetime": "26.01.2010T00:00",
+    "place": "oru",
+    "num": 17,
+    "org": {"mod": "kl", "photo": ""},
+    "photo": [
+      "https://picasaweb.google.com/112734643471916024675/DevclubEu20100126"
+    ],
+    "speeches": [
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["GdF_ZGWP8go"],
+        "origVid": ["https://vimeo.com/9060462"],
+        "speakers": [
+          {
+            "names": {"*": "Anton Arhipov", "ru": "Антон Архипов"},
+            "url": "https://ee.linkedin.com/in/antonarhipov",
+            "image": "aarhipov.jpg"
+          }
+        ],
+        "titles": {"ru": "Domain Specific Language"},
+        "presentations": ["http://www.slideshare.net/arhan/domain-specific-languages-for-business-rules"]
+      },
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["8Yp426KEFZw"],
+        "origVid": ["https://vimeo.com/9055964"],
+        "speakers": [
+          {
+            "names": {"*": "", "ru": "Игорь Меньков"},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"ru": "Шаблоны/паттерны программирования"},
+        "presentations": ["http://www.slideshare.net/arhan/patterns-by-igor-menkov-part-1a"]
+      },
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": [
+          "skZToKvnlt4",
+          "Xr8pzBuGLrU"
+        ],
+        "origVid": [
+          "https://vimeo.com/9032285",
+          "https://vimeo.com/9045680"
+        ],
+        "speakers": [
+          {
+            "names": {"*": "Anton Keks", "ru": "Антон Кекс"},
+            "url": "https://www.linkedin.com/in/antonkeks",
+            "image": "akeks.jpg"
+          }
+        ],
+        "titles": {"ru": "User Interface guidelines"},
+        "presentations": ["http://www.slideshare.net/arhan/usability-of-human-interfaces"]
+      }
+    ]
+  },
+  {
+    "datetime": "22.12.2009T00:00",
+    "place": "oru",
+    "num": 16,
+    "org": {"mod": "Александр Моченов", "photo": ""},
+    "photo": [
+      "https://picasaweb.google.com/112734643471916024675/DevclubEu20091222"
+    ],
+    "speeches": [
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["S2k_RO0557A"],
+        "origVid": ["https://vimeo.com/8434609"],
+        "speakers": [
+          {
+            "names": {"*": "", "ru": "Алек Козлов"},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"ru": "Alice.org"}
+      },
+      {
+        "origVid": ["https://vimeo.com/8434698"],
+        "speakers": [
+          {
+            "names": {"*": "Andrei Solntsev", "ru": "Андрей Солнцев"},
+            "url": "https://ee.linkedin.com/in/asolntsev",
+            "image": "asolntsev.jpg"
+          }
+        ],
+        "titles": {"ru": "HireBug"}
+      },
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["nu8FrqKDY_k"],
+        "origVid": ["https://vimeo.com/8431535"],
+        "speakers": [
+          {
+            "names": {"*": "Jevgeni Holodkov", "ru": "Евгений Холодков"},
+            "url": "https://ch.linkedin.com/in/jevgeni",
+            "image": "jholodkov.jpg"
+          }
+        ],
+        "titles": {"ru": "Ericsson labs"}
+      },
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["6qYISXZLGpY"],
+        "origVid": ["https://vimeo.com/8434767"],
+        "speakers": [
+          {
+            "names": {"*": "Mihhail Beshkin", "ru": "Михаил Бешкин"},
+            "url": "https://ee.linkedin.com/in/mihailsb",
+            "image": "mbeskin.jpg"
+          }
+        ],
+        "titles": {"ru": "WEB 2.0 – истоки и последствия в мировой культуре"},
+        "top": {"season": 2010, "place": 2}
+      },
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["NRhtAQbkG_4"],
+        "origVid": ["https://vimeo.com/8430306"],
+        "speakers": [
+          {
+            "names": {"*": "Kirill Linnik", "ru": "Кирилл Линник"},
+            "url": "https://ee.linkedin.com/pub/kirill-linnik/50/a65/976",
+            "image": "klinnik.jpg"
+          }
+        ],
+        "titles": {"ru": "Scratch"}
+      }
+    ]
+  },
+  {
+    "datetime": "26.11.2009T00:00",
+    "place": "oru",
+    "num": 15,
+    "org": {"mod": "aa", "photo": ""},
+    "speeches": [
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["e1f8ebEPcNE"],
+        "origVid": ["https://vimeo.com/7885067"],
+        "speakers": [
+          {
+            "names": {"*": "Juri Mulenko", "ru": "Юрий Муленко"},
+            "url": "https://ee.linkedin.com/in/jurimulenko",
+            "image": "jmulenko.jpg"
+          }
+        ],
+        "titles": {"ru": "Функциональное программирование в C#"}
+      },
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["xQixV8C_G-A"],
+        "origVid": ["https://vimeo.com/7872596"],
+        "speakers": [
+          {
+            "names": {"*": "Aleksandr Motsjonov", "ru": "Александр Мочёнов"},
+            "url": "https://au.linkedin.com/pub/aleksandr-motsjonov/11/306/719",
+            "image": "amotsenov.jpg"
+          }
+        ],
+        "titles": {"ru": "Это же Python!"}
+      },
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["bedo5DNeVGQ"],
+        "origVid": ["https://vimeo.com/7863984"],
+        "speakers": [
+          {
+            "names": {"*": "Andrei Solntsev", "ru": "Андрей Солнцев"},
+            "url": "https://ee.linkedin.com/in/asolntsev",
+            "image": "asolntsev.jpg"
+          }
+        ],
+        "titles": {"ru": "Функциональное программирование на Java. Практикум на ЭВМ"},
+        "top": {"season": 2009, "place": 4}
+      }
+    ]
+  },
+  {
+    "datetime": "29.10.2009T00:00",
+    "place": "oru",
+    "num": 14,
+    "org": {"mod": "Захар Кириллов", "photo": ""},
+    "photo": [
+      "https://picasaweb.google.com/112734643471916024675/DevclubEu20091029",
+      "https://picasaweb.google.com/113700290255174605295/DevClub29102009"
+    ],
+    "speeches": [
+      {
+        "speakers": [
+          {
+            "names": {"*": "", "ru": "Антон Литвиненко"},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"ru": "Термометер для управления проектом"},
+        "info": "Встреча не снималась на камеру. Видео нет."
+      },
+      {
+        "speakers": [
+          {
+            "names": {"*": "Stanislav Katkov", "ru": "Станислав Катков"},
+            "url": "https://www.linkedin.com/in/stanislav-katkov-582b7832",
+            "image": "skatkov.jpg"
+          }
+        ],
+        "titles": {"ru": "Автоматическое тестирование для работающих проектов"},
+        "info": "Встреча не снималась на камеру. Видео нет."
+      },
+      {
+        "speakers": [
+          {
+            "names": {"*": "", "ru": "Антон Шишков"},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"ru": "Краткий обзор программ для автоматичесткого тестирования"},
+        "info": "Встреча не снималась на камеру. Видео нет."
+      },
+      {
+        "speakers": [
+          {
+            "names": {"*": "", "ru": "Сергей Сергеев"},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"ru": "Что такое (web)тестирование и с чем его едят?"},
+        "info": "Встреча не снималась на камеру. Видео нет."
+      }
+    ]
+  },
+  {
+    "datetime": "29.09.2009T00:00",
+    "place": "oru",
+    "num": 13,
+    "org": {"mod": "jh", "photo": ""},
+    "photo": [
+      "https://picasaweb.google.com/112734643471916024675/DevclubEu20090929"
+    ],
+    "speeches": [
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["n1tOBnSpyWc"],
+        "origVid": ["https://vimeo.com/7139653"],
+        "speakers": [
+          {
+            "names": {"*": "Anton Keks", "ru": "Антон Кекс"},
+            "url": "https://www.linkedin.com/in/antonkeks",
+            "image": "akeks.jpg"
+          },
+          {
+            "names": {"*": "Anton Arhipov", "ru": "Антон Архипов"},
+            "url": "https://ee.linkedin.com/in/antonarhipov",
+            "image": "aarhipov.jpg"
+          }
+        ],
+        "titles": {"ru": "Ping-pong программирование"},
+        "top": {"season": 2009, "place": 2}
+      },
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["6mqm-aM0Xmk"],
+        "origVid": ["https://vimeo.com/6891469"],
+        "speakers": [
+          {
+            "names": {"*": "", "ru": "Роман Шестаков"},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"ru": "Мобильные устройства Honeywell"},
+        "presentations": ["http://www.slideshare.net/arhan/honeywell-devices-roman-shestakov"]
+      },
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["1O2bSA87Ozc"],
+        "origVid": ["https://vimeo.com/6887189"],
+        "speakers": [
+          {
+            "names": {"*": "", "ru": "Николай Павлов"},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"ru": "Мобильниге"},
+        "presentations": ["http://www.slideshare.net/arhan/mobile-platforms-nikolai-pavlov"],
+        "top": {"season": 2009, "place": 3}
+      }
+    ]
+  },
+  {
+    "datetime": "27.08.2009T00:00",
+    "place": "oru",
+    "num": 12,
+    "org": {"mod": "kl", "photo": ""},
+    "photo": [
+      "https://picasaweb.google.com/112734643471916024675/DevclubEu20090827"
+    ],
+    "speeches": [
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["DL0ZEC0OpXk"],
+        "origVid": ["https://vimeo.com/6511539"],
+        "speakers": [
+          {
+            "names": {"*": "", "ru": "Игорь Меньков"},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"ru": "Управление командой и… нужен ли вам архитектор?"},
+        "presentations": ["http://www.slideshare.net/arhan/igor-menkov-who-needs-an-architect"]
+      },
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["BhvIFmEuW_g"],
+        "origVid": ["https://vimeo.com/6455834"],
+        "speakers": [
+          {
+            "names": {"*": "", "ru": "Станислав Васильев"},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"ru": "Что такое Agile или мой первый урок японского"},
+        "presentations": ["http://www.slideshare.net/arhan/stanislav-vassiljev-what-is-agile"],
+        "top": {"season": 2009, "place": 4}
+      },
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["nj6O86RqlhA"],
+        "origVid": ["https://vimeo.com/6454912"],
+        "speakers": [
+          {
+            "names": {"*": "", "ru": "Марк Кофман"},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"ru": "Привлечение инвестиций в Эстонии"},
+        "presentations": ["http://www.slideshare.net/arhan/mark-kofman-raising-money-in-estonia"]
+      }
+    ]
+  },
+  {
+    "datetime": "28.07.2009T00:00",
+    "place": "Helmes",
+    "num": 11,
+    "org": {"mod": "aso", "photo": ""},
+    "photo": [
+      "https://picasaweb.google.com/112734643471916024675/DevclubEu20090728"
+    ],
+    "speeches": [
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["zpa1x8zF81g"],
+        "origVid": ["https://vimeo.com/5995249"],
+        "speakers": [
+          {
+            "names": {"*": "", "ru": "Ярослав Калищук"},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"ru": "Ruby On Rails hands-on"}
+      },
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["fNg2aP-IV8c"],
+        "origVid": ["https://vimeo.com/5994327"],
+        "speakers": [
+          {
+            "names": {"*": "Zahhar Kirillov", "ru": "Захар Кириллов"},
+            "url": "https://ee.linkedin.com/in/zahhar",
+            "image": "zkirillov.jpg"
+          }
+        ],
+        "titles": {"ru": "Айтишник в бизнесе. Коллекция граблей 2006-2009"},
+        "top": {"season": 2009, "place": 1},
+        "presentations": ["20090728_zkirillov_grabli.pdf"]
+      },
+      {
+        "speakers": [
+          {
+            "names": {"*": "", "ru": "Марк Кофман"},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"ru": "Programeter"},
+        "info": "По просьбе докладчика видео не снималось."
+      },
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["bwFsjS18GM8"],
+        "origVid": ["https://vimeo.com/5995255"],
+        "speakers": [
+          {
+            "names": {"*": "", "ru": "Андрей Тукин"},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"ru": "IT-бизнес с точки зрения бизнеса"}
+      }
+    ]
+  },
+  {
+    "datetime": "30.06.2009T00:00",
+    "place": "Aqris",
+    "num": 10,
+    "org": {"mod": "kl", "photo": ""},
+    "speeches": [
+      {
+        "initialVideoUrl-hidden": ["https://vimeo.com/5496714"],
+        "speakers": [
+          {
+            "names": {"*": "Andrei Solntsev", "ru": "Андрей Солнцев"},
+            "url": "https://ee.linkedin.com/in/asolntsev",
+            "image": "asolntsev.jpg"
+          }
+        ],
+        "titles": {"ru": "Evolutionary database design"},
+        "info": "По забытым причинам видео закрыто для просмотра."
+      },
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["lhKleb7aRjw"],
+        "origVid": ["https://vimeo.com/5494697"],
+        "speakers": [
+          {
+            "names": {"*": "Martin Kiuru", "ru": "Мартин Киуру"},
+            "url": "https://ee.linkedin.com/in/martinkiuru",
+            "image": "mkiuru.jpg"
+          }
+        ],
+        "titles": {"ru": "Oracle Secrets"}
+      },
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["ugqzrlmH8VM"],
+        "origVid": ["https://vimeo.com/5494665"],
+        "speakers": [
+          {
+            "names": {"*": "", "ru": "Сергей Мудрецов"},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"ru": "Мир баз данных, его тенденции и тонкости"}
+      }
+    ]
+  },
+  {
+    "datetime": "28.05.2009T00:00",
+    "place": "Aqris",
+    "num": 9,
+    "org": {"mod": "Дмитрий Семиренко", "photo": ""},
+    "speeches": [
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["8dQEDNfhUgc"],
+        "origVid": ["https://vimeo.com/5042958"],
+        "speakers": [
+          {
+            "names": {"*": "Arseni Grigorjev", "ru": "Арсений Григорьев"},
+            "url": "https://ee.linkedin.com/in/arsenig",
+            "image": "agrigorjev.jpg"
+          }
+        ],
+        "titles": {"ru": "DWR"},
+        "presentations": ["http://www.slideshare.net/arsenikum/dwr-devclubeu"]
+      },
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["QllNRTrvx7M"],
+        "origVid": ["https://vimeo.com/5043231"],
+        "speakers": [
+          {
+            "names": {"*": "", "ru": "Олег Чернецов"},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"ru": "Aranea"}
+      },
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["E-0_o4nEcxs"],
+        "origVid": ["https://vimeo.com/4908037"],
+        "speakers": [
+          {
+            "names": {"*": "Aleksandr Motsjonov", "ru": "Александр Мочёнов"},
+            "url": "https://au.linkedin.com/pub/aleksandr-motsjonov/11/306/719",
+            "image": "amotsenov.jpg"
+          }
+        ],
+        "titles": {"ru": "jQuery"},
+        "presentations": ["http://www.slideshare.net/soswow/js-libraries-and-jquery-overview"]
+      }
+    ]
+  },
+  {
+    "datetime": "23.04.2009T00:00",
+    "place": "Ericsson",
+    "num": 8,
+    "speeches": [
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["fOa--TThL_A"],
+        "origVid": ["https://vimeo.com/4564313"],
+        "speakers": [
+          {
+            "names": {"*": "", "ru": "Елена Григорьева"},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"ru": "Семиотика"}
+      },
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["Nhu495_XzIE"],
+        "origVid": ["https://vimeo.com/4412497"],
+        "speakers": [
+          {
+            "names": {"*": "Jevgeni Holodkov", "ru": "Евгений Холодков"},
+            "url": "https://ch.linkedin.com/in/jevgeni",
+            "image": "jholodkov.jpg"
+          }
+        ],
+        "titles": {"ru": "Servicemix ESB"}
+      },
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["ZtRGAMrq3lM"],
+        "origVid": ["https://vimeo.com/4410464"],
+        "speakers": [
+          {
+            "names": {"*": "Anton Arhipov", "ru": "Антон Архипов"},
+            "url": "https://ee.linkedin.com/in/antonarhipov",
+            "image": "aarhipov.jpg"
+          }
+        ],
+        "titles": {"ru": "Apache Camel"},
+        "presentations": ["http://www.slideshare.net/helggeist/apache-camel-1336249"]
+      },
+      {
+        "_vids-hidden": ["https://vimeo.com/4327417"],
+        "speakers": [
+          {
+            "names": {"*": "Andrei Solntsev", "ru": "Андрей Солнцев"},
+            "url": "https://ee.linkedin.com/in/asolntsev",
+            "image": "asolntsev.jpg"
+          }
+        ],
+        "titles": {"ru": "Fiorano ESB"},
+        "presentations": ["http://www.slideshare.net/helggeist/fiorano"],
+        "info": "Из-за конфликтной ситуации видео было закрыто для просмотра."
+      },
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["7Vl6jHmpVCY"],
+        "origVid": ["https://vimeo.com/4324555"],
+        "speakers": [
+          {
+            "names": {"*": "Kirill Linnik", "ru": "Кирилл Линник"},
+            "url": "https://ee.linkedin.com/pub/kirill-linnik/50/a65/976",
+            "image": "klinnik.jpg"
+          }
+        ],
+        "titles": {"ru": "XBRL [2]"},
+        "presentations": [
+          "http://www.slideshare.net/helggeist/110-introduction-to-xbrl-taxonomies-and-instance-documents-sept-2007-print-version"
+        ]
+      }
+    ]
+  },
+  {
+    "datetime": "28.03.2009T00:00",
+    "place": "Ericsson",
+    "num": 7,
+    "speeches": [
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["KF-Iik4Htmg"],
+        "origVid": ["https://vimeo.com/3988419"],
+        "speakers": [
+          {
+            "names": {"*": "Jevgeni Holodkov", "ru": "Евгений Холодков"},
+            "url": "https://ch.linkedin.com/in/jevgeni",
+            "image": "jholodkov.jpg"
+          }
+        ],
+        "titles": {"ru": "Технологии в предвыборной компании мистера Обама."}
+      },
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["jHY_J0LiDTw"],
+        "origVid": ["https://vimeo.com/4108438"],
+        "speakers": [
+          {
+            "names": {"*": "Juri Mulenko", "ru": "Юрий Муленко"},
+            "url": "https://ee.linkedin.com/in/jurimulenko",
+            "image": "jmulenko.jpg"
+          }
+        ],
+        "titles": {"ru": "Crystal Reports"}
+      },
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["S19ZQAHCiBM"],
+        "origVid": ["https://vimeo.com/3904620"],
+        "speakers": [
+          {
+            "names": {"*": "Kirill Linnik", "ru": "Кирилл Линник"},
+            "url": "https://ee.linkedin.com/pub/kirill-linnik/50/a65/976",
+            "image": "klinnik.jpg"
+          }
+        ],
+        "titles": {"ru": "XBRL [1]"}
+      }
+    ]
+  },
+  {
+    "datetime": "19.02.2009T00:00",
+    "place": "Ericsson",
+    "num": 6,
+    "speeches": [
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["BDNpgO3yqB0"],
+        "origVid": ["https://vimeo.com/4599992"],
+        "speakers": [
+          {
+            "names": {"*": "", "ru": "Роман Васёхо"},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"ru": "SMS & Mobi"},
+        "presentations": ["http://www.slideshare.net/jevgeni_holodkov/mobi"]
+      },
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["G8M-Jc8GcG0"],
+        "origVid": ["https://vimeo.com/4638177"],
+        "speakers": [
+          {
+            "names": {"*": "", "ru": "Сергей Кузнецов"},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"ru": "Kaardikeskus"},
+        "presentations": ["http://www.slideshare.net/jevgeni_holodkov/kaardikeskus"]
+      },
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["VAjTuAVTQqg"],
+        "origVid": ["https://vimeo.com/3392788"],
+        "speakers": [
+          {
+            "names": {"*": "", "ru": "Артём Курапов"},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"ru": "Pangalink"}
+      },
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["6laoZtjGv0k"],
+        "origVid": ["https://vimeo.com/3377701"],
+        "speakers": [
+          {
+            "names": {"*": "", "ru": "Алекс Бург"},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"ru": "Webmoney"},
+        "presentations": ["http://www.slideshare.net/jevgeni_holodkov/ss-1069374"]
+      }
+    ]
+  },
+  {
+    "datetime": "30.01.2009T00:00",
+    "place": "Ericsson",
+    "num": 5,
+    "speeches": [
+      {
+        "speakers": [
+          {
+            "names": {"*": "Andrei Solntsev", "ru": "Андрей Солнцев"},
+            "url": "https://ee.linkedin.com/in/asolntsev",
+            "image": "asolntsev.jpg"
+          }
+        ],
+        "titles": {"ru": "JBoss Drools"},
+        "info": "Встреча не снималась на камеру. Видео нет."
+      },
+      {
+        "speakers": [
+          {
+            "names": {"*": "Kirill Linnik", "ru": "Кирилл Линник"},
+            "url": "https://ee.linkedin.com/pub/kirill-linnik/50/a65/976",
+            "image": "klinnik.jpg"
+          }
+        ],
+        "titles": {"ru": "ILOG"},
+        "info": "Встреча не снималась на камеру. Видео нет."
+      },
+      {
+        "speakers": [
+          {
+            "names": {"*": "Anton Arhipov", "ru": "Антон Архипов"},
+            "url": "https://ee.linkedin.com/in/antonarhipov",
+            "image": "aarhipov.jpg"
+          }
+        ],
+        "titles": {"ru": "JBoss Drools"},
+        "presentations": ["http://www.slideshare.net/arhan/jboss-drools-presentation-for-devclubeu"],
+        "info": "Встреча не снималась на камеру. Видео нет."
+      }
+    ]
+  },
+  {
+    "datetime": "26.12.2008T00:00",
+    "place": "Ustus Aguri maja",
+    "num": 4,
+    "photo": [
+      "https://plus.google.com/photos/105266766340206558621/albums/6158139935991968401"
+    ],
+    "speeches": [
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["FQz9EYZAphc"],
+        "origVid": ["https://vimeo.com/5399511"],
+        "speakers": [
+          {
+            "names": {"*": "Jevgeni Holodkov", "ru": "Евгений Холодков"},
+            "url": "https://ch.linkedin.com/in/jevgeni",
+            "image": "jholodkov.jpg"
+          }
+        ],
+        "titles": {"ru": "Введение в JavaFX 1.0"}
+      },
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["uk5qJWgb51o"],
+        "origVid": ["https://vimeo.com/5344172"],
+        "speakers": [
+          {
+            "names": {"*": "Juri Mulenko", "ru": "Юрий Муленко"},
+            "url": "https://ee.linkedin.com/in/jurimulenko",
+            "image": "jmulenko.jpg"
+          }
+        ],
+        "titles": {"ru": "Обзор Silverlight "}
+      },
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "youtube": ["C0fOKuxoknM"],
+        "origVid": ["https://vimeo.com/5404394"],
+        "speakers": [
+          {
+            "names": {"*": "", "ru": "Юрий Рейнсалу"},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"ru": "Flex в действии"}
+      }
+    ]
+  },
+  {
+    "datetime": "05.06.2008T00:00",
+    "place": "Scotland Yard",
+    "num": 3
+  },
+  {
+    "datetime": "12.04.2008T00:00",
+    "place": "Exact",
+    "num": 2
+  },
+  {
+    "datetime": "07.03.2008T00:00",
+    "num": 1
+  }
+]

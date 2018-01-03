@@ -1,0 +1,23 @@
+{
+  "defaultLang": "en",
+  "photoUrlPrefix": "https://devclub.github.io/data/persons/",
+  "fileUrlPrefix": "https://devclub.github.io/fileserver/files/",
+  "meetingsUrls": {
+    "main": "https://devclub.github.io/data/ee_meetings_latest.json",
+    "archive": [
+      "https://devclub.github.io/data/ee_meetings_2011-2015_001-042.json"
+    ]
+  },
+  "sponsors": {
+    "dataUrl": "https://devclub.github.io/data/data_sponsors.json",
+    "logoUrlPrefix": "https://devclub.github.io/data/sponsors/"
+  },
+  "team": {
+    "dataUrl": "https://devclub.github.io/data/data_team.json",
+    "photoUrlPrefix": "https://devclub.github.io/data/persons/"
+  },
+  "places": {
+    "dataUrl": "https://devclub.github.io/data/data_places.json"
+  },
+  "addSpeechFormUrl": "https://docs.google.com/forms/d/1xdBXhnLIIpP3ll-1zWIHtOStGG8XH2M65TApPn77JK4/viewform"
+}

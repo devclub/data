@@ -1,0 +1,84 @@
+{
+  "leads": [
+    {
+      "names": {"*": "Kirill Linnik", "ru": "Кирилл Линник"},
+      "image": "klinnik_bw.jpg", "url": ""
+    },
+    {
+      "names": {"*": "Anton Arhipov", "ru": "Антон Архипов"},
+      "image": "aarhipov_bw.jpg", "url": ""
+    },
+    {
+      "names": {"*": "Anton Stalnuhhin", "ru": "Антон Стальнухин"},
+      "image": "astalnuhhin_bw.jpg", "url": ""
+    }
+  ],
+  "members": [
+    {
+      "names": {"*": "Stanislav Gorski", "ru": "Станислав Горский"},
+      "image": "sgorski_bw.jpg", "url": ""
+    },
+    {
+      "names": {"*": "Andrei Solntsev", "ru": "Андрей Солнцев"},
+      "image": "asolntsev_bw.jpg", "url": ""
+    },
+    {
+      "names": {"*": "Ivo Jaama", "ru": "Иво Яама"},
+      "image": "ijaama_bw.jpg", "url": ""
+    },
+    {
+      "names": {"*": "", "ru": "Эрвин Вебер"},
+      "image": "eweber_bw.jpg", "url": ""
+    },
+    {
+      "names": {"*": "", "ru": "Юрий Тимошин"},
+      "image": "jtimosin_bw.jpg", "url": ""
+    },
+    {
+      "names": {"*": "", "ru": "Евгений Голобородько"},
+      "image": "", "url": ""
+    },
+    {
+      "names": {"*": "", "ru": "Григорий Бешкин"},
+      "image": "", "url": ""
+    },
+    {
+      "names": {"*": "", "ru": "Татьяна Гордеева"},
+      "image": "", "url": ""
+    },
+    {
+      "names": {"*": "", "ru": "Александр Свириденко"},
+      "image": "", "url": ""
+    },
+    {
+      "names": {"*": "", "ru": "Александр Гричевский"},
+      "image": "", "url": ""
+    }
+  ],
+  "thanks": [
+    {
+      "names": {"*": "", "ru": "Юрий Муленко"},
+      "image": "jmulenko_bw.jpg", "url": ""
+    },
+    {
+      "names": {"*": "", "ru": "Александр Мочёнов"},
+      "image": "amotsenov_bw.jpg", "url": ""
+    },
+    {
+      "names": {"*": "", "ru": "Евгений Холодков"},
+      "image": "jholodkov_bw.jpg", "url": ""
+    },
+    {
+      "names": {"*": "", "ru": "Захар Кириллов"},
+      "image": "zkirillov_bw.jpg", "url": ""
+    },
+    {
+      "names": {"*": "", "ru": "Арсений Григорьев"},
+      "image": "agrigorjev_bw.jpg", "url": ""
+    },
+    {
+      "names": {"*": "", "ru": "Кирилл Бухалко"},
+      "image": "kbuhhalko_bw.jpg", "url": "https://ee.linkedin.com/pub/kirill-buhhalko/2/584/7b6"
+    }
+  ]
+}

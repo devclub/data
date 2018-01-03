@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Nortal",
+    "logo": "nortal.png",
+    "url": "http://www.nortal.ee/"
+  },
+  {
+    "name": "True",
+    "logo": "true.png",
+    "url": "https://www.trueapp.co"
+  },
+ {
+    "name": "Move Guides",
+    "logo": "move_guides.png",
+    "url": "https://www.moveguides.com/"
+  },
+  {
+    "name": "Taxify",
+    "logo": "taxify.png",
+    "url": "https://transferwise.com/"
+  },
+  {
+    "name": "MyJar",
+    "logo": "myjar.png",
+    "url": "https://www.myjar.com/news/myjar-jobs"
+  },
+  {
+    "name": "Codeborne",
+    "logo": "codeborne.png",
+    "url": "https://codeborne.com/ru/"
+  },
+  {
+    "name": "Swedbank",
+    "logo": "swedbank.png",
+    "url": "https://www.swedbank.ee"
+  },
+  {
+    "name": "Ignite",
+    "logo": "ignite.png",
+    "url": "https://www.ignite.ee/"
+  },
+  {
+    "name": "JetBrains",
+    "logo": "jetbrains.png",
+    "url": "https://www.jetbrains.com/"
+  },
+  {
+    "name": "Transferwise",
+    "logo": "transferwise.png",
+    "url": "https://transferwise.com/"
+  }
+]
+
