@@ -375,7 +375,7 @@
   },
   {
     "datetime": "21.04.2016T19:00",
-    "place": "Nortal",
+    "place": {"name": "Nortal AS", "loc": "https://goo.gl/maps/Hx1WpPRW4x32",    "addr": "Lõõtsa 6, 11415 Tallinn", "url": "https://nortal.com"},
     "num": 92,
     "org": {"mod": "kl", "photo": ""},
     "operator": [

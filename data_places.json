@@ -1,13 +1,5 @@
 [
   {
-    "code": "move", "name": "MOVE Guides", "loc": "https://goo.gl/maps/ajGHj3bWLRs",
-    "addr": "Valukoja 8, 11415 Tallinn", "url": "https://www.moveguides.com"
-  },
-  {
-    "code": "no", "name": "Nortal AS", "loc": "https://goo.gl/maps/Hx1WpPRW4x32",
-    "addr": "Lõõtsa 6, 11415 Tallinn", "url": "https://nortal.com"
-  },
-  {
     "code": "oru", "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2",
     "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
   },
