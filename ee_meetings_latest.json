@@ -37,7 +37,7 @@
   {
     "num": 54,
     "datetime": "21.11.2017T19:00",
-    "place": "play",
+    "place": {"name": "Playtech Estonia OÜ", "loc": "https://goo.gl/maps/VKtUZz2biJ32",    "addr": "Lõõtsa 5, 11415 Tallinn", "url": "http://www.playtech.ee"},
     "photo": "https://photos.app.goo.gl/8imlUDi6GStjanui2",
     "speeches": [
       {
@@ -290,7 +290,7 @@
   {
     "num": 45,
     "datetime": "31.05.2016T19:00",
-    "place": "play",
+    "place": {"name": "Playtech Estonia OÜ", "loc": "https://goo.gl/maps/VKtUZz2biJ32",    "addr": "Lõõtsa 5, 11415 Tallinn", "url": "http://www.playtech.ee"},
     "speeches": [
       {
         "speakers": [{"names": {"*": "Playtech support"}}],

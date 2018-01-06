@@ -1,9 +1,5 @@
 [
   {
-    "code": "play", "name": "Playtech Estonia OÜ", "loc": "https://goo.gl/maps/VKtUZz2biJ32",
-    "addr": "Lõõtsa 5, 11415 Tallinn", "url": "http://www.playtech.ee"
-  },
-  {
     "code": "susi", "name": "Hotell Susi", "loc": "https://goo.gl/maps/55CMMhKW67K2",
     "addr": "Peterburi tee 48, 11415 Tallinn", "url": "http://www.susihotel.ee"
   },
