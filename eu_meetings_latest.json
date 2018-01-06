@@ -319,7 +319,10 @@
     "num": 106,
     "titles": {"ru": "медицинская", "en": "medical", "ee": "meditsiiniline"},
     "datetime": "20.06.2017T19:00",
-    "place": "wa",
+    "place": {
+      "name": "Wabadus", "loc": "https://goo.gl/maps/7ya5Znk3Vv62", "addr": "Vabaduse väljak 10, 10146 Tallinn",
+      "url": "http://www.wabadus.ee"
+    },
     "photo": ["https://goo.gl/photos/n6TDwUS7ugjDrYBh9"],
     "event": "https://www.eventbrite.com/e/35339911627",
     "org": {"mod": "kl", "photo": "kl"},
@@ -368,7 +371,10 @@
   {
     "num": 105,
     "datetime": "23.05.2017T19:00",
-    "place": "wa",
+    "place": {
+      "name": "Wabadus", "loc": "https://goo.gl/maps/7ya5Znk3Vv62", "addr": "Vabaduse väljak 10, 10146 Tallinn",
+      "url": "http://www.wabadus.ee"
+    },
     "photo": ["https://goo.gl/photos/Mp64i6S8chW1CUFS6"],
     "event": "https://www.eventbrite.com/e/devclubeu-wabaduse-tickets-34624193896",
     "org": {"mod": "sg", "photo": "kl"},

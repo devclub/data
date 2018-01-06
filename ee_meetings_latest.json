@@ -186,7 +186,10 @@
   {
     "num": 50,
     "datetime": "04.07.2017T19:00",
-    "place": "wa",
+    "place": {
+      "name": "Wabadus", "loc": "https://goo.gl/maps/7ya5Znk3Vv62", "addr": "Vabaduse väljak 10, 10146 Tallinn",
+      "url": "http://www.wabadus.ee"
+    },
     "photo": "https://goo.gl/photos/9KqbKgNioXzCi8TBA",
     "speeches": [
       {

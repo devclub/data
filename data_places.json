@@ -2,9 +2,5 @@
   {
     "code": "vi", "name": "Restaurant Viktoria", "loc": "https://goo.gl/maps/agQ1sS2KZyN2",
     "addr": "Keevise 6, Tallinn", "url": "http://www.restoranviktoria.ee/?lang=en"
-  },
-  {
-    "code": "wa", "name": "Wabadus", "loc": "https://goo.gl/maps/7ya5Znk3Vv62",
-    "addr": "Vabaduse väljak 10, 10146 Tallinn", "url": "http://www.wabadus.ee"
   }
 ]
