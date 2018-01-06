@@ -354,7 +354,10 @@
   {
     "num": 28,
     "datetime": "05.06.2014T19:00",
-    "place": "tw",
+    "place": {
+      "name": "Transferwise Ltd Estonia", "loc": "https://goo.gl/maps/fXmz146K1SD2",
+      "addr": "Veerenni 24, 10135 Tallinn", "url": "https://transferwise.com"
+    },
     "photo": [
       "https://get.google.com/albumarchive/101124267861537730212/album/AF1QipPt7g7aGKDnwlxpdg2x_zSd7692UX-5hXNv7lIu?source=pwa"
     ],

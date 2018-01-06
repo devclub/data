@@ -37,7 +37,10 @@
   {
     "num": 54,
     "datetime": "21.11.2017T19:00",
-    "place": {"name": "Playtech Estonia OÜ", "loc": "https://goo.gl/maps/VKtUZz2biJ32",    "addr": "Lõõtsa 5, 11415 Tallinn", "url": "http://www.playtech.ee"},
+    "place": {
+      "name": "Playtech Estonia OÜ", "loc": "https://goo.gl/maps/VKtUZz2biJ32", "addr": "Lõõtsa 5, 11415 Tallinn",
+      "url": "http://www.playtech.ee"
+    },
     "photo": "https://photos.app.goo.gl/8imlUDi6GStjanui2",
     "speeches": [
       {
@@ -58,7 +61,10 @@
   {
     "num": 53,
     "datetime": "12.10.2017T19:00",
-    "place": "tw",
+    "place": {
+      "name": "Transferwise Ltd Estonia", "loc": "https://goo.gl/maps/fXmz146K1SD2",
+      "addr": "Veerenni 24, 10135 Tallinn", "url": "https://transferwise.com"
+    },
     "photo": "https://photos.app.goo.gl/3QxhtVZ8AsBz5Pc42",
     "speeches": [
       {
@@ -208,7 +214,10 @@
   {
     "num": 49,
     "datetime": "18.05.2017T19:00",
-    "place": {"name": "Pipedrive OÜ", "loc": "https://goo.gl/maps/squwGHdRPMB2",    "addr": "Paldiski mnt 80, Tallinn 10617", "url": "https://www.pipedrive.com"},
+    "place": {
+      "name": "Pipedrive OÜ", "loc": "https://goo.gl/maps/squwGHdRPMB2", "addr": "Paldiski mnt 80, Tallinn 10617",
+      "url": "https://www.pipedrive.com"
+    },
     "speeches": [
       {
         "youtube": [""],
@@ -229,7 +238,10 @@
   {
     "num": 48,
     "datetime": "23.03.2017T19:00",
-    "place": "tw",
+    "place": {
+      "name": "Transferwise Ltd Estonia", "loc": "https://goo.gl/maps/fXmz146K1SD2",
+      "addr": "Veerenni 24, 10135 Tallinn", "url": "https://transferwise.com"
+    },
     "speeches": [
       {
         "youtube": [""],
@@ -290,7 +302,10 @@
   {
     "num": 45,
     "datetime": "31.05.2016T19:00",
-    "place": {"name": "Playtech Estonia OÜ", "loc": "https://goo.gl/maps/VKtUZz2biJ32",    "addr": "Lõõtsa 5, 11415 Tallinn", "url": "http://www.playtech.ee"},
+    "place": {
+      "name": "Playtech Estonia OÜ", "loc": "https://goo.gl/maps/VKtUZz2biJ32", "addr": "Lõõtsa 5, 11415 Tallinn",
+      "url": "http://www.playtech.ee"
+    },
     "speeches": [
       {
         "speakers": [{"names": {"*": "Playtech support"}}],
@@ -316,7 +331,10 @@
   {
     "num": 44,
     "datetime": "23.03.2016T19:00",
-    "place": "tw",
+    "place": {
+      "name": "Transferwise Ltd Estonia", "loc": "https://goo.gl/maps/fXmz146K1SD2",
+      "addr": "Veerenni 24, 10135 Tallinn", "url": "https://transferwise.com"
+    },
     "speeches": [
       {
         "youtube": [""],
@@ -344,7 +362,10 @@
   {
     "num": 43,
     "datetime": "16.02.2016T19:00",
-    "place": {"name": "Pipedrive OÜ", "loc": "https://goo.gl/maps/squwGHdRPMB2",    "addr": "Paldiski mnt 80, Tallinn 10617", "url": "https://www.pipedrive.com"},
+    "place": {
+      "name": "Pipedrive OÜ", "loc": "https://goo.gl/maps/squwGHdRPMB2", "addr": "Paldiski mnt 80, Tallinn 10617",
+      "url": "https://www.pipedrive.com"
+    },
     "speeches": [
       {
         "youtube": [""],
