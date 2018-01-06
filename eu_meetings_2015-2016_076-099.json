@@ -1186,7 +1186,10 @@
   },
   {
     "datetime": "26.02.2015T00:00",
-    "place": "Tallink",
+    "place": {
+      "name": "Tallink Spa & Conference Hotel", "loc": "https://goo.gl/maps/EC38ZYDt8CQ2",
+      "addr": "Sadama 11a, 10111 Tallinn", "url": "https://www.tallinkhotels.com/tallink-spa-conference-hotel"
+    },
     "num": 78,
     "org": {"mod": "aa", "photo": ""},
     "photo": [
@@ -1239,7 +1242,10 @@
   },
   {
     "datetime": "27.01.2015T00:00",
-    "place": "Euroopa",
+    "place": {
+      "name": "Hotell Euroopa", "loc": "https://goo.gl/maps/bu6pbxbmCJS2", "addr": "Paadi 5, 10151 Tallinn",
+      "url": "http://www.euroopa.ee"
+    },
     "num": 77,
     "org": {"mod": "kl", "photo": ""},
     "photo": [

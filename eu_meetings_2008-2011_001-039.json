@@ -1699,7 +1699,10 @@
   },
   {
     "datetime": "28.07.2009T00:00",
-    "place": "Helmes",
+    "place": {
+      "name": "Helmes AS", "loc": "https://goo.gl/maps/L5dLpjcmHnq", "addr": "Lõõtsa 6b, 11415 Tallinn",
+      "url": "http://www.helmes.com"
+    },
     "num": 11,
     "org": {"mod": "aso", "photo": ""},
     "photo": [
@@ -1765,7 +1768,7 @@
   },
   {
     "datetime": "30.06.2009T00:00",
-    "place": "Aqris",
+    "place": {"name": "Aqris"},
     "num": 10,
     "org": {"mod": "kl", "photo": ""},
     "speeches": [
@@ -1813,7 +1816,7 @@
   },
   {
     "datetime": "28.05.2009T00:00",
-    "place": "Aqris",
+    "place": {"name": "Aqris"},
     "num": 9,
     "org": {"mod": "Дмитрий Семиренко", "photo": ""},
     "speeches": [
@@ -1865,7 +1868,7 @@
   },
   {
     "datetime": "23.04.2009T00:00",
-    "place": "Ericsson",
+    "place": {"name": "Ericsson"},
     "num": 8,
     "speeches": [
       {
@@ -1945,7 +1948,7 @@
   },
   {
     "datetime": "28.03.2009T00:00",
-    "place": "Ericsson",
+    "place": {"name": "Ericsson"},
     "num": 7,
     "speeches": [
       {
@@ -1994,7 +1997,7 @@
   },
   {
     "datetime": "19.02.2009T00:00",
-    "place": "Ericsson",
+    "place": {"name": "Ericsson"},
     "num": 6,
     "speeches": [
       {
@@ -2060,7 +2063,7 @@
   },
   {
     "datetime": "30.01.2009T00:00",
-    "place": "Ericsson",
+    "place": {"name": "Ericsson"},
     "num": 5,
     "speeches": [
       {
@@ -2101,7 +2104,7 @@
   },
   {
     "datetime": "26.12.2008T00:00",
-    "place": "Ustus Aguri maja",
+    "place": {"name": "Ustus Aguri maja"},
     "num": 4,
     "photo": [
       "https://plus.google.com/photos/105266766340206558621/albums/6158139935991968401"
@@ -2153,12 +2156,12 @@
   },
   {
     "datetime": "05.06.2008T00:00",
-    "place": "Scotland Yard",
+    "place": {"name": "Scotland Yard"},
     "num": 3
   },
   {
     "datetime": "12.04.2008T00:00",
-    "place": "Exact",
+    "place": {"name": "Exact"},
     "num": 2
   },
   {

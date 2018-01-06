@@ -464,7 +464,10 @@
   },
   {
     "datetime": "26.03.2014T00:00",
-    "place": "MEKTORY",
+    "place": {
+      "name": "MEKTORY", "loc": "https://goo.gl/maps/2escreMhfbG2", "addr": "Raja 15, 12618 Tallinn",
+      "url": "https://www.ttu.ee/mektory-eng"
+    },
     "num": 67,
     "org": {"mod": "Александр Моченов", "photo": ""},
     "photo": [
