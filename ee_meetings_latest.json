@@ -99,7 +99,10 @@
   {
     "num": 52,
     "datetime": "13.09.2017T19:00",
-    "place": "move",
+    "place": {
+      "name": "MOVE Guides", "loc": "https://goo.gl/maps/ajGHj3bWLRs", "addr": "Valukoja 8, 11415 Tallinn",
+      "url": "https://www.moveguides.com"
+    },
     "photo": "https://photos.app.goo.gl/8w2AULJdPqpzQuqj2",
     "speeches": [
       {
