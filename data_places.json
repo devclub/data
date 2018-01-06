@@ -1,9 +1,5 @@
 [
   {
-    "code": "susi", "name": "Hotell Susi", "loc": "https://goo.gl/maps/55CMMhKW67K2",
-    "addr": "Peterburi tee 48, 11415 Tallinn", "url": "http://www.susihotel.ee"
-  },
-  {
     "code": "t", "name": "Tallink Spa & Conference Hotel", "loc": "https://goo.gl/maps/EC38ZYDt8CQ2",
     "addr": "Sadama 11a, 10111 Tallinn", "url": "https://www.tallinkhotels.com/tallink-spa-conference-hotel"
   },

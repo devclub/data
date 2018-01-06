@@ -1100,7 +1100,10 @@
   {
     "num": 3,
     "datetime": "07.04.2011T19:00",
-    "place": "susi",
+    "place": {
+      "name": "Hotell Susi", "loc": "https://goo.gl/maps/55CMMhKW67K2", "addr": "Peterburi tee 48, 11415 Tallinn",
+      "url": "http://www.susihotel.ee"
+    },
     "photo": [
       "https://get.google.com/albumarchive/101124267861537730212/album/AF1QipOqeHIKZoFnP9_zeCQWwXwlPs_Q7yx5uLF8jXhJ?source=pwa"
     ],

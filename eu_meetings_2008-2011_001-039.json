@@ -322,7 +322,10 @@
   },
   {
     "datetime": "28.06.2011T00:00",
-    "place": "Susi",
+    "place": {
+      "name": "Hotell Susi", "loc": "https://goo.gl/maps/55CMMhKW67K2", "addr": "Peterburi tee 48, 11415 Tallinn",
+      "url": "http://www.susihotel.ee"
+    },
     "num": 34,
     "org": {"mod": "aa", "photo": ""},
     "photo": [
@@ -488,7 +491,10 @@
   },
   {
     "datetime": "27.04.2011T00:00",
-    "place": "Susi",
+    "place": {
+      "name": "Hotell Susi", "loc": "https://goo.gl/maps/55CMMhKW67K2", "addr": "Peterburi tee 48, 11415 Tallinn",
+      "url": "http://www.susihotel.ee"
+    },
     "num": 32,
     "org": {"mod": "Александр Моченов", "photo": ""},
     "photo": [
