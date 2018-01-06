@@ -2,7 +2,10 @@
   {
     "num": 55,
     "datetime": "19.12.2017T19:00",
-    "place": "me",
+    "place": {
+      "name": "Park Inn by Radisson Meriton Conference & Spa Hotel Tallinn", "loc": "https://goo.gl/maps/AJbuvwDS7co",
+      "addr": "Toompuiestee 27/Paldiski mnt 4, 10149 Tallinn", "url": "https://www.parkinn.com/hotel-meriton-tallinn"
+    },
     "photo": "https://photos.app.goo.gl/gjvhYwH6uDLMOwpu1",
     "speeches": [
       {
@@ -137,7 +140,10 @@
   {
     "num": 51,
     "datetime": "30.08.2017T19:00",
-    "place": "me",
+    "place": {
+      "name": "Park Inn by Radisson Meriton Conference & Spa Hotel Tallinn", "loc": "https://goo.gl/maps/AJbuvwDS7co",
+      "addr": "Toompuiestee 27/Paldiski mnt 4, 10149 Tallinn", "url": "https://www.parkinn.com/hotel-meriton-tallinn"
+    },
     "speeches": [
       {
         "youtube": [""],

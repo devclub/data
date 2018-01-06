@@ -4,11 +4,6 @@
     "addr": "Paadi 5, 10151 Tallinn", "url": "http://www.euroopa.ee"
   },
   {
-    "code": "me", "name": "Park Inn by Radisson Meriton Conference & Spa Hotel Tallinn",
-    "loc": "https://goo.gl/maps/AJbuvwDS7co",
-    "addr": "Toompuiestee 27/Paldiski mnt 4, 10149 Tallinn", "url": "https://www.parkinn.com/hotel-meriton-tallinn"
-  },
-  {
     "code": "move", "name": "MOVE Guides", "loc": "https://goo.gl/maps/ajGHj3bWLRs",
     "addr": "Valukoja 8, 11415 Tallinn", "url": "https://www.moveguides.com"
   },
