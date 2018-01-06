@@ -262,7 +262,10 @@
   {
     "num": 47,
     "datetime": "23.02.2017T19:00",
-    "place": "vs",
+    "place": {
+      "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
+      "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
+    },
     "speeches": [
       {
         "youtube": [""],
@@ -281,7 +284,10 @@
   {
     "num": 46,
     "datetime": "27.10.2016T19:00",
-    "place": "vs",
+    "place": {
+      "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
+      "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
+    },
     "speeches": [
       {
         "youtube": [""],

@@ -54,7 +54,10 @@
   {
     "num": 111,
     "datetime": "29.11.2017T19:00",
-    "place": "vs",
+    "place": {
+      "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
+      "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
+    },
     "photo": ["https://photos.app.goo.gl/QyrXo0YFMWRfJ4rg2"],
     "event": "https://www.eventbrite.com/e/7-tickets-40601586438",
     "org": {"mod": "kl", "photo": "kl,aa"},
@@ -104,7 +107,10 @@
   {
     "num": 110,
     "datetime": "23.10.2017T19:00",
-    "place": "vs",
+    "place": {
+      "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
+      "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
+    },
     "photo": ["https://photos.app.goo.gl/dubNfYwYN9NBVsbw2"],
     "event": "https://www.eventbrite.com/e/110-tickets-39007785336",
     "org": {"mod": "ag", "photo": "kl"},
@@ -154,7 +160,10 @@
   {
     "num": 109,
     "datetime": "26.09.2017T19:00",
-    "place": "vs",
+    "place": {
+      "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
+      "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
+    },
     "photo": ["https://photos.app.goo.gl/4cjpEqsZc1jy83ql2"],
     "event": "https://www.eventbrite.com/e/109-skype-elixir-tickets-38076004354",
     "org": {"mod": "aa", "photo": "kl"},
@@ -203,7 +212,10 @@
   {
     "num": 108,
     "datetime": "24.08.2017T19:00",
-    "place": "vs",
+    "place": {
+      "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
+      "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
+    },
     "photo": ["https://goo.gl/photos/NxMwtdaqFR69AzgJ6"],
     "event": "https://www.eventbrite.com/e/108-tickets-37059103777",
     "org": {"mod": "jg", "photo": "kl"},
@@ -408,7 +420,10 @@
     "num": 104,
     "titles": {"*": "UX"},
     "datetime": "26.04.2017T19:00",
-    "place": "vs",
+    "place": {
+      "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
+      "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
+    },
     "photo": ["https://goo.gl/photos/vSDJ2K1KoPcKoxHV7"],
     "event": "https://www.eventbrite.com/e/devclub-ux--tickets-33850769563",
     "org": {"mod": "as", "photo": "kl"},
@@ -459,7 +474,10 @@
   {
     "num": 103,
     "datetime": "28.03.2017T19:00",
-    "place": "vs",
+    "place": {
+      "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
+      "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
+    },
     "photo": ["https://goo.gl/photos/5bLf7LnQFKE9VFHk8"],
     "event": "https://www.eventbrite.com/e/33121810226",
     "org": {"mod": "kl", "photo": "aa,kl"},
@@ -513,7 +531,10 @@
   {
     "num": 102,
     "datetime": "28.02.2017T19:00",
-    "place": "vs",
+    "place": {
+      "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
+      "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
+    },
     "photo": ["https://goo.gl/photos/d2dBgsAAy9hTF5hVA"],
     "event": "https://www.eventbrite.com/e/32285098599",
     "org": {"mod": "aa", "photo": "kl"},
@@ -563,7 +584,10 @@
   {
     "num": 101,
     "datetime": "31.01.2017T19:00",
-    "place": "vs",
+    "place": {
+      "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
+      "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
+    },
     "photo": ["https://goo.gl/photos/5i3ErAcLaSwgAe45A"],
     "event": "https://www.eventbrite.com/e/31464706785",
     "org": {"mod": "aa", "photo": "kl"},
@@ -615,7 +639,10 @@
   {
     "num": 100,
     "datetime": "22.12.2016T19:00",
-    "place": "vs",
+    "place": {
+      "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
+      "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
+    },
     "photo": ["https://goo.gl/photos/eCwqWxcaJRHbw1Ti7"],
     "event": "https://www.eventbrite.com/e/100-tickets-30092958850",
     "org": {"mod": "kl", "photo": "kl"},

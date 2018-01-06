@@ -4,10 +4,6 @@
     "addr": "Keevise 6, Tallinn", "url": "http://www.restoranviktoria.ee/?lang=en"
   },
   {
-    "code": "vs", "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
-    "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
-  },
-  {
     "code": "wa", "name": "Wabadus", "loc": "https://goo.gl/maps/7ya5Znk3Vv62",
     "addr": "Vabaduse väljak 10, 10146 Tallinn", "url": "http://www.wabadus.ee"
   }

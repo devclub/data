@@ -1,7 +1,10 @@
 [
   {
     "datetime": "30.11.2016T19:00",
-    "place": "vs",
+    "place": {
+      "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
+      "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
+    },
     "num": 99,
     "org": {"mod": "aa", "photo": ""},
     "photo": [
@@ -56,7 +59,10 @@
   },
   {
     "datetime": "31.10.2016T19:00",
-    "place": "vs",
+    "place": {
+      "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
+      "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
+    },
     "num": 98,
     "titles": {"*": "PostgreSQL"},
     "org": {"mod": "Эрвин Вебер", "photo": ""},
@@ -113,7 +119,10 @@
   },
   {
     "datetime": "29.09.2016T19:00",
-    "place": "vs",
+    "place": {
+      "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
+      "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
+    },
     "num": 97,
     "org": {"mod": "kl", "photo": ""},
     "photo": [
@@ -166,7 +175,10 @@
   },
   {
     "datetime": "30.08.2016T19:00",
-    "place": "vs",
+    "place": {
+      "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
+      "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
+    },
     "num": 96,
     "org": {"mod": "kl", "photo": ""},
     "photo": [
@@ -216,7 +228,10 @@
   },
   {
     "datetime": "02.08.2016T19:00",
-    "place": "vs",
+    "place": {
+      "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
+      "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
+    },
     "num": 95,
     "titles": {"ru": "33 июля", "en": "33. July", "ee": "33. juuli"},
     "org": {"mod": "aa", "photo": ""},
@@ -270,7 +285,10 @@
   },
   {
     "datetime": "28.06.2016T19:00",
-    "place": "vs",
+    "place": {
+      "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
+      "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
+    },
     "num": 94,
     "org": {"mod": "aa", "photo": ""},
     "photo": [
@@ -324,7 +342,10 @@
   },
   {
     "datetime": "24.05.2016T19:00",
-    "place": "vs",
+    "place": {
+      "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
+      "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
+    },
     "num": 93,
     "org": {"mod": "aa", "photo": ""},
     "photo": [
@@ -433,7 +454,10 @@
   },
   {
     "datetime": "29.03.2016T19:00",
-    "place": "vs",
+    "place": {
+      "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
+      "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
+    },
     "num": 91,
     "org": {"mod": "aso", "photo": ""},
     "photo": [
@@ -483,7 +507,10 @@
   },
   {
     "datetime": "24.02.2016T19:00",
-    "place": "vs",
+    "place": {
+      "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
+      "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
+    },
     "num": 90,
     "org": {"mod": "aso", "photo": ""},
     "photo": [
@@ -536,7 +563,10 @@
   },
   {
     "datetime": "27.01.2016T19:00",
-    "place": "vs",
+    "place": {
+      "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
+      "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
+    },
     "num": 89,
     "org": {"mod": "aa,as,kl", "photo": ""},
     "operator": [
@@ -593,7 +623,10 @@
   },
   {
     "datetime": "29.12.2015T19:00",
-    "place": "vs",
+    "place": {
+      "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
+      "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
+    },
     "num": 88,
     "org": {"mod": "aa", "photo": ""},
     "photo": ["https://plus.google.com/photos/105266766340206558621/album/6233979055616720961"],
@@ -660,7 +693,10 @@
   },
   {
     "datetime": "25.11.2015T19:00",
-    "place": "vs",
+    "place": {
+      "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
+      "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
+    },
     "num": 87,
     "org": {"mod": "aa", "photo": ""},
     "photo": [
@@ -768,7 +804,10 @@
   },
   {
     "datetime": "29.09.2015T19:00",
-    "place": "vs",
+    "place": {
+      "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
+      "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
+    },
     "num": 85,
     "org": {"mod": "kl", "photo": ""},
     "photo": [
@@ -821,7 +860,10 @@
   },
   {
     "datetime": "19.08.2015T19:00",
-    "place": "vs",
+    "place": {
+      "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
+      "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
+    },
     "num": 84,
     "org": {"mod": "aso", "photo": ""},
     "photo": [
@@ -875,7 +917,10 @@
   },
   {
     "datetime": "30.07.2015T19:00",
-    "place": "vs",
+    "place": {
+      "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
+      "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
+    },
     "num": 83,
     "org": {"mod": "aso", "photo": ""},
     "photo": [
@@ -924,7 +969,10 @@
   },
   {
     "datetime": "02.07.2015T19:00",
-    "place": "vs",
+    "place": {
+      "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
+      "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
+    },
     "num": 82,
     "titles": {"ru": "32 июня", "en": "32. June", "ee": "32. juuni"},
     "org": {"mod": "kl", "photo": ""},
@@ -976,7 +1024,10 @@
   },
   {
     "datetime": "26.05.2015T19:00",
-    "place": "vs",
+    "place": {
+      "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
+      "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
+    },
     "num": 81,
     "org": {"mod": "aa", "photo": ""},
     "photo": [
@@ -1027,7 +1078,10 @@
   },
   {
     "datetime": "30.04.2015T00:00",
-    "place": "vs",
+    "place": {
+      "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
+      "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
+    },
     "num": 80,
     "org": {"mod": "aso", "photo": ""},
     "photo": [
@@ -1079,7 +1133,10 @@
   },
   {
     "datetime": "26.03.2015T00:00",
-    "place": "vs",
+    "place": {
+      "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
+      "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
+    },
     "num": 79,
     "org": {"mod": "kl", "photo": ""},
     "photo": [
