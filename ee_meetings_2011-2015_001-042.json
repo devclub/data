@@ -2,7 +2,10 @@
   {
     "num": 42,
     "datetime": "19.11.2015T19:00",
-    "place": "t",
+    "place": {
+      "name": "Tallink Spa & Conference Hotel", "loc": "https://goo.gl/maps/EC38ZYDt8CQ2",
+      "addr": "Sadama 11a, 10111 Tallinn", "url": "https://www.tallinkhotels.com/tallink-spa-conference-hotel"
+    },
     "speeches": [
       {
         "youtube": [""],
@@ -30,7 +33,10 @@
   {
     "num": 41,
     "datetime": "20.10.2015T19:00",
-    "place": "t",
+    "place": {
+      "name": "Tallink Spa & Conference Hotel", "loc": "https://goo.gl/maps/EC38ZYDt8CQ2",
+      "addr": "Sadama 11a, 10111 Tallinn", "url": "https://www.tallinkhotels.com/tallink-spa-conference-hotel"
+    },
     "speeches": [
       {
         "speakers": [{"names": {"*": "Taivo Tender"}}, {"names": {"*": "Risto Reinpõld"}}],
@@ -47,7 +53,10 @@
   {
     "num": 40,
     "datetime": "24.09.2015T19:00",
-    "place": "t",
+    "place": {
+      "name": "Tallink Spa & Conference Hotel", "loc": "https://goo.gl/maps/EC38ZYDt8CQ2",
+      "addr": "Sadama 11a, 10111 Tallinn", "url": "https://www.tallinkhotels.com/tallink-spa-conference-hotel"
+    },
     "speeches": [
       {
         "speakers": [{"names": {"*": "Wilko Nienhaus"}}],
@@ -64,7 +73,10 @@
   {
     "num": 39,
     "datetime": "18.06.2015T19:00",
-    "place": "t",
+    "place": {
+      "name": "Tallink Spa & Conference Hotel", "loc": "https://goo.gl/maps/EC38ZYDt8CQ2",
+      "addr": "Sadama 11a, 10111 Tallinn", "url": "https://www.tallinkhotels.com/tallink-spa-conference-hotel"
+    },
     "speeches": [
       {
         "youtube": [""],
@@ -85,7 +97,10 @@
   {
     "num": 38,
     "datetime": "06.05.2015T19:00",
-    "place": "t",
+    "place": {
+      "name": "Tallink Spa & Conference Hotel", "loc": "https://goo.gl/maps/EC38ZYDt8CQ2",
+      "addr": "Sadama 11a, 10111 Tallinn", "url": "https://www.tallinkhotels.com/tallink-spa-conference-hotel"
+    },
     "speeches": [
       {
         "speakers": [{"names": {"*": "Dr. Venkat Subramaniam"}}],
@@ -102,7 +117,10 @@
   {
     "num": 37,
     "datetime": "16.04.2015T19:00",
-    "place": "t",
+    "place": {
+      "name": "Tallink Spa & Conference Hotel", "loc": "https://goo.gl/maps/EC38ZYDt8CQ2",
+      "addr": "Sadama 11a, 10111 Tallinn", "url": "https://www.tallinkhotels.com/tallink-spa-conference-hotel"
+    },
     "titles": {"*": "Google party vol.2"},
     "photo": [
       "https://get.google.com/albumarchive/101124267861537730212/album/AF1QipOyE5IdaKOGtd6gwrE3zzaObw2fCEjx7hK37PsC?source=pwa"

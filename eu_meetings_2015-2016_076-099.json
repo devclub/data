@@ -713,7 +713,10 @@
   },
   {
     "datetime": "28.10.2015T19:00",
-    "place": "t",
+    "place": {
+      "name": "Tallink Spa & Conference Hotel", "loc": "https://goo.gl/maps/EC38ZYDt8CQ2",
+      "addr": "Sadama 11a, 10111 Tallinn", "url": "https://www.tallinkhotels.com/tallink-spa-conference-hotel"
+    },
     "num": 86,
     "org": {"mod": "kl", "photo": ""},
     "photo": [
