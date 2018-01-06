@@ -127,7 +127,10 @@
   {
     "num": 36,
     "datetime": "17.03.2015T19:00",
-    "place": "eu",
+    "place": {
+      "name": "Hotell Euroopa", "loc": "https://goo.gl/maps/bu6pbxbmCJS2", "addr": "Paadi 5, 10151 Tallinn",
+      "url": "http://www.euroopa.ee"
+    },
     "speeches": [
       {
         "youtube": [""],
@@ -148,7 +151,10 @@
   {
     "num": 35,
     "datetime": "26.02.2015T19:00",
-    "place": "eu",
+    "place": {
+      "name": "Hotell Euroopa", "loc": "https://goo.gl/maps/bu6pbxbmCJS2", "addr": "Paadi 5, 10151 Tallinn",
+      "url": "http://www.euroopa.ee"
+    },
     "speeches": [
       {
         "youtube": [""],
@@ -169,7 +175,10 @@
   {
     "num": 34,
     "datetime": "19.01.2015T19:00",
-    "place": "eu",
+    "place": {
+      "name": "Hotell Euroopa", "loc": "https://goo.gl/maps/bu6pbxbmCJS2", "addr": "Paadi 5, 10151 Tallinn",
+      "url": "http://www.euroopa.ee"
+    },
     "speeches": [
       {
         "youtube": [""],
@@ -211,7 +220,10 @@
   {
     "num": 32,
     "datetime": "30.10.2014T19:00",
-    "place": "eu",
+    "place": {
+      "name": "Hotell Euroopa", "loc": "https://goo.gl/maps/bu6pbxbmCJS2", "addr": "Paadi 5, 10151 Tallinn",
+      "url": "http://www.euroopa.ee"
+    },
     "photo": [
       "https://get.google.com/albumarchive/101124267861537730212/album/AF1QipNH88N8bOPj3Wxx7zEBcK-A-HPi9BSaE2loRxhh?source=pwa"
     ],
