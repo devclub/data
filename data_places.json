@@ -1,67 +1,55 @@
-{
-  "t": {
-    "name": "Tallink Spa & Conference",
-    "loc": "https://www.google.ee/maps/place/Tallink+Spa+%26+Conference+Hotel/@59.4443023,24.7527513,15z/data=!4m2!3m1!1s0x0:0xcf6e8d5ad7b5c430",
-    "info": ""
+[
+  {
+    "code": "eu", "name": "Hotell Euroopa", "loc": "https://goo.gl/maps/bu6pbxbmCJS2",
+    "addr": "Paadi 5, 10151 Tallinn", "url": "http://www.euroopa.ee"
   },
-  "vi": {
-    "name": "Victoria",
-    "loc": "https://www.google.ee/maps/place/Viktoria+keskus/@59.4259234,24.7898301,14z/data=!4m2!3m1!1s0x0000000000000000:0x3b6b21ad1636eb22?hl=ru",
-    "info": ""
+  {
+    "code": "me", "name": "Park Inn by Radisson Meriton Conference & Spa Hotel Tallinn",
+    "loc": "https://goo.gl/maps/AJbuvwDS7co",
+    "addr": "Toompuiestee 27/Paldiski mnt 4, 10149 Tallinn", "url": "https://www.parkinn.com/hotel-meriton-tallinn"
   },
-  "vs": {
-    "name": "Von Stackelberg",
-    "loc": "https://www.google.ee/maps/place/von+Stackelberg+Hotel+Tallinn/@59.4351679,24.7272051,15z/data=!4m2!3m1!1s0x0000000000000000:0xf97f297140aa2b60?hl=ru",
-    "info": ""
+  {
+    "code": "move", "name": "MOVE Guides", "loc": "https://goo.gl/maps/ajGHj3bWLRs",
+    "addr": "Valukoja 8, 11415 Tallinn", "url": "https://www.moveguides.com"
   },
-  "oru": {
-    "name": "Oru",
-    "loc": "https://www.google.ee/maps/place/Oru+Hotell+%D0%9E%D1%82%D0%B5%D0%BB%D1%8C/@59.443921,24.789404,14z/data=!4m7!1m4!3m3!1s0x4692934c71023ec9:0x1b366c52450d8ec3!2sOru,+10127+Tallinn!3b1!3m1!1s0x0000000000000000:0x4e0cedcf6155ac51?hl=ru",
-    "info": ""
+  {
+    "code": "no", "name": "Nortal AS", "loc": "https://goo.gl/maps/Hx1WpPRW4x32",
+    "addr": "Lõõtsa 6, 11415 Tallinn", "url": "https://nortal.com"
   },
-  "no": {
-    "name": "Nortal",
-    "loc": "https://www.google.ru/maps/place/Nortal+AS/@59.4211965,24.7996885,589m/data=!3m2!1e3!4b1!4m2!3m1!1s0x4692eb568a4c4107:0xb6d60952ca19354",
-    "info": ""
+  {
+    "code": "oru", "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2",
+    "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
   },
-  "wa": {
-    "name": "Wabadus",
-    "loc": "https://www.google.ru/maps/@59.4340997,24.7441126,3a,75y,13.61h,94.47t/data=!3m8!1e1!3m6!1s-wdxevl5iUTw%2FV8OfhCvZgkI%2FAAAAAAAAJng%2FsGfTuwhEi8IIxaGWNVqEqDqbo59l9gNsgCLIB!2e4!3e11!6s%2F%2Flh6.googleusercontent.com%2F-wdxevl5iUTw%2FV8OfhCvZgkI%2FAAAAAAAAJng%2FsGfTuwhEi8IIxaGWNVqEqDqbo59l9gNsgCLIB%2Fw203-h100-k-no-pi-0-ya346.3035-ro-0-fo100%2F!7i9728!8i4080",
-    "info": ""
+  {
+    "code": "p", "name": "Pipedrive OÜ", "loc": "https://goo.gl/maps/squwGHdRPMB2",
+    "addr": "Paldiski mnt 80, Tallinn 10617", "url": "https://www.pipedrive.com"
   },
-  "me": {
-    "name": "Meriton",
-    "loc": "https://www.google.ru/maps/@59.4349691,24.7311825,3a,75y,11.4h,103.31t/data=!3m6!1e1!3m4!1s-4UaFbzG0KzaW02bykd_nQ!2e0!7i13312!8i6656",
-    "info": ""
+  {
+    "code": "play", "name": "Playtech Estonia OÜ", "loc": "https://goo.gl/maps/VKtUZz2biJ32",
+    "addr": "Lõõtsa 5, 11415 Tallinn", "url": "http://www.playtech.ee"
   },
-  "p": {
-    "name": "Pipedrive",
-    "loc": "",
-    "info": ""
+  {
+    "code": "susi", "name": "Hotell Susi", "loc": "https://goo.gl/maps/55CMMhKW67K2",
+    "addr": "Peterburi tee 48, 11415 Tallinn", "url": "http://www.susihotel.ee"
   },
-  "play": {
-    "name": "Playtech",
-    "loc": "",
-    "info": ""
+  {
+    "code": "t", "name": "Tallink Spa & Conference Hotel", "loc": "https://goo.gl/maps/EC38ZYDt8CQ2",
+    "addr": "Sadama 11a, 10111 Tallinn", "url": "https://www.tallinkhotels.com/tallink-spa-conference-hotel"
   },
-  "move": {
-    "name": "MOVE Guides",
-    "loc": "",
-    "info": ""
+  {
+    "code": "tw", "name": "Transferwise Ltd Estonia", "loc": "https://goo.gl/maps/fXmz146K1SD2",
+    "addr": "Veerenni 24, 10135 Tallinn", "url": "https://transferwise.com"
   },
-  "tw": {
-    "name": "TransferWise",
-    "loc": "",
-    "info": ""
+  {
+    "code": "vi", "name": "Restaurant Viktoria", "loc": "https://goo.gl/maps/agQ1sS2KZyN2",
+    "addr": "Keevise 6, Tallinn", "url": "http://www.restoranviktoria.ee/?lang=en"
   },
-  "eu": {
-    "name": "Euroopa",
-    "loc": "",
-    "info": ""
+  {
+    "code": "vs", "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
+    "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
   },
-  "susi": {
-    "name": "Susi hotell",
-    "loc": "",
-    "info": ""
+  {
+    "code": "wa", "name": "Wabadus", "loc": "https://goo.gl/maps/7ya5Znk3Vv62",
+    "addr": "Vabaduse väljak 10, 10146 Tallinn", "url": "http://www.wabadus.ee"
   }
-}
+]
