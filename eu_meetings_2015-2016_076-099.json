@@ -375,7 +375,10 @@
   },
   {
     "datetime": "21.04.2016T19:00",
-    "place": {"name": "Nortal AS", "loc": "https://goo.gl/maps/Hx1WpPRW4x32",    "addr": "Lõõtsa 6, 11415 Tallinn", "url": "https://nortal.com"},
+    "place": {
+      "name": "Nortal AS", "loc": "https://goo.gl/maps/Hx1WpPRW4x32", "addr": "Lõõtsa 6, 11415 Tallinn",
+      "url": "https://nortal.com"
+    },
     "num": 92,
     "org": {"mod": "kl", "photo": ""},
     "operator": [
@@ -1220,7 +1223,10 @@
   },
   {
     "datetime": "18.12.2014T00:00",
-    "place": "oru",
+    "place": {
+      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
+      "url": "http://www.oruhotel.ee"
+    },
     "num": 76,
     "org": {"mod": "aa", "photo": ""},
     "photo": [

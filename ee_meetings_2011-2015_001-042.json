@@ -199,7 +199,10 @@
   {
     "num": 33,
     "datetime": "27.11.2014T19:00",
-    "place": "oru",
+    "place": {
+      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
+      "url": "http://www.oruhotel.ee"
+    },
     "speeches": [
       {
         "youtube": [""],
@@ -254,7 +257,10 @@
   {
     "num": 31,
     "datetime": "30.09.2014T19:00",
-    "place": "oru",
+    "place": {
+      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
+      "url": "http://www.oruhotel.ee"
+    },
     "photo": [
       "https://get.google.com/albumarchive/101124267861537730212/album/AF1QipOgh1ddoqFxpqmgHRGMwxkfEKPZLJ2EP2drc7fd"
     ],
@@ -278,7 +284,10 @@
   {
     "num": 30,
     "datetime": "02.09.2014T19:00",
-    "place": "oru",
+    "place": {
+      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
+      "url": "http://www.oruhotel.ee"
+    },
     "photo": [
       "https://get.google.com/albumarchive/101124267861537730212/album/AF1QipOr0KGp9FvTxDef714QWCbkiXJ02gM_FHHZpgNV?source=pwa"
     ],
@@ -302,7 +311,10 @@
   {
     "num": 29,
     "datetime": "24.07.2014T19:00",
-    "place": "oru",
+    "place": {
+      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
+      "url": "http://www.oruhotel.ee"
+    },
     "photo": [
       "https://get.google.com/albumarchive/101124267861537730212/album/AF1QipORJCQSzX5OKyQBG9ESgSQrgd2E3j6DxU2l7ckf?source=pwa"
     ],
@@ -348,7 +360,10 @@
   {
     "num": 27,
     "datetime": "15.05.2014T19:00",
-    "place": "oru",
+    "place": {
+      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
+      "url": "http://www.oruhotel.ee"
+    },
     "photo": [
       "https://get.google.com/albumarchive/117914486418507679216/album/AF1QipNENanLT7fY9Rs4wmNPAtlGyhLWIsep1B90OVxZ?source=pwa"
     ],
@@ -368,7 +383,10 @@
   {
     "num": 26,
     "datetime": "10.04.2014T19:00",
-    "place": "oru",
+    "place": {
+      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
+      "url": "http://www.oruhotel.ee"
+    },
     "speeches": [
       {
         "youtube": [""],
@@ -389,7 +407,10 @@
   {
     "num": 25,
     "datetime": "17.12.2013T19:00",
-    "place": "oru",
+    "place": {
+      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
+      "url": "http://www.oruhotel.ee"
+    },
     "speeches": [
       {
         "youtube": [""],
@@ -431,7 +452,10 @@
   {
     "num": 24,
     "datetime": "24.09.2013T19:00",
-    "place": "oru",
+    "place": {
+      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
+      "url": "http://www.oruhotel.ee"
+    },
     "speeches": [
       {
         "youtube": [""],
@@ -452,7 +476,10 @@
   {
     "num": 23,
     "datetime": "22.08.2013T19:00",
-    "place": "oru",
+    "place": {
+      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
+      "url": "http://www.oruhotel.ee"
+    },
     "speeches": [
       {
         "youtube": [""],
@@ -473,7 +500,10 @@
   {
     "num": 22,
     "datetime": "04.06.2013T19:00",
-    "place": "oru",
+    "place": {
+      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
+      "url": "http://www.oruhotel.ee"
+    },
     "photo": [
       "https://get.google.com/albumarchive/101124267861537730212/album/AF1QipNvEc-gghSwoJjotWy0Sv_J_58LH6xc2r_kxHwB?source=pwa"
     ],
@@ -493,7 +523,10 @@
   {
     "num": 21,
     "datetime": "25.04.2013T19:00",
-    "place": "oru",
+    "place": {
+      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
+      "url": "http://www.oruhotel.ee"
+    },
     "speeches": [
       {
         "youtube": [""],
@@ -514,7 +547,10 @@
   {
     "num": 20,
     "datetime": "07.03.2013T19:00",
-    "place": "oru",
+    "place": {
+      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
+      "url": "http://www.oruhotel.ee"
+    },
     "speeches": [
       {
         "youtube": [""],
@@ -542,7 +578,10 @@
   {
     "num": 19,
     "datetime": "17.01.2013T19:00",
-    "place": "oru",
+    "place": {
+      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
+      "url": "http://www.oruhotel.ee"
+    },
     "speeches": [
       {
         "speakers": [{"names": {"*": "Viljo Marrandi"}}],
@@ -559,7 +598,10 @@
   {
     "num": 18,
     "datetime": "13.12.2012T19:00",
-    "place": "oru",
+    "place": {
+      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
+      "url": "http://www.oruhotel.ee"
+    },
     "photo": [
       "https://get.google.com/albumarchive/101124267861537730212/album/AF1QipNd9yheASxim0KfUeMPXfW8mptcVfu7PhXbX71E?source=pwa"
     ],
@@ -611,7 +653,10 @@
   {
     "num": 17,
     "datetime": "30.10.2012T19:00",
-    "place": "oru",
+    "place": {
+      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
+      "url": "http://www.oruhotel.ee"
+    },
     "photo": [
       "https://get.google.com/albumarchive/101124267861537730212/album/AF1QipNUPm3Snv7Y9Xsryv13xG_8DKDnVITcyGhNf7SQ?source=pwa"
     ]
@@ -619,7 +664,10 @@
   {
     "num": 16,
     "datetime": "18.09.2012T19:00",
-    "place": "oru",
+    "place": {
+      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
+      "url": "http://www.oruhotel.ee"
+    },
     "photo": [
       "https://get.google.com/albumarchive/101124267861537730212/album/AF1QipNIn9xK3pgEpH9wdRuRnXBRuVcCz8WDeudjK3a7?source=pwa"
     ],
@@ -657,7 +705,10 @@
   {
     "num": 15,
     "datetime": "23.08.2012T19:00",
-    "place": "oru",
+    "place": {
+      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
+      "url": "http://www.oruhotel.ee"
+    },
     "photo": [
       "https://get.google.com/albumarchive/101124267861537730212/album/AF1QipORDjwi8GJA2IGPAJ28S--h0pwF7lMOTzgATtRB?source=pwa"
     ],
@@ -688,7 +739,10 @@
   {
     "num": 14,
     "datetime": "03.07.2012T19:00",
-    "place": "oru",
+    "place": {
+      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
+      "url": "http://www.oruhotel.ee"
+    },
     "photo": [
       "https://get.google.com/albumarchive/101124267861537730212/album/AF1QipPAUtRvxKdAVXoPHw7ZLnnTIgp01Vvdj2mZ4iro?source=pwa"
     ],
@@ -747,7 +801,10 @@
   {
     "num": 13,
     "datetime": "07.06.2012T19:00",
-    "place": "oru",
+    "place": {
+      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
+      "url": "http://www.oruhotel.ee"
+    },
     "photo": [
       "https://get.google.com/albumarchive/101124267861537730212/album/AF1QipOgGDci9YW5KFPYNbHzlsF8klcDVBVJEYiXWkqc"
     ],
@@ -778,7 +835,10 @@
   {
     "num": 12,
     "datetime": "10.04.2012T19:00",
-    "place": "oru",
+    "place": {
+      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
+      "url": "http://www.oruhotel.ee"
+    },
     "speeches": [
       {
         "youtube": [""],
@@ -813,7 +873,10 @@
   {
     "num": 11,
     "datetime": "01.03.2012T19:00",
-    "place": "oru",
+    "place": {
+      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
+      "url": "http://www.oruhotel.ee"
+    },
     "photo": [
       "https://get.google.com/albumarchive/101124267861537730212/album/AF1QipOpgOi2uuQPMKRSIc1xVA8bc-n92zP2LVQNrXuJ?source=pwa"
     ],
@@ -844,7 +907,10 @@
   {
     "num": 10,
     "datetime": "24.01.2012T19:00",
-    "place": "oru",
+    "place": {
+      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
+      "url": "http://www.oruhotel.ee"
+    },
     "photo": [
       "https://get.google.com/albumarchive/101124267861537730212/album/AF1QipMHJbOpb9I4TT1KkTsqylB360yvr0iWx-3lN-B2?source=pwa"
     ],
@@ -866,7 +932,10 @@
   {
     "num": 9,
     "datetime": "01.12.2011T19:00",
-    "place": "oru",
+    "place": {
+      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
+      "url": "http://www.oruhotel.ee"
+    },
     "photo": [
       "https://get.google.com/albumarchive/101124267861537730212/album/AF1QipMSJm1TTn3TGAR5mAyupXQN0-q1jGvzw9C3E1Xp?source=pwa"
     ],
@@ -890,7 +959,10 @@
   {
     "num": 8,
     "datetime": "01.11.2011T19:00",
-    "place": "oru",
+    "place": {
+      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
+      "url": "http://www.oruhotel.ee"
+    },
     "photo": [
       "https://get.google.com/albumarchive/101124267861537730212/album/AF1QipOC3lyztja_A9ku23F0nJ4VpeWFVO1-W5GZfmo3?source=pwa&authKey=COLEw6fY3rSV_wE"
     ],
@@ -914,7 +986,10 @@
   {
     "num": 7,
     "datetime": "27.09.2011T19:00",
-    "place": "oru",
+    "place": {
+      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
+      "url": "http://www.oruhotel.ee"
+    },
     "photo": [
       "https://get.google.com/albumarchive/101124267861537730212/album/AF1QipPv4ObHLd3_0o5de0cuMorwJSrZwDqamXSLhMdL?source=pwa"
     ]
@@ -922,7 +997,10 @@
   {
     "num": 6,
     "datetime": "23.08.2011T19:00",
-    "place": "oru",
+    "place": {
+      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
+      "url": "http://www.oruhotel.ee"
+    },
     "photo": [
       "https://get.google.com/albumarchive/103828092922403049853/album/AF1QipP3OG_L-BsTwV7ep3aQdrkqopmKUFF1QcendTUi?source=pwa",
       "https://get.google.com/albumarchive/101124267861537730212/album/AF1QipOq66WmCyWmh55_XeqsE6jx_viHwYuQpzIea9DW?source=pwa"
@@ -961,7 +1039,10 @@
   {
     "num": 5,
     "datetime": "05.07.2011T19:00",
-    "place": "oru",
+    "place": {
+      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
+      "url": "http://www.oruhotel.ee"
+    },
     "photo": [
       "https://get.google.com/albumarchive/101124267861537730212/album/AF1QipPAGqqaq5HrwkrGCGWA07J28T0WOHnmZ4vhJhPr?source=pwa"
     ],
@@ -992,7 +1073,10 @@
   {
     "num": 4,
     "datetime": "24.05.2011T19:00",
-    "place": "oru",
+    "place": {
+      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
+      "url": "http://www.oruhotel.ee"
+    },
     "photo": [
       "https://get.google.com/albumarchive/101124267861537730212/album/AF1QipOXrBLM4LGRLNzuZCDmtESuckq574HRD2BfZSsW?source=pwa&authKey=CJbg95OF9qGJ3QE"
     ],
@@ -1047,7 +1131,10 @@
   {
     "num": 2,
     "datetime": "03.03.2011T19:00",
-    "place": "oru",
+    "place": {
+      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
+      "url": "http://www.oruhotel.ee"
+    },
     "photo": [
       "https://get.google.com/albumarchive/101124267861537730212/album/AF1QipPQfcGM27pyhDORNQ8oHyWmCqWhOOT3uvEEweGN?source=pwa"
     ],
@@ -1078,7 +1165,10 @@
   {
     "num": 1,
     "datetime": "03.02.2011T19:00",
-    "place": "oru",
+    "place": {
+      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
+      "url": "http://www.oruhotel.ee"
+    },
     "photo": [
       "https://get.google.com/albumarchive/109740103607312927978/album/AF1QipN26uWR-_nuiSRXVcu7H6NpwrdN2uSH6p1UjHlf?source=pwa&authKey=CP-wzcbeqbDX-QE"
     ],

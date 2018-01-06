@@ -1,9 +1,5 @@
 [
   {
-    "code": "oru", "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2",
-    "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
-  },
-  {
     "code": "p", "name": "Pipedrive OÜ", "loc": "https://goo.gl/maps/squwGHdRPMB2",
     "addr": "Paldiski mnt 80, Tallinn 10617", "url": "https://www.pipedrive.com"
   },
