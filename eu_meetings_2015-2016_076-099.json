@@ -1,6 +1,6 @@
 [
   {
-    "datetime": "30.11.2016T19:00",
+    "datetime": "2016-11-30T19:00:00+02:00",
     "place": {
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
       "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
@@ -58,7 +58,7 @@
     ]
   },
   {
-    "datetime": "31.10.2016T19:00",
+    "datetime": "2016-10-31T19:00:00+02:00",
     "place": {
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
       "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
@@ -118,7 +118,7 @@
     ]
   },
   {
-    "datetime": "29.09.2016T19:00",
+    "datetime": "2016-09-29T19:00:00+02:00",
     "place": {
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
       "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
@@ -174,7 +174,7 @@
     ]
   },
   {
-    "datetime": "30.08.2016T19:00",
+    "datetime": "2016-08-30T19:00:00+02:00",
     "place": {
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
       "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
@@ -227,7 +227,7 @@
     ]
   },
   {
-    "datetime": "02.08.2016T19:00",
+    "datetime": "2016-08-02T19:00:00+02:00",
     "place": {
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
       "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
@@ -284,7 +284,7 @@
     ]
   },
   {
-    "datetime": "28.06.2016T19:00",
+    "datetime": "2016-06-28T19:00:00+02:00",
     "place": {
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
       "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
@@ -341,7 +341,7 @@
     ]
   },
   {
-    "datetime": "24.05.2016T19:00",
+    "datetime": "2016-05-24T19:00:00+02:00",
     "place": {
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
       "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
@@ -395,7 +395,7 @@
     ]
   },
   {
-    "datetime": "21.04.2016T19:00",
+    "datetime": "2016-04-21T19:00:00+02:00",
     "place": {
       "name": "Nortal AS", "loc": "https://goo.gl/maps/Hx1WpPRW4x32", "addr": "Lõõtsa 6, 11415 Tallinn",
       "url": "https://nortal.com"
@@ -453,7 +453,7 @@
     ]
   },
   {
-    "datetime": "29.03.2016T19:00",
+    "datetime": "2016-03-29T19:00:00+02:00",
     "place": {
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
       "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
@@ -506,7 +506,7 @@
     ]
   },
   {
-    "datetime": "24.02.2016T19:00",
+    "datetime": "2016-02-24T19:00:00+02:00",
     "place": {
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
       "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
@@ -562,7 +562,7 @@
     ]
   },
   {
-    "datetime": "27.01.2016T19:00",
+    "datetime": "2016-01-27T19:00:00+02:00",
     "place": {
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
       "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
@@ -622,7 +622,7 @@
     ]
   },
   {
-    "datetime": "29.12.2015T19:00",
+    "datetime": "2015-12-29T19:00:00+02:00",
     "place": {
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
       "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
@@ -692,7 +692,7 @@
     ]
   },
   {
-    "datetime": "25.11.2015T19:00",
+    "datetime": "2015-11-25T19:00:00+02:00",
     "place": {
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
       "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
@@ -748,7 +748,7 @@
     ]
   },
   {
-    "datetime": "28.10.2015T19:00",
+    "datetime": "2015-10-28T19:00:00+02:00",
     "place": {
       "name": "Tallink Spa & Conference Hotel", "loc": "https://goo.gl/maps/EC38ZYDt8CQ2",
       "addr": "Sadama 11a, 10111 Tallinn", "url": "https://www.tallinkhotels.com/tallink-spa-conference-hotel"
@@ -803,7 +803,7 @@
     ]
   },
   {
-    "datetime": "29.09.2015T19:00",
+    "datetime": "2015-09-29T19:00:00+02:00",
     "place": {
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
       "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
@@ -859,7 +859,7 @@
     ]
   },
   {
-    "datetime": "19.08.2015T19:00",
+    "datetime": "2015-08-19T19:00:00+02:00",
     "place": {
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
       "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
@@ -916,7 +916,7 @@
     ]
   },
   {
-    "datetime": "30.07.2015T19:00",
+    "datetime": "2015-07-30T19:00:00+02:00",
     "place": {
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
       "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
@@ -968,7 +968,7 @@
     ]
   },
   {
-    "datetime": "02.07.2015T19:00",
+    "datetime": "2015-07-02T19:00:00+02:00",
     "place": {
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
       "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
@@ -1023,7 +1023,7 @@
     ]
   },
   {
-    "datetime": "26.05.2015T19:00",
+    "datetime": "2015-05-26T19:00:00+02:00",
     "place": {
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
       "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
@@ -1077,7 +1077,7 @@
     ]
   },
   {
-    "datetime": "30.04.2015T00:00",
+    "datetime": "2015-04-30T00:00:00+02:00",
     "place": {
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
       "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
@@ -1132,7 +1132,7 @@
     ]
   },
   {
-    "datetime": "26.03.2015T00:00",
+    "datetime": "2015-03-26T00:00:00+02:00",
     "place": {
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
       "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
@@ -1185,7 +1185,7 @@
     ]
   },
   {
-    "datetime": "26.02.2015T00:00",
+    "datetime": "2015-02-26T00:00:00+02:00",
     "place": {
       "name": "Tallink Spa & Conference Hotel", "loc": "https://goo.gl/maps/EC38ZYDt8CQ2",
       "addr": "Sadama 11a, 10111 Tallinn", "url": "https://www.tallinkhotels.com/tallink-spa-conference-hotel"
@@ -1241,7 +1241,7 @@
     ]
   },
   {
-    "datetime": "27.01.2015T00:00",
+    "datetime": "2015-01-27T00:00:00+02:00",
     "place": {
       "name": "Hotell Euroopa", "loc": "https://goo.gl/maps/bu6pbxbmCJS2", "addr": "Paadi 5, 10151 Tallinn",
       "url": "http://www.euroopa.ee"
@@ -1288,7 +1288,7 @@
     ]
   },
   {
-    "datetime": "18.12.2014T00:00",
+    "datetime": "2014-12-18T00:00:00+02:00",
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
       "url": "http://www.oruhotel.ee"

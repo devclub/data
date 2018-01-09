@@ -1,7 +1,7 @@
 [
   {
     "num": 42,
-    "datetime": "19.11.2015T19:00",
+    "datetime": "2015-11-19T19:00:00+02:00",
     "place": {
       "name": "Tallink Spa & Conference Hotel", "loc": "https://goo.gl/maps/EC38ZYDt8CQ2",
       "addr": "Sadama 11a, 10111 Tallinn", "url": "https://www.tallinkhotels.com/tallink-spa-conference-hotel"
@@ -32,7 +32,7 @@
   },
   {
     "num": 41,
-    "datetime": "20.10.2015T19:00",
+    "datetime": "2015-10-20T19:00:00+02:00",
     "place": {
       "name": "Tallink Spa & Conference Hotel", "loc": "https://goo.gl/maps/EC38ZYDt8CQ2",
       "addr": "Sadama 11a, 10111 Tallinn", "url": "https://www.tallinkhotels.com/tallink-spa-conference-hotel"
@@ -52,7 +52,7 @@
   },
   {
     "num": 40,
-    "datetime": "24.09.2015T19:00",
+    "datetime": "2015-09-24T19:00:00+02:00",
     "place": {
       "name": "Tallink Spa & Conference Hotel", "loc": "https://goo.gl/maps/EC38ZYDt8CQ2",
       "addr": "Sadama 11a, 10111 Tallinn", "url": "https://www.tallinkhotels.com/tallink-spa-conference-hotel"
@@ -72,7 +72,7 @@
   },
   {
     "num": 39,
-    "datetime": "18.06.2015T19:00",
+    "datetime": "2015-06-18T19:00:00+02:00",
     "place": {
       "name": "Tallink Spa & Conference Hotel", "loc": "https://goo.gl/maps/EC38ZYDt8CQ2",
       "addr": "Sadama 11a, 10111 Tallinn", "url": "https://www.tallinkhotels.com/tallink-spa-conference-hotel"
@@ -96,7 +96,7 @@
   },
   {
     "num": 38,
-    "datetime": "06.05.2015T19:00",
+    "datetime": "2015-05-06T19:00:00+02:00",
     "place": {
       "name": "Tallink Spa & Conference Hotel", "loc": "https://goo.gl/maps/EC38ZYDt8CQ2",
       "addr": "Sadama 11a, 10111 Tallinn", "url": "https://www.tallinkhotels.com/tallink-spa-conference-hotel"
@@ -116,7 +116,7 @@
   },
   {
     "num": 37,
-    "datetime": "16.04.2015T19:00",
+    "datetime": "2015-04-16T19:00:00+02:00",
     "place": {
       "name": "Tallink Spa & Conference Hotel", "loc": "https://goo.gl/maps/EC38ZYDt8CQ2",
       "addr": "Sadama 11a, 10111 Tallinn", "url": "https://www.tallinkhotels.com/tallink-spa-conference-hotel"
@@ -144,7 +144,7 @@
   },
   {
     "num": 36,
-    "datetime": "17.03.2015T19:00",
+    "datetime": "2015-03-17T19:00:00+02:00",
     "place": {
       "name": "Hotell Euroopa", "loc": "https://goo.gl/maps/bu6pbxbmCJS2", "addr": "Paadi 5, 10151 Tallinn",
       "url": "http://www.euroopa.ee"
@@ -168,7 +168,7 @@
   },
   {
     "num": 35,
-    "datetime": "26.02.2015T19:00",
+    "datetime": "2015-02-26T19:00:00+02:00",
     "place": {
       "name": "Hotell Euroopa", "loc": "https://goo.gl/maps/bu6pbxbmCJS2", "addr": "Paadi 5, 10151 Tallinn",
       "url": "http://www.euroopa.ee"
@@ -192,7 +192,7 @@
   },
   {
     "num": 34,
-    "datetime": "19.01.2015T19:00",
+    "datetime": "2015-01-19T19:00:00+02:00",
     "place": {
       "name": "Hotell Euroopa", "loc": "https://goo.gl/maps/bu6pbxbmCJS2", "addr": "Paadi 5, 10151 Tallinn",
       "url": "http://www.euroopa.ee"
@@ -216,7 +216,7 @@
   },
   {
     "num": 33,
-    "datetime": "27.11.2014T19:00",
+    "datetime": "2014-11-27T19:00:00+02:00",
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
       "url": "http://www.oruhotel.ee"
@@ -240,7 +240,7 @@
   },
   {
     "num": 32,
-    "datetime": "30.10.2014T19:00",
+    "datetime": "2014-10-30T19:00:00+02:00",
     "place": {
       "name": "Hotell Euroopa", "loc": "https://goo.gl/maps/bu6pbxbmCJS2", "addr": "Paadi 5, 10151 Tallinn",
       "url": "http://www.euroopa.ee"
@@ -274,7 +274,7 @@
   },
   {
     "num": 31,
-    "datetime": "30.09.2014T19:00",
+    "datetime": "2014-09-30T19:00:00+02:00",
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
       "url": "http://www.oruhotel.ee"
@@ -301,7 +301,7 @@
   },
   {
     "num": 30,
-    "datetime": "02.09.2014T19:00",
+    "datetime": "2014-09-02T19:00:00+02:00",
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
       "url": "http://www.oruhotel.ee"
@@ -328,7 +328,7 @@
   },
   {
     "num": 29,
-    "datetime": "24.07.2014T19:00",
+    "datetime": "2014-07-24T19:00:00+02:00",
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
       "url": "http://www.oruhotel.ee"
@@ -353,7 +353,7 @@
   },
   {
     "num": 28,
-    "datetime": "05.06.2014T19:00",
+    "datetime": "2014-06-05T19:00:00+02:00",
     "place": {
       "name": "Transferwise Ltd Estonia", "loc": "https://goo.gl/maps/fXmz146K1SD2",
       "addr": "Veerenni 24, 10135 Tallinn", "url": "https://transferwise.com"
@@ -380,7 +380,7 @@
   },
   {
     "num": 27,
-    "datetime": "15.05.2014T19:00",
+    "datetime": "2014-05-15T19:00:00+02:00",
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
       "url": "http://www.oruhotel.ee"
@@ -403,7 +403,7 @@
   },
   {
     "num": 26,
-    "datetime": "10.04.2014T19:00",
+    "datetime": "2014-04-10T19:00:00+02:00",
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
       "url": "http://www.oruhotel.ee"
@@ -427,7 +427,7 @@
   },
   {
     "num": 25,
-    "datetime": "17.12.2013T19:00",
+    "datetime": "2013-12-17T19:00:00+02:00",
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
       "url": "http://www.oruhotel.ee"
@@ -472,7 +472,7 @@
   },
   {
     "num": 24,
-    "datetime": "24.09.2013T19:00",
+    "datetime": "2013-09-24T19:00:00+02:00",
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
       "url": "http://www.oruhotel.ee"
@@ -496,7 +496,7 @@
   },
   {
     "num": 23,
-    "datetime": "22.08.2013T19:00",
+    "datetime": "2013-08-22T19:00:00+02:00",
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
       "url": "http://www.oruhotel.ee"
@@ -520,7 +520,7 @@
   },
   {
     "num": 22,
-    "datetime": "04.06.2013T19:00",
+    "datetime": "2013-06-04T19:00:00+02:00",
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
       "url": "http://www.oruhotel.ee"
@@ -543,7 +543,7 @@
   },
   {
     "num": 21,
-    "datetime": "25.04.2013T19:00",
+    "datetime": "2013-04-25T19:00:00+02:00",
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
       "url": "http://www.oruhotel.ee"
@@ -567,7 +567,7 @@
   },
   {
     "num": 20,
-    "datetime": "07.03.2013T19:00",
+    "datetime": "2013-03-07T19:00:00+02:00",
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
       "url": "http://www.oruhotel.ee"
@@ -598,7 +598,7 @@
   },
   {
     "num": 19,
-    "datetime": "17.01.2013T19:00",
+    "datetime": "2013-01-17T19:00:00+02:00",
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
       "url": "http://www.oruhotel.ee"
@@ -618,7 +618,7 @@
   },
   {
     "num": 18,
-    "datetime": "13.12.2012T19:00",
+    "datetime": "2012-12-13T19:00:00+02:00",
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
       "url": "http://www.oruhotel.ee"
@@ -673,7 +673,7 @@
   },
   {
     "num": 17,
-    "datetime": "30.10.2012T19:00",
+    "datetime": "2012-10-30T19:00:00+02:00",
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
       "url": "http://www.oruhotel.ee"
@@ -684,7 +684,7 @@
   },
   {
     "num": 16,
-    "datetime": "18.09.2012T19:00",
+    "datetime": "2012-09-18T19:00:00+02:00",
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
       "url": "http://www.oruhotel.ee"
@@ -725,7 +725,7 @@
   },
   {
     "num": 15,
-    "datetime": "23.08.2012T19:00",
+    "datetime": "2012-08-23T19:00:00+02:00",
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
       "url": "http://www.oruhotel.ee"
@@ -759,7 +759,7 @@
   },
   {
     "num": 14,
-    "datetime": "03.07.2012T19:00",
+    "datetime": "2012-07-03T19:00:00+02:00",
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
       "url": "http://www.oruhotel.ee"
@@ -821,7 +821,7 @@
   },
   {
     "num": 13,
-    "datetime": "07.06.2012T19:00",
+    "datetime": "2012-06-07T19:00:00+02:00",
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
       "url": "http://www.oruhotel.ee"
@@ -855,7 +855,7 @@
   },
   {
     "num": 12,
-    "datetime": "10.04.2012T19:00",
+    "datetime": "2012-04-10T19:00:00+02:00",
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
       "url": "http://www.oruhotel.ee"
@@ -893,7 +893,7 @@
   },
   {
     "num": 11,
-    "datetime": "01.03.2012T19:00",
+    "datetime": "2012-03-01T19:00:00+02:00",
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
       "url": "http://www.oruhotel.ee"
@@ -927,7 +927,7 @@
   },
   {
     "num": 10,
-    "datetime": "24.01.2012T19:00",
+    "datetime": "2012-01-24T19:00:00+02:00",
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
       "url": "http://www.oruhotel.ee"
@@ -952,7 +952,7 @@
   },
   {
     "num": 9,
-    "datetime": "01.12.2011T19:00",
+    "datetime": "2011-12-01T19:00:00+02:00",
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
       "url": "http://www.oruhotel.ee"
@@ -979,7 +979,7 @@
   },
   {
     "num": 8,
-    "datetime": "01.11.2011T19:00",
+    "datetime": "2011-11-01T19:00:00+02:00",
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
       "url": "http://www.oruhotel.ee"
@@ -1006,7 +1006,7 @@
   },
   {
     "num": 7,
-    "datetime": "27.09.2011T19:00",
+    "datetime": "2011-09-27T19:00:00+02:00",
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
       "url": "http://www.oruhotel.ee"
@@ -1017,7 +1017,7 @@
   },
   {
     "num": 6,
-    "datetime": "23.08.2011T19:00",
+    "datetime": "2011-08-23T19:00:00+02:00",
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
       "url": "http://www.oruhotel.ee"
@@ -1059,7 +1059,7 @@
   },
   {
     "num": 5,
-    "datetime": "05.07.2011T19:00",
+    "datetime": "2011-07-05T19:00:00+02:00",
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
       "url": "http://www.oruhotel.ee"
@@ -1093,7 +1093,7 @@
   },
   {
     "num": 4,
-    "datetime": "24.05.2011T19:00",
+    "datetime": "2011-05-24T19:00:00+02:00",
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
       "url": "http://www.oruhotel.ee"
@@ -1120,7 +1120,7 @@
   },
   {
     "num": 3,
-    "datetime": "07.04.2011T19:00",
+    "datetime": "2011-04-07T19:00:00+02:00",
     "place": {
       "name": "Hotell Susi", "loc": "https://goo.gl/maps/55CMMhKW67K2", "addr": "Peterburi tee 48, 11415 Tallinn",
       "url": "http://www.susihotel.ee"
@@ -1154,7 +1154,7 @@
   },
   {
     "num": 2,
-    "datetime": "03.03.2011T19:00",
+    "datetime": "2011-03-03T19:00:00+02:00",
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
       "url": "http://www.oruhotel.ee"
@@ -1188,7 +1188,7 @@
   },
   {
     "num": 1,
-    "datetime": "03.02.2011T19:00",
+    "datetime": "2011-02-03T19:00:00+02:00",
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
       "url": "http://www.oruhotel.ee"

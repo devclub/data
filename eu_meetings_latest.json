@@ -1,7 +1,7 @@
 [
   {
     "num": 112,
-    "datetime": "29.12.2017T19:00",
+    "datetime": "2017-12-29T19:00:00+02:00",
     "place": {
       "name": "Park Inn by Radisson Meriton Conference & Spa Hotel Tallinn", "loc": "https://goo.gl/maps/AJbuvwDS7co",
       "addr": "Toompuiestee 27/Paldiski mnt 4, 10149 Tallinn", "url": "https://www.parkinn.com/hotel-meriton-tallinn"
@@ -53,7 +53,7 @@
   },
   {
     "num": 111,
-    "datetime": "29.11.2017T19:00",
+    "datetime": "2017-11-29T19:00:00+02:00",
     "place": {
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
       "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
@@ -106,7 +106,7 @@
   },
   {
     "num": 110,
-    "datetime": "23.10.2017T19:00",
+    "datetime": "2017-10-23T19:00:00+02:00",
     "place": {
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
       "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
@@ -159,7 +159,7 @@
   },
   {
     "num": 109,
-    "datetime": "26.09.2017T19:00",
+    "datetime": "2017-09-26T19:00:00+02:00",
     "place": {
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
       "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
@@ -211,7 +211,7 @@
   },
   {
     "num": 108,
-    "datetime": "24.08.2017T19:00",
+    "datetime": "2017-08-24T19:00:00+02:00",
     "place": {
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
       "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
@@ -266,7 +266,7 @@
   },
   {
     "num": 107,
-    "datetime": "27.07.2017T19:00",
+    "datetime": "2017-07-27T19:00:00+02:00",
     "place": {
       "name": "Park Inn by Radisson Meriton Conference & Spa Hotel Tallinn", "loc": "https://goo.gl/maps/AJbuvwDS7co",
       "addr": "Toompuiestee 27/Paldiski mnt 4, 10149 Tallinn", "url": "https://www.parkinn.com/hotel-meriton-tallinn"
@@ -318,7 +318,7 @@
   {
     "num": 106,
     "titles": {"ru": "медицинская", "en": "medical", "ee": "meditsiiniline"},
-    "datetime": "20.06.2017T19:00",
+    "datetime": "2017-06-20T19:00:00+02:00",
     "place": {
       "name": "Wabadus", "loc": "https://goo.gl/maps/7ya5Znk3Vv62", "addr": "Vabaduse väljak 10, 10146 Tallinn",
       "url": "http://www.wabadus.ee"
@@ -370,7 +370,7 @@
   },
   {
     "num": 105,
-    "datetime": "23.05.2017T19:00",
+    "datetime": "2017-05-23T19:00:00+02:00",
     "place": {
       "name": "Wabadus", "loc": "https://goo.gl/maps/7ya5Znk3Vv62", "addr": "Vabaduse väljak 10, 10146 Tallinn",
       "url": "http://www.wabadus.ee"
@@ -425,7 +425,7 @@
   {
     "num": 104,
     "titles": {"*": "UX"},
-    "datetime": "26.04.2017T19:00",
+    "datetime": "2017-04-26T19:00:00+02:00",
     "place": {
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
       "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
@@ -479,7 +479,7 @@
   },
   {
     "num": 103,
-    "datetime": "28.03.2017T19:00",
+    "datetime": "2017-03-28T19:00:00+02:00",
     "place": {
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
       "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
@@ -536,7 +536,7 @@
   },
   {
     "num": 102,
-    "datetime": "28.02.2017T19:00",
+    "datetime": "2017-02-28T19:00:00+02:00",
     "place": {
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
       "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
@@ -589,7 +589,7 @@
   },
   {
     "num": 101,
-    "datetime": "31.01.2017T19:00",
+    "datetime": "2017-01-31T19:00:00+02:00",
     "place": {
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
       "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
@@ -644,7 +644,7 @@
   },
   {
     "num": 100,
-    "datetime": "22.12.2016T19:00",
+    "datetime": "2016-12-22T19:00:00+02:00",
     "place": {
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
       "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
