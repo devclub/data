@@ -1,6 +1,6 @@
 {
   "defaultLang": "en",
-  "navbarColor": "#ffa423",
+  "navbarStyle": {"background": "linear-gradient(to bottom right, #ffa423, #000000)"},
   "devclubMenuUrl": "https://devclub.eu",
   "devclubMenuText": "=> DEVCLUB.EU",
   "photoUrlPrefix": "https://devclub.github.io/data/persons",
