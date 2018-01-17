@@ -1,5 +1,8 @@
 {
   "defaultLang": "ru",
+  "navbarColor": "#ffa423",
+  "devclubMenuUrl": "https://devclub.ee",
+  "devclubMenuText": "=> DEVCLUB.EE",
   "photoUrlPrefix": "https://devclub.github.io/data/persons",
   "photoDefaultImage": "nophoto.png",
   "fileUrlPrefix": "https://devclub.github.io/fileserver/files",
