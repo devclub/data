@@ -3,7 +3,7 @@
   "navbarStyle": {"background": "linear-gradient(to bottom right, #ffa423, #000000)"},
   "devclubText": "DEVCLUB.EU",
   "devclubMenuUrl": "https://devclub.ee",
-  "devclubMenuText": "=> DEVCLUB.EE",
+  "devclubMenuText": "DEVCLUB.EE",
   "photoUrlPrefix": "https://devclub.github.io/data/persons",
   "photoDefaultImage": "nophoto.png",
   "fileUrlPrefix": "https://devclub.github.io/fileserver/files",
