@@ -92,6 +92,7 @@
         "speakers": [
           {
             "names": {"*": "Anton Keks", "ru": "Антон Кекс"},
+            "titles": {"*": "Developer @ Codeborne"},
             "url": "https://www.linkedin.com/in/antonkeks",
             "image": "akeks.jpg"
           }
@@ -105,6 +106,7 @@
         "speakers": [
           {
             "names": {"*": "Andrei Solntsev", "ru": "Андрей Солнцев"},
+            "titles": {"*": "Developer @ Codeborne"},
             "url": "https://ee.linkedin.com/in/asolntsev",
             "image": "asolntsev.jpg"
           }
@@ -118,6 +120,7 @@
         "speakers": [
           {
             "names": {"*": "Jevgeni Goloborodko", "ru": "Евгений Голобородько"},
+            "titles": {"*": "Architect @ Digital Magic Ltd"},
             "url": "https://ee.linkedin.com/in/jevgeni-goloborodko-65a048a",
             "image": "jgoloborodko.jpg"
           }
@@ -144,6 +147,7 @@
         "speakers": [
           {
             "names": {"*": "Konstantin Root", "ru": "Константин Роот"},
+            "titles": {"*": "Owner @ Fringely AI"},
             "url": "https://ee.linkedin.com/in/konstantinroot",
             "image": "kroot.jpg"
           }
@@ -157,6 +161,7 @@
         "speakers": [
           {
             "names": {"*": "Andrei Solntsev", "ru": "Андрей Солнцев"},
+            "titles": {"*": "Developer @ Codeborne"},
             "url": "https://ee.linkedin.com/in/asolntsev",
             "image": "asolntsev.jpg"
           }
@@ -171,6 +176,7 @@
         "speakers": [
           {
             "names": {"*": "Stanislav Gorski", "ru": "Станислав Горский"},
+            "titles": {"*": "CTO @ Autobahn VMS"},
             "url": "https://www.linkedin.com/in/stanislav-gorski-1b5b5b55/",
             "image": "sgorski.jpg"
           }
@@ -197,6 +203,7 @@
         "speakers": [
           {
             "names": {"*": "Andrey Adamovich", "ru": "Андрей Адамович"},
+            "titles": {"*": "Organizer @ LatCraft"},
             "url": "https://www.linkedin.com/in/andreyadamovich/",
             "image": "aadamovich.jpg"
           }
@@ -210,6 +217,7 @@
         "speakers": [
           {
             "names": {"*": "Jevgeni Marenkov", "ru": "Евгений Маренков"},
+            "titles": {"*": "Lead Java Developer @ Kuehne+Nagel"},
             "url": "https://www.linkedin.com/in/jevgeni-marenkov-97a59b47",
             "image": "jmarenkov.jpeg"
           }
@@ -223,6 +231,7 @@
         "speakers": [
           {
             "names": {"*": "Ilja Hämäläinen", "ru": "Илья Хямяляйнен"},
+            "titles": {"*": "Developer"},
             "url": "https://github.com/w32blaster",
             "image": "ihamalainen.jpg"
           }
