@@ -48,6 +48,11 @@
     "name": "Transferwise",
     "logo": "transferwise.png",
     "url": "https://transferwise.com/"
+  },
+  {
+    "name": "Paxful",
+    "logo": "paxful.png",
+    "url": "https://paxful.com/"
   }
 ]
 
