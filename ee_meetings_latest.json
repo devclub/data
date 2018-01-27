@@ -318,6 +318,7 @@
     },
     "speeches": [
       {
+        "youtube": [""],
         "speakers": [{"names": {"*": "Playtech support"}}],
         "titles": {"en": "Playtech Office Tour"},
         "lang": "en"
