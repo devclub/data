@@ -278,6 +278,7 @@
         "lang": "en"
       },
       {
+        "youtube": [""],
         "speakers": [{"names": {"*": "Benjamin André Micolon"}}],
         "titles": {"en": "GraphQL: what it is, why use it and how it helps us at Palleter"},
         "lang": "en"
