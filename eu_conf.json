@@ -5,9 +5,19 @@
   "devclubText": "DEVCLUB.EU",
   "devclubMenuUrl": "https://devclub.ee",
   "devclubMenuText": "DEVCLUB.EE",
-  "photoUrlPrefix": "https://devclub.github.io/data/persons",
-  "photoDefaultImage": "nophoto.png",
+  "personUrlPrefix": "https://devclub.github.io/data/persons",
+  "personDefaultImage": "nophoto.png",
   "fileUrlPrefix": "https://devclub.github.io/fileserver/files",
+  "photoUrlPrefix": "https://devclub.github.io/data/photos",
+  "photos": [
+    [
+      {"main": "about-org-2016.jpg", "small": "about-org-2016_sm.jpg", "texts": {"*": "ORG 2016"}},
+      {"main": "about-2016-1.jpg", "small": "about-2016-1_sm.jpg", "texts": {"*": "HISTORY (1)", "ru": "ИСТОРИЯ (1)"}},
+      {"main": "about-2016-2.jpg", "small": "about-2016-2_sm.jpg", "texts": {"*": "HISTORY (2)", "ru": "ИСТОРИЯ (2)"}},
+      {"main": "about-kuksenko.jpg", "small": "about-kuksenko_sm.jpg", "texts": {"*": "KUKSENKO", "ru": "КУКСЕНКО"}},
+      {"main": "about-torts.jpg", "small": "about-torts_sm.jpg", "texts": {"*": "TORTS", "ru": "ТОРТЫ"}}
+    ]
+  ],
   "meetingsUrls": {
     "main": "https://devclub.github.io/data/eu_meetings_latest.json",
     "archive": [
