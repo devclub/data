@@ -26,9 +26,9 @@
       "https://devclub.github.io/data/eu_meetings_2008-2011_001-039.json"
     ]
   },
-  "sponsors": {
-    "dataUrl": "https://devclub.github.io/data/data_sponsors.json",
-    "logoUrlPrefix": "https://devclub.github.io/data/sponsors"
+  "commercial": {
+    "dataUrl": "https://devclub.github.io/data/data_commercial.json",
+    "logoUrlPrefix": "https://devclub.github.io/data/commercial"
   },
   "team": {
     "dataUrl": "https://devclub.github.io/data/data_team.json",
