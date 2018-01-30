@@ -34,5 +34,6 @@
     "dataUrl": "https://devclub.github.io/data/data_team.json",
     "photoUrlPrefix": "https://devclub.github.io/data/persons"
   },
-  "addSpeechFormUrl": "https://docs.google.com/forms/d/1xdBXhnLIIpP3ll-1zWIHtOStGG8XH2M65TApPn77JK4/viewform"
+  "blogUrl": "http://blog.devclub.eu",
+  "speechAddFormUrl": "https://docs.google.com/forms/d/1xdBXhnLIIpP3ll-1zWIHtOStGG8XH2M65TApPn77JK4/viewform"
 }
