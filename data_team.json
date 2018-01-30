@@ -63,19 +63,19 @@
       "image": "amotsenov_team.jpg", "url": "https://au.linkedin.com/pub/aleksandr-motsjonov/11/306/719"
     },
     {
-      "row": 1, "col": 3, "names": {"*": "Jevgeni Holodkov", "ru": "Евгений Холодков"},
+      "row": 2, "col": 1, "names": {"*": "Jevgeni Holodkov", "ru": "Евгений Холодков"},
       "image": "jholodkov_team.jpg", "url": "https://ch.linkedin.com/in/jevgeni"
     },
     {
-      "row": 1, "col": 4, "names": {"*": "Zahhar Kirillov", "ru": "Захар Кириллов"},
+      "row": 2, "col": 2, "names": {"*": "Zahhar Kirillov", "ru": "Захар Кириллов"},
       "image": "zkirillov_team.jpg", "url": "https://ee.linkedin.com/in/zahhar"
     },
     {
-      "row": 1, "col": 5, "names": {"*": "Arseni Grigorjev", "ru": "Арсений Григорьев"},
+      "row": 3, "col": 1, "names": {"*": "Arseni Grigorjev", "ru": "Арсений Григорьев"},
       "image": "agrigorjev_team.jpg", "url": "https://ee.linkedin.com/in/arsenig"
     },
     {
-      "row": 1, "col": 6, "names": {"*": "Kirill Buhhalko", "ru": "Кирилл Бухалко"},
+      "row": 3, "col": 2, "names": {"*": "Kirill Buhhalko", "ru": "Кирилл Бухалко"},
       "image": "kbuhhalko_team.jpg", "url": "https://ee.linkedin.com/pub/kirill-buhhalko/2/584/7b6"
     }
   ]
