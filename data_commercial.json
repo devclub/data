@@ -1,58 +1,75 @@
 [
   {
+    "name": "Omniva",
+    "logo": "omniva.png",
+    "url": "https://www.omniva.ee/",
+    "type": "COMMERCE"
+  },
+  {
     "name": "Nortal",
     "logo": "nortal.png",
-    "url": "http://www.nortal.ee/"
+    "url": "http://www.nortal.ee/",
+    "type": "SPONSOR"
   },
   {
     "name": "True",
     "logo": "true.png",
-    "url": "https://www.trueapp.co"
+    "url": "https://www.trueapp.co",
+    "type": "SPONSOR"
   },
   {
     "name": "Move Guides",
     "logo": "move_guides.png",
-    "url": "https://www.moveguides.com/"
+    "url": "https://www.moveguides.com/",
+    "type": "SPONSOR"
   },
   {
     "name": "Taxify",
     "logo": "taxify.png",
-    "url": "https://transferwise.com/"
+    "url": "https://transferwise.com/",
+    "type": "SPONSOR"
   },
   {
     "name": "MyJar",
     "logo": "myjar.png",
-    "url": "https://www.myjar.com/news/myjar-jobs"
+    "url": "https://www.myjar.com/news/myjar-jobs",
+    "type": "SPONSOR"
   },
   {
     "name": "Codeborne",
     "logo": "codeborne.png",
-    "url": "https://codeborne.com/ru/"
+    "url": "https://codeborne.com/ru/",
+    "type": "SPONSOR"
   },
   {
     "name": "Swedbank",
     "logo": "swedbank.png",
-    "url": "https://www.swedbank.ee"
+    "url": "https://www.swedbank.ee",
+    "type": "SPONSOR"
   },
   {
     "name": "Ignite",
     "logo": "ignite.png",
-    "url": "https://www.ignite.ee/"
+    "url": "https://www.ignite.ee/",
+    "type": "SPONSOR"
   },
   {
     "name": "JetBrains",
     "logo": "jetbrains.png",
-    "url": "https://www.jetbrains.com/"
+    "url": "https://www.jetbrains.com/",
+    "type": "SPONSOR"
   },
   {
     "name": "Transferwise",
     "logo": "transferwise.png",
-    "url": "https://transferwise.com/"
+    "url": "https://transferwise.com/",
+    "type": "SPONSOR"
   },
   {
     "name": "Paxful",
     "logo": "paxful.png",
-    "url": "https://paxful.com/"
+    "url": "https://paxful.com/",
+    "type": "SPONSOR"
   }
 ]
 
