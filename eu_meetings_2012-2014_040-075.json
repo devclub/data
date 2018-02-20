@@ -152,8 +152,16 @@
         "youtube": ["KQB2c7mp29M"],
         "origVid": ["https://www.youtube.com/watch?v=2SvMvKeVwOY"],
         "speakers": [
-          "Андрей Солнцев",
-          "Кирилл Линник"
+          {
+            "names": {"*": "Andrei Solntsev", "ru": "Андрей Солнцев"},
+            "url": "https://ee.linkedin.com/in/asolntsev",
+            "image": "asolntsev.jpg"
+          },
+          {
+            "names": {"*": "Kirill Linnik", "ru": "Кирилл Линник"},
+            "url": "https://ee.linkedin.com/pub/kirill-linnik/50/a65/976",
+            "image": "klinnik.jpg"
+          }
         ],
         "titles": {"ru": "Тесты или не тесты"},
         "labels": ["батл"],
@@ -1800,8 +1808,16 @@
         "youtube": ["2p1lyZ03UVs"],
         "origVid": ["https://vimeo.com/46455296"],
         "speakers": [
-          "Александр Мочёнов",
-          "Кирилл Линник"
+          {
+            "names": {"*": "Aleksandr Motsjonov", "ru": "Александр Мочёнов"},
+            "url": "https://au.linkedin.com/pub/aleksandr-motsjonov/11/306/719",
+            "image": "amotsenov.jpg"
+          },
+          {
+            "names": {"*": "Kirill Linnik", "ru": "Кирилл Линник"},
+            "url": "https://ee.linkedin.com/pub/kirill-linnik/50/a65/976",
+            "image": "klinnik.jpg"
+          }
         ],
         "titles": {"ru": "DEVCLUB.LV"}
       },
