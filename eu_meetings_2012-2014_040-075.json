@@ -1331,8 +1331,16 @@
         "youtube": ["Y0-wSgjzteE"],
         "origVid": ["https://vimeo.com/60614493"],
         "speakers": [
-          "Андрей Солнцев",
-          "Вадим Герасимов"
+          {
+            "names": {"*": "Andrei Solntsev", "ru": "Андрей Солнцев"},
+            "url": "https://ee.linkedin.com/in/asolntsev",
+            "image": "asolntsev.jpg"
+          },
+          {
+            "names": {"*": "", "ru": "Вадим Герасимов"},
+            "url": "",
+            "image": ""
+          }
         ],
         "titles": {"ru": "Selenide: тестирование по-пацански"}
       },
