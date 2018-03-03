@@ -1,6 +1,7 @@
 [
   {
     "datetime": "2011-11-30T00:00:00+02:00",
+    "season": 2011,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
       "url": "http://www.oruhotel.ee"
@@ -60,6 +61,7 @@
   },
   {
     "datetime": "2011-10-26T00:00:00+02:00",
+    "season": 2011,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
       "url": "http://www.oruhotel.ee"
@@ -136,6 +138,7 @@
   },
   {
     "datetime": "2011-09-28T00:00:00+02:00",
+    "season": 2011,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
       "url": "http://www.oruhotel.ee"
@@ -195,6 +198,7 @@
   },
   {
     "datetime": "2011-08-30T00:00:00+02:00",
+    "season": 2011,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
       "url": "http://www.oruhotel.ee"
@@ -252,6 +256,7 @@
   },
   {
     "datetime": "2011-07-28T00:00:00+02:00",
+    "season": 2011,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
       "url": "http://www.oruhotel.ee"
@@ -322,6 +327,7 @@
   },
   {
     "datetime": "2011-06-28T00:00:00+02:00",
+    "season": 2011,
     "place": {
       "name": "Hotell Susi", "loc": "https://goo.gl/maps/55CMMhKW67K2", "addr": "Peterburi tee 48, 11415 Tallinn",
       "url": "http://www.susihotel.ee"
@@ -434,6 +440,7 @@
   },
   {
     "datetime": "2011-05-31T00:00:00+02:00",
+    "season": 2011,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
       "url": "http://www.oruhotel.ee"
@@ -491,6 +498,7 @@
   },
   {
     "datetime": "2011-04-27T00:00:00+02:00",
+    "season": 2011,
     "place": {
       "name": "Hotell Susi", "loc": "https://goo.gl/maps/55CMMhKW67K2", "addr": "Peterburi tee 48, 11415 Tallinn",
       "url": "http://www.susihotel.ee"
@@ -547,6 +555,7 @@
   },
   {
     "datetime": "2011-03-25T00:00:00+02:00",
+    "season": 2011,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
       "url": "http://www.oruhotel.ee"
@@ -591,6 +600,7 @@
   },
   {
     "datetime": "2011-02-25T00:00:00+02:00",
+    "season": 2011,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
       "url": "http://www.oruhotel.ee"
@@ -649,6 +659,7 @@
   },
   {
     "datetime": "2011-01-26T00:00:00+02:00",
+    "season": 2011,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
       "url": "http://www.oruhotel.ee"
@@ -694,6 +705,7 @@
   },
   {
     "datetime": "2010-12-22T00:00:00+02:00",
+    "season": 2011,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
       "url": "http://www.oruhotel.ee"
@@ -766,6 +778,7 @@
   },
   {
     "datetime": "2010-11-23T00:00:00+02:00",
+    "season": 2010,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
       "url": "http://www.oruhotel.ee"
@@ -824,6 +837,7 @@
   },
   {
     "datetime": "2010-10-26T00:00:00+02:00",
+    "season": 2010,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
       "url": "http://www.oruhotel.ee"
@@ -868,6 +882,7 @@
   },
   {
     "datetime": "2010-09-29T00:00:00+02:00",
+    "season": 2010,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
       "url": "http://www.oruhotel.ee"
@@ -925,6 +940,7 @@
   },
   {
     "datetime": "2010-08-26T00:00:00+02:00",
+    "season": 2010,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
       "url": "http://www.oruhotel.ee"
@@ -984,6 +1000,7 @@
   },
   {
     "datetime": "2010-07-27T00:00:00+02:00",
+    "season": 2010,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
       "url": "http://www.oruhotel.ee"
@@ -1039,6 +1056,7 @@
   },
   {
     "datetime": "2010-06-28T00:00:00+02:00",
+    "season": 2010,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
       "url": "http://www.oruhotel.ee"
@@ -1096,6 +1114,7 @@
   },
   {
     "datetime": "2010-05-26T00:00:00+02:00",
+    "season": 2010,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
       "url": "http://www.oruhotel.ee"
@@ -1157,6 +1176,7 @@
   },
   {
     "datetime": "2010-04-30T00:00:00+02:00",
+    "season": 2010,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
       "url": "http://www.oruhotel.ee"
@@ -1216,6 +1236,7 @@
   },
   {
     "datetime": "2010-03-30T00:00:00+02:00",
+    "season": 2010,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
       "url": "http://www.oruhotel.ee"
@@ -1272,6 +1293,7 @@
   },
   {
     "datetime": "2010-02-26T00:00:00+02:00",
+    "season": 2010,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
       "url": "http://www.oruhotel.ee"
@@ -1314,6 +1336,7 @@
   },
   {
     "datetime": "2010-01-26T00:00:00+02:00",
+    "season": 2010,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
       "url": "http://www.oruhotel.ee"
@@ -1379,6 +1402,7 @@
   },
   {
     "datetime": "2009-12-22T00:00:00+02:00",
+    "season": 2010,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
       "url": "http://www.oruhotel.ee"
@@ -1461,6 +1485,7 @@
   },
   {
     "datetime": "2009-11-26T00:00:00+02:00",
+    "season": 2009,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
       "url": "http://www.oruhotel.ee"
@@ -1515,6 +1540,7 @@
   },
   {
     "datetime": "2009-10-29T00:00:00+02:00",
+    "season": 2009,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
       "url": "http://www.oruhotel.ee"
@@ -1574,6 +1600,7 @@
   },
   {
     "datetime": "2009-09-29T00:00:00+02:00",
+    "season": 2009,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
       "url": "http://www.oruhotel.ee"
@@ -1639,6 +1666,7 @@
   },
   {
     "datetime": "2009-08-27T00:00:00+02:00",
+    "season": 2009,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
       "url": "http://www.oruhotel.ee"
@@ -1699,6 +1727,7 @@
   },
   {
     "datetime": "2009-07-28T00:00:00+02:00",
+    "season": 2009,
     "place": {
       "name": "Helmes AS", "loc": "https://goo.gl/maps/L5dLpjcmHnq", "addr": "Lõõtsa 6b, 11415 Tallinn",
       "url": "http://www.helmes.com"
@@ -1768,6 +1797,7 @@
   },
   {
     "datetime": "2009-06-30T00:00:00+02:00",
+    "season": 2009,
     "place": {"name": "Aqris"},
     "num": 10,
     "org": {"mod": "kl", "photo": ""},
@@ -1816,6 +1846,7 @@
   },
   {
     "datetime": "2009-05-28T00:00:00+02:00",
+    "season": 2009,
     "place": {"name": "Aqris"},
     "num": 9,
     "org": {"mod": "Дмитрий Семиренко", "photo": ""},
@@ -1868,6 +1899,7 @@
   },
   {
     "datetime": "2009-04-23T00:00:00+02:00",
+    "season": 2009,
     "place": {"name": "Ericsson"},
     "num": 8,
     "speeches": [
@@ -1948,6 +1980,7 @@
   },
   {
     "datetime": "2009-03-28T00:00:00+02:00",
+    "season": 2009,
     "place": {"name": "Ericsson"},
     "num": 7,
     "speeches": [
@@ -1997,6 +2030,7 @@
   },
   {
     "datetime": "2009-02-19T00:00:00+02:00",
+    "season": 2009,
     "place": {"name": "Ericsson"},
     "num": 6,
     "speeches": [
@@ -2063,6 +2097,7 @@
   },
   {
     "datetime": "2009-01-30T00:00:00+02:00",
+    "season": 2009,
     "place": {"name": "Ericsson"},
     "num": 5,
     "speeches": [
@@ -2104,6 +2139,7 @@
   },
   {
     "datetime": "2008-12-26T00:00:00+02:00",
+    "season": 2009,
     "place": {"name": "Ustus Aguri maja"},
     "num": 4,
     "photo": [
@@ -2156,16 +2192,19 @@
   },
   {
     "datetime": "2008-06-05T00:00:00+02:00",
+    "season": 2009,
     "place": {"name": "Scotland Yard"},
     "num": 3
   },
   {
     "datetime": "2008-04-12T00:00:00+02:00",
+    "season": 2009,
     "place": {"name": "Exact"},
     "num": 2
   },
   {
     "datetime": "2008-03-07T00:00:00+02:00",
+    "season": 2009,
     "num": 1
   }
 ]
