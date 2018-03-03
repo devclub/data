@@ -1,7 +1,81 @@
 [
   {
+    "num": 114,
+    "datetime": "2018-02-22T19:00:00",
+    "season": 2018,
+    "place": {
+      "name": "Park Inn by Radisson Meriton Conference & Spa Hotel Tallinn", "loc": "https://goo.gl/maps/AJbuvwDS7co",
+      "addr": "Toompuiestee 27/Paldiski mnt 4, 10149 Tallinn", "url": "https://www.parkinn.com/hotel-meriton-tallinn"
+    },
+    "photo": ["https://photos.app.goo.gl/d2Lt6twYRvHNhZYA2"],
+    "event": "https://www.eventbrite.com/e/devclub-114-gdpr-tickets-43246130340",
+    "org": {"mod": "as", "photo": "kl"},
+    "speeches": [
+      {
+        "org": {"cam": "gb", "edit": ""},
+        "lang": "ru",
+        "youtube": [""],
+        "speakers": [
+          {
+            "names": {"*": "Aleksandr Gritsevski", "ru": "Александр Грицевский"},
+            "titles": {"*": "Lead Quality Manager @ Kuehne + Nagel"},
+            "url": "https://www.linkedin.com/in/leadqualitymanager",
+            "image": "agritsevski.jpg"
+          }
+        ],
+        "titles": {"ru": "Дизайн тест кейсов для автоматического тестирования. Возможно ли пройти аудит процессов без классических тест кейсов, тест сьютов и тест планов?"},
+        "descr": {
+          "ru": [
+            "Нужна ли нам дополнительная документация в проектах или достаточно только иметь автоматические скрипты? Возможно ли пройти аудит процессов без классических тест кейсов, тест сьютов и тест планов? Рассматривая различные фреймворки и их применение, я хочу показать, как разработчики программного обеспечения могут успешно проверить свой код без большого количества описаний."
+          ]
+        }
+      },
+      {
+        "org": {"cam": "gb", "edit": ""},
+        "lang": "ru",
+        "youtube": [""],
+        "speakers": [
+          {
+            "names": {"*": "Sergei Chipiga", "ru": "Сергей Чипига"},
+            "titles": {"*": "Senior Automation Engineer @ Derivco Estonia"},
+            "url": "https://www.linkedin.com/in/sergei-chipiga-05b29661/",
+            "image": "schipiga.jpg"
+          }
+        ],
+        "titles": {"ru": "Собственный тестовый фреймворк: так ли это плохо?"},
+        "descr": {
+          "ru": [
+            "В этом докладе я бы хотел рассказать, почему часто случается так, что команда автоматизации тестирования совместно с тестами разработывает собственный тестовый фреймворк. Чего не хватает в опен-сорс решениях и почему это не так уже и плохо. А также хотел бы представить собственный фреймворк, над которым работаю с свободное время, и который используется в моей работе — glacejs (https://glacejs.github.io)."
+          ]
+        }
+      },
+      {
+        "org": {"cam": "as", "edit": ""},
+        "lang": "ru",
+        "youtube": [""],
+        "speakers": [
+          {
+            "names": {"*": "Kirill Linnik", "ru": "Кирилл Линник"},
+            "titles": {"*": "Senior Software Architect @ MOVE Guides"},
+            "url": "https://ee.linkedin.com/pub/kirill-linnik/50/a65/976",
+            "image": "klinnik.jpg"
+          }
+        ],
+        "titles": {"ru": "GDPR и котики"},
+        "descr": {
+          "ru": [
+            "Несмотря на то, что новый закон, который вступит в силу уже в мае этого года, касается всех нас, прежде всего, он влияет на людей, так или иначе связанных с ИТ: и на разработчиков, и на потребителей услуг. При этом, о GDPR почти всегда рассказывают юристы и прочие люди, которые лишь отдалённо понимают, что же это означает на практике.",
+            "Причина в том, что мало кто из здравомыслящих людей в состоянии «осилить» 88-страничный юридический текст и перевести его на язык «технарей». Но кто же, если не ДевКлуб, сделает это для вас? Давайте пройдёмся по основным положениям и попытаемся вместе понять, насколько серьёзно это затронет разработку, с чего начать и сколько попросить людей к себе в команду (или просто закрыть бизнес)?",
+            "И, как вы уже догадались из названия, ответим и на главный вопрос: что делать с правами котиков в Интернете, ведь ине все из них дают согласие на размещение в Интернете? Согласие, право на забвение, какие данны считаются личными, какие меры нужно предпринять для их сохранности, как их перенести, что делать в случае взлома и как не «попасть» на 20 миллионов штрафа — эти вопросы теперь волнуют не только их, но и специалистов по всему миру."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "num": 113,
     "datetime": "2018-01-31T19:00:00",
+    "season": 2018,
     "place": {
       "name": "Park Inn by Radisson Meriton Conference & Spa Hotel Tallinn", "loc": "https://goo.gl/maps/AJbuvwDS7co",
       "addr": "Toompuiestee 27/Paldiski mnt 4, 10149 Tallinn", "url": "https://www.parkinn.com/hotel-meriton-tallinn"
@@ -78,6 +152,7 @@
   {
     "num": 112,
     "datetime": "2017-12-29T19:00:00",
+    "season": 2018,
     "place": {
       "name": "Park Inn by Radisson Meriton Conference & Spa Hotel Tallinn", "loc": "https://goo.gl/maps/AJbuvwDS7co",
       "addr": "Toompuiestee 27/Paldiski mnt 4, 10149 Tallinn", "url": "https://www.parkinn.com/hotel-meriton-tallinn"
@@ -142,151 +217,6 @@
             "В 2010 году я делал доклад о том, что нет плохих технологий, а есть плохие способы их применять. Этот доклад о том от чего меня серьезно бомбит, о наихудших практиках и не логичных решениях. Будет много эмоций и вбросов."
           ]
         }
-      }
-    ]
-  },
-  {
-    "num": 111,
-    "datetime": "2017-11-29T19:00:00",
-    "place": {
-      "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
-      "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
-    },
-    "photo": ["https://photos.app.goo.gl/QyrXo0YFMWRfJ4rg2"],
-    "event": "https://www.eventbrite.com/e/7-tickets-40601586438",
-    "org": {"mod": "kl", "photo": "kl,aa"},
-    "speeches": [
-      {
-        "org": {"cam": "as", "edit": "as"},
-        "lang": "ru",
-        "youtube": [""],
-        "speakers": [
-          {
-            "names": {"*": "Konstantin Root", "ru": "Константин Роот"},
-            "titles": {"*": "Owner @ Fringely AI"},
-            "url": "https://ee.linkedin.com/in/konstantinroot",
-            "image": "kroot.jpg"
-          }
-        ],
-        "titles": {"ru": "Трудовое законодательство Эстонии - снимаем розовые очки"},
-        "descr": {
-          "ru": [
-            "Эстонское трудовое законодательство сильно изменилось за последние 10 лет и многие в ИТ по прежнему имеют слабое представление о том, какие есть права и обязоности у работников и работодателей.",
-            "Некоторые из них могут показаться дикими, но таковы реалии Эстонии."
-          ]
-        }
-      },
-      {
-        "org": {"cam": "as", "edit": "as"},
-        "lang": "ru",
-        "youtube": ["y5TqMKdzmlk"],
-        "speakers": [
-          {
-            "names": {"*": "Andrei Solntsev", "ru": "Андрей Солнцев"},
-            "titles": {"*": "Developer @ Codeborne"},
-            "url": "https://ee.linkedin.com/in/asolntsev",
-            "image": "asolntsev.jpg"
-          }
-        ],
-        "titles": {"ru": "Flaky tests"},
-        "descr": {
-          "ru": [
-            "Нестабильные (или flaky) тесты - головная боль автотестеров. Ещё вчера тест был зелёный, а сегодня он вдруг покраснел ни с того ни с сего. Никто ничего не менял. Просто луна не в той фазе. Просто матрица шутит над тобой. Слабаки просто перезапускают билд, а настоящие пацаны изучают проблему до конца. Каждое такое расследование превращается в настоящий детектив. Иногда оно занимает годы.",
-            "Я покажу примеры flaky тестов из реальных проектов, и главное - как там можно было докопаться до истины. Доклад будет интересен и тестировщикам, и разработчикам — всем, кто балуется автотестами или просто любит разгадывать неразрешимые загадки."
-          ]
-        },
-        "top": {"season": 2017, "place": 6}
-      },
-      {
-        "org": {"cam": "as", "edit": "as"},
-        "lang": "ru",
-        "youtube": ["JFYs7tV6CZY"],
-        "speakers": [
-          {
-            "names": {"*": "Stanislav Gorski", "ru": "Станислав Горский"},
-            "titles": {"*": "CTO @ Autobahn VMS"},
-            "url": "https://www.linkedin.com/in/stanislav-gorski-1b5b5b55/",
-            "image": "sgorski.jpg"
-          }
-        ],
-        "titles": {"ru": "Прикладное применение AWS Lambda"},
-        "descr": {
-          "ru": [
-            "AWS - самое популярное «облако» у нас в стране. Одна из причин успеха - огромый набор готовых инструментов, например, Lambda: решение для обработки данных, для которого не нужно покупать сервер, при этом всё очень легко настроить, срабатывает только тогда, когда вы этого хотите и гарантирует неограниченное горизонтальное скалирование. По крайней мере, так утверждается в документации. Давайте посмотрим, как оно на практике."
-          ]
-        }
-      }
-    ]
-  },
-  {
-    "num": 110,
-    "datetime": "2017-10-23T19:00:00",
-    "place": {
-      "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
-      "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
-    },
-    "photo": ["https://photos.app.goo.gl/dubNfYwYN9NBVsbw2"],
-    "event": "https://www.eventbrite.com/e/110-tickets-39007785336",
-    "org": {"mod": "ag", "photo": "kl"},
-    "speeches": [
-      {
-        "org": {"cam": "gb", "edit": "as"},
-        "lang": "ru",
-        "youtube": ["FBIedQl_KTc"],
-        "speakers": [
-          {
-            "names": {"*": "Andrey Adamovich", "ru": "Андрей Адамович"},
-            "titles": {"*": "Organizer @ LatCraft"},
-            "url": "https://www.linkedin.com/in/andreyadamovich/",
-            "image": "aadamovich.jpg"
-          }
-        ],
-        "titles": {"ru": "Chatbots at Community Service"},
-        "descr": {
-          "ru": [
-            "Управление «юзер-группой» требует выполнения часто-повторяющихся задач: публикация анонсов, оповещения, статистические рапорты. Groovy, AWS Lambda, Terraform и Slack оказались неплохой комбинацией для того, чтобы эти задачи автоматизировать."
-          ]
-        }
-      },
-      {
-        "org": {"cam": "gb", "edit": "as"},
-        "lang": "ru",
-        "youtube": ["K587n8XRmWM"],
-        "speakers": [
-          {
-            "names": {"*": "Jevgeni Marenkov", "ru": "Евгений Маренков"},
-            "titles": {"*": "Lead Java Developer @ Kuehne+Nagel"},
-            "url": "https://www.linkedin.com/in/jevgeni-marenkov-97a59b47",
-            "image": "jmarenkov.jpeg"
-          }
-        ],
-        "titles": {"ru": "Пишем документацию красиво!"},
-        "descr": {
-          "ru": [
-            "Swagger это очень большая экосистема, предоставляющая огромное количество возможностей для документации REST API. Например, Swagger позволяет генерировать документацию из Java кода, что позиционируется как очень гламурненький и модный подход.",
-            "На своем опыте покажу, что этот подход очень нежелателен и объясню на примерах, к каким плачевным последствиям он приведет. Покажу, как внедрить Swagger так, чтоб Java-код остался нетронутым, а документация была понятна как потенциальным клиентам REST API, так и Product Owner-ам."
-          ]
-        }
-      },
-      {
-        "org": {"cam": "as", "edit": "as"},
-        "lang": "ru",
-        "youtube": ["MjB4P34zAJM"],
-        "speakers": [
-          {
-            "names": {"*": "Ilja Hämäläinen", "ru": "Илья Хямяляйнен"},
-            "titles": {"*": "Developer"},
-            "url": "https://github.com/w32blaster",
-            "image": "ihamalainen.jpg"
-          }
-        ],
-        "titles": {"ru": "Catch me if you can!"},
-        "descr": {
-          "ru": [
-            "Гость из далёкой Англии расскажет хакерскую былину: о взлёте и падении крупнейших теневых бизнесов даркнета; о том, как защититься от нежеланного проникновения в твой компьютер; о том, как построить из себя киборга, внедрив под кожу микрочипы. В завершении будет простой демо-код, который позволит нафиг спалить комп с контрафактом, в случае острой необходимости."
-          ]
-        },
-        "top": {"season": 2017, "place": 4}
       }
     ]
   }
