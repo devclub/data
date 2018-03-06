@@ -1,7 +1,7 @@
 [
   {
     "datetime": "2018-02-15T09:00:00",
-    "duration_h": 16
+    "duration_h": 16,
     "places": 40,
     "place": {
       "name": "Park Inn by Radisson Meriton Conference & Spa Hotel Tallinn", "loc": "https://goo.gl/maps/AJbuvwDS7co",
@@ -33,7 +33,7 @@
   },
   {
     "datetime": "2016-11-17T10:00:00",
-    "duration_h": 7
+    "duration_h": 7,
     "places": 25,
     "place": {
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
@@ -61,7 +61,7 @@
   },
   {
     "datetime": "2015-08-19T10:00:00",
-    "duration_h": 7
+    "duration_h": 7,
     "places": 40,
     "place": {
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
@@ -87,7 +87,7 @@
   },
   {
     "datetime": "2015-03-16T10:00:00",
-    "duration_h": 7
+    "duration_h": 7,
     "places": 40,
     "place": {
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
