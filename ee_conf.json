@@ -24,6 +24,7 @@
       "https://devclub.github.io/data/ee_meetings_2011-2015_001-042.json"
     ]
   },
+  "seminarsUrl": "https://devclub.github.io/data/data_seminars.json",
   "commercial": {
     "dataUrl": "https://devclub.github.io/data/data_commercial.json",
     "logoUrlPrefix": "https://devclub.github.io/data/commercial"
