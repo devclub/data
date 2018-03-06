@@ -1,0 +1,114 @@
+[
+  {
+    "datetime": "2018-02-15T09:00:00",
+    "duration_h": 16
+    "places": 40,
+    "place": {
+      "name": "Park Inn by Radisson Meriton Conference & Spa Hotel Tallinn", "loc": "https://goo.gl/maps/AJbuvwDS7co",
+      "addr": "Toompuiestee 27/Paldiski mnt 4, 10149 Tallinn", "url": "https://www.parkinn.com/hotel-meriton-tallinn"
+    },
+    "url": ["https://www.eventbrite.com/e/docker-from-zero-to-production-using-terraform-kubernetes-and-other-tools-tickets-42197518915"],
+    "speakers": [
+      {
+        "names": {"*": "Brian Christner"},
+        "titles": {"*": "Docker Captain"},
+        "url": "https://www.brianchristner.io"
+      },
+      {
+        "names": {"*": "Darragh Grealish"},
+        "titles": {"*": "Co-Founder @ 56K.Cloud"},
+        "url": "https://www.linkedin.com/in/grealish"
+      }
+    ],
+    "lang": "en",
+    "titles": {"*": "Docker: from zero to production using Terraform, Kubernetes and other tools (practical session and workshop)"},
+    "descr": {
+      "en": [
+        "Day 1: Introduction Docker, Kubernetes, and Cloud Native. Docker Overview. Docker CLI Overview. Webapps and Docker. Write Dockerfiles. Build a monitoring stack. Deploy apps to Swarm. Create a Docker Build pipeline. Docker Swarm & Kubernetes. Sponsor Labs.",
+        "Day 2: Recap Day 1. Kubernetes Overview (Architecture and concepts). Install Minikube. Kubectl CLI overview. Kubernetes Pods. Deployment (Scaling, labeling, health checks). Kubernetes logging, monitoring and securing containers. Implementation examples using Sponsors Services/tools. Preparation and running of one small application which consists of different modules. Kubernetes on AWS, lessons learnt, a look at Fairgate."
+      ]
+    },
+    "prices": {"ru": "Рекламодателям бесплатно по 3 места, остальным - по 50 евро. Обычная стоимость - 1600 евро с человека."},
+    "info": {"ru": "Семинар проходит за два дня с кофепаузами и обедами, включенными в цену."},
+  },
+  {
+    "datetime": "2016-11-17T10:00:00",
+    "duration_h": 7
+    "places": 25,
+    "place": {
+      "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
+      "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
+    },
+    "url": ["http://blog.devclub.eu/2016/10/24/jolkin-17112016-agenda", "http://blog.devclub.eu/2016/11/01/julia-jolkin-112016-register"],
+    "speakers": [
+      {
+        "names": {"*": "Julia Jolkin", "ru": "Юлия Ёлкин"},
+        "url": "https://www.linkedin.com/in/julia-jolkin-b5758645",
+        "image": "jjolkin.jpg"
+      }
+    ],
+    "lang": "en",
+    "titles": {"*": "IT recruitment is not a rocket science!"},
+    "descr": {
+      "en": [
+        "Search in social media channels like Linkedin, GitHub and StakOverflow. XRay Google to find talents.",
+        "Engage passive candidates and write letters so, that you get a response. Relocate talents.",
+        "Learn about FREE tools and other recruiters secrets. Have a good laugh!"
+      ]
+    },
+    "prices": {"ru": "Рекламодателям бесплатно по 2 места, остальным - по 25 евро."},
+    "info": {"ru": "Семинар проходит за один день с кофепаузами и обедом, включенными в цену."},
+  },
+  {
+    "datetime": "2015-08-19T10:00:00",
+    "duration_h": 7
+    "places": 40,
+    "place": {
+      "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
+      "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
+    },
+    "url": ["http://software-testing.ru/edu/catalogue/face/49-exploratory-testing", "http://blog.devclub.eu/2015/08/04/082015-barancev-register"],
+    "speakers": [
+      {
+        "names": {"*": "Alexei Barantsev", "ru": "Алексей Баранцев"},
+        "url": "https://www.facebook.com/barancev"
+      }
+    ],
+    "lang": "ru",
+    "titles": {"ru": "Тестирование методом свободного поиска (exploratory testing)"},
+    "descr": {
+      "ru": [
+        "Тестирование методом свободного поиска, или тестирование без заранее спроектированных тестов, выполняемых в точном соответствии с планом - это, наверное, единственный подход к тестированию, который эффективно работает в условиях неопределенности.",
+        "После завершения обучения слушатели: будут иметь представление о различных парадигмах тестирования; будут знать, какие существуют подходы к оценке полноты тестирования; научатся определять баланс между тестированием "по плану" и тестированием методом свободного поиска; научатся применять технику "сеансов" для организации работ по тестированию; научатся использовать различные техники для фиксации спроектированных и фактически выполненных тестов."
+      ]
+    },
+    "prices": {"ru": "Рекламодателям бесплатно по 1-2 места, остальным - по 25 евро. Обычная стоимость в России - от 100 евро с человека."},
+    "info": {"ru": "Семинар проходит за один день с кофепаузами и обедом, включенными в цену."},
+  },
+  {
+    "datetime": "2015-03-16T10:00:00",
+    "duration_h": 7
+    "places": 40,
+    "place": {
+      "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
+      "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
+    },
+    "url": ["http://blog.devclub.eu/2015/02/16/dorofeev-training-jedi", "http://blog.devclub.eu/2015/03/18/dorofeyev-032015-followup"],
+    "speakers": [
+      {
+        "names": {"*": "Maksim Dorofeev", "ru": "Максим Дорофеев"},
+        "url": "https://www.facebook.com/maxim.dorofeev"
+      }
+    ],
+    "lang": "ru",
+    "titles": {"ru": "Джедайская техника пустого инбокса, или доведение дел до конца"},
+    "descr": {
+      "ru": [
+        "Вы замечали, как часто мы думаем одну и ту же мысль по нескольку раз? Или как тяжело нам вспомнить нужную информацию в правильный момент (все время в голове крутится, а как понадобилась, так мы ее забыли)? Или как блуждают мысли в нашей голове, отвлекая нас от нужных задач, уводя в сторону рутины или всяких фейсбуков? Эти явления являются чуть ли не самыми главными убийцами наших нервов, времени и производительности. Наш мозг обладает рядом особенностей, которые нужно учитывать в повседневной жизни и на тренинге мы с вами научимся использовать эти особенности себе на благо.",
+        "Основная задача тренинга – научить вас экономить мышление, и как результат, научиться делать больше, уставать меньше и безболезненно совмещать личную жизнь и работу, сохраняя при этом спокойствие."
+      ]
+    },
+    "prices": {"ru": "Рекламодателям бесплатно по 1-2 места, остальным - по 25 евро. Обычная стоимость в России - от 100 евро с человека."},
+    "info": {"ru": "Семинар проходит за один день с кофепаузами и обедом, включенными в цену."},
+  },
+]
