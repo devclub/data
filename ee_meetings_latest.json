@@ -1,6 +1,7 @@
 [
   {
     "num": 55,
+    "season": 2018,
     "datetime": "2017-12-19T19:00:00+02:00",
     "place": {
       "name": "Park Inn by Radisson Meriton Conference & Spa Hotel Tallinn", "loc": "https://goo.gl/maps/AJbuvwDS7co",
@@ -36,6 +37,7 @@
   },
   {
     "num": 54,
+    "season": 2017,
     "datetime": "2017-11-21T19:00:00+02:00",
     "place": {
       "name": "Playtech Estonia OÜ", "loc": "https://goo.gl/maps/VKtUZz2biJ32", "addr": "Lõõtsa 5, 11415 Tallinn",
@@ -60,6 +62,7 @@
   },
   {
     "num": 53,
+    "season": 2017,
     "datetime": "2017-10-12T19:00:00+02:00",
     "place": {
       "name": "Transferwise Ltd Estonia", "loc": "https://goo.gl/maps/fXmz146K1SD2",
@@ -104,6 +107,7 @@
   },
   {
     "num": 52,
+    "season": 2017,
     "datetime": "2017-09-13T19:00:00+02:00",
     "place": {
       "name": "MOVE Guides", "loc": "https://goo.gl/maps/ajGHj3bWLRs", "addr": "Valukoja 8, 11415 Tallinn",
@@ -148,6 +152,7 @@
   },
   {
     "num": 51,
+    "season": 2017,
     "datetime": "2017-08-30T19:00:00+02:00",
     "place": {
       "name": "Park Inn by Radisson Meriton Conference & Spa Hotel Tallinn", "loc": "https://goo.gl/maps/AJbuvwDS7co",
@@ -185,6 +190,7 @@
   },
   {
     "num": 50,
+    "season": 2017,
     "datetime": "2017-07-04T19:00:00+02:00",
     "place": {
       "name": "Wabadus", "loc": "https://goo.gl/maps/7ya5Znk3Vv62", "addr": "Vabaduse väljak 10, 10146 Tallinn",
@@ -216,6 +222,7 @@
   },
   {
     "num": 49,
+    "season": 2017,
     "datetime": "2017-05-18T19:00:00+02:00",
     "place": {
       "name": "Pipedrive OÜ", "loc": "https://goo.gl/maps/squwGHdRPMB2", "addr": "Paldiski mnt 80, Tallinn 10617",
@@ -240,6 +247,7 @@
   },
   {
     "num": 48,
+    "season": 2017,
     "datetime": "2017-03-23T19:00:00+02:00",
     "place": {
       "name": "Transferwise Ltd Estonia", "loc": "https://goo.gl/maps/fXmz146K1SD2",
@@ -264,6 +272,7 @@
   },
   {
     "num": 47,
+    "season": 2017,
     "datetime": "2017-02-23T19:00:00+02:00",
     "place": {
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
@@ -287,6 +296,7 @@
   },
   {
     "num": 46,
+    "season": 2016,
     "datetime": "2016-10-27T19:00:00+02:00",
     "place": {
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
@@ -311,6 +321,7 @@
   },
   {
     "num": 45,
+    "season": 2016,
     "datetime": "2016-05-31T19:00:00+02:00",
     "place": {
       "name": "Playtech Estonia OÜ", "loc": "https://goo.gl/maps/VKtUZz2biJ32", "addr": "Lõõtsa 5, 11415 Tallinn",
@@ -341,6 +352,7 @@
   },
   {
     "num": 44,
+    "season": 2016,
     "datetime": "2016-03-23T19:00:00+02:00",
     "place": {
       "name": "Transferwise Ltd Estonia", "loc": "https://goo.gl/maps/fXmz146K1SD2",
@@ -372,6 +384,7 @@
   },
   {
     "num": 43,
+    "season": 2016,
     "datetime": "2016-02-16T19:00:00+02:00",
     "place": {
       "name": "Pipedrive OÜ", "loc": "https://goo.gl/maps/squwGHdRPMB2", "addr": "Paldiski mnt 80, Tallinn 10617",
