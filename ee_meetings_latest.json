@@ -92,7 +92,6 @@
         "youtube": [""],
         "speakers": [{"names": {"*": "Renno Reinurm"}, "titles": {"*": "Automation & Tools Engineer @ Pipedrive"}}],
         "titles": {"en": "DevOps Practices @ Pipedrive"},
-        },
         "lang": "en"
       }
     ]
