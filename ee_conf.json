@@ -1,7 +1,7 @@
 {
   "defaultLang": "en",
-  "navbarStyle": {"background": "linear-gradient(to bottom right, #328cca, #000000)"},
-  "footerStyle": {"background": "linear-gradient(to bottom right, #000000, #328cca)"},
+  "navbarStyle": {"background": "#328cca"},
+  "footerStyle": {"background": "#328cca"},
   "devclubText": "DEVCLUB.EE",
   "devclubMenuUrl": "https://devclub.eu",
   "devclubMenuText": "DEVCLUB.EU",
@@ -21,6 +21,7 @@
   "meetingsUrls": {
     "main": "https://devclub.github.io/data/ee_meetings_latest.json",
     "archive": [
+      "https://devclub.github.io/data/ee_meetings_2016-2017_043-054.json",
       "https://devclub.github.io/data/ee_meetings_2011-2015_001-042.json"
     ]
   },
