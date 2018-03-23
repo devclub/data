@@ -1,0 +1,374 @@
+[
+  {
+    "num": 54,
+    "season": 2017,
+    "datetime": "2017-11-21T19:00:00+02:00",
+    "place": {
+      "name": "Playtech Estonia OÜ", "loc": "https://goo.gl/maps/VKtUZz2biJ32", "addr": "Lõõtsa 5, 11415 Tallinn",
+      "url": "http://www.playtech.ee"
+    },
+    "photo": ["https://photos.app.goo.gl/8imlUDi6GStjanui2"],
+    "speeches": [
+      {
+        "youtube": [""],
+        "speakers": [{"names": {"*": "Dmitri Dorofejev"}, "titles": {"*": "Java team lead @ Playtech"}}],
+        "titles": {"en": "Cross-platform protocol design with Google Protocol Buffers"},
+        "lang": "en"
+      },
+      {
+        "youtube": [""],
+        "speakers": [{"names": {"*": "Joonathan Mägi"}, "titles": {"*": "Technical Lead @ MOVE Guides"}}],
+        "titles": {"en": "From 0 to 60 with Kubernetes and Istio"},
+        "descr": {"en": ["Setting up a cluster and running your first micro-services on Kubernetes and Istio."]},
+        "lang": "en"
+      }
+    ]
+  },
+  {
+    "num": 53,
+    "season": 2017,
+    "datetime": "2017-10-12T19:00:00+02:00",
+    "place": {
+      "name": "Transferwise Ltd Estonia", "loc": "https://goo.gl/maps/fXmz146K1SD2",
+      "addr": "Veerenni 24, 10135 Tallinn", "url": "https://transferwise.com"
+    },
+    "photo": ["https://photos.app.goo.gl/3QxhtVZ8AsBz5Pc42"],
+    "speeches": [
+      {
+        "youtube": [""],
+        "speakers": [{"names": {"*": "Dmitry Zhukov"}, "titles": {"*": "Product engineer @ TransferWise"}}],
+        "titles": {"en": "Apache Spark 1.6-2.2: Testing in Production"},
+        "descr": {
+          "en": [
+            "In our last DevClub talk we shared the challenges of detecting fraud in TransferWise. Since then we went a long way of revamping our models to adopt latest Machine Learning techniques. We will share how we use Apache Spark models in production, which challenges we faced and how we solved them. It would be interesting for people who want run machine learning models in real-time production flows."
+          ]
+        },
+        "lang": "en"
+      },
+      {
+        "youtube": [""],
+        "speakers": [{"names": {"*": "Filipp Keks"}, "titles": {"*": "Software engineer @ Wolf3D"}}],
+        "titles": {"en": "Horrors of mobile graphics"},
+        "descr": {
+          "en": [
+            "According to mobile manufacturers modern devices recently reached the level of gaming consoles in terms of hardware complexity. Can we reach the level of real-time graphics on mobile devices similar to consoles too? You will find out about some unexpected traits of mobile graphics development with modern APIs like OpenGL ES and DirectX, about common problems and their solutions. You will feel the struggle of developers fighting for every millisecond and get a glimpse of the bright future with new generation graphics like Vulkan and Metal."
+          ]
+        },
+        "lang": "en"
+      },
+      {
+        "youtube": [""],
+        "speakers": [{"names": {"*": "Erkki Alamäe"}, "titles": {"*": "Senior System analyst @ Nortal"}}],
+        "titles": {"en": "What can you do with data?"},
+        "descr": {
+          "en": [
+            "You will get an overview of what methods are actually used by data scientists to extract value out of data: preprocessing, clustering, visualization, anomaly detection, prediction etc. Examples will be given about when to use which method and what are their pitfalls. By the end, you should have a gut feeling of a) what is doable with data today, and b) what is not ...yet."
+          ]
+        },
+        "lang": "en"
+      }
+    ]
+  },
+  {
+    "num": 52,
+    "season": 2017,
+    "datetime": "2017-09-13T19:00:00+02:00",
+    "place": {
+      "name": "MOVE Guides", "loc": "https://goo.gl/maps/ajGHj3bWLRs", "addr": "Valukoja 8, 11415 Tallinn",
+      "url": "https://www.moveguides.com"
+    },
+    "photo": ["https://photos.app.goo.gl/8w2AULJdPqpzQuqj2"],
+    "speeches": [
+      {
+        "youtube": [""],
+        "speakers": [{"names": {"*": "Steve Giles"}, "titles": {"*": "VP Engineering"}}],
+        "titles": {"en": "Technical challenges of building SaaS software for Fortune 500 customers"},
+        "descr": {
+          "en": [
+            "What's it like selling a transformational, disruptive technology to Fortune 500 companies? What are the differences to consumer products or more traditional tech products? How does tech influence the sales cycle? Once the contract is signed, what can you expect next? These might sound like distant business topics, but they have a very tangible impact on you as a software developer: what does your architecture have to support, what you can and can not do when building, what are the security expectations, even what tools you can use. We share some experience and lessons on the way from startup to accepted SaaS vendor to the largest enterprises."
+          ]
+        },
+        "lang": "en"
+      },
+      {
+        "youtube": [""],
+        "speakers": [{"names": {"*": "Hendrik Kaju"}, "titles": {"*": "Front-end engineer"}}],
+        "titles": {"en": "Componentized Frontend Architecture"},
+        "descr": {
+          "en": [
+            "Discussions around FE development are usually focused on frameworks and less on principles, but the latter is often more important to successfully building large web apps. Component-based architecture is a pattern for building applications that are scalable and maintainable even as they grow bigger and more complex. This quick talk gives an overview of how we have applied this approach at MOVE Guides/Teleport and what we've learned from it."
+          ]
+        },
+        "lang": "en"
+      },
+      {
+        "youtube": [""],
+        "speakers": [{"names": {"*": "Joonathan Mägi"}, "titles": {"*": "Tech Lead"}}],
+        "titles": {"en": "Security in the Age of Containers"},
+        "descr": {
+          "en": [
+            "Container technologies like Docker and Rkt have radically changed the way that applications are being developed and deployed making shipping new features or code faster than ever before. While containers are great for DevOps, they also present risks that have been traditionally tackled by Ops and Security teams. What are the things to watch out for and are there any quick wins to implement in your environment."
+          ]
+        },
+        "lang": "en"
+      }
+    ]
+  },
+  {
+    "num": 51,
+    "season": 2017,
+    "datetime": "2017-08-30T19:00:00+02:00",
+    "place": {
+      "name": "Park Inn by Radisson Meriton Conference & Spa Hotel Tallinn", "loc": "https://goo.gl/maps/AJbuvwDS7co",
+      "addr": "Toompuiestee 27/Paldiski mnt 4, 10149 Tallinn", "url": "https://www.parkinn.com/hotel-meriton-tallinn"
+    },
+    "speeches": [
+      {
+        "youtube": [""],
+        "speakers": [
+          {"names": {"*": "Kirill Slavetski"}, "titles": {"*": "Product designed and researcher @ Jobbatical"}}
+        ],
+        "titles": {"en": "Using design sprint method in a product company"},
+        "descr": {
+          "en": [
+            "The design sprint is a five-day process developed at GV (previously Google Ventures). The process helps find answers to critical business questions through design, prototyping, and testing ideas with customers. The approach allows to shortcut the endless debate cycle and compress months of time into a single week. In his talk, Kirill will give an overview of the sprint structure, and will share some experience of using this approach in Jobbatical product design team."
+          ]
+        },
+        "lang": "en"
+      },
+      {
+        "youtube": [""],
+        "speakers": [{"names": {"*": "Andres Ivanov"}, "titles": {"*": "Head of Infrastructure @ Inbank"}}],
+        "titles": {"en": "Infrastructure as code with AWS CloudFormation"},
+        "descr": {
+          "en": [
+            "Average AWS account for a small startup has over 100 resources, creating and designing them manually removes any possibilities for fast scaling and recovery.",
+            "Code, continuous delivery and scripts are not the only things to version control, Infrastructure can be written down and versioned same way.",
+            "Andres will demonstrate how to automate the infrastructure at AWS and explain benefits of it.",
+            "He also will guide through possible problems discovered from Infrastructure automating and explain solutions for them."
+          ]
+        },
+        "lang": "en"
+      }
+    ]
+  },
+  {
+    "num": 50,
+    "season": 2017,
+    "datetime": "2017-07-04T19:00:00+02:00",
+    "place": {
+      "name": "Wabadus", "loc": "https://goo.gl/maps/7ya5Znk3Vv62", "addr": "Vabaduse väljak 10, 10146 Tallinn",
+      "url": "http://www.wabadus.ee"
+    },
+    "photo": ["https://goo.gl/photos/9KqbKgNioXzCi8TBA"],
+    "speeches": [
+      {
+        "youtube": [""],
+        "speakers": [{"names": {"*": "Martin Kiuru"}, "titles": {"*": "CTO @ Make IT Work"}}],
+        "titles": {"en": "How to become an entrepreneur: the story of a software developer"},
+        "descr": {"en": ["About choices, opportunities, obstacles and dangers on a way to own company."]},
+        "lang": "en"
+      },
+      {
+        "youtube": [""],
+        "speakers": [
+          {"names": {"*": "Kalle Volkov"}, "titles": {"*": "Head of Server Services @ Starship Technologies"}}
+        ],
+        "titles": {"en": "From 3000 to 500 (ms) - nature to action"},
+        "descr": {
+          "en": [
+            "About achieving 500 millisecond timing from image in nature to operator panel to action that robot fulfills."
+          ]
+        },
+        "lang": "en"
+      }
+    ]
+  },
+  {
+    "num": 49,
+    "season": 2017,
+    "datetime": "2017-05-18T19:00:00+02:00",
+    "place": {
+      "name": "Pipedrive OÜ", "loc": "https://goo.gl/maps/squwGHdRPMB2", "addr": "Paldiski mnt 80, Tallinn 10617",
+      "url": "https://www.pipedrive.com"
+    },
+    "speeches": [
+      {
+        "youtube": [""],
+        "origVid": ["https://www.youtube.com/watch?v=jJ3Q5DSGMFI"],
+        "speakers": [{"names": {"*": "Kristo Kaiv"}}],
+        "titles": {"en": "Pains & Gains of microservices"},
+        "lang": "en"
+      },
+      {
+        "youtube": [""],
+        "origVid": ["https://www.youtube.com/watch?v=nlEnnddGIc0"],
+        "speakers": [{"names": {"*": "Konstantin Root"}}],
+        "titles": {"en": "How to start running: myths and data science"},
+        "lang": "en"
+      }
+    ]
+  },
+  {
+    "num": 48,
+    "season": 2017,
+    "datetime": "2017-03-23T19:00:00+02:00",
+    "place": {
+      "name": "Transferwise Ltd Estonia", "loc": "https://goo.gl/maps/fXmz146K1SD2",
+      "addr": "Veerenni 24, 10135 Tallinn", "url": "https://transferwise.com"
+    },
+    "speeches": [
+      {
+        "youtube": [""],
+        "origVid": ["https://www.youtube.com/watch?v=ziQZD-wehPE"],
+        "speakers": [{"names": {"*": "Anton Arhipov"}}],
+        "titles": {"en": "Inadequate Java interview"},
+        "lang": "en"
+      },
+      {
+        "youtube": [""],
+        "origVid": ["https://www.youtube.com/watch?v=hTCt1Pyh9ic"],
+        "speakers": [{"names": {"*": "Erik Kaju"}}],
+        "titles": {"en": "Cards & payment methods lead @ TransferWise"},
+        "lang": "en"
+      }
+    ]
+  },
+  {
+    "num": 47,
+    "season": 2017,
+    "datetime": "2017-02-23T19:00:00+02:00",
+    "place": {
+      "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
+      "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
+    },
+    "speeches": [
+      {
+        "youtube": [""],
+        "origVid": ["https://www.youtube.com/watch?v=44EO0ICnw9Q"],
+        "speakers": [{"names": {"*": "Artur Schaback"}}],
+        "titles": {"en": "Development Security for Peer to Peer Marketplaces"},
+        "lang": "en"
+      },
+      {
+        "youtube": [""],
+        "speakers": [{"names": {"*": "Benjamin André Micolon"}}],
+        "titles": {"en": "GraphQL: what it is, why use it and how it helps us at Palleter"},
+        "lang": "en"
+      }
+    ]
+  },
+  {
+    "num": 46,
+    "season": 2016,
+    "datetime": "2016-10-27T19:00:00+02:00",
+    "place": {
+      "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
+      "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
+    },
+    "speeches": [
+      {
+        "youtube": [""],
+        "origVid": ["https://www.youtube.com/watch?v=wi1d1YgSAcE"],
+        "speakers": [{"names": {"*": "Matti Jagula"}}, {"names": {"*": "Raido Kaldma"}}],
+        "titles": {"en": "Developing a desktop application in Javascript"},
+        "lang": "en"
+      },
+      {
+        "youtube": [""],
+        "origVid": ["https://www.youtube.com/watch?v=MANmZ1ZwCfI"],
+        "speakers": [{"names": {"*": "Konstantin Root"}}],
+        "titles": {"en": "Securing website with HTTP headers"},
+        "lang": "en"
+      }
+    ]
+  },
+  {
+    "num": 45,
+    "season": 2016,
+    "datetime": "2016-05-31T19:00:00+02:00",
+    "place": {
+      "name": "Playtech Estonia OÜ", "loc": "https://goo.gl/maps/VKtUZz2biJ32", "addr": "Lõõtsa 5, 11415 Tallinn",
+      "url": "http://www.playtech.ee"
+    },
+    "speeches": [
+      {
+        "youtube": [""],
+        "speakers": [{"names": {"*": "Playtech support"}}],
+        "titles": {"en": "Playtech Office Tour"},
+        "lang": "en"
+      },
+      {
+        "youtube": [""],
+        "origVid": ["https://www.youtube.com/watch?v=F9kTzGaTmok"],
+        "speakers": [{"names": {"*": "Tõnis Pihlakas"}}],
+        "titles": {"en": "Weaving Web Applications with Apache Tapestry"},
+        "lang": "en"
+      },
+      {
+        "youtube": [""],
+        "origVid": ["https://www.youtube.com/watch?v=jk_uvt9zP7g"],
+        "speakers": [{"names": {"*": "Villu Vaimets"}}],
+        "titles": {"en": "Implementing an intelligent form engine"},
+        "lang": "en"
+      }
+    ]
+  },
+  {
+    "num": 44,
+    "season": 2016,
+    "datetime": "2016-03-23T19:00:00+02:00",
+    "place": {
+      "name": "Transferwise Ltd Estonia", "loc": "https://goo.gl/maps/fXmz146K1SD2",
+      "addr": "Veerenni 24, 10135 Tallinn", "url": "https://transferwise.com"
+    },
+    "speeches": [
+      {
+        "youtube": [""],
+        "origVid": ["https://www.youtube.com/watch?v=9mXO6-nN4sU"],
+        "speakers": [{"names": {"*": "Erko Risthein"}}],
+        "titles": {"en": "Risk@TransferWise"},
+        "lang": "en"
+      },
+      {
+        "youtube": [""],
+        "origVid": ["https://www.youtube.com/watch?v=x6MUptcLB7g"],
+        "speakers": [{"names": {"*": "Dmitry Zhukov"}}, {"names": {"*": "Maksims Juvcenko"}}],
+        "titles": {"en": "Fraud Detection in PHP: Ascending from Hell"},
+        "lang": "en"
+      },
+      {
+        "youtube": [""],
+        "origVid": ["https://www.youtube.com/watch?v=9hz2HlClZaw"],
+        "speakers": [{"names": {"*": "Stanislav Gorski"}}],
+        "titles": {"en": "AWS Lambda in Your Stack"},
+        "lang": "en"
+      }
+    ]
+  },
+  {
+    "num": 43,
+    "season": 2016,
+    "datetime": "2016-02-16T19:00:00+02:00",
+    "place": {
+      "name": "Pipedrive OÜ", "loc": "https://goo.gl/maps/squwGHdRPMB2", "addr": "Paldiski mnt 80, Tallinn 10617",
+      "url": "https://www.pipedrive.com"
+    },
+    "speeches": [
+      {
+        "youtube": [""],
+        "origVid": ["https://www.youtube.com/watch?v=jHpnU8eDH9o"],
+        "speakers": [{"names": {"*": "Martin Tajur"}}],
+        "titles": {"en": "Queues, queues, queues. How RabbitMQ enables reactive architectures"},
+        "lang": "en"
+      },
+      {
+        "youtube": [""],
+        "origVid": ["https://www.youtube.com/watch?v=BcnnOfpPiN0"],
+        "speakers": [{"names": {"*": "Anton Keks"}}],
+        "titles": {"en": "Digital Signatures: Estonia vs The World"},
+        "lang": "en"
+      }
+    ]
+  }
+]
