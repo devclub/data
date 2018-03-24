@@ -5,7 +5,7 @@
     {"month": 6, "price": 250},
     {"month": 12, "price": 200}
   ],
-  "commerce": [
+  "companies": [
     {
       "name": "Omniva",
       "logo": "omniva.png",
