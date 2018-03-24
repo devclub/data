@@ -1,11 +1,11 @@
 {
-  prices: [
+  "prices": [
     "1": 350,
     "3": 300,
     "6": 250,
     "12": 200
   ],
-  commerce: [
+  "commerce": [
     {
       "name": "Omniva",
       "logo": "omniva.png",
