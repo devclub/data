@@ -1,9 +1,9 @@
 {
   "prices": [
-    "1": 350,
-    "3": 300,
-    "6": 250,
-    "12": 200
+    {"month": 1, "price": 350},
+    {"month": 3, "price": 300},
+    {"month": 6, "price": 250},
+    {"month": 12, "price": 200}
   ],
   "commerce": [
     {
