@@ -27,9 +27,9 @@
     ]
   },
   "seminarsUrl": "https://devclub.github.io/data/data_seminars.json",
-  "advertising": {
-    "dataUrl": "https://devclub.github.io/data/data_advertising.json",
-    "logoUrlPrefix": "https://devclub.github.io/data/commercial"
+  "finances": {
+    "dataUrl": "https://devclub.github.io/data/data_finances.json",
+    "logoUrlPrefix": "https://devclub.github.io/data/finances"
   },
   "team": {
     "dataUrl": "https://devclub.github.io/data/data_team.json",
