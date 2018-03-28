@@ -1,4 +1,5 @@
 {
+  "logos": "https://devclub.github.io/fileserver/files/devclub_logos.zip",
   "team": [
     {
       "row": 1, "col": 1, "names": {"*": "Kirill Linnik", "ru": "Кирилл Линник"},
