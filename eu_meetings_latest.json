@@ -127,7 +127,7 @@
       {
         "org": {"cam": "as", "edit": ""},
         "lang": "ru",
-        "youtube": [""],
+        "youtube": ["6eax3paxjDU"],
         "speakers": [
           {
             "names": {"*": "Kirill Linnik", "ru": "Кирилл Линник"},
@@ -239,7 +239,7 @@
       {
         "org": {"cam": "as", "edit": "as"},
         "lang": "ru",
-        "youtube": [""],
+        "youtube": ["IsjeD6PFzZw"],
         "speakers": [
           {
             "names": {"*": "Anton Keks", "ru": "Антон Кекс"},
@@ -258,7 +258,7 @@
       {
         "org": {"cam": "gb", "edit": "as"},
         "lang": "ru",
-        "youtube": [""],
+        "youtube": ["LQSrhmzXpHM"],
         "speakers": [
           {
             "names": {"*": "Andrei Solntsev", "ru": "Андрей Солнцев"},
@@ -277,7 +277,7 @@
       {
         "org": {"cam": "gb,as", "edit": "as"},
         "lang": "ru",
-        "youtube": [""],
+        "youtube": ["ii66pI756Zc"],
         "speakers": [
           {
             "names": {"*": "Jevgeni Goloborodko", "ru": "Евгений Голобородько"},
