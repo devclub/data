@@ -14,44 +14,7 @@
       {
         "org": {"cam": "gb", "edit": ""},
         "lang": "ru",
-        "youtube": [""],
-        "speakers": [
-          {
-            "names": {"*": " Juri Timoshin", "ru": "Юрий Тимошин"},
-            "titles": {"*": "Senior DevOps Engineer @ Malwarebytes"},
-            "url": "https://www.linkedin.com/in/juritimoshin",
-            "image": "jtimoshin_2018.png"
-          }
-        ],
-        "titles": {"*": "One CI Server To Rule Them All"},
-        "descr": {
-          "ru": [
-            "Jenkins всё ещё продолжает активно развиваться и опережает своих конкурентов практически во всём. Теперь в нём появились declarative pipelines - pipelines в том виде какие они должны быть. Покажу как сейчас надо настроить и использовать Jenkins: правильные ограничения по правам для аудитории. Как запретить доступ к отдельным проектам и секретам для некоторых лиц; интеграцию с Github, build on push; multibranch pipelines, почему все проекты должны быть именно этим типом джобов; Jenkins pipeline libraries. Многие pipeline у вас будут похожи или вообще одинаковы. Как вынести общий код в библиотеку и использовать её внутри pipeline; Docker! Pipeline-ы теперь поддерживают докер контейнеры нативно. Можно всё билдить в докере; и всё это можно настроить автоматически, например через Chef."
-          ]
-        }
-      },
-      {
-        "org": {"cam": "gb", "edit": ""},
-        "lang": "ru",
-        "youtube": [""],
-        "speakers": [
-          {
-            "names": {"*": "Anton Arhipov", "ru": "Антон Архипов"},
-            "titles": {"*": "Developer Advocate @ JetBrains"},
-            "url": "https://www.linkedin.com/in/antonarhipov",
-            "image": "aarhipov.jpg"
-          }
-        ],
-        "titles": {"ru": "Build pipelines: приключения в конвейере TeamCity"},
-        "descr": {
-          "ru": [
-            "В мире CI уже давно популярен термин “build piplines”. В девклубе были презентации как такие штуки конфигурировать в Jenkins и Concource CI. Но не Jenkins-ом единым! А давайте посмотрим как это же самое можно сделать в TeamCity? Поболтаем о том, какие задачи решает CI сервер для того чтобы всё было хорошо."
-          ]
-        }
-      },
-      {
-        "org": {"cam": "gb", "edit": ""},
-        "lang": "ru",
+        "labels": ["offtopic"],
         "youtube": [""],
         "speakers": [
           {
@@ -66,6 +29,46 @@
           "ru": [
             "Существует ли жизнь на других планетах или Земля является единственной обителью жизни во Вселенной? Этот вопрос не дает нам покоя многие столетия. Чтобы понять это современные астрономы стремятся заглянуть в самые глубины Вселенной.",
 "В этой лекции речь пойдет и о возможности существования жизни, как на соседних планетах, так и на далеких экзопланетах, вращающихся вокруг недостижимых для нас звезд. Также мы поговорим о современных методах обнаружения экзопланет."
+          ]
+        }
+      },
+      {
+        "org": {"cam": "gb", "edit": ""},
+        "lang": "ru",
+        "labels": ["ci", "jenkins"],
+        "youtube": [""],
+        "speakers": [
+          {
+            "names": {"*": " Juri Timoshin", "ru": "Юрий Тимошин"},
+            "titles": {"*": "Senior DevOps Engineer @ Malwarebytes"},
+            "url": "https://www.linkedin.com/in/juritimoshin",
+            "image": "jtimoshin_2018.png"
+          }
+        ],
+        "titles": {"ru": "One CI To Rule Them All: автоматическая настройка"},
+        "descr": {
+          "ru": [
+            "Папки / пространства имён, роли, интеграция с Github, blueocean, slack, pagerduty..."
+          ]
+        }
+      },
+      {
+        "org": {"cam": "gb", "edit": ""},
+        "lang": "ru",
+        "labels": ["ci", "jenkins"],
+        "youtube": [""],
+        "speakers": [
+          {
+            "names": {"*": " Juri Timoshin", "ru": "Юрий Тимошин"},
+            "titles": {"*": "Senior DevOps Engineer @ Malwarebytes"},
+            "url": "https://www.linkedin.com/in/juritimoshin",
+            "image": "jtimoshin_2018.png"
+          }
+        ],
+        "titles": {"*": "One CI To Rule Them All: Declarative Pipelines"},
+        "descr": {
+          "ru": [
+            "Jenkins всё ещё продолжает активно развиваться и опережает своих конкурентов практически во всём. Теперь в нём появились declarative pipelines - pipelines в том виде какие они должны быть. Покажу как сейчас надо настроить и использовать Jenkins: правильные ограничения по правам для аудитории. Как запретить доступ к отдельным проектам и секретам для некоторых лиц; интеграцию с Github, build on push; multibranch pipelines, почему все проекты должны быть именно этим типом джобов; Jenkins pipeline libraries. Многие pipeline у вас будут похожи или вообще одинаковы. Как вынести общий код в библиотеку и использовать её внутри pipeline; Docker! Pipeline-ы теперь поддерживают докер контейнеры нативно. Можно всё билдить в докере; и всё это можно настроить автоматически, например через Chef."
           ]
         }
       }
