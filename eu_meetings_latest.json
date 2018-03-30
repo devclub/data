@@ -14,7 +14,7 @@
       {
         "org": {"cam": "gb", "edit": ""},
         "lang": "ru",
-        "labels": ["offtopic"],
+        "labels": ["offtopic", "physics"],
         "youtube": [""],
         "speakers": [
           {
@@ -89,6 +89,7 @@
       {
         "org": {"cam": "gb", "edit": ""},
         "lang": "ru",
+        "labels": ["tests", "qa"],
         "youtube": [""],
         "speakers": [
           {
@@ -108,6 +109,7 @@
       {
         "org": {"cam": "gb", "edit": ""},
         "lang": "ru",
+        "labels": ["tests", "qa"],
         "youtube": [""],
         "speakers": [
           {
@@ -127,6 +129,7 @@
       {
         "org": {"cam": "as", "edit": ""},
         "lang": "ru",
+        "labels": ["regulations", "gdpr"],
         "youtube": ["6eax3paxjDU"],
         "speakers": [
           {
@@ -162,6 +165,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": ["projects", "estonia"],
         "youtube": [""],
         "speakers": [
           {
@@ -183,6 +187,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": ["projects", "store", "etcd"],
         "youtube": [""],
         "speakers": [
           {
@@ -203,6 +208,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": ["js", "angular", "devclub"],
         "youtube": [""],
         "speakers": [
           {
@@ -239,6 +245,7 @@
       {
         "org": {"cam": "as", "edit": "as"},
         "lang": "ru",
+        "labels": ["puzzlers", "kotlin"],
         "youtube": ["IsjeD6PFzZw"],
         "speakers": [
           {
@@ -258,6 +265,7 @@
       {
         "org": {"cam": "gb", "edit": "as"},
         "lang": "ru",
+        "labels": ["puzzlers", "selenide", "tests"],
         "youtube": ["LQSrhmzXpHM"],
         "speakers": [
           {
@@ -277,6 +285,7 @@
       {
         "org": {"cam": "gb,as", "edit": "as"},
         "lang": "ru",
+        "labels": ["experience", "architecture"],
         "youtube": ["ii66pI756Zc"],
         "speakers": [
           {
