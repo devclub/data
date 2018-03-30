@@ -62,7 +62,7 @@
             "names": {"*": " Juri Timoshin", "ru": "Юрий Тимошин"},
             "titles": {"*": "Senior DevOps Engineer @ Malwarebytes"},
             "url": "https://www.linkedin.com/in/juritimoshin",
-            "image": "jtimoshin_2018.png"
+            "image": "jtimoshin.png"
           }
         ],
         "titles": {"*": "One CI To Rule Them All: Declarative Pipelines"},
