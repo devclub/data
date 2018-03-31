@@ -2,7 +2,7 @@
   {
     "num": 58,
     "season": 2018,
-    "datetime": "2018-03-20T19:00:00+02:00",
+    "datetime": "2018-03-20T19:00:00",
     "place": {
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
       "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
@@ -10,96 +10,144 @@
     "photo": [""],
     "speeches": [
       {
-        "youtube": [""],
+        "lang": "en",
+        "youtube": ["mKuecb_ggtI"],
         "speakers": [
-          {"names": {"*": "Gabriel Schölander"}, "titles": {"*": "Software Architect @ Throne Gaming"}},
-          {"names": {"*": "Magnus Tüll"}, "titles": {"*": "Software Architect @ Throne Gaming"}}
+          {
+            "names": {"*": "Gabriel Schölander"},
+            "titles": {"*": "Software Architect @ Throne Gaming"},
+            "url": "https://www.linkedin.com/in/gabriels/",
+            "image": "gscholander.jpg"
+          },
+          {
+            "names": {"*": "Magnus Tüll"},
+            "titles": {"*": "Software Architect @ Throne Gaming"},
+            "url": "https://www.linkedin.com/in/magnus-t%C3%BCll-b117126",
+            "image": "mtull.jpg"
+          }
         ],
-        "titles": {"en": "Building a game recommendation service with machine learning in a cloud micro service architecture"},
+        "titles": {"*": "Building a game recommendation service with machine learning in a cloud micro service architecture"},
         "descr": {
           "en": [
             "Throne Gaming is dedicated to build an architecture that scales in a multi-brand and multi-country business environment. In this presentation we will give you an overview how we solves the technical and business challenges with an hands on problem like giving the customer a recommendation of what games he may like."
           ]
-        },
-        "lang": "en"
+        }
       },
       {
-        "youtube": [""],
-        "speakers": [{"names": {"*": ""}, "titles": {"*": "Founder of IT Talent"}}],
-        "titles": {"en": "Getting started with IT recruitment"},
+        "lang": "en",
+        "youtube": ["RkLvg8wF1FQ"],
+        "speakers": [
+          {
+            "names": {"*": "Julia Jolkin"},
+            "titles": {"*": "Founder of IT Talent"},
+            "url": "https://www.linkedin.com/in/juliajolkin",
+            "image": "jjolkin.jpg"
+          }
+        ],
+        "titles": {"*": "Getting started with IT recruitment"},
         "descr": {
           "en": [
             "Julia Jolkin is the founder if IT Talent, one of the top IT recruiters in Estonia. She has a black belt is sourcing and recruitment in social media. Julia is also training recruiters, runs in-house IT recruitment trainings for HRs and team leads/lead developers. Exactly! Why not training lead developers sourcing, so they can find great talents and take care of building their own teams themselves?! Is your company hiring developers? Are you tired of interviewing inappropriate candidates or lack good applicants? Let the smart recruiter explain how you can help your HRs to hire smart colleagues.",
             "Julia will reveal some top recruiters’ secrets and show you some lifehacks which will help you source developers in Stackoverflow, Github etc. What if you are not hiring? Therese is something for you as well! You will get a good understanding how recruiters find you. You will learn analyze your profile and polish your toolkit accordingly."
           ]
-        },
-        "lang": "en"
+        }
       }
     ]
   },
   {
     "num": 57,
     "season": 2018,
-    "datetime": "2018-02-27T19:00:00+02:00",
+    "datetime": "2018-02-27T19:00:00",
     "place": {
       "name": "Adcash office", "addr": "Kentmanni 4 (6th floor), Tallinn"
     },
     "photo": [""],
     "speeches": [
       {
-        "youtube": [""],
+        "lang": "en",
+        "youtube": ["anu4CZL4CrI"],
         "speakers": [
-          {"names": {"*": "Anthony Rouillot"}, "titles": {"*": "Infrastructure Architect @ Adcash"}}, 
-          {"names": {"*": "Agu Aarna"}, "titles": {"*": "VP of Engineering @ Adcash"}}
+          {
+            "names": {"*": "Anthony Rouillot"},
+            "titles": {"*": "Infrastructure Architect @ Adcash"},
+            "url": "https://www.linkedin.com/in/rouillotanthony",
+            "image": "arouillot.jpg"
+          },
+          {
+            "names": {"*": "Agu Aarna"},
+            "titles": {"*": "VP of Engineering @ Adcash"},
+            "url": "https://www.linkedin.com/in/agu-aarna-a3631626",
+            "image": "aaarna.jpg"
+          }
         ],
-        "titles": {"en": "Architecture for Scale"},
+        "titles": {"*": "Architecture for Scale"},
         "descr": {
           "en": [
             "Adcash is operating at an unprecedented scale within the region. As such, there are several topics that pose an interest in terms of how to build a sustainable system within dynamic, quickly changing scaling constraints. This is an overview of what the technological organisation of Adcash believes is important to grasp in order to successfully execute, and meet business and customer expectations."
           ]
-        },
-        "lang": "en"
+        }
       },
       {
-        "youtube": [""],
-        "speakers": [{"names": {"*": "Ilja Nafigin"}, "titles": {"*": "Java Developer @ Swedbank"}}],
-        "titles": {"en": "Adaptive Backend APIs"},
+        "lang": "en",
+        "youtube": ["zi9_5-HkXeU"],
+        "speakers": [
+          {
+            "names": {"*": "Ilja Nafigin"},
+            "titles": {"*": "Java Developer @ Swedbank"},
+            "url": "https://www.linkedin.com/in/ilja-nafigin-8362a030",
+            "image": "inafigin.jpg"
+          }
+        ],
+        "titles": {"*": "Adaptive Backend APIs"},
         "descr": {
           "en": [
             "Nowadays REST is deemed as a standard for creating APIs. However, can it really adapt to ever-changing requirements from mobile applications and other consumers? Let's take a look at GraphQL and see how it's gradually becoming a new standard."
           ]
-        },
-        "lang": "en"
+        }
       }
     ]
   },
   {
     "num": 56,
     "season": 2018,
-    "datetime": "2018-01-25T19:00:00+02:00",
+    "datetime": "2018-01-25T19:00:00",
     "place": {
       "name": "Taxify office", "addr": "Vana-Lõuna 39/1, Tallinn"
     },
     "photo": [""],
     "speeches": [
       {
-        "youtube": [""],
-        "speakers": [{"names": {"*": "Sergei Müttü"}, "titles": {"*": "Backend Developer @ Taxify"}}],
-        "titles": {"en": "Dynamic Pricing @ Taxify"},
-        "lang": "en"
+        "lang": "en",
+        "youtube": ["48QYAX5qWmI"],
+        "speakers": [
+          {
+            "names": {"*": "Sergei Müttü"},
+            "titles": {"*": "Backend Developer @ Taxify"},
+            "url": "https://www.linkedin.com/in/sergey-m%C3%BCtt%C3%BC-23b34a1",
+            "image": "smuttu.jpg"
+          }
+        ],
+        "titles": {"*": "Dynamic Pricing @ Taxify"}
       },
       {
-        "youtube": [""],
-        "speakers": [{"names": {"*": "Renno Reinurm"}, "titles": {"*": "Automation & Tools Engineer @ Pipedrive"}}],
-        "titles": {"en": "DevOps Practices @ Pipedrive"},
-        "lang": "en"
+        "lang": "en",
+        "youtube": ["EAwC6dsSyJc"],
+        "speakers": [
+          {
+            "names": {"*": "Renno Reinurm"},
+            "titles": {"*": "Automation & Tools Engineer @ Pipedrive"},
+            "url": "https://www.linkedin.com/in/rennoreinurm",
+            "image": "rreinurm.jpg"
+          }
+        ],
+        "titles": {"*": "DevOps Practices @ Pipedrive"}
       }
     ]
   },
   {
     "num": 55,
     "season": 2018,
-    "datetime": "2017-12-19T19:00:00+02:00",
+    "datetime": "2017-12-19T19:00:00",
     "place": {
       "name": "Park Inn by Radisson Meriton Conference & Spa Hotel Tallinn", "loc": "https://goo.gl/maps/AJbuvwDS7co",
       "addr": "Toompuiestee 27/Paldiski mnt 4, 10149 Tallinn", "url": "https://www.parkinn.com/hotel-meriton-tallinn"
@@ -107,28 +155,40 @@
     "photo": ["https://photos.app.goo.gl/gjvhYwH6uDLMOwpu1"],
     "speeches": [
       {
-        "youtube": [""],
-        "speakers": [{"names": {"*": "Vadim Trifonov"}, "titles": {"*": "Senior Software Developer @ Swedbank"}}],
-        "titles": {"en": "Pure Dependency Injection"},
+        "lang": "en",
+        "youtube": ["yRAocYnNQ54"],
+        "speakers": [
+          {
+            "names": {"*": "Vadim Trifonov"},
+            "titles": {"*": "Senior Software Developer @ Swedbank"},
+            "url": "https://www.linkedin.com/in/vadimtrifonov",
+            "image": "vtrifonov.jpg"
+          }
+        ],
+        "titles": {"*": "Pure Dependency Injection"},
         "descr": {
           "en": [
             "Dependency injection is probably one of the most misunderstood and confusing topics in software engineering. Do you really need complex frameworks to make use of it? Can a number of first principles applied with a proper technique help you unlock object graphs?"
           ]
-        },
-        "lang": "en"
+        }
       },
       {
-        "youtube": [""],
+        "lang": "en",
+        "youtube": ["oFbE2GH2NfU"],
         "speakers": [
-          {"names": {"*": "Jevgeni Goloborodko"}, "titles": {"*": "Architect & Founder @ Digital Magic Ltd"}}
+          {
+            "names": {"*": "Jevgeni Goloborodko"},
+            "titles": {"*": "Architect & Founder @ Digital Magic Ltd"},
+            "url": "https://www.linkedin.com/in/jevgeni-goloborodko-65a048a",
+            "image": "jgoloborodko.jpg"
+          }
         ],
-        "titles": {"en": "Monitoring your applications"},
+        "titles": {"*": "Monitoring your applications"},
         "descr": {
           "en": [
             "A story about monitoring tools and techniques I’ve used since late 90-s up to modern times. Why hardware metrics is just not enough. How to collect service statistics without inventing your own bicycle (demo included)."
           ]
-        },
-        "lang": "en"
+        }
       }
     ]
   }
