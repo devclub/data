@@ -14,6 +14,7 @@
       {
         "org": {"cam": "as", "edit": "as"},
         "lang": "ru",
+        "labels": ["regulations", "estonia"],
         "youtube": [""],
         "speakers": [
           {
@@ -34,6 +35,7 @@
       {
         "org": {"cam": "as", "edit": "as"},
         "lang": "ru",
+        "labels": ["tests", "experience"],
         "youtube": ["y5TqMKdzmlk"],
         "speakers": [
           {
@@ -55,6 +57,7 @@
       {
         "org": {"cam": "as", "edit": "as"},
         "lang": "ru",
+        "labels": ["aws", "cloud", "lambda"],
         "youtube": ["JFYs7tV6CZY"],
         "speakers": [
           {
@@ -88,6 +91,7 @@
       {
         "org": {"cam": "gb", "edit": "as"},
         "lang": "ru",
+        "labels": ["latvia", "experience", "process", "devclub"],
         "youtube": ["FBIedQl_KTc"],
         "speakers": [
           {
@@ -107,6 +111,7 @@
       {
         "org": {"cam": "gb", "edit": "as"},
         "lang": "ru",
+        "labels": ["rest", "swagger"],
         "youtube": ["K587n8XRmWM"],
         "speakers": [
           {
@@ -127,6 +132,7 @@
       {
         "org": {"cam": "as", "edit": "as"},
         "lang": "ru",
+        "labels": ["darknet", "security"],
         "youtube": ["MjB4P34zAJM"],
         "speakers": [
           {
@@ -148,7 +154,7 @@
   },
   {
     "num": 109,
-    "datetime": "2017-09-26T19:00:00+02:00",
+    "datetime": "2017-09-26T19:00:00",
     "season": 2017,
     "place": {
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
@@ -161,6 +167,7 @@
       {
         "org": {"cam": "gb", "edit": "as"},
         "lang": "ru",
+        "labels": ["bot", "skype"],
         "youtube": ["0GdOPxKXEx0"],
         "speakers": [
           {
@@ -169,11 +176,17 @@
             "image": "mraer.jpg"
           }
         ],
-        "titles": {"ru": "Написание ботов под Skype"}
+        "titles": {"ru": "Написание ботов под Skype"},
+        "descr": {
+          "ru": [
+            "Рассказ о том, как реализовать бота для всеми нами любимого Skype. Да, у Skype есть публичный API который можно замечательно использовать для написания ботов!"
+          ]
+        }
       },
       {
         "org": {"cam": "gb", "edit": "as"},
         "lang": "ru",
+        "labels": ["elixir", "language"],
         "youtube": ["oLEWdeBEuCY"],
         "speakers": [
           {
@@ -182,11 +195,17 @@
             "image": "amihailov.jpg"
           }
         ],
-        "titles": {"ru": "Elixir"}
+        "titles": {"ru": "Elixir"},
+        "descr": {
+          "ru": [
+            "Как язык программирования Elixir используется в современной веб-разработке: краткий обзор возможностей языка Elixir, виртуальной машины BEAM и экосистемы Elixir/Erlang; применение Elixir при разработке веб-сервисов высокой доступности: модель акторов, фреймворк OTP, распределенные системы на базе Elixir; немного личного опыта и впечатлений после применения языка в течение 1 года."
+          ]
+        }
       },
       {
         "org": {"cam": "gb", "edit": "as"},
         "lang": "ru",
+        "labels": ["language"],
         "youtube": ["Lf47F_DCjn4"],
         "speakers": [
           {
@@ -195,13 +214,18 @@
             "image": "dnesteruk.png"
           }
         ],
-        "titles": {"ru": "Хорошие идеи в языках программирования"}
+        "titles": {"ru": "Хорошие идеи в языках программирования"},
+        "descr": {
+          "ru": [
+            "Прогресс не стоит на месте: старые языки вроде C# продолжают развиваться, а новые, такие как Rust и Kotlin изобилируют смелыми идеями. В этом докладе мы поговорим, о том какие же возможности современных языков являются самыми полезными и интересными, а также немного потеоретизируем на тему того, какие еще известные, но пока не реализованные, возможности были бы полезны в современных языках программирования."
+          ]
+        }
       }
     ]
   },
   {
     "num": 108,
-    "datetime": "2017-08-24T19:00:00+02:00",
+    "datetime": "2017-08-24T19:00:00",
     "season": 2017,
     "place": {
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
@@ -214,6 +238,7 @@
       {
         "org": {"cam": "gb", "edit": "as"},
         "lang": "ru",
+        "labels": [],
         "youtube": ["ri8yRAIxMzg"],
         "speakers": [
           {
@@ -227,6 +252,7 @@
       {
         "org": {"cam": "gb", "edit": "as"},
         "lang": "ru",
+        "labels": [],
         "youtube": ["Ekvb9EgQDLk"],
         "speakers": [
           {
@@ -241,6 +267,7 @@
       {
         "org": {"cam": "gb", "edit": "as"},
         "lang": "ru",
+        "labels": [],
         "youtube": ["IYfA934cYKs"],
         "speakers": [
           {
@@ -257,7 +284,7 @@
   },
   {
     "num": 107,
-    "datetime": "2017-07-27T19:00:00+02:00",
+    "datetime": "2017-07-27T19:00:00",
     "season": 2017,
     "place": {
       "name": "Park Inn by Radisson Meriton Conference & Spa Hotel Tallinn", "loc": "https://goo.gl/maps/AJbuvwDS7co",
@@ -270,6 +297,7 @@
       {
         "org": {"cam": "as", "edit": "as"},
         "lang": "ru",
+        "labels": [],
         "youtube": ["ednUmqbra9s"],
         "speakers": [
           {
@@ -283,6 +311,7 @@
       {
         "org": {"cam": "as", "edit": "as"},
         "lang": "ru",
+        "labels": [],
         "youtube": ["PC1VVulS3_E"],
         "speakers": [
           {
@@ -295,6 +324,7 @@
       {
         "org": {"cam": "as", "edit": "as"},
         "lang": "ru",
+        "labels": [],
         "youtube": ["ohrdeXKMHWQ"],
         "speakers": [
           {
@@ -310,7 +340,7 @@
   {
     "num": 106,
     "titles": {"ru": "медицинская", "en": "medical", "ee": "meditsiiniline"},
-    "datetime": "2017-06-20T19:00:00+02:00",
+    "datetime": "2017-06-20T19:00:00",
     "season": 2017,
     "place": {
       "name": "Wabadus", "loc": "https://goo.gl/maps/7ya5Znk3Vv62", "addr": "Vabaduse väljak 10, 10146 Tallinn",
@@ -323,6 +353,7 @@
       {
         "org": {"cam": "gb", "edit": "as"},
         "lang": "ru",
+        "labels": [],
         "youtube": ["CTB516GtVKU"],
         "speakers": [
           {
@@ -336,6 +367,7 @@
       {
         "org": {"cam": "gb", "edit": "as"},
         "lang": "ru",
+        "labels": [],
         "youtube": ["ud26J5LduM4"],
         "speakers": [
           {
@@ -349,6 +381,7 @@
       {
         "org": {"cam": "gb,as", "edit": "as"},
         "lang": "ru",
+        "labels": [],
         "youtube": ["-4OOrtL4f6Q"],
         "speakers": [
           {
@@ -363,7 +396,7 @@
   },
   {
     "num": 105,
-    "datetime": "2017-05-23T19:00:00+02:00",
+    "datetime": "2017-05-23T19:00:00",
     "season": 2017,
     "place": {
       "name": "Wabadus", "loc": "https://goo.gl/maps/7ya5Znk3Vv62", "addr": "Vabaduse väljak 10, 10146 Tallinn",
@@ -376,6 +409,7 @@
       {
         "org": {"cam": "jt", "edit": "as"},
         "lang": "ru",
+        "labels": [],
         "youtube": ["QtlcJpQl1pk"],
         "speakers": [
           {
@@ -390,6 +424,7 @@
       {
         "org": {"cam": "jt", "edit": "as"},
         "lang": "ru",
+        "labels": [],
         "youtube": ["0dXJQ3gQKDU"],
         "speakers": [
           {
@@ -403,6 +438,7 @@
       {
         "org": {"cam": "gb", "edit": "as"},
         "lang": "ru",
+        "labels": [],
         "youtube": ["MP5d_GAHJ20"],
         "speakers": [
           {
@@ -419,7 +455,7 @@
   {
     "num": 104,
     "titles": {"*": "UX"},
-    "datetime": "2017-04-26T19:00:00+02:00",
+    "datetime": "2017-04-26T19:00:00",
     "season": 2017,
     "place": {
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
@@ -432,6 +468,7 @@
       {
         "org": {"cam": "jt", "edit": "as"},
         "lang": "ru",
+        "labels": [],
         "youtube": ["pq9JktHh8zA"],
         "speakers": [
           {
@@ -446,6 +483,7 @@
       {
         "org": {"cam": "jt", "edit": "as"},
         "lang": "ru",
+        "labels": [],
         "youtube": ["RxrAiTm5Drk"],
         "speakers": [
           {
@@ -459,6 +497,7 @@
       {
         "org": {"cam": "jt", "edit": "as"},
         "lang": "ru",
+        "labels": [],
         "youtube": ["lkTH4-jsioA"],
         "speakers": [
           {
@@ -474,7 +513,7 @@
   },
   {
     "num": 103,
-    "datetime": "2017-03-28T19:00:00+02:00",
+    "datetime": "2017-03-28T19:00:00",
     "season": 2017,
     "place": {
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
@@ -487,6 +526,7 @@
       {
         "org": {"cam": "jt", "edit": "as"},
         "lang": "ru",
+        "labels": [],
         "youtube": ["chcGxKAQnSk"],
         "speakers": [
           {
@@ -505,6 +545,7 @@
       {
         "org": {"cam": "jt", "edit": "as"},
         "lang": "ru",
+        "labels": [],
         "youtube": ["99wz9XkyucY"],
         "speakers": [
           {
@@ -518,6 +559,7 @@
       {
         "org": {"cam": "as", "edit": "as"},
         "lang": "ru",
+        "labels": [],
         "youtube": ["xAL9scgNcCA"],
         "speakers": [
           {
@@ -532,7 +574,7 @@
   },
   {
     "num": 102,
-    "datetime": "2017-02-28T19:00:00+02:00",
+    "datetime": "2017-02-28T19:00:00",
     "season": 2017,
     "place": {
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
@@ -545,6 +587,7 @@
       {
         "org": {"cam": "jt", "edit": "as"},
         "lang": "ru",
+        "labels": [],
         "youtube": ["eYobx9EXR_I"],
         "speakers": [
           {
@@ -559,6 +602,7 @@
       {
         "org": {"cam": "jt", "edit": "as"},
         "lang": "ru",
+        "labels": [],
         "youtube": ["V7LDcwoTfcI"],
         "speakers": [
           {
@@ -572,6 +616,7 @@
       {
         "org": {"cam": "jt", "edit": "as"},
         "lang": "ru",
+        "labels": [],
         "youtube": ["PMCKjrwL5rM"],
         "speakers": [
           {
@@ -586,7 +631,7 @@
   },
   {
     "num": 101,
-    "datetime": "2017-01-31T19:00:00+02:00",
+    "datetime": "2017-01-31T19:00:00",
     "season": 2017,
     "place": {
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
@@ -599,6 +644,7 @@
       {
         "org": {"cam": "jt", "edit": "as"},
         "lang": "ru",
+        "labels": [],
         "youtube": ["Vlb_Is-rRTQ"],
         "speakers": [
           {
@@ -614,6 +660,7 @@
       {
         "org": {"cam": "jt", "edit": "as"},
         "lang": "ru",
+        "labels": [],
         "youtube": ["0ThCqyNS0ZE"],
         "speakers": [
           {
@@ -627,6 +674,7 @@
       {
         "org": {"cam": "jt", "edit": "as"},
         "lang": "ru",
+        "labels": [],
         "youtube": ["HlNUUAXD-E0"],
         "speakers": [
           {
@@ -642,7 +690,7 @@
   },
   {
     "num": 100,
-    "datetime": "2016-12-22T19:00:00+02:00",
+    "datetime": "2016-12-22T19:00:00",
     "season": 2017,
     "place": {
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
@@ -655,6 +703,7 @@
       {
         "org": {"cam": "jt", "edit": "as"},
         "lang": "en",
+        "labels": [],
         "youtube": ["zIptAtTNVvc", "ny75q_hbT7w"],
         "speakers": [
           {
@@ -663,11 +712,15 @@
             "image": "tkotka.jpg"
           }
         ],
-        "titles": {"ru": "Вот теперь точно всё, что вы хотели знать об IT в Эстонии [eng]"}
+        "titles": {
+          "*": "And now everythig, you wanted to know about IT in Estonia",
+          "ru": "Вот теперь точно всё, что вы хотели знать об IT в Эстонии [eng]"
+        }
       },
       {
         "org": {"cam": "as", "edit": "as"},
         "lang": "ru",
+        "labels": [],
         "youtube": ["luKdI0MXJpQ"],
         "speakers": [
           {
@@ -681,6 +734,7 @@
       {
         "org": {"cam": "jt", "edit": "as"},
         "lang": "ru",
+        "labels": [],
         "youtube": ["JyO43q-_TTY"],
         "speakers": [
           {
@@ -695,6 +749,7 @@
       {
         "org": {"cam": "jt", "edit": "as"},
         "lang": "ru",
+        "labels": [],
         "youtube": ["PN2MQF9siBM"],
         "speakers": [
           {
@@ -709,7 +764,7 @@
     ]
   },
   {
-    "datetime": "2016-11-30T19:00:00+02:00",
+    "datetime": "2016-11-30T19:00:00",
     "season": 2016,
     "place": {
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
@@ -717,14 +772,13 @@
     },
     "num": 99,
     "org": {"mod": "aa", "photo": ""},
-    "photo": [
-      "https://photos.google.com/share/AF1QipNGD-3lCfWZTU1WLUWN_CfFER2WKcmN2Cxo_EcUFI9yaanKpbrvrbL_PfQWFn4XUA?key=bkZiTnNnSWppREdMNHlHaWtBRmliVUlVdEU0bUdB"
-    ],
+    "photo": ["https://photos.google.com/share/AF1QipNGD-3lCfWZTU1WLUWN_CfFER2WKcmN2Cxo_EcUFI9yaanKpbrvrbL_PfQWFn4XUA?key=bkZiTnNnSWppREdMNHlHaWtBRmliVUlVdEU0bUdB"],
     "event": "https://www.eventbrite.com/e/29660261641",
     "speeches": [
       {
         "org": {"cam": "", "edit": "as"},
         "lang": "ru",
+        "labels": [],
         "youtube": ["JtbR2bTmjkI"],
         "speakers": [
           {
@@ -741,6 +795,7 @@
       {
         "org": {"cam": "", "edit": "as"},
         "lang": "ru",
+        "labels": [],
         "youtube": ["WVzzRvtK24M"],
         "speakers": [
           {
@@ -755,6 +810,7 @@
       {
         "org": {"cam": "", "edit": "as"},
         "lang": "ru",
+        "labels": [],
         "youtube": ["-Dxm3jhk-W0"],
         "speakers": [
           {
@@ -768,7 +824,7 @@
     ]
   },
   {
-    "datetime": "2016-10-31T19:00:00+02:00",
+    "datetime": "2016-10-31T19:00:00",
     "season": 2016,
     "place": {
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
@@ -777,14 +833,13 @@
     "num": 98,
     "titles": {"*": "PostgreSQL"},
     "org": {"mod": "Эрвин Вебер", "photo": ""},
-    "photo": [
-      "https://photos.google.com/share/AF1QipMEt4ySP4SBskEz4tbSOq8A_-FNZgw2w_qQy0ECkBoGBcZebKQtzZh7Ff0ICSoLdg?key=TnRrT1hxRDRQUmg2Y1FRWmN1SC1EOXJLMDk4VHJR"
-    ],
+    "photo": ["https://photos.google.com/share/AF1QipMEt4ySP4SBskEz4tbSOq8A_-FNZgw2w_qQy0ECkBoGBcZebKQtzZh7Ff0ICSoLdg?key=TnRrT1hxRDRQUmg2Y1FRWmN1SC1EOXJLMDk4VHJR"],
     "event": "https://www.eventbrite.com/e/20-postgresql-tickets-28836396438",
     "speeches": [
       {
         "org": {"cam": "", "edit": "as"},
         "lang": "ru",
+        "labels": [],
         "youtube": ["O7aIUQG2rj4"],
         "speakers": [
           {
@@ -798,6 +853,7 @@
       {
         "org": {"cam": "", "edit": "as"},
         "lang": "ru",
+        "labels": [],
         "youtube": ["GcTP9epXqTc"],
         "speakers": [
           {
@@ -816,6 +872,7 @@
       {
         "org": {"cam": "", "edit": "as"},
         "lang": "ru",
+        "labels": [],
         "youtube": ["VLW-rARakXY"],
         "speakers": [
           {
@@ -829,7 +886,7 @@
     ]
   },
   {
-    "datetime": "2016-09-29T19:00:00+02:00",
+    "datetime": "2016-09-29T19:00:00",
     "season": 2016,
     "place": {
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
@@ -837,14 +894,13 @@
     },
     "num": 97,
     "org": {"mod": "kl", "photo": ""},
-    "photo": [
-      "https://photos.google.com/share/AF1QipM_cLMsz8C9Ofsk4xMjfL4tD8Y7BjiwYcKMo18KsPdNt4QsR4cD5RbIO7dbmWWEtg?key=Slpmc3ZUT3Y2QWYta3g2Z3NHSmNLOVgxNWRPb0xR"
-    ],
+    "photo": ["https://photos.google.com/share/AF1QipM_cLMsz8C9Ofsk4xMjfL4tD8Y7BjiwYcKMo18KsPdNt4QsR4cD5RbIO7dbmWWEtg?key=Slpmc3ZUT3Y2QWYta3g2Z3NHSmNLOVgxNWRPb0xR"],
     "event": "https://www.eventbrite.com/e/27972867600",
     "speeches": [
       {
         "org": {"cam": "as", "edit": "as"},
         "lang": "ru",
+        "labels": [],
         "youtube": ["k6ng9g0956M"],
         "speakers": [
           {
@@ -859,6 +915,7 @@
       {
         "org": {"cam": "as", "edit": "as"},
         "lang": "ru",
+        "labels": [],
         "youtube": ["rTUu5QaWneU"],
         "speakers": [
           {
@@ -872,6 +929,7 @@
       {
         "org": {"cam": "as", "edit": "as"},
         "lang": "ru",
+        "labels": [],
         "youtube": ["nM92asjjde0"],
         "speakers": [
           {
@@ -894,13 +952,12 @@
     },
     "num": 96,
     "org": {"mod": "kl", "photo": ""},
-    "photo": [
-      "https://photos.google.com/share/AF1QipMK8zdpmhXgCa3M2tj5qG3mbU3E1EyrXXkIZ2uuHAxq_sqqDqUrJV3_x-3SnWb42g?key=YXRhWW5YRTJSZGhfQ1BrX2h0SkIyRDA5ajIzVXp3"
-    ],
+    "photo": ["https://photos.google.com/share/AF1QipMK8zdpmhXgCa3M2tj5qG3mbU3E1EyrXXkIZ2uuHAxq_sqqDqUrJV3_x-3SnWb42g?key=YXRhWW5YRTJSZGhfQ1BrX2h0SkIyRDA5ajIzVXp3"],
     "speeches": [
       {
         "org": {"cam": "jt", "edit": "as"},
         "lang": "ru",
+        "labels": [],
         "youtube": ["QyXkCCC2PKo"],
         "speakers": [
           {
@@ -914,6 +971,7 @@
       {
         "org": {"cam": "jt", "edit": "as"},
         "lang": "ru",
+        "labels": [],
         "youtube": ["iFlAZNvWQP8"],
         "speakers": [
           {
@@ -927,6 +985,7 @@
       {
         "org": {"cam": "jt", "edit": "as"},
         "lang": "ru",
+        "labels": [],
         "youtube": ["qMXvidzTu1Q"],
         "speakers": [
           {
@@ -940,7 +999,7 @@
     ]
   },
   {
-    "datetime": "2016-08-02T19:00:00+02:00",
+    "datetime": "2016-08-02T19:00:00",
     "season": 2016,
     "place": {
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
@@ -949,13 +1008,12 @@
     "num": 95,
     "titles": {"ru": "33 июля", "en": "33. July", "ee": "33. juuli"},
     "org": {"mod": "aa", "photo": ""},
-    "photo": [
-      "https://photos.google.com/share/AF1QipNpSNOvKpya3swyGrirkhaN73Qv0Nl52zIZOq0lUISGphVFCKWWJf_j5z0Erot8aQ?key=NmRCTmN5aFY4Mm1PZDlmdlUzb0JjYzdEUGdONy1R"
-    ],
+    "photo": ["https://photos.google.com/share/AF1QipNpSNOvKpya3swyGrirkhaN73Qv0Nl52zIZOq0lUISGphVFCKWWJf_j5z0Erot8aQ?key=NmRCTmN5aFY4Mm1PZDlmdlUzb0JjYzdEUGdONy1R"],
     "speeches": [
       {
         "org": {"cam": "jt", "edit": "as"},
         "lang": "ru",
+        "labels": [],
         "youtube": ["N4Z2xEGWneU"],
         "speakers": [
           {
@@ -970,6 +1028,7 @@
       },
       {
         "lang": "ru",
+        "labels": [],
         "speakers": [
           {
             "names": {"*": "Dmitry Smirnov", "ru": "Дмитрий Смирнов"},
@@ -983,6 +1042,7 @@
       {
         "org": {"cam": "jt", "edit": "as"},
         "lang": "ru",
+        "labels": [],
         "youtube": ["vRFq2ZwKrUI"],
         "speakers": [
           {
@@ -998,7 +1058,7 @@
     ]
   },
   {
-    "datetime": "2016-06-28T19:00:00+02:00",
+    "datetime": "2016-06-28T19:00:00",
     "season": 2016,
     "place": {
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
@@ -1006,13 +1066,12 @@
     },
     "num": 94,
     "org": {"mod": "aa", "photo": ""},
-    "photo": [
-      "https://photos.google.com/b/105266766340206558621/share/AF1QipMTmMSGEOFhEJV7eSH9GD0veCaxNcVVx5yO3GU8vIP4cBRvW27bBw71YjW48XYyTg?key=U2laam9CNHdXeVhfMUpkVkJ4Y21BM0Fhd09EZWdn"
-    ],
+    "photo": ["https://photos.google.com/b/105266766340206558621/share/AF1QipMTmMSGEOFhEJV7eSH9GD0veCaxNcVVx5yO3GU8vIP4cBRvW27bBw71YjW48XYyTg?key=U2laam9CNHdXeVhfMUpkVkJ4Y21BM0Fhd09EZWdn"],
     "speeches": [
       {
         "org": {"cam": "as", "edit": "as"},
         "lang": "ru",
+        "labels": [],
         "youtube": ["dsGmoCgFtCo"],
         "speakers": [
           {
@@ -1028,6 +1087,7 @@
       {
         "org": {"cam": "as", "edit": "as"},
         "lang": "ru",
+        "labels": [],
         "youtube": ["1qA8wGJff3g"],
         "speakers": [
           {
@@ -1042,6 +1102,7 @@
       {
         "org": {"cam": "as", "edit": "as"},
         "lang": "ru",
+        "labels": [],
         "youtube": ["q7uOeFEBkiI"],
         "speakers": [
           {
@@ -1056,7 +1117,7 @@
     ]
   },
   {
-    "datetime": "2016-05-24T19:00:00+02:00",
+    "datetime": "2016-05-24T19:00:00",
     "season": 2016,
     "place": {
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
@@ -1064,14 +1125,13 @@
     },
     "num": 93,
     "org": {"mod": "aa", "photo": ""},
-    "photo": [
-      "https://photos.google.com/share/AF1QipMswSrND-In7Km6LkSM0Oj_DJybkimDeOYLlWhoZh617qXSSL1eIRE-Gw415stqXw?key=UEdZRXBKRVdJa2ZKNmFRaFNZUFdpUWVjNjlPaHZR"
-    ],
+    "photo": ["https://photos.google.com/share/AF1QipMswSrND-In7Km6LkSM0Oj_DJybkimDeOYLlWhoZh617qXSSL1eIRE-Gw415stqXw?key=UEdZRXBKRVdJa2ZKNmFRaFNZUFdpUWVjNjlPaHZR"],
     "event": "https://www.eventbrite.com/e/25522212625",
     "speeches": [
       {
         "org": {"cam": "as", "edit": "as"},
         "lang": "ru",
+        "labels": [],
         "youtube": ["9lpDjZUGhKA"],
         "speakers": [
           {
@@ -1085,6 +1145,7 @@
       {
         "org": {"cam": "as", "edit": "as"},
         "lang": "ru",
+        "labels": [],
         "youtube": ["P-s7LlVf9hg"],
         "speakers": [
           {
@@ -1098,6 +1159,7 @@
       {
         "org": {"cam": "as", "edit": "as"},
         "lang": "ru",
+        "labels": [],
         "youtube": ["Z5SzA_Q-l14"],
         "speakers": [
           {
@@ -1111,7 +1173,7 @@
     ]
   },
   {
-    "datetime": "2016-04-21T19:00:00+02:00",
+    "datetime": "2016-04-21T19:00:00",
     "season": 2016,
     "place": {
       "name": "Nortal AS", "loc": "https://goo.gl/maps/Hx1WpPRW4x32", "addr": "Lõõtsa 6, 11415 Tallinn",
@@ -1123,14 +1185,13 @@
       "Антон Стальнухин",
       "Юрий Тимошин"
     ],
-    "photo": [
-      "https://photos.google.com/share/AF1QipOfEEihjou75xbHec0vJIkUSi4aBFmOfFm00XHVDbFXwYrUziQBCs64aPljc7lBVw?key=SzRsSTFoSWhQZ3MxTk41RTNRU0ktdHBDLVRwUTl3"
-    ],
+    "photo": ["https://photos.google.com/share/AF1QipOfEEihjou75xbHec0vJIkUSi4aBFmOfFm00XHVDbFXwYrUziQBCs64aPljc7lBVw?key=SzRsSTFoSWhQZ3MxTk41RTNRU0ktdHBDLVRwUTl3"],
     "event": "https://www.eventbrite.com/e/nortal-tickets-24507074319",
     "speeches": [
       {
         "org": {"cam": "", "edit": "as"},
         "lang": "ru",
+        "labels": [],
         "youtube": ["wOdAdXj4TsI"],
         "speakers": [
           {
@@ -1143,7 +1204,8 @@
       },
       {
         "org": {"cam": "", "edit": "as"},
-        "lang": "ru",
+        "lang": "en",
+        "labels": [],
         "youtube": ["EzVwHHD0JX4"],
         "speakers": [
           {
@@ -1152,11 +1214,15 @@
             "image": "jrosin.jpg"
           }
         ],
-        "titles": {"ru": "How to build the best software for visually impaired or blind people [eng]"}
+        "titles": {
+          "*": "How to build the best software for visually impaired or blind people [eng]",
+          "ru": "Как построить лучшее приложение для слепых или слабовидящих людей [eng]"
+        }
       },
       {
         "org": {"cam": "", "edit": "as"},
         "lang": "ru",
+        "labels": [],
         "youtube": ["qxAA1u1IfZs"],
         "speakers": [
           {
@@ -1170,7 +1236,7 @@
     ]
   },
   {
-    "datetime": "2016-03-29T19:00:00+02:00",
+    "datetime": "2016-03-29T19:00:00",
     "season": 2016,
     "place": {
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
@@ -1178,13 +1244,12 @@
     },
     "num": 91,
     "org": {"mod": "aso", "photo": ""},
-    "photo": [
-      "https://photos.google.com/share/AF1QipNrtE6O0lgIrss1zbvqXbTtXBKohUFJeOKsHlGuhJStmFIdNmXm1gnrKcRRZSUD4Q?key=elVNUS1rMmNtRm9FWXBLZU9DdHRqQzF4UTEtT0pR"
-    ],
+    "photo": ["https://photos.google.com/share/AF1QipNrtE6O0lgIrss1zbvqXbTtXBKohUFJeOKsHlGuhJStmFIdNmXm1gnrKcRRZSUD4Q?key=elVNUS1rMmNtRm9FWXBLZU9DdHRqQzF4UTEtT0pR"],
     "speeches": [
       {
         "org": {"cam": "jt", "edit": "as"},
         "lang": "ru",
+        "labels": [],
         "youtube": ["piAFQOAgU5U"],
         "speakers": [
           {
@@ -1198,6 +1263,7 @@
       {
         "org": {"cam": "jt", "edit": "as"},
         "lang": "ru",
+        "labels": [],
         "youtube": ["N3AMGsUS-yU"],
         "speakers": [
           {
@@ -1211,6 +1277,7 @@
       {
         "org": {"cam": "jt", "edit": "as"},
         "lang": "ru",
+        "labels": [],
         "youtube": ["DQqOCx2UJ10"],
         "speakers": [
           {
@@ -1224,7 +1291,7 @@
     ]
   },
   {
-    "datetime": "2016-02-24T19:00:00+02:00",
+    "datetime": "2016-02-24T19:00:00",
     "season": 2016,
     "place": {
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
@@ -1232,14 +1299,13 @@
     },
     "num": 90,
     "org": {"mod": "aso", "photo": ""},
-    "photo": [
-      "https://photos.google.com/share/AF1QipOuHfEqvaNg7xeoYv_xopxB4OV7hjuXRkR1GTnYbMa7xMQpnbenBoAHJKNVsM6BfA?key=MnQxRk1naHJpOVJlSzNud19BMU5kMEdxbzAxc3Jn"
-    ],
+    "photo": ["https://photos.google.com/share/AF1QipOuHfEqvaNg7xeoYv_xopxB4OV7hjuXRkR1GTnYbMa7xMQpnbenBoAHJKNVsM6BfA?key=MnQxRk1naHJpOVJlSzNud19BMU5kMEdxbzAxc3Jn"],
     "event": "http://www.eventbrite.com/e/24-tickets-21759454113",
     "speeches": [
       {
         "org": {"cam": "as", "edit": "as"},
         "lang": "ru",
+        "labels": [],
         "youtube": ["zaqZYDFm7Wo"],
         "speakers": [
           {
@@ -1267,7 +1333,8 @@
       },
       {
         "org": {"cam": "as", "edit": "as"},
-        "lang": "ru",
+        "lang": "en",
+        "labels": [],
         "youtube": ["BgkzGCfTkoE"],
         "speakers": [
           {
@@ -1276,12 +1343,12 @@
             "image": "jkuehlers.jpg"
           }
         ],
-        "titles": {"ru": "Big Data at Google"}
+        "titles": {"*": "Big Data at Google", "ru": "Big Data в Google"}
       }
     ]
   },
   {
-    "datetime": "2016-01-27T19:00:00+02:00",
+    "datetime": "2016-01-27T19:00:00",
     "season": 2016,
     "place": {
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
@@ -1293,14 +1360,13 @@
       "Антон Стальнухин",
       "Юрий Тимошин"
     ],
-    "photo": [
-      "https://photos.google.com/share/AF1QipMf1ESWguU8gNXHl7a6bFDKAEPxekX17xDZ2xITFchszJ_Fsyr0kDRA2xgPrShjIg?key=dzQwNzU3THB3Y2FlMURhRDZ5N1VUOHBUc1M2OW9B"
-    ],
+    "photo": ["https://photos.google.com/share/AF1QipMf1ESWguU8gNXHl7a6bFDKAEPxekX17xDZ2xITFchszJ_Fsyr0kDRA2xgPrShjIg?key=dzQwNzU3THB3Y2FlMURhRDZ5N1VUOHBUc1M2OW9B"],
     "event": "http://www.eventbrite.com/e/-tv-bi-hr-tickets-20925794615",
     "speeches": [
       {
         "org": {"cam": "", "edit": "as"},
         "lang": "ru",
+        "labels": [],
         "youtube": ["kkGuxKYvHaI"],
         "speakers": [
           {
@@ -1314,6 +1380,7 @@
       {
         "org": {"cam": "", "edit": "as"},
         "lang": "ru",
+        "labels": [],
         "youtube": ["o050WmqoMz4"],
         "speakers": [
           {
@@ -1327,6 +1394,7 @@
       {
         "org": {"cam": "", "edit": "as"},
         "lang": "ru",
+        "labels": [],
         "youtube": ["dwb0qdiUPiU"],
         "speakers": [
           {
@@ -1342,7 +1410,7 @@
     ]
   },
   {
-    "datetime": "2015-12-29T19:00:00+02:00",
+    "datetime": "2015-12-29T19:00:00",
     "season": 2016,
     "place": {
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
@@ -1356,6 +1424,7 @@
       {
         "org": {"cam": "jt", "edit": "as"},
         "lang": "ru",
+        "labels": [],
         "youtube": ["n3APDzvPF0k"],
         "speakers": [
           {
@@ -1371,6 +1440,7 @@
       {
         "org": {"cam": "jt", "edit": "as"},
         "lang": "ru",
+        "labels": [],
         "youtube": ["H739IbLytyQ"],
         "speakers": [
           {
@@ -1385,6 +1455,7 @@
       {
         "org": {"cam": "jt", "edit": "as"},
         "lang": "ru",
+        "labels": [],
         "youtube": ["kPC043A0Op0"],
         "speakers": [
           {
@@ -1400,6 +1471,7 @@
       {
         "org": {"cam": "jt", "edit": "as"},
         "lang": "ru",
+        "labels": [],
         "youtube": ["d_oOvd793Lo"],
         "speakers": [
           {
@@ -1413,7 +1485,7 @@
     ]
   },
   {
-    "datetime": "2015-11-25T19:00:00+02:00",
+    "datetime": "2015-11-25T19:00:00",
     "season": 2015,
     "place": {
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
@@ -1421,13 +1493,12 @@
     },
     "num": 87,
     "org": {"mod": "aa", "photo": ""},
-    "photo": [
-      "https://plus.google.com/photos/105266766340206558621/albums/6221209806882800433"
-    ],
+    "photo": ["https://plus.google.com/photos/105266766340206558621/albums/6221209806882800433"],
     "speeches": [
       {
         "org": {"cam": "", "edit": "as"},
         "lang": "ru",
+        "labels": [],
         "youtube": ["qKTREnERaec"],
         "speakers": [
           {
@@ -1442,6 +1513,7 @@
       {
         "org": {"cam": "", "edit": "as"},
         "lang": "ru",
+        "labels": [],
         "youtube": ["j8EoGX5at1w"],
         "speakers": [
           {
@@ -1456,6 +1528,7 @@
       {
         "org": {"cam": "", "edit": "as"},
         "lang": "ru",
+        "labels": [],
         "youtube": ["xBYkGBqFPeI"],
         "speakers": [
           {
@@ -1470,7 +1543,7 @@
     ]
   },
   {
-    "datetime": "2015-10-28T19:00:00+02:00",
+    "datetime": "2015-10-28T19:00:00",
     "season": 2015,
     "place": {
       "name": "Tallink Spa & Conference Hotel", "loc": "https://goo.gl/maps/EC38ZYDt8CQ2",
@@ -1478,13 +1551,12 @@
     },
     "num": 86,
     "org": {"mod": "kl", "photo": ""},
-    "photo": [
-      "https://plus.google.com/photos/105266766340206558621/albums/6210823207533670865"
-    ],
+    "photo": ["https://plus.google.com/photos/105266766340206558621/albums/6210823207533670865"],
     "speeches": [
       {
         "org": {"cam": "", "edit": "as"},
         "lang": "ru",
+        "labels": [],
         "youtube": ["OdbXwQPV3dw"],
         "speakers": [
           {
@@ -1499,10 +1571,11 @@
       {
         "org": {"cam": "", "edit": "as"},
         "lang": "ru",
+        "labels": [],
         "youtube": ["A8MetRHGv4U"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Артём Курапов"},
+            "names": {"*": "Artem Kurapov", "ru": "Артём Курапов"},
             "url": "",
             "image": ""
           }
@@ -1513,10 +1586,11 @@
       {
         "org": {"cam": "", "edit": "as"},
         "lang": "ru",
+        "labels": [],
         "youtube": ["GMK_0b6Wgjw"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Роберт Каэв"},
+            "names": {"*": "Robert Kaev", "ru": "Роберт Каэв"},
             "url": "",
             "image": ""
           }
@@ -1526,7 +1600,7 @@
     ]
   },
   {
-    "datetime": "2015-09-29T19:00:00+02:00",
+    "datetime": "2015-09-29T19:00:00",
     "season": 2015,
     "place": {
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
@@ -1534,13 +1608,12 @@
     },
     "num": 85,
     "org": {"mod": "kl", "photo": ""},
-    "photo": [
-      "https://plus.google.com/photos/105266766340206558621/albums/6200352494143601265"
-    ],
+    "photo": ["https://plus.google.com/photos/105266766340206558621/albums/6200352494143601265"],
     "speeches": [
       {
         "org": {"cam": "", "edit": "as"},
         "lang": "ru",
+        "labels": [],
         "youtube": ["DbLYqRqbQSw"],
         "speakers": [
           {
@@ -1555,6 +1628,7 @@
       {
         "org": {"cam": "", "edit": "as"},
         "lang": "ru",
+        "labels": [],
         "youtube": ["QmluxspuS8E"],
         "speakers": [
           {
@@ -1563,13 +1637,14 @@
             "image": "akeks.jpg"
           }
         ],
-        "titles": {"ru": "Digital Signatures: Estonia vs The World"},
+        "titles": {"*": "Digital Signatures: Estonia vs The World"},
         "presentations": ["https://prezi.com/vsm7g2gbjtmy/digital-signatures"],
         "top": {"season": 2015, "place": 1}
       },
       {
         "org": {"cam": "", "edit": "as"},
         "lang": "ru",
+        "labels": [],
         "youtube": ["nttZNPPC1cQ"],
         "speakers": [
           {
@@ -1583,7 +1658,7 @@
     ]
   },
   {
-    "datetime": "2015-08-19T19:00:00+02:00",
+    "datetime": "2015-08-19T19:00:00",
     "season": 2015,
     "place": {
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
@@ -1591,13 +1666,12 @@
     },
     "num": 84,
     "org": {"mod": "aso", "photo": ""},
-    "photo": [
-      "https://plus.google.com/photos/105266766340206558621/albums/6184829266311516977"
-    ],
+    "photo": ["https://plus.google.com/photos/105266766340206558621/albums/6184829266311516977"],
     "speeches": [
       {
         "org": {"cam": "", "edit": "as"},
         "lang": "ru",
+        "labels": [],
         "youtube": ["cGXorQkw3JE"],
         "speakers": [
           {
@@ -1612,6 +1686,7 @@
       {
         "org": {"cam": "", "edit": "as"},
         "lang": "ru",
+        "labels": [],
         "youtube": ["1PZmalhJyS0"],
         "speakers": [
           {
@@ -1628,6 +1703,7 @@
       {
         "org": {"cam": "", "edit": "as"},
         "lang": "ru",
+        "labels": [],
         "youtube": ["tf_7Drar-NU"],
         "speakers": [
           {
@@ -1641,7 +1717,7 @@
     ]
   },
   {
-    "datetime": "2015-07-30T19:00:00+02:00",
+    "datetime": "2015-07-30T19:00:00",
     "season": 2015,
     "place": {
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
@@ -1655,6 +1731,9 @@
     ],
     "speeches": [
       {
+        "org": {"cam": ""},
+        "lang": "ru",
+        "labels": [],
         "speakers": [
           {
             "names": {"*": "", "ru": "Алек Альджанов"},
@@ -1668,6 +1747,7 @@
       {
         "org": {"cam": "", "edit": "as"},
         "lang": "ru",
+        "labels": [],
         "youtube": ["ME4HqzRjjJs"],
         "speakers": [
           {
@@ -1680,9 +1760,12 @@
         "presentations": ["http://www.slideshare.net/iiiirina/devclubeu-30072015"]
       },
       {
+        "org": {"cam": ""},
+        "lang": "ru",
+        "labels": ["offtopic", "physics", "math"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Антон Карпуткин"},
+            "names": {"*": "Anton Karputkin", "ru": "Антон Карпуткин"},
             "url": "",
             "image": ""
           }
@@ -1694,7 +1777,7 @@
     ]
   },
   {
-    "datetime": "2015-07-02T19:00:00+02:00",
+    "datetime": "2015-07-02T19:00:00",
     "season": 2015,
     "place": {
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
@@ -1703,26 +1786,26 @@
     "num": 82,
     "titles": {"ru": "32 июня", "en": "32. June", "ee": "32. juuni"},
     "org": {"mod": "kl", "photo": ""},
-    "photo": [
-      "https://plus.google.com/photos/105266766340206558621/albums/6176157478914898561"
-    ],
+    "photo": ["https://plus.google.com/photos/105266766340206558621/albums/6176157478914898561"],
     "speeches": [
       {
         "org": {"cam": "", "edit": "as"},
         "lang": "ru",
+        "labels": [],
         "youtube": ["8VZU5_Dsqyg"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Сергей Куксенко"},
+            "names": {"*": "Sergei Kuksenko", "ru": "Сергей Куксенко"},
             "url": "",
             "image": ""
           }
         ],
-        "titles": {"ru": "Stream Style"}
+        "titles": {"*": "Stream Style"}
       },
       {
         "org": {"cam": "", "edit": "as"},
         "lang": "ru",
+        "labels": [],
         "youtube": ["fRQhYKqpfog"],
         "speakers": [
           {
@@ -1731,11 +1814,12 @@
             "image": "mkiuru.jpg"
           }
         ],
-        "titles": {"ru": "HFT или How Deep the Rabbit Hole Goes"}
+        "titles": {"*": "HFT or How Deep the Rabbit Hole Goes"}
       },
       {
         "org": {"cam": "", "edit": "as"},
         "lang": "ru",
+        "labels": [],
         "youtube": ["5ZHSdwRnKvQ"],
         "speakers": [
           {
@@ -1750,7 +1834,7 @@
     ]
   },
   {
-    "datetime": "2015-05-26T19:00:00+02:00",
+    "datetime": "2015-05-26T19:00:00",
     "season": 2015,
     "place": {
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
@@ -1758,13 +1842,12 @@
     },
     "num": 81,
     "org": {"mod": "aa", "photo": ""},
-    "photo": [
-      "https://plus.google.com/photos/105266766340206558621/albums/6153474564634814241"
-    ],
+    "photo": ["https://plus.google.com/photos/105266766340206558621/albums/6153474564634814241"],
     "speeches": [
       {
         "org": {"cam": "", "edit": "as"},
         "lang": "ru",
+        "labels": [],
         "youtube": ["kZDa5hD-oQI"],
         "speakers": [
           {
@@ -1779,6 +1862,7 @@
       {
         "org": {"cam": "", "edit": "as"},
         "lang": "ru",
+        "labels": [],
         "youtube": ["wJa7oIuR-a0"],
         "speakers": [
           {
@@ -1792,6 +1876,7 @@
       {
         "org": {"cam": "", "edit": "as"},
         "lang": "ru",
+        "labels": [],
         "youtube": ["05GZoxdSYfk"],
         "speakers": [
           {
@@ -1805,7 +1890,7 @@
     ]
   },
   {
-    "datetime": "2015-04-30T00:00:00+02:00",
+    "datetime": "2015-04-30T19:00:00",
     "season": 2015,
     "place": {
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
@@ -1821,6 +1906,7 @@
       {
         "org": {"cam": "", "edit": "as"},
         "lang": "ru",
+        "labels": [],
         "youtube": ["pRpY-s6ivOc"],
         "speakers": [
           {
@@ -1834,19 +1920,21 @@
       {
         "org": {"cam": "", "edit": "as"},
         "lang": "ru",
+        "labels": [],
         "youtube": ["NZ1QaiDJP3o"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Олег Мюрк"},
+            "names": {"*": "Oleg Mürk", "ru": "Олег Мюрк"},
             "url": "",
             "image": ""
           }
         ],
-        "titles": {"ru": "Big Data & Spark"}
+        "titles": {"*": "Big Data & Spark"}
       },
       {
         "org": {"cam": "", "edit": "as"},
         "lang": "en",
+        "labels": [],
         "youtube": ["PzYGWCCDK7M"],
         "speakers": [
           {
@@ -1855,13 +1943,16 @@
             "image": "tkotka.jpg"
           }
         ],
-        "titles": {"ru": "Всё, что вы хотели знать об IT в Эстонии [eng]"},
+        "titles": {
+          "*": "All you wanted to know about IT in Estonia", 
+          "ru": "Всё, что вы хотели знать об IT в Эстонии [eng]"
+        },
         "top": {"season": 2015, "place": 2}
       }
     ]
   },
   {
-    "datetime": "2015-03-26T00:00:00+02:00",
+    "datetime": "2015-03-26T19:00:00",
     "season": 2015,
     "place": {
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
@@ -1869,13 +1960,12 @@
     },
     "num": 79,
     "org": {"mod": "kl", "photo": ""},
-    "photo": [
-      "https://plus.google.com/photos/101124267861537730212/albums/6131754921509327009"
-    ],
+    "photo": ["https://plus.google.com/photos/101124267861537730212/albums/6131754921509327009"],
     "speeches": [
       {
         "org": {"cam": "", "edit": "as"},
         "lang": "ru",
+        "labels": [],
         "youtube": ["lr0N5kyHny8"],
         "speakers": [
           {
@@ -1889,6 +1979,7 @@
       {
         "org": {"cam": "", "edit": "as"},
         "lang": "ru",
+        "labels": [],
         "youtube": ["6wYdwpPnPTg"],
         "speakers": [
           {
@@ -1902,6 +1993,7 @@
       {
         "org": {"cam": "", "edit": "as"},
         "lang": "ru",
+        "labels": [],
         "youtube": ["54Og5qW_pu8"],
         "speakers": [
           {
@@ -1915,7 +2007,7 @@
     ]
   },
   {
-    "datetime": "2015-02-26T00:00:00+02:00",
+    "datetime": "2015-02-26T19:00:00",
     "season": 2015,
     "place": {
       "name": "Tallink Spa & Conference Hotel", "loc": "https://goo.gl/maps/EC38ZYDt8CQ2",
@@ -1923,13 +2015,12 @@
     },
     "num": 78,
     "org": {"mod": "aa", "photo": ""},
-    "photo": [
-      "https://plus.google.com/photos/101124267861537730212/albums/6120870846920387953"
-    ],
+    "photo": ["https://plus.google.com/photos/101124267861537730212/albums/6120870846920387953"],
     "speeches": [
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["SsrmLyVxnoE"],
         "origVid": ["https://www.youtube.com/watch?v=6oqyFbopU6w"],
         "speakers": [
@@ -1944,11 +2035,12 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["mG2irGDbuRA"],
         "origVid": ["https://www.youtube.com/watch?v=nK9vvySp8Rc"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Филипп Кекс"},
+            "names": {"*": "Filipp Keks", "ru": "Филипп Кекс"},
             "url": "",
             "image": ""
           }
@@ -1958,11 +2050,12 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["Qlq3e7_EGeU"],
         "origVid": ["https://www.youtube.com/watch?v=12kQ_-nDs7M"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Владимир Фунтиков"},
+            "names": {"*": "Vladimir Funtikov", "ru": "Владимир Фунтиков"},
             "url": "",
             "image": ""
           }
@@ -1972,7 +2065,7 @@
     ]
   },
   {
-    "datetime": "2015-01-27T00:00:00+02:00",
+    "datetime": "2015-01-27T19:00:00",
     "season": 2015,
     "place": {
       "name": "Hotell Euroopa", "loc": "https://goo.gl/maps/bu6pbxbmCJS2", "addr": "Paadi 5, 10151 Tallinn",
@@ -1980,11 +2073,12 @@
     },
     "num": 77,
     "org": {"mod": "kl", "photo": ""},
-    "photo": [
-      "https://plus.google.com/photos/101124267861537730212/albums/6109818874996592129"
-    ],
+    "photo": ["https://plus.google.com/photos/101124267861537730212/albums/6109818874996592129"],
     "speeches": [
       {
+        "org": {},
+        "lang": "ru",
+        "labels": [],
         "speakers": [
           {
             "names": {"*": "", "ru": "Ирина Марценюк"},
@@ -1996,6 +2090,9 @@
         "info": "Встреча не снималась на камеру. Видео нет."
       },
       {
+        "org": {},
+        "lang": "ru",
+        "labels": [],
         "speakers": [
           {
             "names": {"*": "Jevgeni Goloborodko", "ru": "Евгений Голобородько"},
@@ -2007,6 +2104,9 @@
         "info": "Встреча не снималась на камеру. Видео нет."
       },
       {
+        "org": {},
+        "lang": "ru",
+        "labels": [],
         "speakers": [
           {
             "names": {"*": "Gleb Smirnov", "ru": "Глеб Смирнов"},
@@ -2020,7 +2120,7 @@
     ]
   },
   {
-    "datetime": "2014-12-18T00:00:00+02:00",
+    "datetime": "2014-12-18T19:00:00",
     "season": 2015,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
@@ -2028,18 +2128,17 @@
     },
     "num": 76,
     "org": {"mod": "aa", "photo": ""},
-    "photo": [
-      "https://plus.google.com/photos/101124267861537730212/albums/6094961666805579297"
-    ],
+    "photo": ["https://plus.google.com/photos/101124267861537730212/albums/6094961666805579297"],
     "speeches": [
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["sjvUf3lWT7U"],
         "origVid": ["https://www.youtube.com/watch?v=ypyAvJ4FHxk"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Антон Литвиненко"},
+            "names": {"*": "Anton Litvinenko", "ru": "Антон Литвиненко"},
             "url": "",
             "image": ""
           }
@@ -2049,6 +2148,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["_0PsWV6nhmQ"],
         "origVid": ["https://www.youtube.com/watch?v=LLhyrvckGqU"],
         "speakers": [
@@ -2063,6 +2163,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["j_V6TZ3ZU6c"],
         "origVid": ["https://www.youtube.com/watch?v=qBXgYDav40g"],
         "speakers": [
@@ -2077,11 +2178,12 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["-ZZm6qO1CvY"],
         "origVid": ["https://www.youtube.com/watch?v=HQvzPxHbJQQ"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Дарья Крушевская"},
+            "names": {"*": "Daria Krushevskaja", "ru": "Дарья Крушевская"},
             "url": "",
             "image": ""
           }
