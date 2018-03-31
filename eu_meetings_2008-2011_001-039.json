@@ -1545,7 +1545,12 @@
             "image": "asolntsev.jpg"
           }
         ],
-        "titles": {"*": "HireBug"}
+        "titles": {"*": "HireBug"},
+        "info": {
+          "ru": "По уже забытым причинам видео закрыто для просмотра.",
+          "en": "Video is closed for viewing by speaker request.",
+          "et": "Video on kinni kõneleja soovil."
+        }
       },
       {
         "org": {"cam": "", "edit": ""},
