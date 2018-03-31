@@ -238,7 +238,7 @@
       {
         "org": {"cam": "gb", "edit": "as"},
         "lang": "ru",
-        "labels": [],
+        "labels": ["projects", "survey"],
         "youtube": ["ri8yRAIxMzg"],
         "speakers": [
           {
@@ -252,7 +252,7 @@
       {
         "org": {"cam": "gb", "edit": "as"},
         "lang": "ru",
-        "labels": [],
+        "labels": ["deep learning", "ai"],
         "youtube": ["Ekvb9EgQDLk"],
         "speakers": [
           {
@@ -267,7 +267,7 @@
       {
         "org": {"cam": "gb", "edit": "as"},
         "lang": "ru",
-        "labels": [],
+        "labels": ["deep learning", "ai", "prisma"],
         "youtube": ["IYfA934cYKs"],
         "speakers": [
           {
@@ -297,7 +297,7 @@
       {
         "org": {"cam": "as", "edit": "as"},
         "lang": "ru",
-        "labels": [],
+        "labels": ["internalization", "translation"],
         "youtube": ["ednUmqbra9s"],
         "speakers": [
           {
@@ -311,7 +311,7 @@
       {
         "org": {"cam": "as", "edit": "as"},
         "lang": "ru",
-        "labels": [],
+        "labels": ["physics", "ai", "computer vision"],
         "youtube": ["PC1VVulS3_E"],
         "speakers": [
           {
@@ -324,7 +324,7 @@
       {
         "org": {"cam": "as", "edit": "as"},
         "lang": "ru",
-        "labels": [],
+        "labels": ["tests", "qa", "testcontainers"],
         "youtube": ["ohrdeXKMHWQ"],
         "speakers": [
           {
@@ -353,7 +353,7 @@
       {
         "org": {"cam": "gb", "edit": "as"},
         "lang": "ru",
-        "labels": [],
+        "labels": ["projects", "healthcare", "estonia"],
         "youtube": ["CTB516GtVKU"],
         "speakers": [
           {
@@ -367,7 +367,7 @@
       {
         "org": {"cam": "gb", "edit": "as"},
         "lang": "ru",
-        "labels": [],
+        "labels": ["projects", "healthcare", "estonia", "architecture"],
         "youtube": ["ud26J5LduM4"],
         "speakers": [
           {
@@ -381,7 +381,7 @@
       {
         "org": {"cam": "gb,as", "edit": "as"},
         "lang": "ru",
-        "labels": [],
+        "labels": ["projects", "healthcare", "estonia", "lithuania", "fhir", "architecture"],
         "youtube": ["-4OOrtL4f6Q"],
         "speakers": [
           {
@@ -409,7 +409,7 @@
       {
         "org": {"cam": "jt", "edit": "as"},
         "lang": "ru",
-        "labels": [],
+        "labels": ["experience", "job"],
         "youtube": ["QtlcJpQl1pk"],
         "speakers": [
           {
@@ -424,7 +424,7 @@
       {
         "org": {"cam": "jt", "edit": "as"},
         "lang": "ru",
-        "labels": [],
+        "labels": ["process", "management", "job"],
         "youtube": ["0dXJQ3gQKDU"],
         "speakers": [
           {
@@ -438,7 +438,7 @@
       {
         "org": {"cam": "gb", "edit": "as"},
         "lang": "ru",
-        "labels": [],
+        "labels": ["java", "stream"],
         "youtube": ["MP5d_GAHJ20"],
         "speakers": [
           {
@@ -468,7 +468,7 @@
       {
         "org": {"cam": "jt", "edit": "as"},
         "lang": "ru",
-        "labels": [],
+        "labels": ["design", "ux", "pet", "methodology"],
         "youtube": ["pq9JktHh8zA"],
         "speakers": [
           {
@@ -483,7 +483,7 @@
       {
         "org": {"cam": "jt", "edit": "as"},
         "lang": "ru",
-        "labels": [],
+        "labels": ["design", "ux", "sprint", "methodology"],
         "youtube": ["RxrAiTm5Drk"],
         "speakers": [
           {
@@ -497,7 +497,7 @@
       {
         "org": {"cam": "jt", "edit": "as"},
         "lang": "ru",
-        "labels": [],
+        "labels": ["ux", "d3", "js", "design", "graphics"],
         "youtube": ["lkTH4-jsioA"],
         "speakers": [
           {
@@ -526,7 +526,7 @@
       {
         "org": {"cam": "jt", "edit": "as"},
         "lang": "ru",
-        "labels": [],
+        "labels": ["server"],
         "youtube": ["chcGxKAQnSk"],
         "speakers": [
           {
@@ -545,7 +545,7 @@
       {
         "org": {"cam": "jt", "edit": "as"},
         "lang": "ru",
-        "labels": [],
+        "labels": ["swift", "language"],
         "youtube": ["99wz9XkyucY"],
         "speakers": [
           {
@@ -559,7 +559,7 @@
       {
         "org": {"cam": "as", "edit": "as"},
         "lang": "ru",
-        "labels": [],
+        "labels": ["vim", "text editor"],
         "youtube": ["xAL9scgNcCA"],
         "speakers": [
           {
@@ -587,7 +587,7 @@
       {
         "org": {"cam": "jt", "edit": "as"},
         "lang": "ru",
-        "labels": [],
+        "labels": [".net", "language", "asynchronous", "io"],
         "youtube": ["eYobx9EXR_I"],
         "speakers": [
           {
@@ -602,7 +602,7 @@
       {
         "org": {"cam": "jt", "edit": "as"},
         "lang": "ru",
-        "labels": [],
+        "labels": ["annotaion", "java"],
         "youtube": ["V7LDcwoTfcI"],
         "speakers": [
           {
@@ -616,7 +616,7 @@
       {
         "org": {"cam": "jt", "edit": "as"},
         "lang": "ru",
-        "labels": [],
+        "labels": ["oauth", "jwt", "spring", "java", "security"],
         "youtube": ["PMCKjrwL5rM"],
         "speakers": [
           {
@@ -644,7 +644,7 @@
       {
         "org": {"cam": "jt", "edit": "as"},
         "lang": "ru",
-        "labels": [],
+        "labels": ["job", "interview", "java"],
         "youtube": ["Vlb_Is-rRTQ"],
         "speakers": [
           {
@@ -660,7 +660,7 @@
       {
         "org": {"cam": "jt", "edit": "as"},
         "lang": "ru",
-        "labels": [],
+        "labels": ["security", "php", "bitcoin"],
         "youtube": ["0ThCqyNS0ZE"],
         "speakers": [
           {
@@ -674,7 +674,7 @@
       {
         "org": {"cam": "jt", "edit": "as"},
         "lang": "ru",
-        "labels": [],
+        "labels": ["management", "business", "experience"],
         "youtube": ["HlNUUAXD-E0"],
         "speakers": [
           {
@@ -703,7 +703,7 @@
       {
         "org": {"cam": "jt", "edit": "as"},
         "lang": "en",
-        "labels": [],
+        "labels": ["estonia", "projects", "regulations", "e-voting", "e-residency"],
         "youtube": ["zIptAtTNVvc", "ny75q_hbT7w"],
         "speakers": [
           {
@@ -720,7 +720,7 @@
       {
         "org": {"cam": "as", "edit": "as"},
         "lang": "ru",
-        "labels": [],
+        "labels": ["devclub", "offtopic"],
         "youtube": ["luKdI0MXJpQ"],
         "speakers": [
           {
@@ -734,7 +734,7 @@
       {
         "org": {"cam": "jt", "edit": "as"},
         "lang": "ru",
-        "labels": [],
+        "labels": ["offtopic", "lifestyle", "sport"],
         "youtube": ["JyO43q-_TTY"],
         "speakers": [
           {
@@ -749,7 +749,7 @@
       {
         "org": {"cam": "jt", "edit": "as"},
         "lang": "ru",
-        "labels": [],
+        "labels": ["offtopic", "lifestyle", "running", "sport"],
         "youtube": ["PN2MQF9siBM"],
         "speakers": [
           {
@@ -778,7 +778,7 @@
       {
         "org": {"cam": "", "edit": "as"},
         "lang": "ru",
-        "labels": [],
+        "labels": ["ci", "concourse"],
         "youtube": ["JtbR2bTmjkI"],
         "speakers": [
           {
@@ -795,7 +795,7 @@
       {
         "org": {"cam": "", "edit": "as"},
         "lang": "ru",
-        "labels": [],
+        "labels": ["cloud", "estonia", "projects", "architecture"],
         "youtube": ["WVzzRvtK24M"],
         "speakers": [
           {
@@ -810,7 +810,7 @@
       {
         "org": {"cam": "", "edit": "as"},
         "lang": "ru",
-        "labels": [],
+        "labels": ["ci", "jenkins"],
         "youtube": ["-Dxm3jhk-W0"],
         "speakers": [
           {
@@ -839,7 +839,7 @@
       {
         "org": {"cam": "", "edit": "as"},
         "lang": "ru",
-        "labels": [],
+        "labels": ["sql", "db", "postgresql"],
         "youtube": ["O7aIUQG2rj4"],
         "speakers": [
           {
@@ -853,7 +853,7 @@
       {
         "org": {"cam": "", "edit": "as"},
         "lang": "ru",
-        "labels": [],
+        "labels": ["sql", "db", "postgresql"],
         "youtube": ["GcTP9epXqTc"],
         "speakers": [
           {
@@ -871,8 +871,8 @@
       },
       {
         "org": {"cam": "", "edit": "as"},
-        "lang": "ru",
-        "labels": [],
+        "lang": "en",
+        "labels": ["sql", "db", "postgresql"],
         "youtube": ["VLW-rARakXY"],
         "speakers": [
           {
@@ -881,7 +881,10 @@
             "image": "bmomjian.jpg"
           }
         ],
-        "titles": {"ru": "PostgreSQL Past, Present and Future [eng]"}
+        "titles": {
+          "*": "PostgreSQL Past, Present and Future",
+          "ru": "PostgreSQL: прошлое, настоящее и будущее [eng]"
+        }
       }
     ]
   },
@@ -900,7 +903,7 @@
       {
         "org": {"cam": "as", "edit": "as"},
         "lang": "ru",
-        "labels": [],
+        "labels": ["projects", "estonia", "architecture"],
         "youtube": ["k6ng9g0956M"],
         "speakers": [
           {
@@ -915,7 +918,7 @@
       {
         "org": {"cam": "as", "edit": "as"},
         "lang": "ru",
-        "labels": [],
+        "labels": ["job", "recruitment", "cv"],
         "youtube": ["rTUu5QaWneU"],
         "speakers": [
           {
@@ -929,7 +932,7 @@
       {
         "org": {"cam": "as", "edit": "as"},
         "lang": "ru",
-        "labels": [],
+        "labels": ["security", "http", "headers"],
         "youtube": ["nM92asjjde0"],
         "speakers": [
           {
@@ -944,7 +947,7 @@
     ]
   },
   {
-    "datetime": "2016-08-30T19:00:00+02:00",
+    "datetime": "2016-08-30T19:00:00",
     "season": 2016,
     "place": {
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
@@ -957,7 +960,7 @@
       {
         "org": {"cam": "jt", "edit": "as"},
         "lang": "ru",
-        "labels": [],
+        "labels": ["deep learning", "ai", "text recognition"],
         "youtube": ["QyXkCCC2PKo"],
         "speakers": [
           {
@@ -971,7 +974,7 @@
       {
         "org": {"cam": "jt", "edit": "as"},
         "lang": "ru",
-        "labels": [],
+        "labels": ["estonia", "projects", "architecture"],
         "youtube": ["iFlAZNvWQP8"],
         "speakers": [
           {
@@ -985,7 +988,7 @@
       {
         "org": {"cam": "jt", "edit": "as"},
         "lang": "ru",
-        "labels": [],
+        "labels": ["hybrid", "native", "mobile"],
         "youtube": ["qMXvidzTu1Q"],
         "speakers": [
           {
