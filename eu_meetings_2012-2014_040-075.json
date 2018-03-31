@@ -57,7 +57,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
-        "labels": [],
+        "labels": ["vagrant", "virtual"],
         "youtube": ["7jdswaWkj-8"],
         "origVid": ["https://www.youtube.com/watch?v=2BrQ4RrT2QU"],
         "speakers": [
@@ -876,7 +876,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
-        "labels": [],
+        "labels": ["vim", "text editor"],
         "youtube": ["AUwsYhUxKUQ"],
         "origVid": ["https://vimeo.com/78286035"],
         "speakers": [
