@@ -1016,7 +1016,7 @@
       {
         "org": {"cam": "jt", "edit": "as"},
         "lang": "ru",
-        "labels": [],
+        "labels": ["java", "memory", "gc", "performance"],
         "youtube": ["N4Z2xEGWneU"],
         "speakers": [
           {
@@ -1031,7 +1031,7 @@
       },
       {
         "lang": "ru",
-        "labels": [],
+        "labels": ["security"],
         "speakers": [
           {
             "names": {"*": "Dmitry Smirnov", "ru": "Дмитрий Смирнов"},
@@ -1049,7 +1049,7 @@
       {
         "org": {"cam": "jt", "edit": "as"},
         "lang": "ru",
-        "labels": [],
+        "labels": ["riot", "js"],
         "youtube": ["vRFq2ZwKrUI"],
         "speakers": [
           {
@@ -1078,7 +1078,7 @@
       {
         "org": {"cam": "as", "edit": "as"},
         "lang": "ru",
-        "labels": [],
+        "labels": ["offtopic", "posters", "design"],
         "youtube": ["dsGmoCgFtCo"],
         "speakers": [
           {
@@ -1094,7 +1094,7 @@
       {
         "org": {"cam": "as", "edit": "as"},
         "lang": "ru",
-        "labels": [],
+        "labels": ["scala", "language"],
         "youtube": ["1qA8wGJff3g"],
         "speakers": [
           {
@@ -1109,7 +1109,7 @@
       {
         "org": {"cam": "as", "edit": "as"},
         "lang": "ru",
-        "labels": [],
+        "labels": ["projects", "architecture", "latvia"],
         "youtube": ["q7uOeFEBkiI"],
         "speakers": [
           {
@@ -1138,7 +1138,7 @@
       {
         "org": {"cam": "as", "edit": "as"},
         "lang": "ru",
-        "labels": [],
+        "labels": ["aws", "cloud", "docker", "server"],
         "youtube": ["9lpDjZUGhKA"],
         "speakers": [
           {
@@ -1152,7 +1152,7 @@
       {
         "org": {"cam": "as", "edit": "as"},
         "lang": "ru",
-        "labels": [],
+        "labels": ["projects", "estonia", "architecture"],
         "youtube": ["P-s7LlVf9hg"],
         "speakers": [
           {
@@ -1166,7 +1166,7 @@
       {
         "org": {"cam": "as", "edit": "as"},
         "lang": "ru",
-        "labels": [],
+        "labels": ["ble", "bluetooth", "wireless"],
         "youtube": ["Z5SzA_Q-l14"],
         "speakers": [
           {
@@ -1198,7 +1198,7 @@
       {
         "org": {"cam": "", "edit": "as"},
         "lang": "ru",
-        "labels": [],
+        "labels": ["experience", "architecture"],
         "youtube": ["wOdAdXj4TsI"],
         "speakers": [
           {
@@ -1212,7 +1212,7 @@
       {
         "org": {"cam": "", "edit": "as"},
         "lang": "en",
-        "labels": [],
+        "labels": ["ux", "accessibility"],
         "youtube": ["EzVwHHD0JX4"],
         "speakers": [
           {
@@ -1229,7 +1229,7 @@
       {
         "org": {"cam": "", "edit": "as"},
         "lang": "ru",
-        "labels": [],
+        "labels": ["management", "experience", "estonia"],
         "youtube": ["qxAA1u1IfZs"],
         "speakers": [
           {
@@ -1256,7 +1256,7 @@
       {
         "org": {"cam": "jt", "edit": "as"},
         "lang": "ru",
-        "labels": [],
+        "labels": ["java", "experience", "methodology"],
         "youtube": ["piAFQOAgU5U"],
         "speakers": [
           {
@@ -1270,7 +1270,7 @@
       {
         "org": {"cam": "jt", "edit": "as"},
         "lang": "ru",
-        "labels": [],
+        "labels": ["server"],
         "youtube": ["N3AMGsUS-yU"],
         "speakers": [
           {
@@ -1284,7 +1284,7 @@
       {
         "org": {"cam": "jt", "edit": "as"},
         "lang": "ru",
-        "labels": [],
+        "labels": ["kotlin", "language"],
         "youtube": ["DQqOCx2UJ10"],
         "speakers": [
           {
@@ -1312,7 +1312,7 @@
       {
         "org": {"cam": "as", "edit": "as"},
         "lang": "ru",
-        "labels": [],
+        "labels": ["experience", "job", "lifestyle"],
         "youtube": ["zaqZYDFm7Wo"],
         "speakers": [
           {
@@ -1327,6 +1327,7 @@
       {
         "org": {"cam": "as", "edit": "as"},
         "lang": "ru",
+        "labels": ["java", "concurrency", "volatile", "memory"],
         "youtube": ["XZi67qYZ1UY"],
         "speakers": [
           {
@@ -1341,7 +1342,7 @@
       {
         "org": {"cam": "as", "edit": "as"},
         "lang": "en",
-        "labels": [],
+        "labels": ["big data"],
         "youtube": ["BgkzGCfTkoE"],
         "speakers": [
           {
@@ -1373,7 +1374,7 @@
       {
         "org": {"cam": "", "edit": "as"},
         "lang": "ru",
-        "labels": [],
+        "labels": ["bi", "sap", "spagobi", "pentaho"],
         "youtube": ["kkGuxKYvHaI"],
         "speakers": [
           {
@@ -1387,7 +1388,7 @@
       {
         "org": {"cam": "", "edit": "as"},
         "lang": "ru",
-        "labels": [],
+        "labels": ["digital", "television"],
         "youtube": ["o050WmqoMz4"],
         "speakers": [
           {
@@ -1401,7 +1402,7 @@
       {
         "org": {"cam": "", "edit": "as"},
         "lang": "ru",
-        "labels": [],
+        "labels": ["recruitment", "cv", "job"],
         "youtube": ["dwb0qdiUPiU"],
         "speakers": [
           {
@@ -1431,7 +1432,7 @@
       {
         "org": {"cam": "jt", "edit": "as"},
         "lang": "ru",
-        "labels": [],
+        "labels": ["microservices", "tests", "experience"],
         "youtube": ["n3APDzvPF0k"],
         "speakers": [
           {
@@ -1447,7 +1448,7 @@
       {
         "org": {"cam": "jt", "edit": "as"},
         "lang": "ru",
-        "labels": [],
+        "labels": ["regulations", "estonia", "recruitment", "management"],
         "youtube": ["H739IbLytyQ"],
         "speakers": [
           {
@@ -1462,7 +1463,7 @@
       {
         "org": {"cam": "jt", "edit": "as"},
         "lang": "ru",
-        "labels": [],
+        "labels": ["offtopic", "language", "movies"],
         "youtube": ["kPC043A0Op0"],
         "speakers": [
           {
@@ -1478,7 +1479,7 @@
       {
         "org": {"cam": "jt", "edit": "as"},
         "lang": "ru",
-        "labels": [],
+        "labels": ["offtopic", "lifestyle"],
         "youtube": ["d_oOvd793Lo"],
         "speakers": [
           {
