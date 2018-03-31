@@ -362,7 +362,12 @@
             "image": "ibossenko.jpg"
           }
         ],
-        "titles": {"ru": "Soft Wars: A New Hope"}
+        "titles": {"ru": "Soft Wars: A New Hope"},
+        "descr": {
+          "ru": [
+            "Настоящие виртуальные войны разразились на непаханном поле медицинского ПО в начале 90-х гг в Эстонии. Подробно, с «военными» картами, об участниках тех сражений (BCS, 7+7, Gennet, Webmedia, Medisoft) расскажет нам Игорь Босенко, который и сам был в их числе ещё с 90-х гг сначала в GenNet, а потом в Webmedia. Пойдёт рассказ и о самой структуре внутри медицинского IT пространства (что такое HIS, NHS, PHR) и о том почему разные фирмы выбирали разные полигоны сражений. Также Игорь расскажет, где и как можно будет повоевать в ближайшее время."
+          ]
+        }
       },
       {
         "org": {"cam": "gb", "edit": "as"},
@@ -376,7 +381,12 @@
             "image": "astalnuhhin.jpg"
           }
         ],
-        "titles": {"ru": "eHL: What the Health?"}
+        "titles": {"ru": "eHL: What the Health?"},
+        "descr": {
+          "ru": [
+            "Речь пойдёт об одной из самых мощных больничных (HIS) систем Эстонии (eHL), написанной Nortal (или Webmedia, кому как удобнее), которая используется в двух из трёх крупнейших больниц Эстонии (Tartu Ülikooli kliinikum и Ida-Tallinna keskhaigla) и некоторых больницах Литвы. Антон Стальнухин расскажет обзорный доклад о возможностях системы, о её структуре и модулярности, о технологиях, которые мы используем (или уже выкинули из проекта), об интересных решениях внутри проекта, а также немного о людях, участвовавших в этом объёмном проекте, которому уже более 13 лет. Обязательно будет DEMO в виде видеозаписи («не будем полагаться на случай»)."
+          ]
+        }
       },
       {
         "org": {"cam": "gb,as", "edit": "as"},
@@ -390,7 +400,12 @@
             "image": "mboiko.jpg"
           }
         ],
-        "titles": {"ru": "Lithuania: FHIR walk with me"}
+        "titles": {"ru": "Lithuania: FHIR walk with me"},
+        "descr": {
+          "ru": [
+            "FHIR — популярный стандарт данных (с корнями из известного стандарта HL7), описывающий все медицинские процессы в мире. Литва — первая страна, которая взяла его в употребление на таком высоком уровне при прямом участии в этом фирмы Nortal. Максим Бойко, один из архитекторов проекта, расскажет о прелестях переговоров с клиентом, принятых решениях и о том, как это всё в итоге запустилось и работает. Кроме того, что проект использует свежий стандарт данных, используется также OSGi внутри JBoss Fuse контейнера, что тоже является особенностью проекта."
+          ]
+        }
       }
     ]
   },
@@ -478,6 +493,11 @@
           }
         ],
         "titles": {"ru": "«PET design» методика: дизайн на базе воздействия, эмоций и доверия"},
+        "descr": {
+          "ru": [
+            "В последнее время представители бизнеса начинают понимать, что сайт должен быть не только удобный, но и вызывать доверие и определённые эмоции. Поэтому возникает логичный вопрос: как при помощи дизайна воздействовать на посетителей, добиваться доверия и вызывать нужные эмоции? Доклад познакомит с методологией «PET design» (Design for Persuasion, Emotion and Trust), которая посвящена дизайну на базе воздействия, эмоций и доверия."
+          ]
+        },
         "examples": ["https://uxdesign.cc/designing-for-persuasion-emotion-and-trust-cdac44c61d53"]
       },
       {
@@ -492,7 +512,13 @@
             "image": "kslavetski.jpg"
           }
         ],
-        "titles": {"ru": "Design-sprint по методу Google Ventures"}
+        "titles": {"ru": "Design-sprint по методу Google Ventures"},
+        "descr": {
+          "ru": [
+            "Дизайн-спринт — это пятидневный процесс, разработанный Google Ventures. Спринт помогает находить ответы на наиболее критичные продуктовые вопросы при помощи дизайна, прототипирования и, наконец, быстрой валидации идей и решений с участием пользователей.",
+            "Кирилл расскажет о том, как устроен спринт, и поделится опытом использования этого подхода в продуктовой команде Jobbatical."
+          ]
+        }
       },
       {
         "org": {"cam": "jt", "edit": "as"},
@@ -507,6 +533,12 @@
           }
         ],
         "titles": {"ru": "Красивые картинки со смыслом. Инфографика и визуализация данных в браузере с помощью d3.js"},
+        "descr": {
+          "ru": [
+            "d3.js — одна из мощнейших JavaScript-библиотек для визуализации данных в браузере пользователя. Но это лишь инструмент, который сам по себе не ответит на вопросы о том, как найти закономерности, интересные моменты, а, может, и скрытый смысл в огромных объёмах ваших данных.",
+            "Михаил познакомит нас с некоторыми технологиями и методами создания такой инфографики."
+          ]
+        },
         "top": {"season": 2017, "place": 3}
       }
     ]
@@ -778,19 +810,21 @@
       {
         "org": {"cam": "", "edit": "as"},
         "lang": "ru",
-        "labels": ["ci", "concourse"],
-        "youtube": ["JtbR2bTmjkI"],
+        "labels": ["ci", "jenkins"],
+        "youtube": ["-Dxm3jhk-W0"],
         "speakers": [
           {
-            "names": {"*": "Ilja Hämäläinen", "ru": "Илья Хямяляйнен"},
-            "url": "https://github.com/w32blaster",
-            "image": "ihamalainen.jpg"
+            "names": {"*": "Juri Timoshin", "ru": "Юрий Тимошин"},
+            "url": "https://ee.linkedin.com/in/juritimoshin",
+            "image": "jtimosin.jpg"
           }
         ],
-        "titles": {"ru": "Concourse CI: «от винта!» или не Дженкинсом единым"},
-        "presentations": ["https://speakerdeck.com/w32blaster/introduction-to-concourseci"],
-        "examples": ["https://gist.github.com/w32blaster/965bad80a6613fe924eb2f82aa159e4f"],
-        "top": {"season": 2016, "place": 5}
+        "titles": {"ru": "Jenkins pipeline"},
+        "descr": {
+          "ru": [
+            "Jenkins — самый популярный OSS-сервер для непрерывной интеграции. Говорят, Pipeline — очень удобная штука в Jenkins. Вот Юра и расскажет нам, что это такое."
+          ]
+        }
       },
       {
         "org": {"cam": "", "edit": "as"},
@@ -805,21 +839,34 @@
           }
         ],
         "titles": {"ru": "Riigipilv: Начало"},
+        "descr": {
+          "ru": [
+            "Эстонское государственное облако — это новый проект нацеленный на создание инфраструктуры для хостинга и управления ИТ сервисов государства. Проект делается консорциумом и начинается в середине сентября. Мы отвечаем за архитектуру и интеграцию решения. Я бы хотел рассказать, какие планы с этим проектом, чем это может быть интересным и полезным, и собрать фидбек, что интересного можно сделать еще."
+          ]
+        },
         "top": {"season": 2016, "place": 6}
       },
-      {
+            {
         "org": {"cam": "", "edit": "as"},
         "lang": "ru",
-        "labels": ["ci", "jenkins"],
-        "youtube": ["-Dxm3jhk-W0"],
+        "labels": ["ci", "concourse"],
+        "youtube": ["JtbR2bTmjkI"],
         "speakers": [
           {
-            "names": {"*": "Juri Timoshin", "ru": "Юрий Тимошин"},
-            "url": "https://ee.linkedin.com/in/juritimoshin",
-            "image": "jtimosin.jpg"
+            "names": {"*": "Ilja Hämäläinen", "ru": "Илья Хямяляйнен"},
+            "url": "https://github.com/w32blaster",
+            "image": "ihamalainen.jpg"
           }
         ],
-        "titles": {"ru": "Jenkins pipeline"}
+        "titles": {"ru": "Concourse CI: «от винта!» или не Дженкинсом единым"},
+        "descr": {
+          "ru": [
+            "Есть такой сервер непрерывной интеграции, как http://concourse.ci разрабатываемый в Pivotal. У него есть две офигительные особенности: 1) каждый этап происходит в запущенном Docker-контейнере со всеми вытекающими плюсами (иногда и минусами) и 2) все сборки оформляются в piplines, которыми удобно управлять. Я могу рассказать (и чоуж там — показать!) что такое Concourse, как им пользоваться, какие есть трудности и так далее."
+          ]
+        },
+        "presentations": ["https://speakerdeck.com/w32blaster/introduction-to-concourseci"],
+        "examples": ["https://gist.github.com/w32blaster/965bad80a6613fe924eb2f82aa159e4f"],
+        "top": {"season": 2016, "place": 5}
       }
     ]
   },
@@ -969,7 +1016,12 @@
             "image": "mbeskin.jpg"
           }
         ],
-        "titles": {"ru": "Распознавание текста налету"}
+        "titles": {"ru": "Распознавание текста налету"},
+        "descr": {
+          "ru": [
+            "Я искал возможность на лету определять по картинке название брэндов и распознавать тексты. Сначала попробовал http://cloudsightapi.com/api. Хороший продукт, но дороговато и надо к ним загружать картинки — долго получалось. Мне подсказали новый продукт от Гугла — https://cloud.google.com/vision/. Я поигрался и теперь распознавание текста на картинках занимает примерно 5 секунд. Вот про мои игры с этими сервисами я бы и рассказал."
+          ]
+        }
       },
       {
         "org": {"cam": "jt", "edit": "as"},
@@ -983,7 +1035,13 @@
             "image": "pnovitski.jpg"
           }
         ],
-        "titles": {"ru": "Обновление и миграция продукционных систем"}
+        "titles": {"ru": "Обновление и миграция продукционных систем"},
+        "descr": {
+          "ru": [
+            "Цель проекта была избавиться от старого железа платформы, на которой находятся большинство сайтов Swedbank Group, а это около 69 внешних и 46 внутренних сайтов. Старое железо в количестве 16 нодов на продукции с 16 CPU на каждом было заменено более эффективными 4 нодами с 12 CPU на каждом. Так же в ходе самого проекта было решено добавить Web accelerator — Varnish, что позволило закешировать более 95% трафика, улучшить производительность и стабильность базы с помошью Oracle RAC. Некоторые старые компоненты были утилизированы.",
+            "В требование проекта так же входило полное отсутствие downtime и как результат около 500 редакторов контента, а главное миллионы посетителей не заметили этого перехода. Через какое-то время после окончания проекта swedbank.se занял второе место в рейтинге шведского агенства по мониторингу производительности самых посещаемых сайтов в стране."
+          ]
+        }
       },
       {
         "org": {"cam": "jt", "edit": "as"},
@@ -997,7 +1055,13 @@
             "image": "vnartov.jpg"
           }
         ],
-        "titles": {"ru": "To be or not to be: Hybrid vs Native"}
+        "titles": {"ru": "To be or not to be: Hybrid vs Native"},
+        "descr": {
+          "ru": [
+            "Ходят слухи, что разработка мобильных приложений может обойтись на много дешевле, по сравнению с разработкой на нативные платформы, если делать их гибридными (Cross Platform App). Именно это, я сегодня и хотел бы обсудить.",
+            "В конце этой презентации я надеюсь у вас будет понимание, когда и главное как имеет смысл использовать в разработке мобильный приложений гибридные решения. И надеюсь вы сможете выбрать оптимальное решение при создании того или иного проекта."
+          ]
+        }
       }
     ]
   },
@@ -1147,7 +1211,14 @@
             "image": "segorov.jpg"
           }
         ],
-        "titles": {"ru": "С нуля в Облака: ваши оценки времени не верны!"}
+        "titles": {"ru": "С нуля в Облака: ваши оценки времени не верны!"},
+        "descr": {
+          "ru": [
+            "Работа кипит, программисты пишут код, релиз уже скоро. И тут Вы, DevOps герой-одиночка, понимаете, что пора бы уже поднимать сервера backend-а.",
+            "Облака? Облака! Docker, автоскейлинг, zero downtime deployments, много девяток доступности — всё это хорошо, но как это реализовать на деле? Что ответить руководителю проекта когда он простит с Вас оценки времени? Неделя? Месяц? «Ну нафиг?»",
+            "А что, если я скажу Вам, что благодаря Amazon Web Services развернуть production ready окружение можно… за 45 минут? В течение доклада DevClub? Не используя SSH, Ansible, Puppet и прочее? В данном докладе я хотел бы продемонстрировать как легко и просто развернуть такое окружение используя только стандартные сервисы AWS, за 45 минут, идентично тому, как мы делаем это в ZeroTurnaround, на примере пары Spring Boot микро-сервисов, обёрнутых в Docker."
+          ]
+        }
       },
       {
         "org": {"cam": "as", "edit": "as"},
@@ -1161,7 +1232,12 @@
             "image": "sanikin.jpg"
           }
         ],
-        "titles": {"ru": "Pipedrive как он есть"}
+        "titles": {"ru": "Pipedrive как он есть"},
+        "descr": {
+          "ru": [
+            "Сергей расскажет о Pipedrive. Немного про сам бизнес типа SaaS, про архитектуру, про структуру итд."
+          ]
+        }
       },
       {
         "org": {"cam": "as", "edit": "as"},
@@ -1175,7 +1251,12 @@
             "image": "eweber.jpg"
           }
         ],
-        "titles": {"ru": "Ой - BLE"}
+        "titles": {"ru": "Ой - BLE"},
+        "descr": {
+          "ru": [
+            "BLE расшифровывается как «Bluetooth low energy». Так вот: всю команду Toggl заперли с ящиком таких маячков в одном из отелей США на неделю. Расскажу, что из этого получилось. Поговорим, как internet of things незаметно переходит в нашу жизнь и зачем нам это всё."
+          ]
+        }
       }
     ]
   },
@@ -1198,16 +1279,22 @@
       {
         "org": {"cam": "", "edit": "as"},
         "lang": "ru",
-        "labels": ["experience", "architecture"],
-        "youtube": ["wOdAdXj4TsI"],
+        "labels": ["management", "experience", "estonia"],
+        "youtube": ["qxAA1u1IfZs"],
         "speakers": [
           {
-            "names": {"*": "Jevgeni Goloborodko", "ru": "Евгений Голобородько"},
-            "url": "https://ee.linkedin.com/in/jevgeni-goloborodko-65a048a",
-            "image": "jgoloborodko.jpg"
+            "names": {"*": "Oleg Shvaikovsky", "ru": "Олег Швайковский"},
+            "url": "https://www.linkedin.com/in/olegshvaikovsky",
+            "image": "oshvajkovski.jpg"
           }
         ],
-        "titles": {"ru": "Event Sourcing"}
+        "titles": {"ru": "Agile в госсекторе - миф или реальность?"},
+        "descr": {
+          "ru": [
+            "Сейчас все хотят работать по Agile, и заказчики из государственного сектора — не исключение, ведь хорошо построенный Agile-процесс должен обеспечивать качественный, нужный клиенту продукт за оптимальный срок (читай: бюджет). Но есть ли на самом деле возможность построить этот процесс в государственном секторе, или нет?",
+            "Я расскажу о своём опыте, о юридических аспектах государственных подрядов, а потом предлагаю устроить дискуссию, где каждый сможет поделиться своим мнением на данный счёт."
+          ]
+        }
       },
       {
         "org": {"cam": "", "edit": "as"},
@@ -1224,21 +1311,32 @@
         "titles": {
           "*": "How to build the best software for visually impaired or blind people [eng]",
           "ru": "Как построить лучшее приложение для слепых или слабовидящих людей [eng]"
+        },
+        "descr": {
+          "en": [
+            "Nowadays everyone wants to be a part of the Internet community, including us, visually impaired or blind people. But it is very hard to explain to ordinary developers what we are missing and how to make applications in a way we are also able to make use of them. Therefore, we should help each other in order to improve the situation.",
+            "In my talk, I will uncover basic moments how to make your applications suitable for more people than it is now."
+          ]
         }
       },
       {
         "org": {"cam": "", "edit": "as"},
         "lang": "ru",
-        "labels": ["management", "experience", "estonia"],
-        "youtube": ["qxAA1u1IfZs"],
+        "labels": ["experience", "architecture"],
+        "youtube": ["wOdAdXj4TsI"],
         "speakers": [
           {
-            "names": {"*": "Oleg Shvaikovsky", "ru": "Олег Швайковский"},
-            "url": "https://www.linkedin.com/in/olegshvaikovsky",
-            "image": "oshvajkovski.jpg"
+            "names": {"*": "Jevgeni Goloborodko", "ru": "Евгений Голобородько"},
+            "url": "https://ee.linkedin.com/in/jevgeni-goloborodko-65a048a",
+            "image": "jgoloborodko.jpg"
           }
         ],
-        "titles": {"ru": "Agile в госсекторе - миф или реальность?"}
+        "titles": {"ru": "Event Sourcing"},
+        "descr": {
+          "ru": [
+            "Эта тема почему-то совершенно не справедливо обходила DevClub, и я решил закрыть этот пробел. Последние несколько лет мы все больше используем Event Sourcing в своих проектах, и я хочу поделиться, в первую очередь, своим опытом и подводными камнями, которые встречаются во время использования этого подхода. В качестве примера конкретной реализации Event Sourcing я буду использовать Akka Persistence, но сам фреймворк носит скорее иллюстративный характер, поэтому примеры будут понятны любому, кто понимает любой ООП язык. Сегодня эта технология набирает обороты во всех сегментах от банков до CMS на различных языках от PHP до С++, но многие воспринимают её как очередной buzzword."
+          ]
+        }
       }
     ]
   },
@@ -1256,16 +1354,21 @@
       {
         "org": {"cam": "jt", "edit": "as"},
         "lang": "ru",
-        "labels": ["java", "experience", "methodology"],
-        "youtube": ["piAFQOAgU5U"],
+        "labels": ["kotlin", "language"],
+        "youtube": ["DQqOCx2UJ10"],
         "speakers": [
           {
-            "names": {"*": "Andrei Utkin", "ru": "Андрей Уткин"},
-            "url": "https://ee.linkedin.com/in/andrey-utkin-8b4430100",
-            "image": "autkin.jpg"
+            "names": {"*": "Ilya Ryzhenkov", "ru": "Илья Рыженков"},
+            "url": "http://vk.com/ilya.ryzhenkov",
+            "image": "iryzhenkov.jpg"
           }
         ],
-        "titles": {"ru": "Есть ли жизнь без DAO?"}
+        "titles": {"ru": "Про Kotlin"},
+        "descr": {
+          "ru": [
+            "Мы ждали релиза Kotlin лет пять. Первый доклад про Kotlin был в девклубе аж в 2011 году! И вот наконец свершилось! Ребята из JetBrains зарелизили Kotlin. А Илья не кто иной, как архитектор языка, так что мы узнаем новости из первых рук."
+          ]
+        }
       },
       {
         "org": {"cam": "jt", "edit": "as"},
@@ -1279,21 +1382,34 @@
             "image": "ishapran.jpg"
           }
         ],
-        "titles": {"ru": "AstrecData - дата-центр для разработки"}
+        "titles": {"ru": "AstrecData - дата-центр для разработки"},
+        "descr": {
+          "ru": [
+            "Речь пойдет о нашем новом продукте для разработчиков — оркестрация контейнеров на базе эстонского Дата-Центра (AstrecData).",
+            "Расскажем о компании, новом сервисе и нашем виденьи. Покажем реальное демо платформы — панель управления для разработчиков. Сравним виртуальные машины и контейнеры.",
+            "Остановимся на оркестрации контейнеров с полной свободой выбора, которая объединияет PaaS и IaaS, раскрывая потенциал облачных вычислений для разработчиков."
+          ]
+        }
       },
       {
         "org": {"cam": "jt", "edit": "as"},
         "lang": "ru",
-        "labels": ["kotlin", "language"],
-        "youtube": ["DQqOCx2UJ10"],
+        "labels": ["java", "experience", "methodology"],
+        "youtube": ["piAFQOAgU5U"],
         "speakers": [
           {
-            "names": {"*": "Ilya Ryzhenkov", "ru": "Илья Рыженков"},
-            "url": "http://vk.com/ilya.ryzhenkov",
-            "image": "iryzhenkov.jpg"
+            "names": {"*": "Andrei Utkin", "ru": "Андрей Уткин"},
+            "url": "https://ee.linkedin.com/in/andrey-utkin-8b4430100",
+            "image": "autkin.jpg"
           }
         ],
-        "titles": {"ru": "Про Kotlin"}
+        "titles": {"ru": "Есть ли жизнь без DAO?"},
+        "descr": {
+          "ru": [
+            "Изначально концепция ORM разрабатывалась как механизм сохранения состояния объектов в реляционной базе данных. Сегодня всё чаще приходится сталкиваться с ситуацией, когда эта концепция используется в качестве архитектуры приложения.",
+            "В докладе автор поделится своими соображениями о том, к чему это приводит и как с этим жить."
+          ]
+        }
       }
     ]
   },
@@ -1311,18 +1427,22 @@
     "speeches": [
       {
         "org": {"cam": "as", "edit": "as"},
-        "lang": "ru",
-        "labels": ["experience", "job", "lifestyle"],
-        "youtube": ["zaqZYDFm7Wo"],
+        "lang": "en",
+        "labels": ["big data"],
+        "youtube": ["BgkzGCfTkoE"],
         "speakers": [
           {
-            "names": {"*": "Stanislav Katkov", "ru": "Станислав Катков"},
-            "url": "https://www.linkedin.com/in/stanislav-katkov-582b7832",
-            "image": "skatkov.jpg"
+            "names": {"*": "Jens Kuehlers", "ru": "Дженс Кухлерс"},
+            "url": "https://www.linkedin.com/in/kuehlers",
+            "image": "jkuehlers.jpg"
           }
         ],
-        "titles": {"ru": "Дигитальные Номады"},
-        "presentations": ["http://www.howtodigitalnomad.com/"]
+        "titles": {"*": "Big Data at Google", "ru": "Big Data в Google"},
+        "descr": {
+          "en": [
+            "How to use Google Cloud Platform to get more insights from your data. We will cover all kind of flavours: Hadoop users, but also Google specific products such as Dataflow, Datalab, Dataproc and BigQuery."
+          ]
+        }
       },
       {
         "org": {"cam": "as", "edit": "as"},
@@ -1337,21 +1457,32 @@
           }
         ],
         "titles": {"ru": "Расчленяем многопоточность"},
+        "descr": {
+          "ru": [
+            "Все абстракции рано или поздно протекают, какими бы красивыми и стройными они ни были. Протекают и те, что скрывают за громкой фразой «Write Once, Run Anywhere» особенности исполнения многопоточного кода на реальном железе. Частенько для того, чтобы разобраться в каком-то поверхностном явлении, приходится разрывать все любезно накрученные слои абстракции и идти глубже. Чем мы и займёмся: начиная от высокоуровневого примера java-кода будем спускаться всё ниже и ниже, наглядно демонстрируя, как всё может пойти не так."
+          ]
+        },
         "presentations": ["http://gvsmirnov.ru/docs/presentations/java-concurrency-hands-on/devclub-feb-2016.html"]
       },
-      {
+            {
         "org": {"cam": "as", "edit": "as"},
-        "lang": "en",
-        "labels": ["big data"],
-        "youtube": ["BgkzGCfTkoE"],
+        "lang": "ru",
+        "labels": ["experience", "job", "lifestyle"],
+        "youtube": ["zaqZYDFm7Wo"],
         "speakers": [
           {
-            "names": {"*": "Jens Kuehlers", "ru": "Дженс Кухлерс"},
-            "url": "https://www.linkedin.com/in/kuehlers",
-            "image": "jkuehlers.jpg"
+            "names": {"*": "Stanislav Katkov", "ru": "Станислав Катков"},
+            "url": "https://www.linkedin.com/in/stanislav-katkov-582b7832",
+            "image": "skatkov.jpg"
           }
         ],
-        "titles": {"*": "Big Data at Google", "ru": "Big Data в Google"}
+        "titles": {"ru": "Дигитальные Номады"},
+              "descr": {
+          "ru": [
+            "Расскажу и покажу дигитальных номадов: кто такие “дигитальные номады”; почему этот стиль жизни не для всех; почему это интересно как явление; тыкну пальцем в небо и предположу, что будет дальше; как попробовать себя в этом стиле жизни; возможные проблемы, полезные ресурсы."
+          ]
+        },
+        "presentations": ["http://www.howtodigitalnomad.com/"]
       }
     ]
   },
