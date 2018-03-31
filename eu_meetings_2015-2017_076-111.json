@@ -1037,7 +1037,11 @@
           }
         ],
         "titles": {"ru": "Защита Интернет периметра"},
-        "info": "По просьбе докладчика видео не снималось."
+        "info": {
+          "ru": "По просьбе докладчика видео не снималось.",
+          "en": "No video by speaker request.",
+          "et": "Video puudub kõneleja soovil."
+        }
       },
       {
         "org": {"cam": "jt", "edit": "as"},
@@ -1742,7 +1746,11 @@
           }
         ],
         "titles": {"ru": "Про хранилище картинок"},
-        "info": "Дефект флешки. Восстановить файлы видеозаписи не удалось."
+        "info": {
+          "ru": "Дефект флешки. Восстановить файлы видеозаписи не удалось.",
+          "en": "Defective flash usb. Video files couldn't be recovered.",
+          "et": "Defektne välkmälu. Videofailide taastamine ebaõnnestus."
+        }
       },
       {
         "org": {"cam": "", "edit": "as"},
@@ -1771,7 +1779,11 @@
           }
         ],
         "titles": {"ru": "Квантовые компьютеры"},
-        "info": "Дефект флешки. Восстановить файлы видеозаписи не удалось.",
+        "info": {
+          "ru": "Дефект флешки. Восстановить файлы видеозаписи не удалось.",
+          "en": "Defective flash usb. Video files couldn't be recovered.",
+          "et": "Defektne välkmälu. Videofailide taastamine ebaõnnestus."
+        },
         "presentations": ["20150730_akarputkin_kvant.pdf"]
       }
     ]
@@ -2087,7 +2099,11 @@
           }
         ],
         "titles": {"ru": "Профессиональные проблемы IT-шника с точки зрения массажиста"},
-        "info": "Встреча не снималась на камеру. Видео нет."
+        "info": {
+          "ru": "Встреча не снималась на камеру. Видео нет.",
+          "en": "No meeting recording on camera. No video.",
+          "et": "Kohtumise salvestamine kaamerasse ei toimunud. Videot pole."
+        }
       },
       {
         "org": {},
@@ -2101,7 +2117,11 @@
           }
         ],
         "titles": {"ru": "Реактивные приложения"},
-        "info": "Встреча не снималась на камеру. Видео нет."
+        "info": {
+          "ru": "Встреча не снималась на камеру. Видео нет.",
+          "en": "No meeting recording on camera. No video.",
+          "et": "Kohtumise salvestamine kaamerasse ei toimunud. Videot pole."
+        }
       },
       {
         "org": {},
@@ -2115,7 +2135,11 @@
           }
         ],
         "titles": {"ru": "Мутационный Анализ или О Чём Молчит Code Coverage"},
-        "info": "Встреча не снималась на камеру. Видео нет."
+        "info": {
+          "ru": "Встреча не снималась на камеру. Видео нет.",
+          "en": "No meeting recording on camera. No video.",
+          "et": "Kohtumise salvestamine kaamerasse ei toimunud. Videot pole."
+        }
       }
     ]
   },
