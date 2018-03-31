@@ -1,6 +1,6 @@
 [
   {
-    "datetime": "2014-11-25T00:00:00+02:00",
+    "datetime": "2014-11-25T19:00:00",
     "season": 2014,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
@@ -15,6 +15,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["RmcpSBuy-Zs"],
         "origVid": ["https://www.youtube.com/watch?v=xsLaOlRL_-o"],
         "speakers": [
@@ -35,6 +36,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": ["battle", "jira", "pivotal", "issue tracking"],
         "youtube": ["v0NFb4y6Hkw"],
         "origVid": ["https://www.youtube.com/watch?v=AARGYB3vBqM"],
         "speakers": [
@@ -50,12 +52,12 @@
           }
         ],
         "titles": {"ru": "Jira против Pivotaltracker"},
-        "labels": ["батл"],
         "top": {"season": 2014, "place": 4}
       },
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["7jdswaWkj-8"],
         "origVid": ["https://www.youtube.com/watch?v=2BrQ4RrT2QU"],
         "speakers": [
@@ -70,7 +72,7 @@
     ]
   },
   {
-    "datetime": "2014-10-28T00:00:00+02:00",
+    "datetime": "2014-10-28T19:00:00",
     "season": 2014,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
@@ -85,6 +87,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["3I69U-DH6eI"],
         "origVid": ["https://www.youtube.com/watch?v=tvW82-IR29E"],
         "speakers": [
@@ -100,6 +103,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["GIa-2owR5nQ"],
         "origVid": ["https://www.youtube.com/watch?v=6D55FTejSzs"],
         "speakers": [
@@ -114,6 +118,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["TLBsEzxW20E"],
         "origVid": ["https://www.youtube.com/watch?v=FZCgZS6ymFw"],
         "speakers": [
@@ -129,7 +134,7 @@
     ]
   },
   {
-    "datetime": "2014-09-25T00:00:00+02:00",
+    "datetime": "2014-09-25T19:00:00",
     "season": 2014,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
@@ -144,6 +149,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["4ZgC3uQCP6I"],
         "origVid": ["https://www.youtube.com/watch?v=0Rc6bITo-Jo"],
         "speakers": [
@@ -158,6 +164,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": ["battle", "tests"],
         "youtube": ["KQB2c7mp29M"],
         "origVid": ["https://www.youtube.com/watch?v=2SvMvKeVwOY"],
         "speakers": [
@@ -173,12 +180,12 @@
           }
         ],
         "titles": {"ru": "Тесты или не тесты"},
-        "labels": ["батл"],
         "top": {"season": 2014, "place": 4}
       },
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["XQLNAx9DGmk"],
         "origVid": ["https://www.youtube.com/watch?v=k-iw6sRkqpc"],
         "speakers": [
@@ -194,7 +201,7 @@
     ]
   },
   {
-    "datetime": "2014-08-26T00:00:00+02:00",
+    "datetime": "2014-08-26T19:00:00",
     "season": 2014,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
@@ -209,6 +216,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["_NxqCgLVnN0"],
         "origVid": ["https://www.youtube.com/watch?v=NE_wcLVrjtg"],
         "speakers": [
@@ -223,6 +231,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["SUkyUpWk-Vk"],
         "origVid": ["https://www.youtube.com/watch?v=gqISlPaMjK8"],
         "speakers": [
@@ -237,6 +246,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["Ujuz-D-ekXE"],
         "origVid": ["https://www.youtube.com/watch?v=VS2Ue_F37KY"],
         "speakers": [
@@ -251,7 +261,7 @@
     ]
   },
   {
-    "datetime": "2014-07-30T00:00:00+02:00",
+    "datetime": "2014-07-30T19:00:00",
     "season": 2014,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
@@ -264,6 +274,9 @@
     ],
     "speeches": [
       {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "labels": ["offtopic", "defence", "fight"],
         "speakers": [
           {
             "names": {"*": "", "ru": "Марат Саддаров"},
@@ -272,11 +285,16 @@
           }
         ],
         "titles": {"ru": "На ножах"},
-        "info": "По просьбе докладчика видео не снималось."
+        "info": {
+          "ru": "По просьбе докладчика видео не снималось.",
+          "en": "No video by speaker request.",
+          "et": "Video puudub kõneleja soovil."
+        }
       },
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["gBJ5aFtYk78"],
         "origVid": ["https://www.youtube.com/watch?v=prVfZyzMVdk"],
         "speakers": [
@@ -291,6 +309,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["e4ZJQzKAxxA"],
         "origVid": ["https://www.youtube.com/watch?v=0poNHrrbWKg"],
         "speakers": [
@@ -305,7 +324,7 @@
     ]
   },
   {
-    "datetime": "2014-06-26T00:00:00+02:00",
+    "datetime": "2014-06-26T19:00:00",
     "season": 2014,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
@@ -320,6 +339,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["yEFeuftK0iM"],
         "origVid": ["https://www.youtube.com/watch?v=esYhBcDxcqU"],
         "speakers": [
@@ -335,6 +355,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["RNwWGPyfocA"],
         "origVid": ["https://www.youtube.com/watch?v=LTVOqbph0T4"],
         "speakers": [
@@ -349,6 +370,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["GnkokmDVSfY"],
         "origVid": ["https://www.youtube.com/watch?v=4jY4Seu6nr4"],
         "speakers": [
@@ -363,7 +385,7 @@
     ]
   },
   {
-    "datetime": "2014-05-27T00:00:00+02:00",
+    "datetime": "2014-05-27T19:00:00",
     "season": 2014,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
@@ -379,6 +401,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["v2vytyI8UvA"],
         "origVid": ["https://www.youtube.com/watch?v=xThdDI_CASA"],
         "speakers": [
@@ -394,6 +417,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["A3XoEp_3V88"],
         "origVid": ["https://www.youtube.com/watch?v=GkzGChTYDJk"],
         "speakers": [
@@ -408,6 +432,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["T1Y7AfApqyc"],
         "origVid": ["https://www.youtube.com/watch?v=y92Xz1oQ6qc"],
         "speakers": [
@@ -422,7 +447,7 @@
     ]
   },
   {
-    "datetime": "2014-04-30T00:00:00+02:00",
+    "datetime": "2014-04-30T19:00:00",
     "season": 2014,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
@@ -437,6 +462,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["7yhAr0g_Xj8"],
         "origVid": ["https://vimeo.com/93601741"],
         "speakers": [
@@ -451,6 +477,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["k7KvVwwn7GI"],
         "origVid": ["https://vimeo.com/93601740"],
         "speakers": [
@@ -465,6 +492,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": [
           "Z1v9olBK0Jw",
           "rafwdgE0XPg"
@@ -485,7 +513,7 @@
     ]
   },
   {
-    "datetime": "2014-03-26T00:00:00+02:00",
+    "datetime": "2014-03-26T19:00:00",
     "season": 2014,
     "place": {
       "name": "MEKTORY", "loc": "https://goo.gl/maps/2escreMhfbG2", "addr": "Raja 15, 12618 Tallinn",
@@ -500,6 +528,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["EVS_BqZcnjM"],
         "origVid": ["https://vimeo.com/90268468"],
         "speakers": [
@@ -513,12 +542,13 @@
       },
       {
         "org": {"cam": "", "edit": ""},
-        "lang": "ru",
+        "lang": "en",
+        "labels": [],
         "youtube": ["NQk5anPc4ZQ"],
         "origVid": ["https://vimeo.com/90268466"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Mihkel Salm"},
+            "names": {"*": "Mihkel Salm"},
             "url": "",
             "image": ""
           }
@@ -528,6 +558,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["znAlJOPK2IY"],
         "origVid": ["https://vimeo.com/90268465"],
         "speakers": [
@@ -542,6 +573,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["S9_n6EZBA2E"],
         "origVid": [
           "https://vimeo.com/90268467",
@@ -559,7 +591,7 @@
     ]
   },
   {
-    "datetime": "2014-02-26T00:00:00+02:00",
+    "datetime": "2014-02-26T19:00:00",
     "season": 2014,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
@@ -574,6 +606,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["RWoA6oWXp2U"],
         "origVid": ["https://www.youtube.com/watch?v=VIAq7fBaGug"],
         "speakers": [
@@ -588,6 +621,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["W0XTNJKB3SA"],
         "origVid": ["https://www.youtube.com/watch?v=z09WN_dYE-g"],
         "speakers": [
@@ -602,6 +636,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["deJm66ZDM3s"],
         "origVid": ["https://www.youtube.com/watch?v=4Qi8g5Y7Oio"],
         "speakers": [
@@ -616,7 +651,7 @@
     ]
   },
   {
-    "datetime": "2014-01-30T00:00:00+02:00",
+    "datetime": "2014-01-30T19:00:00",
     "season": 2014,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
@@ -631,6 +666,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["jLBrmIEQ8S0"],
         "origVid": ["https://vimeo.com/85480223"],
         "speakers": [
@@ -650,6 +686,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["uNRiSDTebLA"],
         "origVid": ["https://vimeo.com/85480225"],
         "speakers": [
@@ -664,6 +701,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["SW_7-3UQTSQ"],
         "origVid": ["https://vimeo.com/85480224"],
         "speakers": [
@@ -678,7 +716,7 @@
     ]
   },
   {
-    "datetime": "2013-12-26T00:00:00+02:00",
+    "datetime": "2013-12-26T19:00:00",
     "season": 2014,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
@@ -693,6 +731,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["fhBye21QA94"],
         "speakers": [
           {
@@ -706,6 +745,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["vMVPgK3KoYw"],
         "speakers": [
           {
@@ -719,6 +759,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["ACAqMxvClvg"],
         "speakers": [
           {
@@ -734,6 +775,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["oAzLJyPUICA"],
         "speakers": [
           {
@@ -747,7 +789,7 @@
     ]
   },
   {
-    "datetime": "2013-11-29T00:00:00+02:00",
+    "datetime": "2013-11-29T19:00:00",
     "season": 2013,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
@@ -762,6 +804,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["DNfQHfD-gNg"],
         "speakers": [
           {
@@ -775,6 +818,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["RGFJjQKChNQ"],
         "speakers": [
           {
@@ -789,6 +833,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["G1YmHAjFx98"],
         "speakers": [
           {
@@ -801,7 +846,7 @@
     ]
   },
   {
-    "datetime": "2013-10-29T00:00:00+02:00",
+    "datetime": "2013-10-29T19:00:00",
     "season": 2013,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
@@ -811,6 +856,9 @@
     "org": {"mod": "aa", "photo": ""},
     "speeches": [
       {
+        "org": {},
+        "lang": "ru",
+        "labels": [],
         "speakers": [
           {
             "names": {"*": "", "ru": "Валерий Кузьмин"},
@@ -819,11 +867,16 @@
           }
         ],
         "titles": {"ru": "3D принтеры"},
-        "info": "Видео потерялось в анналах истории."
+        "info": {
+          "ru": "Видео потерялось в анналах истории.",
+          "en": "Video is lost.",
+          "et": "Video on kadunud."
+        }
       },
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["AUwsYhUxKUQ"],
         "origVid": ["https://vimeo.com/78286035"],
         "speakers": [
@@ -837,6 +890,9 @@
         "top": {"season": 2013, "place": 2}
       },
       {
+        "org": {},
+        "lang": "ru",
+        "labels": [],
         "speakers": [
           {
             "names": {"*": "Konstantin Root", "ru": "Константин Роот"},
@@ -845,12 +901,16 @@
           }
         ],
         "titles": {"ru": "AWS"},
-        "info": "Видео потерялось в анналах истории."
+        "info": {
+          "ru": "Видео потерялось в анналах истории.",
+          "en": "Video is lost.",
+          "et": "Video on kadunud."
+        }
       }
     ]
   },
   {
-    "datetime": "2013-09-25T00:00:00+02:00",
+    "datetime": "2013-09-25T19:00:00",
     "season": 2013,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
@@ -864,23 +924,27 @@
     ],
     "speeches": [
       {
-        "org": {"cam": "", "edit": ""},
-        "lang": "ru",
-        "youtube": ["OouojcuUbjM"],
-        "origVid": ["https://vimeo.com/76658217"],
+        "org": {},
+        "lang": "en",
+        "labels": [],
         "speakers": [
           {
-            "names": {"*": "Andrei Solntsev", "ru": "Андрей Солнцев"},
-            "url": "https://ee.linkedin.com/in/asolntsev",
-            "image": "asolntsev.jpg"
+            "names": {"*": "Ralf Morawietz"},
+            "url": "",
+            "image": ""
           }
         ],
-        "titles": {"ru": "Статические генераторы сайтов"},
-        "top": {"season": 2013, "place": 6}
+        "titles": {"ru": "Почему мы круче китайцев"},
+        "info": {
+          "ru": "По просьбе докладчика видео не снималось.",
+          "en": "No video by speaker request.",
+          "et": "Video puudub kõneleja soovil."
+        }
       },
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["q-3xo6NvEeg"],
         "origVid": ["https://vimeo.com/76635435"],
         "speakers": [
@@ -894,20 +958,25 @@
         "top": {"season": 2013, "place": 6}
       },
       {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "labels": [],
+        "youtube": ["OouojcuUbjM"],
+        "origVid": ["https://vimeo.com/76658217"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Ralf Morawietz"},
-            "url": "",
-            "image": ""
+            "names": {"*": "Andrei Solntsev", "ru": "Андрей Солнцев"},
+            "url": "https://ee.linkedin.com/in/asolntsev",
+            "image": "asolntsev.jpg"
           }
         ],
-        "titles": {"ru": "Почему мы круче китайцев"},
-        "info": "По просьбе докладчика видео не снималось."
+        "titles": {"ru": "Статические генераторы сайтов"},
+        "top": {"season": 2013, "place": 6}
       }
     ]
   },
   {
-    "datetime": "2013-08-28T00:00:00+02:00",
+    "datetime": "2013-08-28T19:00:00",
     "season": 2013,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
@@ -922,6 +991,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["ZEYZNwn-Ees"],
         "origVid": ["https://vimeo.com/73452655"],
         "speakers": [
@@ -937,6 +1007,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["78NSunPwMIY"],
         "origVid": ["https://vimeo.com/73447096"],
         "speakers": [
@@ -951,6 +1022,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["Plo3e9lkFr0"],
         "origVid": ["https://vimeo.com/73440304"],
         "speakers": [
@@ -967,7 +1039,7 @@
     ]
   },
   {
-    "datetime": "2013-07-25T00:00:00+02:00",
+    "datetime": "2013-07-25T19:00:00",
     "season": 2013,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
@@ -981,12 +1053,13 @@
     "speeches": [
       {
         "org": {"cam": "", "edit": ""},
-        "lang": "ru",
+        "lang": "en",
+        "labels": [],
         "youtube": ["tn0rx_uAfRc"],
         "origVid": ["https://vimeo.com/71325740"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Martin Sokk"},
+            "names": {"*": "Martin Sokk"},
             "url": "",
             "image": ""
           }
@@ -995,6 +1068,9 @@
         "top": {"season": 2013, "place": 6}
       },
       {
+        "org": {},
+        "lang": "ru",
+        "labels": [],
         "speakers": [
           {
             "names": {"*": "Anton Arhipov", "ru": "Антон Архипов"},
@@ -1003,16 +1079,21 @@
           }
         ],
         "titles": {"ru": "JRebel + LiveRebel"},
-        "info": "Пятнадцатиминутка. Не снималась на камеру."
+        "info": {
+          "ru": "Пятнадцатиминутка не снималась на камеру. Видео нет.",
+          "en": "Fifthteen-minute speech was not filmed. No video.",
+          "et": "Viieteistkümne minuti kõne ei olnud filmitud. Videot pole."
+        }
       },
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["EmdvjreFRp8"],
         "origVid": ["https://vimeo.com/71325736"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Сергей Царик"},
+            "names": {"*": "Sergei Tsarik", "ru": "Сергей Царик"},
             "url": "",
             "image": ""
           }
@@ -1022,6 +1103,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["nUyXhziWrgI"],
         "origVid": ["https://vimeo.com/71325739"],
         "speakers": [
@@ -1035,12 +1117,13 @@
       },
       {
         "org": {"cam": "", "edit": ""},
-        "lang": "ru",
+        "lang": "en",
+        "labels": [],
         "youtube": ["x11Zi6CkMx0"],
         "origVid": ["https://vimeo.com/71325741"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Лиза Тоомпуу"},
+            "names": {"*": "Lisa Toompuu", "ru": "Лиза Тоомпуу"},
             "url": "",
             "image": ""
           }
@@ -1049,12 +1132,13 @@
       },
       {
         "org": {"cam": "", "edit": ""},
-        "lang": "ru",
+        "lang": "en",
+        "labels": [],
         "youtube": ["VJk3iUo2U8Q"],
         "origVid": ["https://vimeo.com/71325742"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Мартин Ранд"},
+            "names": {"*": "Martin Rand", "ru": "Мартин Ранд"},
             "url": "",
             "image": ""
           }
@@ -1064,6 +1148,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["AP3VUg7fWSI"],
         "origVid": ["https://vimeo.com/72928776"],
         "speakers": [
@@ -1079,7 +1164,7 @@
     ]
   },
   {
-    "datetime": "2013-06-18T00:00:00+02:00",
+    "datetime": "2013-06-18T19:00:00",
     "season": 2013,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
@@ -1091,6 +1176,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["SqOwuTvAToc"],
         "origVid": ["https://vimeo.com/68755359"],
         "speakers": [
@@ -1110,6 +1196,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["ZEaXh1MF7Bc"],
         "origVid": ["https://vimeo.com/68755357"],
         "speakers": [
@@ -1124,6 +1211,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["Rke-qcoO_lQ"],
         "origVid": ["https://vimeo.com/68755356"],
         "speakers": [
@@ -1139,7 +1227,7 @@
     ]
   },
   {
-    "datetime": "2013-05-24T00:00:00+02:00",
+    "datetime": "2013-05-24T19:00:00",
     "season": 2013,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
@@ -1154,6 +1242,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["Ni94-gBooj4"],
         "origVid": ["https://vimeo.com/67039658"],
         "speakers": [
@@ -1168,6 +1257,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["PGu2MDoS5qE"],
         "origVid": ["https://vimeo.com/67039660"],
         "speakers": [
@@ -1182,6 +1272,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["G6gp01PokNg"],
         "origVid": ["https://vimeo.com/67039659"],
         "speakers": [
@@ -1196,6 +1287,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["yzWHLsxo0A8"],
         "origVid": ["https://www.youtube.com/watch?v=fnLU-GJPdww"],
         "speakers": [
@@ -1210,7 +1302,7 @@
     ]
   },
   {
-    "datetime": "2013-04-30T00:00:00+02:00",
+    "datetime": "2013-04-30T19:00:00",
     "season": 2013,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
@@ -1225,6 +1317,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["GZ079h5AcCs"],
         "origVid": ["https://vimeo.com/65233400"],
         "speakers": [
@@ -1240,6 +1333,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["zNsgQs30cG4"],
         "origVid": ["https://vimeo.com/65541881"],
         "speakers": [
@@ -1252,6 +1346,9 @@
         "titles": {"ru": "Unity для игр"}
       },
       {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "labels": [],
         "speakers": [
           {
             "names": {"*": "Anton Arhipov", "ru": "Антон Архипов"},
@@ -1260,11 +1357,16 @@
           }
         ],
         "titles": {"ru": "Класслодеры для чайников на чайниках"},
-        "info": "Пятиминутка. Не снималась на камеру."
+        "info": {
+          "ru": "Пятиминутка не снималась на камеру. Видео нет.",
+          "en": "Five-minute speech was not filmed. No video.",
+          "et": "Viieminuti kõne ei olnud filmitud. Videot pole."
+        }
       },
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["l4Ux_WXGobY"],
         "origVid": ["https://vimeo.com/65227381"],
         "speakers": [
@@ -1284,7 +1386,7 @@
     ]
   },
   {
-    "datetime": "2013-03-26T00:00:00+02:00",
+    "datetime": "2013-03-26T19:00:00",
     "season": 2013,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
@@ -1299,6 +1401,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["sLHC4PAqzYY"],
         "origVid": ["https://vimeo.com/62849105"],
         "speakers": [
@@ -1313,6 +1416,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["SOhRStqrXmo"],
         "origVid": ["https://vimeo.com/62849104"],
         "speakers": [
@@ -1327,21 +1431,22 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["B82Ox2BM5GA"],
         "origVid": ["https://vimeo.com/62849106"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Игорь Меньков"},
+            "names": {"*": "Igor Menkov", "ru": "Игорь Меньков"},
             "url": "",
             "image": ""
           }
         ],
-        "titles": {"ru": "Windows Store Apps"}
+        "titles": {"*": "Windows Store Apps"}
       }
     ]
   },
   {
-    "datetime": "2013-02-26T00:00:00+02:00",
+    "datetime": "2013-02-26T19:00:00",
     "season": 2013,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
@@ -1357,6 +1462,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["HjOEstmjTNc"],
         "origVid": ["https://www.youtube.com/watch?v=QYGq3JREVBY"],
         "speakers": [
@@ -1371,6 +1477,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["Y0-wSgjzteE"],
         "origVid": ["https://vimeo.com/60614493"],
         "speakers": [
@@ -1390,6 +1497,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["Tx9uP9y_0_c"],
         "origVid": ["https://www.youtube.com/watch?v=96rV5Z7Yyrc"],
         "speakers": [
@@ -1404,7 +1512,7 @@
     ]
   },
   {
-    "datetime": "2013-01-30T00:00:00+02:00",
+    "datetime": "2013-01-30T19:00:00",
     "season": 2013,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
@@ -1419,6 +1527,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["eroIfh6fwaU"],
         "origVid": ["https://vimeo.com/58581465"],
         "speakers": [
@@ -1433,6 +1542,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["1C7sFXPXLkM"],
         "origVid": ["https://vimeo.com/58582083"],
         "speakers": [
@@ -1448,6 +1558,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["SwlDQ9_WBds"],
         "origVid": ["https://vimeo.com/58580972"],
         "speakers": [
@@ -1462,7 +1573,7 @@
     ]
   },
   {
-    "datetime": "2012-12-27T00:00:00+02:00",
+    "datetime": "2012-12-27T19:00:00",
     "season": 2013,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
@@ -1478,6 +1589,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["ZHjWM2nUtCk"],
         "origVid": ["https://vimeo.com/56422713"],
         "speakers": [
@@ -1490,6 +1602,9 @@
         "titles": {"ru": "Хвалите друг друга"}
       },
       {
+        "org": {},
+        "lang": "ru",
+        "labels": [],
         "speakers": [
           {
             "names": {"*": "", "ru": "Александра Трахачёва"},
@@ -1500,11 +1615,16 @@
         "titles": {
           "ru": "Профилактике нарушений функционирования оптико-биологической системы ввода информации IT-ишника"
         },
-        "info": "По просьбе докладчика видео не снималось."
+        "info": {
+          "ru": "По просьбе докладчика видео не снималось.",
+          "en": "No video by speaker request.",
+          "et": "Video puudub kõneleja soovil."
+        }
       },
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["E7Ye2mwpA5g"],
         "origVid": ["https://vimeo.com/56422714"],
         "speakers": [
@@ -1520,6 +1640,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["6KEV_HwVBCI"],
         "origVid": ["https://vimeo.com/56422715"],
         "speakers": [
@@ -1534,7 +1655,7 @@
     ]
   },
   {
-    "datetime": "2012-11-27T00:00:00+02:00",
+    "datetime": "2012-11-27T19:00:00",
     "season": 2012,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
@@ -1549,6 +1670,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["h4NICbw8oq8"],
         "origVid": ["https://vimeo.com/54406064"],
         "speakers": [
@@ -1563,6 +1685,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["vCMYy6Of01Y"],
         "origVid": ["https://vimeo.com/54405916"],
         "speakers": [
@@ -1572,11 +1695,12 @@
             "image": "ilivenson.jpg"
           }
         ],
-        "titles": {"ru": "Transport Layer Security (TLS)"}
+        "titles": {"*": "Transport Layer Security (TLS)"}
       },
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["raFDt883fFQ"],
         "origVid": ["https://vimeo.com/54429755"],
         "speakers": [
@@ -1591,7 +1715,7 @@
     ]
   },
   {
-    "datetime": "2012-10-23T00:00:00+02:00",
+    "datetime": "2012-10-23T19:00:00",
     "season": 2012,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
@@ -1606,6 +1730,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["8K4rB7DPd58"],
         "origVid": ["https://vimeo.com/52381890"],
         "speakers": [
@@ -1620,6 +1745,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["oELpx0O2kNc"],
         "origVid": ["https://vimeo.com/52376878"],
         "speakers": [
@@ -1634,11 +1760,12 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["HgIsMsptWBI"],
         "origVid": ["https://vimeo.com/52376876"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Антон Карпуткин"},
+            "names": {"*": "Anton Karputkin", "ru": "Антон Карпуткин"},
             "url": "",
             "image": ""
           }
@@ -1648,7 +1775,7 @@
     ]
   },
   {
-    "datetime": "2012-09-25T00:00:00+02:00",
+    "datetime": "2012-09-25T19:00:00",
     "season": 2012,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
@@ -1663,6 +1790,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["BtGjFj77Alc"],
         "origVid": ["https://vimeo.com/50212957"],
         "speakers": [
@@ -1678,6 +1806,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["gtTg1tlOKnE"],
         "origVid": ["https://vimeo.com/50549899"],
         "speakers": [
@@ -1687,11 +1816,12 @@
             "image": "aarhipov.jpg"
           }
         ],
-        "titles": {"ru": "Gradle: The new way to build"}
+        "titles": {"*": "Gradle: The new way to build"}
       },
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["CFJgmLC-k0Q"],
         "origVid": ["https://vimeo.com/50549898"],
         "speakers": [
@@ -1701,17 +1831,18 @@
             "image": "asolntsev.jpg"
           }
         ],
-        "titles": {"ru": "WTF Architecture"},
+        "titles": {"*": "WTF Architecture"},
         "top": {"season": 2012, "place": 5}
       },
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["rlvMItkp4ts"],
         "origVid": ["https://vimeo.com/50243523"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Артём Курапов"},
+            "names": {"*": "Artem Kurapov", "ru": "Артём Курапов"},
             "url": "",
             "image": ""
           }
@@ -1721,7 +1852,7 @@
     ]
   },
   {
-    "datetime": "2012-08-29T00:00:00+02:00",
+    "datetime": "2012-08-29T19:00:00",
     "season": 2012,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
@@ -1737,6 +1868,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["oAVaw0-zR74"],
         "origVid": ["https://vimeo.com/48646216"],
         "speakers": [
@@ -1746,9 +1878,12 @@
             "image": ""
           }
         ],
-        "titles": {"ru": "Play Framework"}
+        "titles": {"*": "Play Framework"}
       },
       {
+        "org": {},
+        "lang": "ru",
+        "labels": [],
         "speakers": [
           {
             "names": {"*": "", "ru": "Александра Трахачёва"},
@@ -1757,11 +1892,16 @@
           }
         ],
         "titles": {"ru": "RSI или Туннельный Синдром"},
-        "info": "По просьбе докладчика видео не снималось."
+        "info": {
+          "ru": "По просьбе докладчика видео не снималось.",
+          "en": "No video by speaker request.",
+          "et": "Video puudub kõneleja soovil."
+        }
       },
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["bdRv97KMJsA"],
         "origVid": ["https://vimeo.com/49070254"],
         "speakers": [
@@ -1777,6 +1917,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["pZrfCCLBeLY"],
         "origVid": ["https://vimeo.com/48646217"],
         "speakers": [
@@ -1791,7 +1932,7 @@
     ]
   },
   {
-    "datetime": "2012-07-26T00:00:00+02:00",
+    "datetime": "2012-07-26T19:00:00",
     "season": 2012,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
@@ -1806,6 +1947,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["yRUCByqGBng"],
         "origVid": ["https://vimeo.com/46532948"],
         "speakers": [
@@ -1821,6 +1963,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["HAwjCq0gL3E"],
         "origVid": ["https://vimeo.com/46456587"],
         "speakers": [
@@ -1830,16 +1973,17 @@
             "image": "skatkov.jpg"
           }
         ],
-        "titles": {"ru": "Team Code Review Ethics"}
+        "titles": {"*": "Team Code Review Ethics"}
       },
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["9E0bsjHOrO0"],
         "origVid": ["https://vimeo.com/46455299"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Артём Курапов"},
+            "names": {"*": "Artem Kurapov", "ru": "Артём Курапов"},
             "url": "",
             "image": ""
           }
@@ -1849,6 +1993,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["vEKxJUvwkhs"],
         "origVid": ["https://vimeo.com/46455298"],
         "speakers": [
@@ -1863,6 +2008,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["2p1lyZ03UVs"],
         "origVid": ["https://vimeo.com/46455296"],
         "speakers": [
@@ -1877,9 +2023,12 @@
             "image": "klinnik.jpg"
           }
         ],
-        "titles": {"ru": "DEVCLUB.LV"}
+        "titles": {"*": "DEVCLUB.LV"}
       },
       {
+        "org": {},
+        "lang": "ru",
+        "labels": [],
         "speakers": [
           {
             "names": {"*": "Andrei Solntsev", "ru": "Андрей Солнцев"},
@@ -1888,11 +2037,16 @@
           }
         ],
         "titles": {"ru": "Как использовать MobileID в Java"},
-        "info": "Пятиминутка. Не снималась на камеру."
+        "info": {
+          "ru": "Пятиминутка не снималась на камеру. Видео нет.",
+          "en": "Five-minute speech was not filmed. No video.",
+          "et": "Viie minuti kõne ei olnud filmitud. Videot pole."
+        }
       },
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["BAKdCMrQyQA"],
         "origVid": ["https://vimeo.com/46455292"],
         "speakers": [
@@ -1902,12 +2056,12 @@
             "image": ""
           }
         ],
-        "titles": {"ru": "Demo Keskus"}
+        "titles": {"*": "Demo Keskus"}
       }
     ]
   },
   {
-    "datetime": "2012-06-19T00:00:00+02:00",
+    "datetime": "2012-06-19T19:00:00",
     "season": 2012,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
@@ -1923,6 +2077,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["Z0077JnpQ7s"],
         "origVid": ["https://vimeo.com/44342555"],
         "speakers": [
@@ -1938,6 +2093,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["eXGhkzXjAoU"],
         "origVid": ["https://vimeo.com/44342552"],
         "speakers": [
@@ -1952,6 +2108,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": ["ci", "jenkins"],
         "youtube": ["5mhV7ZqfUnQ"],
         "origVid": ["https://vimeo.com/44342554"],
         "speakers": [
@@ -1961,11 +2118,12 @@
             "image": "jtimosin.jpg"
           }
         ],
-        "titles": {"ru": "Jenkins"}
+        "titles": {"*": "Jenkins"}
       },
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["jiAalbnhZfo"],
         "origVid": ["https://vimeo.com/44342553"],
         "speakers": [
@@ -1975,12 +2133,12 @@
             "image": "amotsenov.jpg"
           }
         ],
-        "titles": {"ru": "CoffeScript"}
+        "titles": {"*": "CoffeeScript"}
       }
     ]
   },
   {
-    "datetime": "2012-05-22T00:00:00+02:00",
+    "datetime": "2012-05-22T19:00:00",
     "season": 2012,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
@@ -1995,6 +2153,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["Qu8l84H32jI"],
         "origVid": ["https://vimeo.com/42884943"],
         "speakers": [
@@ -2010,18 +2169,22 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["5vOmsBSFzdQ"],
         "origVid": ["https://vimeo.com/43166573"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Марк Кофман"},
+            "names": {"*": "Mark Kofman", "ru": "Марк Кофман"},
             "url": "",
             "image": ""
           }
         ],
-        "titles": {"ru": "Power Games and Projects"}
+        "titles": {"*": "Power Games and Projects"}
       },
       {
+        "org": {},
+        "lang": "ru",
+        "labels": [],
         "speakers": [
           {
             "names": {"*": "Ilja Livenson", "ru": "Илья Ливенсон"},
@@ -2030,12 +2193,16 @@
           }
         ],
         "titles": {"ru": "OpenNode – конструктор для датацентра"},
-        "info": "По просьбе докладчика видео не снималось."
+        "info": {
+          "ru": "По просьбе докладчика видео не снималось.",
+          "en": "No video by speaker request.",
+          "et": "Video puudub kõneleja soovil."
+        }
       }
     ]
   },
   {
-    "datetime": "2012-04-25T00:00:00+02:00",
+    "datetime": "2012-04-25T19:00:00",
     "season": 2012,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
@@ -2050,6 +2217,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["pHx4yQTHMPI"],
         "origVid": ["https://vimeo.com/41040729"],
         "speakers": [
@@ -2065,6 +2233,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["-32jgQ5Lkuo"],
         "origVid": ["https://vimeo.com/41040728"],
         "speakers": [
@@ -2074,11 +2243,12 @@
             "image": "jmulenko.jpg"
           }
         ],
-        "titles": {"ru": "Rx"}
+        "titles": {"*": "Rx"}
       },
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["6iM85c_5RhQ"],
         "origVid": ["https://vimeo.com/41040730"],
         "speakers": [
@@ -2093,7 +2263,7 @@
     ]
   },
   {
-    "datetime": "2012-03-28T00:00:00+02:00",
+    "datetime": "2012-03-28T19:00:00",
     "season": 2012,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
@@ -2108,26 +2278,28 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["OJBuljoouL8"],
         "origVid": ["https://vimeo.com/39404775"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Антон Литвиненко"},
+            "names": {"*": "Anton Litvinenko", "ru": "Антон Литвиненко"},
             "url": "",
             "image": ""
           }
         ],
-        "titles": {"ru": "300mg"},
+        "titles": {"*": "300mg"},
         "top": {"season": 2012, "place": 5}
       },
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["z1e3s8nWAyw"],
         "origVid": ["https://vimeo.com/39404345"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Дарья Крушевская"},
+            "names": {"*": "Daria Krushevskaja", "ru": "Дарья Крушевская"},
             "url": "",
             "image": ""
           }
@@ -2136,6 +2308,9 @@
         "top": {"season": 2012, "place": 3}
       },
       {
+        "org": {},
+        "lang": "ru",
+        "labels": [],
         "speakers": [
           {
             "names": {"*": "Dmitry Smirnov", "ru": "Дмитрий Смирнов"},
@@ -2144,26 +2319,31 @@
           }
         ],
         "titles": {"ru": "Дизайн современных центров обработки данных"},
-        "info": "По просьбе докладчика видео не снималось."
+        "info": {
+          "ru": "По просьбе докладчика видео не снималось.",
+          "en": "No video by speaker request.",
+          "et": "Video puudub kõneleja soovil."
+        }
       },
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["5SOn3tsrumQ"],
         "origVid": ["https://vimeo.com/39402158"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Николай Павлов"},
+            "names": {"*": "Nikolai Pavlov", "ru": "Николай Павлов"},
             "url": "",
             "image": ""
           }
         ],
-        "titles": {"ru": "Introduction to Skype"}
+        "titles": {"*": "Introduction to Skype"}
       }
     ]
   },
   {
-    "datetime": "2012-02-22T00:00:00+02:00",
+    "datetime": "2012-02-22T19:00:00",
     "season": 2012,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
@@ -2176,6 +2356,9 @@
     ],
     "speeches": [
       {
+        "org": {},
+        "lang": "ru",
+        "labels": [],
         "speakers": [
           {
             "names": {"*": "", "ru": "Елена Мельникова-Григорьева"},
@@ -2184,11 +2367,16 @@
           }
         ],
         "titles": {"ru": "Ближайшее будущее в эволюции искусственного интеллекта"},
-        "info": "По просьбе докладчика видео не снималось."
+        "info": {
+          "ru": "По просьбе докладчика видео не снималось.",
+          "en": "No video by speaker request.",
+          "et": "Video puudub kõneleja soovil."
+        }
       },
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": ["chef", "configuration management"],
         "youtube": ["QGKQ_0kXXu0"],
         "origVid": ["https://vimeo.com/37593029"],
         "speakers": [
@@ -2198,26 +2386,27 @@
             "image": "jtimosin.jpg"
           }
         ],
-        "titles": {"ru": "Chef"}
+        "titles": {"*": "Chef"}
       },
       {
         "org": {"cam": "", "edit": ""},
-        "lang": "ru",
+        "lang": "en",
+        "labels": [],
         "youtube": ["RyQnJUWcXFo"],
         "origVid": ["https://vimeo.com/37595051"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "J.B.Rainsberger"},
+            "names": {"*": "J.B.Rainsberger"},
             "url": "",
             "image": ""
           }
         ],
-        "titles": {"ru": "TDD"}
+        "titles": {"*": "TDD"}
       }
     ]
   },
   {
-    "datetime": "2012-01-27T00:00:00+02:00",
+    "datetime": "2012-01-27T19:00:00",
     "season": 2012,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
@@ -2232,6 +2421,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["8FcOcQa-A5o"],
         "origVid": ["https://vimeo.com/35948272"],
         "speakers": [
@@ -2246,6 +2436,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["DYa1Jpjrox4"],
         "origVid": ["https://vimeo.com/35947379"],
         "speakers": [
@@ -2261,6 +2452,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["b2ZZpj2da9M"],
         "origVid": ["https://vimeo.com/35946811"],
         "speakers": [
@@ -2275,7 +2467,7 @@
     ]
   },
   {
-    "datetime": "2011-12-21T00:00:00+02:00",
+    "datetime": "2011-12-21T19:00:00",
     "season": 2012,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
@@ -2290,6 +2482,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["FpRH23WAWy0"],
         "origVid": ["https://vimeo.com/34197433"],
         "speakers": [
@@ -2305,6 +2498,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["ZHstk7RDneA"],
         "origVid": ["https://vimeo.com/34193474"],
         "speakers": [
@@ -2319,6 +2513,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["KSlfuA_wyeU"],
         "origVid": ["https://vimeo.com/34188608"],
         "speakers": [
@@ -2328,11 +2523,12 @@
             "image": "jmulenko.jpg"
           }
         ],
-        "titles": {"ru": "Microsoft Research Labs"}
+        "titles": {"*": "Microsoft Research Labs"}
       },
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["Ck7BD2sCBng"],
         "origVid": ["https://vimeo.com/34187569"],
         "speakers": [
@@ -2342,11 +2538,12 @@
             "image": "klinnik.jpg"
           }
         ],
-        "titles": {"ru": "Marketing Bullshits"}
+        "titles": {"*": "Marketing Bullshits"}
       },
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["iGZj7VsWWx0"],
         "origVid": ["https://vimeo.com/34184517"],
         "speakers": [
@@ -2361,6 +2558,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["wS7pI5ybCqM"],
         "origVid": ["https://vimeo.com/34176209"],
         "speakers": [

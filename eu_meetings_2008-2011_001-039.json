@@ -1,6 +1,6 @@
 [
   {
-    "datetime": "2011-11-30T00:00:00+02:00",
+    "datetime": "2011-11-30T19:00:00",
     "season": 2011,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
@@ -15,6 +15,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["xbYElideOms"],
         "origVid": ["https://vimeo.com/33022539"],
         "speakers": [
@@ -24,12 +25,13 @@
             "image": "jmulenko.jpg"
           }
         ],
-        "titles": {"ru": "LINQ"},
+        "titles": {"*": "LINQ"},
         "top": {"season": 2011, "place": 4}
       },
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["vbfn2atZvbY"],
         "origVid": ["https://vimeo.com/33056564"],
         "speakers": [
@@ -45,6 +47,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["5GDNFl4OpmE"],
         "origVid": ["https://vimeo.com/33020346"],
         "speakers": [
@@ -54,13 +57,13 @@
             "image": ""
           }
         ],
-        "titles": {"ru": "MetaProgramming System"},
+        "titles": {"*": "MetaProgramming System"},
         "presentations": ["http://www.slideshare.net/arhan/intro-to-mps"]
       }
     ]
   },
   {
-    "datetime": "2011-10-26T00:00:00+02:00",
+    "datetime": "2011-10-26T19:00:00",
     "season": 2011,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
@@ -75,6 +78,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": ["battle"],
         "youtube": ["1z32YuiyncI"],
         "origVid": ["https://vimeo.com/31425219"],
         "speakers": [
@@ -87,28 +91,29 @@
             "names": {"*": "Aleksandr Jastremski", "ru": "Александр Ястремский"}
           }
         ],
-        "titles": {"ru": "Java vs .NET"},
+        "titles": {"*": "Java vs .NET"},
         "presentations": ["https://prezi.com/v9hxrsrs-grm/java-strengths"],
-        "labels": ["батл"],
         "top": {"season": 2011, "place": 4}
       },
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["lp8uyJ2Ay8c"],
         "origVid": ["https://vimeo.com/31198295"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Андрей Ткачев"},
+            "names": {"*": "Andrei Tkachev", "ru": "Андрей Ткачев"},
             "url": "",
             "image": ""
           }
         ],
-        "titles": {"ru": "ScalaCheck"}
+        "titles": {"*": "ScalaCheck"}
       },
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["L2_oDoGumqU"],
         "origVid": ["https://vimeo.com/31197861"],
         "speakers": [
@@ -118,16 +123,17 @@
             "image": "amotsenov.jpg"
           }
         ],
-        "titles": {"ru": "Fronteers 2011"}
+        "titles": {"*": "Fronteers 2011"}
       },
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["ItowIKu2jbA"],
         "origVid": ["https://vimeo.com/31196719"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Денис Платонов"},
+            "names": {"*": "Denis Platonov", "ru": "Денис Платонов"},
             "url": "",
             "image": ""
           }
@@ -137,7 +143,7 @@
     ]
   },
   {
-    "datetime": "2011-09-28T00:00:00+02:00",
+    "datetime": "2011-09-28T19:00:00",
     "season": 2011,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
@@ -150,17 +156,27 @@
     ],
     "speeches": [
       {
+        "org": {},
+        "lang": "ru",
+        "labels": [],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Сергей Павлов"},
+            "names": {"*": "Sergei Pavlov", "ru": "Сергей Павлов"},
             "url": "",
             "image": ""
           }
         ],
         "titles": {"ru": "Байки о работе IT в Испании и Германии"},
-        "info": "Встреча не снималась на камеру. Видео нет."
+        "info": {
+          "ru": "Встреча не снималась на камеру. Видео нет.",
+          "en": "No meeting recording on camera. No video.",
+          "et": "Kohtumise salvestamine kaamerasse ei toimunud. Videot pole."
+        }
       },
       {
+        "org": {},
+        "lang": "ru",
+        "labels": [],
         "speakers": [
           {
             "names": {"*": "", "ru": "Эдуард Шустров"},
@@ -169,9 +185,16 @@
           }
         ],
         "titles": {"ru": "Возможности работы за границей"},
-        "info": "Встреча не снималась на камеру. Видео нет."
+        "info": {
+          "ru": "Встреча не снималась на камеру. Видео нет.",
+          "en": "No meeting recording on camera. No video.",
+          "et": "Kohtumise salvestamine kaamerasse ei toimunud. Videot pole."
+        }
       },
       {
+        "org": {},
+        "lang": "ru",
+        "labels": [],
         "speakers": [
           {
             "names": {"*": "", "ru": "Дмитрий Жучков"},
@@ -179,11 +202,18 @@
             "image": ""
           }
         ],
-        "titles": {"ru": "Exploits"},
-        "info": "Встреча не снималась на камеру. Видео нет.",
+        "titles": {"*": "Exploits"},
+        "info": {
+          "ru": "Встреча не снималась на камеру. Видео нет.",
+          "en": "No meeting recording on camera. No video.",
+          "et": "Kohtumise salvestamine kaamerasse ei toimunud. Videot pole."
+        },
         "top": {"season": 2011, "place": 3}
       },
       {
+        "org": {},
+        "lang": "ru",
+        "labels": [],
         "speakers": [
           {
             "names": {"*": "Jevgeni Goloborodko", "ru": "Евгений Голобородько"},
@@ -192,12 +222,16 @@
           }
         ],
         "titles": {"ru": "Готовим Symfony"},
-        "info": "Встреча не снималась на камеру. Видео нет."
+        "info": {
+          "ru": "Встреча не снималась на камеру. Видео нет.",
+          "en": "No meeting recording on camera. No video.",
+          "et": "Kohtumise salvestamine kaamerasse ei toimunud. Videot pole."
+        }
       }
     ]
   },
   {
-    "datetime": "2011-08-30T00:00:00+02:00",
+    "datetime": "2011-08-30T19:00:00",
     "season": 2011,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
@@ -212,6 +246,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["KXF5JqAEUrc"],
         "origVid": ["https://vimeo.com/28408020"],
         "speakers": [
@@ -221,11 +256,12 @@
             "image": "aarhipov.jpg"
           }
         ],
-        "titles": {"ru": "JVM/Java future"}
+        "titles": {"*": "JVM/Java future"}
       },
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["dNeuE5cFWio"],
         "origVid": ["https://vimeo.com/28445672"],
         "speakers": [
@@ -235,12 +271,13 @@
             "image": "amotsenov.jpg"
           }
         ],
-        "titles": {"ru": "JavaScript.next"},
+        "titles": {"*": "JavaScript.next"},
         "top": {"season": 2011, "place": 4}
       },
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["0qFZMfaxfQ4"],
         "origVid": ["https://vimeo.com/28395233"],
         "speakers": [
@@ -250,12 +287,12 @@
             "image": ""
           }
         ],
-        "titles": {"ru": "Oracle Fusion Middlware 11g"}
+        "titles": {"*": "Oracle Fusion Middlware 11g"}
       }
     ]
   },
   {
-    "datetime": "2011-07-28T00:00:00+02:00",
+    "datetime": "2011-07-28T19:00:00",
     "season": 2011,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
@@ -270,6 +307,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["r677ObvGXT4"],
         "origVid": ["https://vimeo.com/27032526"],
         "speakers": [
@@ -284,6 +322,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": ["js", "knockout.js"],
         "youtube": ["bqkNS5xTDTw"],
         "origVid": ["https://vimeo.com/27031099"],
         "speakers": [
@@ -293,11 +332,12 @@
             "image": ""
           }
         ],
-        "titles": {"ru": "knockout.js"}
+        "titles": {"*": "knockout.js"}
       },
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["avEvIMhN_-0"],
         "origVid": ["https://vimeo.com/27026620"],
         "speakers": [
@@ -312,6 +352,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["aWeUSzWlNOE"],
         "origVid": ["https://vimeo.com/27027479"],
         "speakers": [
@@ -326,7 +367,7 @@
     ]
   },
   {
-    "datetime": "2011-06-28T00:00:00+02:00",
+    "datetime": "2011-06-28T19:00:00",
     "season": 2011,
     "place": {
       "name": "Hotell Susi", "loc": "https://goo.gl/maps/55CMMhKW67K2", "addr": "Peterburi tee 48, 11415 Tallinn",
@@ -341,6 +382,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["L2i7iAq7MOw", "q9YXk8vKheY"],
         "origVid": ["https://vimeo.com/25751274"],
         "speakers": [
@@ -350,11 +392,12 @@
             "image": "aarhipov.jpg"
           }
         ],
-        "titles": {"ru": "Pimp My IDEA!"}
+        "titles": {"*": "Pimp My IDEA!"}
       },
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["KhOEDb2IIk0"],
         "origVid": ["https://vimeo.com/25743465"],
         "speakers": [
@@ -369,6 +412,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["KVCLnkMGk9I"],
         "origVid": ["https://vimeo.com/25743952"],
         "speakers": [
@@ -383,6 +427,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["ZmU0rTrXQnU"],
         "origVid": ["https://vimeo.com/25744262"],
         "speakers": [
@@ -392,11 +437,12 @@
             "image": "jmulenko.jpg"
           }
         ],
-        "titles": {"ru": "Semantic Web"}
+        "titles": {"*": "Semantic Web"}
       },
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["B0ZrfE5KtOU"],
         "origVid": ["https://vimeo.com/25744836"],
         "speakers": [
@@ -406,11 +452,12 @@
             "image": "jholodkov.jpg"
           }
         ],
-        "titles": {"ru": "GitHub"}
+        "titles": {"*": "GitHub"}
       },
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["vHrLGmyyQtE"],
         "origVid": ["https://vimeo.com/25745306"],
         "speakers": [
@@ -425,6 +472,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["CFyLnXq_CM8"],
         "origVid": ["https://vimeo.com/25742455"],
         "speakers": [
@@ -439,7 +487,7 @@
     ]
   },
   {
-    "datetime": "2011-05-31T00:00:00+02:00",
+    "datetime": "2011-05-31T19:00:00",
     "season": 2011,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
@@ -455,6 +503,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["eeKLwvWbaGA"],
         "origVid": ["https://vimeo.com/24502413"],
         "speakers": [
@@ -464,11 +513,12 @@
             "image": "asolntsev.jpg"
           }
         ],
-        "titles": {"ru": "Real-life unit tests"}
+        "titles": {"*": "Real-life unit tests"}
       },
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["wJA18d0HbFs"],
         "origVid": ["https://vimeo.com/24502683"],
         "speakers": [
@@ -478,11 +528,12 @@
             "image": ""
           }
         ],
-        "titles": {"ru": "Scala by Example"}
+        "titles": {"*": "Scala by Example"}
       },
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["rrE5MwV71cs"],
         "origVid": ["https://vimeo.com/24502927"],
         "speakers": [
@@ -492,12 +543,15 @@
             "image": ""
           }
         ],
-        "titles": {"ru": "Google Web Toolkit с 2007 до 2012"}
+        "titles": {
+          "*": "Google Web Toolkit: 2007 - 2012",
+          "ru": "Google Web Toolkit с 2007 до 2012"
+        }
       }
     ]
   },
   {
-    "datetime": "2011-04-27T00:00:00+02:00",
+    "datetime": "2011-04-27T19:00:00",
     "season": 2011,
     "place": {
       "name": "Hotell Susi", "loc": "https://goo.gl/maps/55CMMhKW67K2", "addr": "Peterburi tee 48, 11415 Tallinn",
@@ -512,6 +566,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["r2WYregWiDY"],
         "origVid": ["https://vimeo.com/22979363"],
         "speakers": [
@@ -526,6 +581,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["udeYPJnk92U"],
         "origVid": ["https://vimeo.com/22972277"],
         "speakers": [
@@ -540,6 +596,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["QCKUkr8XCkw"],
         "origVid": ["https://vimeo.com/22967629"],
         "speakers": [
@@ -549,12 +606,12 @@
             "image": "ktretyakov.jpg"
           }
         ],
-        "titles": {"ru": "Machine Learning"}
+        "titles": {"*": "Machine Learning"}
       }
     ]
   },
   {
-    "datetime": "2011-03-25T00:00:00+02:00",
+    "datetime": "2011-03-25T19:00:00",
     "season": 2011,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
@@ -570,6 +627,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["RmaTatjf2os"],
         "origVid": ["https://vimeo.com/21513455"],
         "speakers": [
@@ -585,6 +643,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["VXrpK_kUiPI"],
         "origVid": ["https://vimeo.com/21511867"],
         "speakers": [
@@ -599,7 +658,7 @@
     ]
   },
   {
-    "datetime": "2011-02-25T00:00:00+02:00",
+    "datetime": "2011-02-25T19:00:00",
     "season": 2011,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
@@ -615,6 +674,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["kyXriUBppMk"],
         "origVid": ["https://vimeo.com/20403696"],
         "speakers": [
@@ -630,6 +690,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["YCc3g7pNZFI"],
         "origVid": ["https://vimeo.com/20401054"],
         "speakers": [
@@ -644,6 +705,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["0D2kqPSn3DE"],
         "origVid": ["https://vimeo.com/20388824"],
         "speakers": [
@@ -653,12 +715,12 @@
             "image": ""
           }
         ],
-        "titles": {"ru": "Garage48"}
+        "titles": {"*": "Garage48"}
       }
     ]
   },
   {
-    "datetime": "2011-01-26T00:00:00+02:00",
+    "datetime": "2011-01-26T19:00:00",
     "season": 2011,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
@@ -675,11 +737,12 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["Q5L3R7kyE7E"],
         "origVid": ["https://vimeo.com/19230557"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Тыну Самуель"},
+            "names": {"*": "Tõnu Samuel", "ru": "Тыну Самуель"},
             "url": "",
             "image": ""
           }
@@ -690,6 +753,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["TGOFX5vrfgo"],
         "origVid": ["https://vimeo.com/19273009"],
         "speakers": [
@@ -704,7 +768,7 @@
     ]
   },
   {
-    "datetime": "2010-12-22T00:00:00+02:00",
+    "datetime": "2010-12-22T19:00:00",
     "season": 2011,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
@@ -721,6 +785,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["V3QqbYozjeg"],
         "origVid": ["https://vimeo.com/18105141"],
         "speakers": [
@@ -735,6 +800,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["w0EENBYf_Ak"],
         "origVid": ["https://vimeo.com/18170384"],
         "speakers": [
@@ -749,6 +815,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["SLHIqf8MqYk"],
         "origVid": ["https://vimeo.com/18104065"],
         "speakers": [
@@ -758,11 +825,12 @@
             "image": "amotsenov.jpg"
           }
         ],
-        "titles": {"ru": "AI contest"}
+        "titles": {"*": "AI contest"}
       },
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": ["conference", "devclub"],
         "youtube": ["0L4cjpsFduU"],
         "origVid": ["https://vimeo.com/18102648"],
         "speakers": [
@@ -772,12 +840,12 @@
             "image": "klinnik.jpg"
           }
         ],
-        "titles": {"ru": "Progress VS Devoxx VS Devclub"}
+        "titles": {"*": "Progress VS Devoxx VS Devclub"}
       }
     ]
   },
   {
-    "datetime": "2010-11-23T00:00:00+02:00",
+    "datetime": "2010-11-23T19:00:00",
     "season": 2010,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
@@ -792,6 +860,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["3DHM-XzfHaM"],
         "origVid": ["https://vimeo.com/17134998"],
         "speakers": [
@@ -807,6 +876,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["4indjKPKBQU"],
         "origVid": ["https://vimeo.com/17135822"],
         "speakers": [
@@ -822,21 +892,22 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["OUXTQc-PxCo"],
         "origVid": ["https://vimeo.com/17136348"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Артём Курапов"},
+            "names": {"*": "Artem Kurapov", "ru": "Артём Курапов"},
             "url": "",
             "image": ""
           }
         ],
-        "titles": {"ru": "Oauth"}
+        "titles": {"*": "OAuth"}
       }
     ]
   },
   {
-    "datetime": "2010-10-26T00:00:00+02:00",
+    "datetime": "2010-10-26T19:00:00",
     "season": 2010,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
@@ -852,6 +923,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["mH15Djb9wnE"],
         "origVid": ["https://vimeo.com/16221665"],
         "speakers": [
@@ -861,12 +933,13 @@
             "image": "asolntsev.jpg"
           }
         ],
-        "titles": {"ru": "BDD Workshop"},
+        "titles": {"*": "BDD Workshop"},
         "presentations": ["https://prezi.com/zfjermx0qw41/bdd"]
       },
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["kj6OdfKEh-o"],
         "origVid": ["https://vimeo.com/16222535"],
         "speakers": [
@@ -881,7 +954,7 @@
     ]
   },
   {
-    "datetime": "2010-09-29T00:00:00+02:00",
+    "datetime": "2010-09-29T19:00:00",
     "season": 2010,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
@@ -896,6 +969,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["2kis7Svn4D0"],
         "origVid": ["https://vimeo.com/15405162"],
         "speakers": [
@@ -910,6 +984,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["0rojGPOBYdo"],
         "origVid": ["https://vimeo.com/15421721"],
         "speakers": [
@@ -924,6 +999,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["L75gDNE_cdk"],
         "origVid": ["https://vimeo.com/15421412"],
         "speakers": [
@@ -933,13 +1009,13 @@
             "image": "aarhipov.jpg"
           }
         ],
-        "titles": {"ru": "Practical *nix utilities"},
+        "titles": {"*": "Practical *nix utilities"},
         "presentations": ["http://www.slideshare.net/arhan/practical-unix-utilities-for-text-processing"]
       }
     ]
   },
   {
-    "datetime": "2010-08-26T00:00:00+02:00",
+    "datetime": "2010-08-26T19:00:00",
     "season": 2010,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
@@ -955,6 +1031,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["tzhoCKLLzc0"],
         "origVid": ["https://vimeo.com/14489233"],
         "speakers": [
@@ -971,6 +1048,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["WmmUfUyA2b8"],
         "origVid": ["https://vimeo.com/14483986"],
         "speakers": [
@@ -980,11 +1058,12 @@
             "image": ""
           }
         ],
-        "titles": {"ru": "DevPulse"}
+        "titles": {"*": "DevPulse"}
       },
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["tomWSZjdIHU"],
         "origVid": ["https://vimeo.com/14462910"],
         "speakers": [
@@ -999,7 +1078,7 @@
     ]
   },
   {
-    "datetime": "2010-07-27T00:00:00+02:00",
+    "datetime": "2010-07-27T19:00:00",
     "season": 2010,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
@@ -1015,6 +1094,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["7WiEduiDnkQ"],
         "origVid": ["https://vimeo.com/13818756"],
         "speakers": [
@@ -1029,6 +1109,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["WPfmbUkjqfk"],
         "origVid": ["https://vimeo.com/13697449"],
         "speakers": [
@@ -1042,6 +1123,9 @@
         "presentations": ["http://www.slideshare.net/arhan/agressive-xml-solutions-by-andrei-lunjov"]
       },
       {
+        "org": {},
+        "lang": "ru",
+        "labels": [],
         "speakers": [
           {
             "names": {"*": "", "ru": "Сергей Моисеев"},
@@ -1050,12 +1134,16 @@
           }
         ],
         "titles": {"ru": "Migrate!"},
-        "info": "По обоснованной просьбе докладчика видео удалено."
+        "info": {
+          "ru": "По просьбе докладчика видео удалено.",
+          "en": "Video removed by speaker request",
+          "et": "Video on kõneleja soovil kustutatud."
+        }
       }
     ]
   },
   {
-    "datetime": "2010-06-28T00:00:00+02:00",
+    "datetime": "2010-06-28T19:00:00",
     "season": 2010,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
@@ -1071,6 +1159,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["ITWmC-e5XmE"],
         "origVid": ["https://vimeo.com/15898107"],
         "speakers": [
@@ -1085,6 +1174,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["y-f-R1UvgbM"],
         "origVid": ["https://vimeo.com/15898758"],
         "speakers": [
@@ -1094,11 +1184,12 @@
             "image": "amotsenov.jpg"
           }
         ],
-        "titles": {"ru": "Google App Engine"}
+        "titles": {"*": "Google App Engine"}
       },
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["k7XZi5LUsgI"],
         "origVid": ["https://vimeo.com/15898252"],
         "speakers": [
@@ -1113,7 +1204,7 @@
     ]
   },
   {
-    "datetime": "2010-05-26T00:00:00+02:00",
+    "datetime": "2010-05-26T19:00:00",
     "season": 2010,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
@@ -1129,6 +1220,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["9ozWTKRasv8"],
         "origVid": ["https://vimeo.com/14121775"],
         "speakers": [
@@ -1138,12 +1230,13 @@
             "image": "asolntsev.jpg"
           }
         ],
-        "titles": {"ru": "WTF code"},
+        "titles": {"*": "WTF code"},
         "top": {"season": 2010, "place": 3}
       },
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["euB0gLFgt_I"],
         "origVid": ["https://vimeo.com/12692751"],
         "speakers": [
@@ -1153,12 +1246,13 @@
             "image": ""
           }
         ],
-        "titles": {"ru": "Windows Phone 7"},
+        "titles": {"*": "Windows Phone 7"},
         "presentations": ["http://www.slideshare.net/eugenedotnet/windows-phone-7-4332496"]
       },
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["vub9lLtiojw"],
         "origVid": ["https://vimeo.com/12659234"],
         "speakers": [
@@ -1168,14 +1262,14 @@
             "image": "agrigorjev.jpg"
           }
         ],
-        "titles": {"ru": "Aspect-Oriented Programming using Spring Framework"},
+        "titles": {"*": "Aspect-Oriented Programming using Spring Framework"},
         "presentations": ["http://www.slideshare.net/arsenikum/spring-aop-devclubeu"],
         "presentations-hidden": ["http://www.slideshare.net/arhan/aspectoriented-programming-by-arseni-grigorjev"]
       }
     ]
   },
   {
-    "datetime": "2010-04-30T00:00:00+02:00",
+    "datetime": "2010-04-30T19:00:00",
     "season": 2010,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
@@ -1192,6 +1286,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["BAPKM-j1BFY"],
         "origVid": ["https://vimeo.com/11382206"],
         "speakers": [
@@ -1201,12 +1296,13 @@
             "image": "akeks.jpg"
           }
         ],
-        "titles": {"ru": "Git"},
+        "titles": {"*": "Git"},
         "top": {"season": 2010, "place": 4}
       },
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["Rk1hW72Ad4g"],
         "origVid": ["https://vimeo.com/11458707"],
         "speakers": [
@@ -1216,11 +1312,12 @@
             "image": ""
           }
         ],
-        "titles": {"ru": "Getting Things Done and Common Sense"}
+        "titles": {"*": "Getting Things Done and Common Sense"}
       },
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["h71k_JH0RRs"],
         "origVid": ["https://vimeo.com/11413473"],
         "speakers": [
@@ -1235,7 +1332,7 @@
     ]
   },
   {
-    "datetime": "2010-03-30T00:00:00+02:00",
+    "datetime": "2010-03-30T19:00:00",
     "season": 2010,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
@@ -1247,6 +1344,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["2P4hE-xcanM"],
         "origVid": ["https://vimeo.com/10732531"],
         "speakers": [
@@ -1261,6 +1359,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["BSMH-KkYbpI"],
         "origVid": ["https://vimeo.com/10693395"],
         "speakers": [
@@ -1277,6 +1376,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["U6hWXFpqLgE"],
         "origVid": ["https://vimeo.com/10694122"],
         "speakers": [
@@ -1292,7 +1392,7 @@
     ]
   },
   {
-    "datetime": "2010-02-26T00:00:00+02:00",
+    "datetime": "2010-02-26T19:00:00",
     "season": 2010,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
@@ -1304,6 +1404,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["VFFp_ziHzNo"],
         "origVid": ["https://vimeo.com/10175629"],
         "speakers": [
@@ -1320,6 +1421,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["f9AdmMxWXKw"],
         "origVid": ["https://vimeo.com/10176007"],
         "speakers": [
@@ -1335,7 +1437,7 @@
     ]
   },
   {
-    "datetime": "2010-01-26T00:00:00+02:00",
+    "datetime": "2010-01-26T19:00:00",
     "season": 2010,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
@@ -1350,6 +1452,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": ["dsl"],
         "youtube": ["GdF_ZGWP8go"],
         "origVid": ["https://vimeo.com/9060462"],
         "speakers": [
@@ -1359,12 +1462,13 @@
             "image": "aarhipov.jpg"
           }
         ],
-        "titles": {"ru": "Domain Specific Language"},
+        "titles": {"*": "Domain Specific Language"},
         "presentations": ["http://www.slideshare.net/arhan/domain-specific-languages-for-business-rules"]
       },
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["8Yp426KEFZw"],
         "origVid": ["https://vimeo.com/9055964"],
         "speakers": [
@@ -1380,6 +1484,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": [
           "skZToKvnlt4",
           "Xr8pzBuGLrU"
@@ -1395,13 +1500,13 @@
             "image": "akeks.jpg"
           }
         ],
-        "titles": {"ru": "User Interface guidelines"},
+        "titles": {"*": "User Interface guidelines"},
         "presentations": ["http://www.slideshare.net/arhan/usability-of-human-interfaces"]
       }
     ]
   },
   {
-    "datetime": "2009-12-22T00:00:00+02:00",
+    "datetime": "2009-12-22T19:00:00",
     "season": 2010,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
@@ -1416,6 +1521,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["S2k_RO0557A"],
         "origVid": ["https://vimeo.com/8434609"],
         "speakers": [
@@ -1425,9 +1531,12 @@
             "image": ""
           }
         ],
-        "titles": {"ru": "Alice.org"}
+        "titles": {"*": "Alice.org"}
       },
       {
+        "org": {},
+        "lang": "ru",
+        "labels": [],
         "origVid": ["https://vimeo.com/8434698"],
         "speakers": [
           {
@@ -1436,11 +1545,12 @@
             "image": "asolntsev.jpg"
           }
         ],
-        "titles": {"ru": "HireBug"}
+        "titles": {"*": "HireBug"}
       },
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["nu8FrqKDY_k"],
         "origVid": ["https://vimeo.com/8431535"],
         "speakers": [
@@ -1450,11 +1560,12 @@
             "image": "jholodkov.jpg"
           }
         ],
-        "titles": {"ru": "Ericsson labs"}
+        "titles": {"*": "Ericsson labs"}
       },
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["6qYISXZLGpY"],
         "origVid": ["https://vimeo.com/8434767"],
         "speakers": [
@@ -1470,6 +1581,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["NRhtAQbkG_4"],
         "origVid": ["https://vimeo.com/8430306"],
         "speakers": [
@@ -1479,12 +1591,12 @@
             "image": "klinnik.jpg"
           }
         ],
-        "titles": {"ru": "Scratch"}
+        "titles": {"*": "Scratch"}
       }
     ]
   },
   {
-    "datetime": "2009-11-26T00:00:00+02:00",
+    "datetime": "2009-11-26T19:00:00",
     "season": 2009,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
@@ -1496,6 +1608,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["e1f8ebEPcNE"],
         "origVid": ["https://vimeo.com/7885067"],
         "speakers": [
@@ -1510,6 +1623,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["xQixV8C_G-A"],
         "origVid": ["https://vimeo.com/7872596"],
         "speakers": [
@@ -1524,6 +1638,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["bedo5DNeVGQ"],
         "origVid": ["https://vimeo.com/7863984"],
         "speakers": [
@@ -1539,7 +1654,7 @@
     ]
   },
   {
-    "datetime": "2009-10-29T00:00:00+02:00",
+    "datetime": "2009-10-29T19:00:00",
     "season": 2009,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
@@ -1553,6 +1668,9 @@
     ],
     "speeches": [
       {
+        "org": {},
+        "lang": "ru",
+        "labels": [],
         "speakers": [
           {
             "names": {"*": "", "ru": "Антон Литвиненко"},
@@ -1561,9 +1679,16 @@
           }
         ],
         "titles": {"ru": "Термометер для управления проектом"},
-        "info": "Встреча не снималась на камеру. Видео нет."
+        "info": {
+          "ru": "Встреча не снималась на камеру. Видео нет.",
+          "en": "No meeting recording on camera. No video.",
+          "et": "Kohtumise salvestamine kaamerasse ei toimunud. Videot pole."
+        }
       },
       {
+        "org": {},
+        "lang": "ru",
+        "labels": [],
         "speakers": [
           {
             "names": {"*": "Stanislav Katkov", "ru": "Станислав Катков"},
@@ -1572,9 +1697,16 @@
           }
         ],
         "titles": {"ru": "Автоматическое тестирование для работающих проектов"},
-        "info": "Встреча не снималась на камеру. Видео нет."
+        "info": {
+          "ru": "Встреча не снималась на камеру. Видео нет.",
+          "en": "No meeting recording on camera. No video.",
+          "et": "Kohtumise salvestamine kaamerasse ei toimunud. Videot pole."
+        }
       },
       {
+        "org": {},
+        "lang": "ru",
+        "labels": [],
         "speakers": [
           {
             "names": {"*": "", "ru": "Антон Шишков"},
@@ -1583,9 +1715,16 @@
           }
         ],
         "titles": {"ru": "Краткий обзор программ для автоматичесткого тестирования"},
-        "info": "Встреча не снималась на камеру. Видео нет."
+        "info": {
+          "ru": "Встреча не снималась на камеру. Видео нет.",
+          "en": "No meeting recording on camera. No video.",
+          "et": "Kohtumise salvestamine kaamerasse ei toimunud. Videot pole."
+        }
       },
       {
+        "org": {},
+        "lang": "ru",
+        "labels": [],
         "speakers": [
           {
             "names": {"*": "", "ru": "Сергей Сергеев"},
@@ -1594,12 +1733,16 @@
           }
         ],
         "titles": {"ru": "Что такое (web)тестирование и с чем его едят?"},
-        "info": "Встреча не снималась на камеру. Видео нет."
+        "info": {
+          "ru": "Встреча не снималась на камеру. Видео нет.",
+          "en": "No meeting recording on camera. No video.",
+          "et": "Kohtumise salvestamine kaamerasse ei toimunud. Videot pole."
+        }
       }
     ]
   },
   {
-    "datetime": "2009-09-29T00:00:00+02:00",
+    "datetime": "2009-09-29T19:00:00",
     "season": 2009,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
@@ -1614,6 +1757,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["n1tOBnSpyWc"],
         "origVid": ["https://vimeo.com/7139653"],
         "speakers": [
@@ -1634,6 +1778,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["6mqm-aM0Xmk"],
         "origVid": ["https://vimeo.com/6891469"],
         "speakers": [
@@ -1649,6 +1794,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["1O2bSA87Ozc"],
         "origVid": ["https://vimeo.com/6887189"],
         "speakers": [
@@ -1665,7 +1811,7 @@
     ]
   },
   {
-    "datetime": "2009-08-27T00:00:00+02:00",
+    "datetime": "2009-08-27T19:00:00",
     "season": 2009,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
@@ -1680,6 +1826,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["DL0ZEC0OpXk"],
         "origVid": ["https://vimeo.com/6511539"],
         "speakers": [
@@ -1695,6 +1842,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["BhvIFmEuW_g"],
         "origVid": ["https://vimeo.com/6455834"],
         "speakers": [
@@ -1711,6 +1859,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["nj6O86RqlhA"],
         "origVid": ["https://vimeo.com/6454912"],
         "speakers": [
@@ -1726,7 +1875,7 @@
     ]
   },
   {
-    "datetime": "2009-07-28T00:00:00+02:00",
+    "datetime": "2009-07-28T19:00:00",
     "season": 2009,
     "place": {
       "name": "Helmes AS", "loc": "https://goo.gl/maps/L5dLpjcmHnq", "addr": "Lõõtsa 6b, 11415 Tallinn",
@@ -1741,6 +1890,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["zpa1x8zF81g"],
         "origVid": ["https://vimeo.com/5995249"],
         "speakers": [
@@ -1750,11 +1900,12 @@
             "image": ""
           }
         ],
-        "titles": {"ru": "Ruby On Rails hands-on"}
+        "titles": {"*": "Ruby On Rails hands-on"}
       },
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["fNg2aP-IV8c"],
         "origVid": ["https://vimeo.com/5994327"],
         "speakers": [
@@ -1769,19 +1920,27 @@
         "presentations": ["20090728_zkirillov_grabli.pdf"]
       },
       {
+        "org": {},
+        "lang": "ru",
+        "labels": [],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Марк Кофман"},
+            "names": {"*": "Mark Kofman", "ru": "Марк Кофман"},
             "url": "",
             "image": ""
           }
         ],
-        "titles": {"ru": "Programeter"},
-        "info": "По просьбе докладчика видео не снималось."
+        "titles": {"*": "Programeter"},
+        "info": {
+          "ru": "По просьбе докладчика видео не снималось.",
+          "en": "No video by speaker request.",
+          "et": "Video puudub kõneleja soovil."
+        }
       },
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["bwFsjS18GM8"],
         "origVid": ["https://vimeo.com/5995255"],
         "speakers": [
@@ -1796,13 +1955,16 @@
     ]
   },
   {
-    "datetime": "2009-06-30T00:00:00+02:00",
+    "datetime": "2009-06-30T19:00:00",
     "season": 2009,
     "place": {"name": "Aqris"},
     "num": 10,
     "org": {"mod": "kl", "photo": ""},
     "speeches": [
       {
+        "org": {},
+        "lang": "ru",
+        "labels": [],
         "initialVideoUrl-hidden": ["https://vimeo.com/5496714"],
         "speakers": [
           {
@@ -1811,12 +1973,17 @@
             "image": "asolntsev.jpg"
           }
         ],
-        "titles": {"ru": "Evolutionary database design"},
-        "info": "По забытым причинам видео закрыто для просмотра."
+        "titles": {"*": "Evolutionary database design"},
+        "info": {
+          "ru": "По уже забытым причинам видео закрыто для просмотра.",
+          "en": "Video is closed for viewing by speaker request.",
+          "et": "Video on kinni kõneleja soovil."
+        }
       },
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["lhKleb7aRjw"],
         "origVid": ["https://vimeo.com/5494697"],
         "speakers": [
@@ -1826,11 +1993,12 @@
             "image": "mkiuru.jpg"
           }
         ],
-        "titles": {"ru": "Oracle Secrets"}
+        "titles": {"*": "Oracle Secrets"}
       },
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["ugqzrlmH8VM"],
         "origVid": ["https://vimeo.com/5494665"],
         "speakers": [
@@ -1845,7 +2013,7 @@
     ]
   },
   {
-    "datetime": "2009-05-28T00:00:00+02:00",
+    "datetime": "2009-05-28T19:00:00",
     "season": 2009,
     "place": {"name": "Aqris"},
     "num": 9,
@@ -1854,6 +2022,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["8dQEDNfhUgc"],
         "origVid": ["https://vimeo.com/5042958"],
         "speakers": [
@@ -1863,12 +2032,13 @@
             "image": "agrigorjev.jpg"
           }
         ],
-        "titles": {"ru": "DWR"},
+        "titles": {"*": "DWR"},
         "presentations": ["http://www.slideshare.net/arsenikum/dwr-devclubeu"]
       },
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["QllNRTrvx7M"],
         "origVid": ["https://vimeo.com/5043231"],
         "speakers": [
@@ -1878,11 +2048,12 @@
             "image": ""
           }
         ],
-        "titles": {"ru": "Aranea"}
+        "titles": {"*": "Aranea"}
       },
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": ["js", "jquery"],
         "youtube": ["E-0_o4nEcxs"],
         "origVid": ["https://vimeo.com/4908037"],
         "speakers": [
@@ -1892,13 +2063,13 @@
             "image": "amotsenov.jpg"
           }
         ],
-        "titles": {"ru": "jQuery"},
+        "titles": {"*": "jQuery"},
         "presentations": ["http://www.slideshare.net/soswow/js-libraries-and-jquery-overview"]
       }
     ]
   },
   {
-    "datetime": "2009-04-23T00:00:00+02:00",
+    "datetime": "2009-04-23T19:00:00",
     "season": 2009,
     "place": {"name": "Ericsson"},
     "num": 8,
@@ -1906,6 +2077,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["fOa--TThL_A"],
         "origVid": ["https://vimeo.com/4564313"],
         "speakers": [
@@ -1920,6 +2092,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["Nhu495_XzIE"],
         "origVid": ["https://vimeo.com/4412497"],
         "speakers": [
@@ -1929,11 +2102,12 @@
             "image": "jholodkov.jpg"
           }
         ],
-        "titles": {"ru": "Servicemix ESB"}
+        "titles": {"*": "Servicemix ESB"}
       },
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["ZtRGAMrq3lM"],
         "origVid": ["https://vimeo.com/4410464"],
         "speakers": [
@@ -1943,10 +2117,13 @@
             "image": "aarhipov.jpg"
           }
         ],
-        "titles": {"ru": "Apache Camel"},
+        "titles": {"*": "Apache Camel"},
         "presentations": ["http://www.slideshare.net/helggeist/apache-camel-1336249"]
       },
       {
+        "org": {},
+        "lang": "ru",
+        "labels": [],
         "_vids-hidden": ["https://vimeo.com/4327417"],
         "speakers": [
           {
@@ -1955,13 +2132,18 @@
             "image": "asolntsev.jpg"
           }
         ],
-        "titles": {"ru": "Fiorano ESB"},
+        "titles": {"*": "Fiorano ESB"},
         "presentations": ["http://www.slideshare.net/helggeist/fiorano"],
-        "info": "Из-за конфликтной ситуации видео было закрыто для просмотра."
+        "info": {
+          "ru": "Из-за конфликтной ситуации видео было закрыто для просмотра.",
+          "en": "Video is closed for viewing.",
+          "et": "Video on kinni."
+        }
       },
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["7Vl6jHmpVCY"],
         "origVid": ["https://vimeo.com/4324555"],
         "speakers": [
@@ -1971,7 +2153,7 @@
             "image": "klinnik.jpg"
           }
         ],
-        "titles": {"ru": "XBRL [2]"},
+        "titles": {"*": "XBRL [2]"},
         "presentations": [
           "http://www.slideshare.net/helggeist/110-introduction-to-xbrl-taxonomies-and-instance-documents-sept-2007-print-version"
         ]
@@ -1979,7 +2161,7 @@
     ]
   },
   {
-    "datetime": "2009-03-28T00:00:00+02:00",
+    "datetime": "2009-03-28T19:00:00",
     "season": 2009,
     "place": {"name": "Ericsson"},
     "num": 7,
@@ -1987,6 +2169,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["KF-Iik4Htmg"],
         "origVid": ["https://vimeo.com/3988419"],
         "speakers": [
@@ -2001,6 +2184,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": ["bi", "reporting", "crystal reports"],
         "youtube": ["jHY_J0LiDTw"],
         "origVid": ["https://vimeo.com/4108438"],
         "speakers": [
@@ -2010,11 +2194,12 @@
             "image": "jmulenko.jpg"
           }
         ],
-        "titles": {"ru": "Crystal Reports"}
+        "titles": {"*": "Crystal Reports"}
       },
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["S19ZQAHCiBM"],
         "origVid": ["https://vimeo.com/3904620"],
         "speakers": [
@@ -2024,12 +2209,12 @@
             "image": "klinnik.jpg"
           }
         ],
-        "titles": {"ru": "XBRL [1]"}
+        "titles": {"*": "XBRL [1]"}
       }
     ]
   },
   {
-    "datetime": "2009-02-19T00:00:00+02:00",
+    "datetime": "2009-02-19T19:00:00",
     "season": 2009,
     "place": {"name": "Ericsson"},
     "num": 6,
@@ -2037,6 +2222,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["BDNpgO3yqB0"],
         "origVid": ["https://vimeo.com/4599992"],
         "speakers": [
@@ -2046,12 +2232,13 @@
             "image": ""
           }
         ],
-        "titles": {"ru": "SMS & Mobi"},
+        "titles": {"*": "SMS & Mobi"},
         "presentations": ["http://www.slideshare.net/jevgeni_holodkov/mobi"]
       },
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["G8M-Jc8GcG0"],
         "origVid": ["https://vimeo.com/4638177"],
         "speakers": [
@@ -2061,12 +2248,13 @@
             "image": ""
           }
         ],
-        "titles": {"ru": "Kaardikeskus"},
+        "titles": {"*": "Kaardikeskus"},
         "presentations": ["http://www.slideshare.net/jevgeni_holodkov/kaardikeskus"]
       },
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["VAjTuAVTQqg"],
         "origVid": ["https://vimeo.com/3392788"],
         "speakers": [
@@ -2076,11 +2264,12 @@
             "image": ""
           }
         ],
-        "titles": {"ru": "Pangalink"}
+        "titles": {"*": "Pangalink"}
       },
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["6laoZtjGv0k"],
         "origVid": ["https://vimeo.com/3377701"],
         "speakers": [
@@ -2090,18 +2279,21 @@
             "image": ""
           }
         ],
-        "titles": {"ru": "Webmoney"},
+        "titles": {"*": "Webmoney"},
         "presentations": ["http://www.slideshare.net/jevgeni_holodkov/ss-1069374"]
       }
     ]
   },
   {
-    "datetime": "2009-01-30T00:00:00+02:00",
+    "datetime": "2009-01-30T19:00:00",
     "season": 2009,
     "place": {"name": "Ericsson"},
     "num": 5,
     "speeches": [
       {
+        "org": {},
+        "lang": "ru",
+        "labels": [],
         "speakers": [
           {
             "names": {"*": "Andrei Solntsev", "ru": "Андрей Солнцев"},
@@ -2109,10 +2301,17 @@
             "image": "asolntsev.jpg"
           }
         ],
-        "titles": {"ru": "JBoss Drools"},
-        "info": "Встреча не снималась на камеру. Видео нет."
+        "titles": {"*": "JBoss Drools"},
+        "info": {
+          "ru": "Встреча не снималась на камеру. Видео нет.",
+          "en": "No meeting recording on camera. No video.",
+          "et": "Kohtumise salvestamine kaamerasse ei toimunud. Videot pole."
+        }
       },
       {
+        "org": {},
+        "lang": "ru",
+        "labels": [],
         "speakers": [
           {
             "names": {"*": "Kirill Linnik", "ru": "Кирилл Линник"},
@@ -2120,10 +2319,17 @@
             "image": "klinnik.jpg"
           }
         ],
-        "titles": {"ru": "ILOG"},
-        "info": "Встреча не снималась на камеру. Видео нет."
+        "titles": {"*": "ILOG"},
+        "info": {
+          "ru": "Встреча не снималась на камеру. Видео нет.",
+          "en": "No meeting recording on camera. No video.",
+          "et": "Kohtumise salvestamine kaamerasse ei toimunud. Videot pole."
+        }
       },
       {
+        "org": {},
+        "lang": "ru",
+        "labels": [],
         "speakers": [
           {
             "names": {"*": "Anton Arhipov", "ru": "Антон Архипов"},
@@ -2131,14 +2337,18 @@
             "image": "aarhipov.jpg"
           }
         ],
-        "titles": {"ru": "JBoss Drools"},
+        "titles": {"*": "JBoss Drools"},
         "presentations": ["http://www.slideshare.net/arhan/jboss-drools-presentation-for-devclubeu"],
-        "info": "Встреча не снималась на камеру. Видео нет."
+        "info": {
+          "ru": "Встреча не снималась на камеру. Видео нет.",
+          "en": "No meeting recording on camera. No video.",
+          "et": "Kohtumise salvestamine kaamerasse ei toimunud. Videot pole."
+        }
       }
     ]
   },
   {
-    "datetime": "2008-12-26T00:00:00+02:00",
+    "datetime": "2008-12-26T19:00:00",
     "season": 2009,
     "place": {"name": "Ustus Aguri maja"},
     "num": 4,
@@ -2149,6 +2359,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["FQz9EYZAphc"],
         "origVid": ["https://vimeo.com/5399511"],
         "speakers": [
@@ -2163,6 +2374,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["uk5qJWgb51o"],
         "origVid": ["https://vimeo.com/5344172"],
         "speakers": [
@@ -2177,6 +2389,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
+        "labels": [],
         "youtube": ["C0fOKuxoknM"],
         "origVid": ["https://vimeo.com/5404394"],
         "speakers": [
@@ -2191,19 +2404,19 @@
     ]
   },
   {
-    "datetime": "2008-06-05T00:00:00+02:00",
+    "datetime": "2008-06-05T19:00:00",
     "season": 2009,
     "place": {"name": "Scotland Yard"},
     "num": 3
   },
   {
-    "datetime": "2008-04-12T00:00:00+02:00",
+    "datetime": "2008-04-12T19:00:00",
     "season": 2009,
     "place": {"name": "Exact"},
     "num": 2
   },
   {
-    "datetime": "2008-03-07T00:00:00+02:00",
+    "datetime": "2008-03-07T19:00:00",
     "season": 2009,
     "num": 1
   }
