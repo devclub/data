@@ -15,7 +15,7 @@
         "org": {"cam": "as", "edit": "as"},
         "lang": "ru",
         "labels": ["regulations", "estonia"],
-        "youtube": [""],
+        "youtube": ["pj8HekHA_Ek"],
         "speakers": [
           {
             "names": {"*": "Konstantin Root", "ru": "Константин Роот"},
@@ -84,7 +84,7 @@
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
       "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
     },
-    "photo": ["https://photos.app.goo.gl/dubNfYwYN9NBVsbw2"],
+    "photo": ["https://photos.app.goo.gl/dubNfYwYN9NBVsbw2", "https://photos.app.goo.gl/1BuMKtbz5v2u1YgJA"],
     "event": "https://www.eventbrite.com/e/110-tickets-39007785336",
     "org": {"mod": "ag", "photo": "kl"},
     "speeches": [
