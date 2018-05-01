@@ -1,5 +1,97 @@
 [
   {
+    "num": 117,
+    "datetime": "2018-05-30T19:00:00",
+    "season": 2018,
+    "place": {
+      "name": "Park Inn by Radisson Meriton Conference & Spa Hotel Tallinn", "loc": "https://goo.gl/maps/AJbuvwDS7co",
+      "addr": "Toompuiestee 27/Paldiski mnt 4, 10149 Tallinn", "url": "https://www.parkinn.com/hotel-meriton-tallinn"
+    },
+    "photo": [],
+    "org": {"mod": "tg", "photo": "kl"},
+    "speeches": []
+  },
+  {
+    "num": 116,
+    "datetime": "2018-04-19T19:00:00",
+    "season": 2018,
+    "place": {
+      "name": "Park Inn by Radisson Meriton Conference & Spa Hotel Tallinn", "loc": "https://goo.gl/maps/AJbuvwDS7co",
+      "addr": "Toompuiestee 27/Paldiski mnt 4, 10149 Tallinn", "url": "https://www.parkinn.com/hotel-meriton-tallinn"
+    },
+    "photo": ["https://photos.app.goo.gl/kJtaYQtDyvTpuJtA2"],
+    "event": "https://www.eventbrite.com/e/devclub116-tickets-45098633226"
+    "org": {"mod": "asv", "photo": "kl"},
+    "speeches": [
+      {
+        "org": {"cam": "gb", "edit": ""},
+        "lang": "ru",
+        "labels": ["tests", "qa"],
+        "youtube": [""],
+        "speakers": [
+          {
+            "names": {"*": "Sergei Chipiga", "ru": "Сергей Чипига"},
+            "titles": {"*": "Senior Automation Engineer @ Derivco Estonia"},
+            "url": "https://www.linkedin.com/in/sergei-chipiga-05b29661/",
+            "image": "schipiga.jpg"
+          }
+        ],
+        "titles": {"ru": "Машинная генерация тестовых сценариев: прогресс или заблуждение?"},
+        "descr": {
+          "ru": [
+            "В этом докладе я бы хотел рассказать о машинной генерации сценариев для тестирования, и почему считаю это серьезным шагом в автоматизации.",
+            "В свободное время я разработал проект https://github.com/glacejs/glace-testgen, который использую для генерирования функциональных тестов и проверки своего тестового фреймворка. Генератор принимает на вход список возможных действий в системе и выдает различные сценарии поведения для тестирования.",
+            "Презентация проекта вызвала неоднозначные отзывы, которыми бы я хотел поделиться. Надеюсь, что и у участников девклаба также возникнет интерес к обсуждению. Будет немного и про машинное обучение, но не нейронные сети, а цепи Маркова.",
+            "Расскажу о том, как я попытался использовать обучение на существующих тестах, для того чтобы генератор выдавал сценарии по степени \"важности\"."
+          ]
+        }
+      },
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "labels": [],
+        "youtube": [""],
+        "speakers": [
+          {
+            "names": {"*": "Igor Bossenko", "ru": "Игорь Босенко"},
+            "titles": {"*": "Solution Architect @ Kodality"},
+            "url": "https://ee.linkedin.com/in/igor-bossenko-17b7822",
+            "image": "ibossenko.jpg"
+          }
+        ],
+        "titles": {"ru": "Моделирование бизнес процессов в реальной жизни - миф или реальность"},
+        "descr": {
+          "ru": [
+            "Волею судьбы мне довелось стать специалистом в области бизнес-процессов (BPMN) и case-management (CMMN) и создать очень интересное решение поверх Flowable (форка Activity).",
+            "Для выбора BPMN-engine мне пришлось сделать сравнение разных свободных BPM-engine-ов доступных на рынке.",
+            "Я с удовольствием расскажу об BPM-engine-ах, зачем и как пользоваться BPMN & CMMN, покажу как создавать процесс и пользоваться Ангуляровским форм генератором. Так что в результате для создания процесса не требуется вмешательство программиста."
+          ]
+        }
+      },
+      ,
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "labels": [],
+        "youtube": [""],
+        "speakers": [
+          {
+            "names": {"*": "Viktor Kuryljov", "ru": "Виктор Курылёв"},
+            "titles": {"*": "Software Engineer @ I-SEPP OÜ"},
+            "url": "https://www.linkedin.com/in/viktor-kuroljov-3b9291110",
+            "image": "vkuryljov.jpg"
+          }
+        ],
+        "titles": {"*": "Statically typed JS was undefined"},
+        "descr": {
+          "ru": [
+            "Почему динамическая система типизации в JS это не преимущество (определение проблемы): как было бы хорошо; как уже можно (Flow как способ представить типы и решить проблему); кейсы; как начать."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "num": 115,
     "datetime": "2018-03-29T19:00:00",
     "season": 2018,
@@ -15,7 +107,7 @@
         "org": {"cam": "gb", "edit": ""},
         "lang": "ru",
         "labels": ["offtopic", "physics"],
-        "youtube": [""],
+        "youtube": ["1XYvlq6xoYc"],
         "speakers": [
           {
             "names": {"*": "Vladimir Goman", "ru": "Владимир Гоман"},
@@ -36,7 +128,7 @@
         "org": {"cam": "gb", "edit": ""},
         "lang": "ru",
         "labels": ["ci", "jenkins"],
-        "youtube": [""],
+        "youtube": ["4xbuI6hunUQ"],
         "speakers": [
           {
             "names": {"*": " Juri Timoshin", "ru": "Юрий Тимошин"},
@@ -56,7 +148,7 @@
         "org": {"cam": "gb", "edit": ""},
         "lang": "ru",
         "labels": ["ci", "jenkins"],
-        "youtube": [""],
+        "youtube": ["2I-PqhEIWlY"],
         "speakers": [
           {
             "names": {"*": " Juri Timoshin", "ru": "Юрий Тимошин"},
@@ -90,7 +182,7 @@
         "org": {"cam": "gb", "edit": ""},
         "lang": "ru",
         "labels": ["tests", "qa"],
-        "youtube": [""],
+        "youtube": ["0vpKJuSQH4Y"],
         "speakers": [
           {
             "names": {"*": "Aleksandr Gritsevski", "ru": "Александр Грицевский"},
@@ -188,7 +280,7 @@
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
         "labels": ["projects", "store", "etcd"],
-        "youtube": [""],
+        "youtube": ["lmN0hNyzJ9k"],
         "speakers": [
           {
             "names": {"*": "Anton Anikin", "ru": "Антон Аникин"},
