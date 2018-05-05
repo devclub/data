@@ -9,7 +9,69 @@
     },
     "photo": [],
     "org": {"mod": "tg", "photo": "kl"},
-    "speeches": []
+    "speeches": [
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "labels": [],
+        "youtube": [],
+        "speakers": [
+          {
+            "names": {"*": "Aleksandr Rudakov", "ru": "Александр Рудаков"},
+            "titles": {"*": "Developer @ Negative Space OÜ"},
+            "url": "https://www.linkedin.com/in/aleksandr-rudakov",
+            "image": "arudakov.jpeg"
+          }
+        ],
+        "titles": {"ru": "Кодогенерация в Python/Django приложениях"},
+        "descr": {
+          "ru": [
+            "Расскажу и покажу про кодо-генерацию в python/Django приложениях, в частности про Genius (https://genius-project.io/). Немножко live-кодинга. Расскажем про плюсы-минусы кодо-генерации, про кодо-генерацию в качестве практики переиспользования кода, психологические моменты, реальный опыт использования генератора для разработки клиентских приложений. Немножко сисек в конце: https://boober.express/en/ - расскажу как генератор помог на хакатоне быстренько нагенерить первоапрельскую шутку.",
+            "Уже когда-то выступал на dev-club'e от Modera Software - рассказывал про Enterprise php applications.\n\nСо-владелец небольшой (10 девелоперов) компании Negative Space, которая занимается разработкой клиентских проектов на Python/Django. А еще мы делаем кучу классных штуковин, про одну из которых, я и приду рассказывать."
+          ]
+        }
+      },
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "labels": [],
+        "youtube": [],
+        "speakers": [
+          {
+            "names": {"*": "Dmitri Tuchs", "ru": "Дмитрий Тучс"},
+            "titles": {"ru": "Гуру автотестов @ Питерский R&D центр PropellerAds"},
+            "url": "https://www.linkedin.com/in/dtuchs",
+            "image": "dtuchs.png"
+          }
+        ],
+        "titles": {"ru": "JUnit 5 + DDT: Что такое осень?"},
+        "descr": {
+          "ru": [
+            "Поговорим о том, что такое Data Driven Testing и почему JUnit 5 и DDT созданы друг для друга. Тема может быть интересна и разработчикам, особенно тем, кто по какой-то причине ещё не перешел на JUnit 5. Это не будет про MS Excel и прочую лабуду, которую можно встретить в статьях про Data Driven Testing."
+          ]
+        }
+      },
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "labels": [],
+        "youtube": [],
+        "speakers": [
+          {
+            "names": {"*": "Andrei Solntsev", "ru": "Андрей Солнцев"},
+            "titles": {"*": "Developer @ Codeborne"},
+            "url": "https://ee.linkedin.com/in/asolntsev",
+            "image": "asolntsev.jpg"
+          }
+        ],
+        "titles": {"*": "WTF Security"},
+        "descr": {
+          "ru": [
+            "WTF возвращается! Поговорим о безопасности веб-приложений. Но здесь не будет скучных списков OWASP. Не будет sql-инъекций. Здесь будет коллекция реальных примеров из жизни. В этих примерах зияющие дырки оставляли даже специалисты, которые считали, что уж они-то знают толк в безопасности. Чем больше ты узнаёшь о безопасности, тем страшнее тебе становится..."
+          ]
+        }
+      }
+    ]
   },
   {
     "num": 116,
@@ -27,7 +89,7 @@
         "org": {"cam": "gb", "edit": ""},
         "lang": "ru",
         "labels": ["tests", "qa"],
-        "youtube": [""],
+        "youtube": ["5oLYUH0sXc8"],
         "speakers": [
           {
             "names": {"*": "Sergei Chipiga", "ru": "Сергей Чипига"},
@@ -73,7 +135,7 @@
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
         "labels": [],
-        "youtube": [""],
+        "youtube": ["jTU_Fpz4zeM"],
         "speakers": [
           {
             "names": {"*": "Viktor Kuryljov", "ru": "Виктор Курылёв"},
@@ -203,7 +265,7 @@
         "org": {"cam": "gb", "edit": ""},
         "lang": "ru",
         "labels": ["tests", "qa"],
-        "youtube": [""],
+        "youtube": ["qubgs3GEMks"],
         "speakers": [
           {
             "names": {"*": "Sergei Chipiga", "ru": "Сергей Чипига"},
@@ -260,7 +322,7 @@
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
         "labels": ["projects", "estonia"],
-        "youtube": [""],
+        "youtube": ["lsKYFkprPY0"],
         "speakers": [
           {
             "names": {"*": "Igor Bossenko", "ru": "Игорь Босенко"},
