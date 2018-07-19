@@ -1,5 +1,31 @@
 [
   {
+    "num": 119,
+    "datetime": "2018-07-26T19:00:00",
+    "season": 2018,
+    "place": {
+      "name": "Park Inn by Radisson Meriton Conference & Spa Hotel Tallinn", "loc": "https://goo.gl/maps/AJbuvwDS7co",
+      "addr": "Toompuiestee 27/Paldiski mnt 4, 10149 Tallinn", "url": "https://www.parkinn.com/hotel-meriton-tallinn"
+    },
+    "photo": [],
+    "org": {"mod": "ew", "photo": "kl"},
+    "speeches": [
+    ]
+  },
+  {
+    "num": 118,
+    "datetime": "2018-06-28T19:00:00",
+    "season": 2018,
+    "place": {
+      "name": "Park Inn by Radisson Meriton Conference & Spa Hotel Tallinn", "loc": "https://goo.gl/maps/AJbuvwDS7co",
+      "addr": "Toompuiestee 27/Paldiski mnt 4, 10149 Tallinn", "url": "https://www.parkinn.com/hotel-meriton-tallinn"
+    },
+    "photo": [],
+    "org": {"mod": "ag", "photo": "kl"},
+    "speeches": [
+    ]
+  },
+  {
     "num": 117,
     "datetime": "2018-05-30T19:00:00",
     "season": 2018,
