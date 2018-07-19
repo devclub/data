@@ -3,12 +3,12 @@
   "navbarStyle": {"background": "#61441a"},
   "footerStyle": {"background": "#61441a"},
   "devclubText": "DEVCLUB.EU",
-  "devclubMenuUrl": "https://devclub.ee",
+  "devclubMenuUrl": "http://devclub.ee",
   "devclubMenuText": "DEVCLUB.EE",
-  "personUrlPrefix": "https://devclub.github.io/data/persons",
+  "personUrlPrefix": "http://data.devclub.eu/persons",
   "personDefaultImage": "nophoto.png",
-  "fileUrlPrefix": "https://devclub.github.io/fileserver/files",
-  "photoUrlPrefix": "https://devclub.github.io/data/photos",
+  "fileUrlPrefix": "http://fileserver.devclub.eu/files",
+  "photoUrlPrefix": "http://data.devclub.eu/photos",
   "photos": [
     [
       {"main": "about-org-2016.jpg", "small": "about-org-2016_sm.jpg", "texts": {"*": "ORG 2016"}},
@@ -19,21 +19,21 @@
     ]
   ],
   "meetingsUrls": {
-    "main": "https://devclub.github.io/data/eu_meetings_latest.json",
+    "main": "http://data.devclub.eu/eu_meetings_latest.json",
     "archive": [
-      "https://devclub.github.io/data/eu_meetings_2015-2017_076-111.json",
-      "https://devclub.github.io/data/eu_meetings_2012-2014_040-075.json",
-      "https://devclub.github.io/data/eu_meetings_2008-2011_001-039.json"
+      "http://data.devclub.eu/eu_meetings_2015-2017_076-111.json",
+      "http://data.devclub.eu/eu_meetings_2012-2014_040-075.json",
+      "http://data.devclub.eu/eu_meetings_2008-2011_001-039.json"
     ]
   },
-  "seminarsUrl": "https://devclub.github.io/data/data_seminars.json",
+  "seminarsUrl": "http://data.devclub.eu/data_seminars.json",
   "finances": {
-    "dataUrl": "https://devclub.github.io/data/data_finances.json",
-    "logoUrlPrefix": "https://devclub.github.io/data/finances"
+    "dataUrl": "http://data.devclub.eu/data_finances.json",
+    "logoUrlPrefix": "http://data.devclub.eu/finances"
   },
   "team": {
-    "dataUrl": "https://devclub.github.io/data/data_team.json",
-    "personUrlPrefix": "https://devclub.github.io/data/persons"
+    "dataUrl": "http://data.devclub.eu/data_team.json",
+    "personUrlPrefix": "http://data.devclub.eu/persons"
   },
   "blogUrl": "http://blog.devclub.eu",
   "hasTop": true
