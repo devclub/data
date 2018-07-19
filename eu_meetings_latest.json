@@ -61,7 +61,7 @@
             "names": {"*": "Anton Arhipov", "ru": "Антон Архипов"},
             "titles": {"*": "Developer Advocate @ JetBrains"},
             "url": "https://ee.linkedin.com/in/antonarhipov",
-            "image": "aarhipov.jpeg"
+            "image": "aarhipov.jpg"
           }
         ],
         "titles": {"ru": "Build pipelines: приключения в конвейере TeamCity"},
@@ -84,6 +84,67 @@
     "photo": [],
     "org": {"mod": "ag", "photo": "kl"},
     "speeches": [
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "labels": [],
+        "youtube": [],
+        "speakers": [
+          {
+            "names": {"*": "Ervin Weber", "ru": "Эрвин Вебер "},
+            "titles": {"ru": "System Administrator @ Toggl"},
+            "url": "https://ee.linkedin.com/in/webervin",
+            "image": "eweber_2018.jpeg"
+          }
+        ],
+        "titles": {"ru": "Куда уходит почта…"},
+        "descr": {
+          "ru": [
+            "Поговорим о том, как и куда идут эмейлы и как на это влиять, о том, как отправлять спам грамотно. Как то незаметно toggl.com вырос до «отправляем более 1М писем в месяц». Докладчик расскажет о том, что пришлось «подкрутить» его коллегам и чему они научились.",
+            "Поговорим: не про контент который продается; не про отправку писем знакомым людям; не про SSL (и прочие туннели); не про корпоративную почту, куда нельзя писать извне; не про блокчейн."
+          ]
+        }
+      },
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "labels": [],
+        "youtube": [],
+        "speakers": [
+          {
+            "names": {"*": "Artur Peka", "ru": "Артур Пека"},
+            "titles": {"*": "Senior Web Developer"},
+            "url": "https://www.linkedin.com/in/arthur-peka",
+            "image": "apeka.jpeg"
+          }
+        ],
+        "titles": {"ru": "Введение в Web Assembly"},
+        "descr": {
+          "ru": [
+            "Докладчик расскажет о том, зачем нужен язык web assembly (https://developer.mozilla.org/en-US/docs/WebAssembly) и где его уже можно использовать: путь от Javascript до Web Assembly; возможно ли современное веб приложение без Javascript?; примеры - код на С, C# и Rust в браузере на клиенте."
+          ]
+        }
+      },
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "labels": [],
+        "youtube": [],
+        "speakers": [
+          {
+            "names": {"*": "Roman Ring", "ru": "Роман Ринг "},
+            "titles": {"*": "Бывший сеньор веб дев, сбежавший в мир академиков"},
+            "url": "https://github.com/inoryy",
+            "image": "rring.jpeg"
+          }
+        ],
+        "titles": {"ru": "Как я бота в StarСraft II играть учил."},
+        "descr": {
+          "ru": [
+            "....или Deep Reinforcement Learning. Речь пойдёт про искусственный интеллект и хайп вокруг него. Углубимся детальнее в одно многообещающее направление ИИ - обучение с подкреплением. Разберём самые популярные примеры из жизни и как отличить хайп журналистов от настоящих достижений. В заключение рассмотрим как все это дело применяется в современной среде StarCraft II. Для затравки рекомендуется посмотреть доклад Кости Третьякова \"Дип Лёрнинг\"."
+          ]
+        }
+      }
     ]
   },
   {
