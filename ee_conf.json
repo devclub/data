@@ -3,12 +3,12 @@
   "navbarStyle": {"background": "#314f6a"},
   "footerStyle": {"background": "#314f6a"},
   "devclubText": "DEVCLUB.EE",
-  "devclubMenuUrl": "https://devclub.eu",
+  "devclubMenuUrl": "http://devclub.eu",
   "devclubMenuText": "DEVCLUB.EU",
-  "personUrlPrefix": "https://devclub.github.io/data/persons",
+  "personUrlPrefix": "http://data.devclub.eu/persons",
   "personDefaultImage": "nophoto.png",
-  "fileUrlPrefix": "https://devclub.github.io/fileserver/files",
-  "photoUrlPrefix": "https://devclub.github.io/data/photos",
+  "fileUrlPrefix": "http://fileserver.devclub.eu/files",
+  "photoUrlPrefix": "http://data.devclub.eu/photos",
   "photos": [
     [
       {"main": "about-org-2016.jpg", "small": "about-org-2016_sm.jpg", "texts": {"*": "ORG 2016"}},
@@ -19,20 +19,20 @@
     ]
   ],
   "meetingsUrls": {
-    "main": "https://devclub.github.io/data/ee_meetings_latest.json",
+    "main": "http://data.devclub.eu/ee_meetings_latest.json",
     "archive": [
-      "https://devclub.github.io/data/ee_meetings_2016-2017_043-054.json",
-      "https://devclub.github.io/data/ee_meetings_2011-2015_001-042.json"
+      "http://data.devclub.eu/ee_meetings_2016-2017_043-054.json",
+      "http://data.devclub.eu/ee_meetings_2011-2015_001-042.json"
     ]
   },
-  "seminarsUrl": "https://devclub.github.io/data/data_seminars.json",
+  "seminarsUrl": "http://data.devclub.eu/data_seminars.json",
   "finances": {
-    "dataUrl": "https://devclub.github.io/data/data_finances.json",
-    "logoUrlPrefix": "https://devclub.github.io/data/finances"
+    "dataUrl": "http://data.devclub.eu/data_finances.json",
+    "logoUrlPrefix": "http://data.devclub.eu/finances"
   },
   "team": {
-    "dataUrl": "https://devclub.github.io/data/data_team.json",
-    "personUrlPrefix": "https://devclub.github.io/data/persons"
+    "dataUrl": "http://data.devclub.eu/data_team.json",
+    "personUrlPrefix": "http://data.devclub.eu/persons"
   },
   "blogUrl": "http://blog.devclub.ee",
   "hasTop": false
