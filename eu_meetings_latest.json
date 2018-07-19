@@ -8,6 +8,7 @@
       "addr": "Toompuiestee 27/Paldiski mnt 4, 10149 Tallinn", "url": "https://www.parkinn.com/hotel-meriton-tallinn"
     },
     "photo": [],
+    "event": "https://www.eventbrite.com/e/devclub-119-tickets-48212928166",
     "org": {"mod": "ew", "photo": "kl"},
     "speeches": [
       {
@@ -81,7 +82,8 @@
       "name": "Park Inn by Radisson Meriton Conference & Spa Hotel Tallinn", "loc": "https://goo.gl/maps/AJbuvwDS7co",
       "addr": "Toompuiestee 27/Paldiski mnt 4, 10149 Tallinn", "url": "https://www.parkinn.com/hotel-meriton-tallinn"
     },
-    "photo": [],
+    "photo": ["https://photos.app.goo.gl/EoiLBWEvUHs5pyye8"],
+    "event": "https://www.eventbrite.com/e/devclub118-tickets-47262295799",
     "org": {"mod": "ag", "photo": "kl"},
     "speeches": [
       {
@@ -92,7 +94,7 @@
         "speakers": [
           {
             "names": {"*": "Ervin Weber", "ru": "Эрвин Вебер "},
-            "titles": {"ru": "System Administrator @ Toggl"},
+            "titles": {"*": "System Administrator @ Toggl"},
             "url": "https://ee.linkedin.com/in/webervin",
             "image": "eweber_2018.jpeg"
           }
@@ -133,15 +135,15 @@
         "speakers": [
           {
             "names": {"*": "Roman Ring", "ru": "Роман Ринг "},
-            "titles": {"*": "Бывший сеньор веб дев, сбежавший в мир академиков"},
+            "titles": {"ru": "Бывший сеньор веб дев, сбежавший в мир академиков"},
             "url": "https://github.com/inoryy",
             "image": "rring.jpeg"
           }
         ],
-        "titles": {"ru": "Как я бота в StarСraft II играть учил."},
+        "titles": {"ru": "Как я бота в StarСraft II играть учил..."},
         "descr": {
           "ru": [
-            "....или Deep Reinforcement Learning. Речь пойдёт про искусственный интеллект и хайп вокруг него. Углубимся детальнее в одно многообещающее направление ИИ - обучение с подкреплением. Разберём самые популярные примеры из жизни и как отличить хайп журналистов от настоящих достижений. В заключение рассмотрим как все это дело применяется в современной среде StarCraft II. Для затравки рекомендуется посмотреть доклад Кости Третьякова \"Дип Лёрнинг\"."
+            "... или Deep Reinforcement Learning. Речь пойдёт про искусственный интеллект и хайп вокруг него. Углубимся детальнее в одно многообещающее направление ИИ - обучение с подкреплением. Разберём самые популярные примеры из жизни и как отличить хайп журналистов от настоящих достижений. В заключение рассмотрим как все это дело применяется в современной среде StarCraft II. Для затравки рекомендуется посмотреть доклад Кости Третьякова \"Дип Лёрнинг\"."
           ]
         }
       }
@@ -155,14 +157,15 @@
       "name": "Park Inn by Radisson Meriton Conference & Spa Hotel Tallinn", "loc": "https://goo.gl/maps/AJbuvwDS7co",
       "addr": "Toompuiestee 27/Paldiski mnt 4, 10149 Tallinn", "url": "https://www.parkinn.com/hotel-meriton-tallinn"
     },
-    "photo": [],
+    "photo": ["https://photos.app.goo.gl/OVlG3k4fcciBxIn82"],
+    "event": "https://www.eventbrite.com/e/devclub117-tickets-46397386833",
     "org": {"mod": "tg", "photo": "kl"},
     "speeches": [
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
-        "labels": [],
-        "youtube": [],
+        "labels": ["python", "django", "code generation"],
+        "youtube": ["kR2ukkzMT8U"],
         "speakers": [
           {
             "names": {"*": "Aleksandr Rudakov", "ru": "Александр Рудаков"},
@@ -175,14 +178,14 @@
         "descr": {
           "ru": [
             "Расскажу и покажу про кодо-генерацию в python/Django приложениях, в частности про Genius (https://genius-project.io/). Немножко live-кодинга. Расскажем про плюсы-минусы кодо-генерации, про кодо-генерацию в качестве практики переиспользования кода, психологические моменты, реальный опыт использования генератора для разработки клиентских приложений. Немножко сисек в конце: https://boober.express/en/ - расскажу как генератор помог на хакатоне быстренько нагенерить первоапрельскую шутку.",
-            "Уже когда-то выступал на dev-club'e от Modera Software - рассказывал про Enterprise php applications.\n\nСо-владелец небольшой (10 девелоперов) компании Negative Space, которая занимается разработкой клиентских проектов на Python/Django. А еще мы делаем кучу классных штуковин, про одну из которых, я и приду рассказывать."
+            "Уже когда-то выступал на Devclub от Modera Software - рассказывал про Enterprise php applications. Со-владелец небольшой (10 девелоперов) компании Negative Space, которая занимается разработкой клиентских проектов на Python/Django. А еще мы делаем кучу классных штуковин, про одну из которых, я и приду рассказывать."
           ]
         }
       },
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
-        "labels": [],
+        "labels": ["test", "qa", "junit", "ddt"],
         "youtube": [],
         "speakers": [
           {
@@ -202,8 +205,8 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
-        "labels": [],
-        "youtube": [],
+        "labels": ["security", "web", "injections", "http", "headers"],
+        "youtube": ["z-aEjd22BGU"],
         "speakers": [
           {
             "names": {"*": "Andrei Solntsev", "ru": "Андрей Солнцев"},
@@ -260,7 +263,7 @@
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
         "labels": [],
-        "youtube": [""],
+        "youtube": ["SJ_k_PQcGYs"],
         "speakers": [
           {
             "names": {"*": "Igor Bossenko", "ru": "Игорь Босенко"},
