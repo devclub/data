@@ -1,0 +1,39 @@
+{
+  "defaultLang": "en",
+  "navbarStyle": {"background": "#314f6a"},
+  "footerStyle": {"background": "#314f6a"},
+  "devclubText": "DEVCLUB.EE",
+  "devclubMenuUrl": "https://devclub.eu",
+  "devclubMenuText": "DEVCLUB.EU",
+  "personUrlPrefix": "https://devclub.github.io/data/persons",
+  "personDefaultImage": "nophoto.png",
+  "fileUrlPrefix": "https://devclub.github.io/fileserver/files",
+  "photoUrlPrefix": "https://devclub.github.io/data/photos",
+  "photos": [
+    [
+      {"main": "about-org-2016.jpg", "small": "about-org-2016_sm.jpg", "texts": {"*": "ORG 2016"}},
+      {"main": "about-2016-1.jpg", "small": "about-2016-1_sm.jpg", "texts": {"*": "HISTORY (1)", "ru": "ИСТОРИЯ (1)"}},
+      {"main": "about-2016-2.jpg", "small": "about-2016-2_sm.jpg", "texts": {"*": "HISTORY (2)", "ru": "ИСТОРИЯ (2)"}},
+      {"main": "about-kuksenko.jpg", "small": "about-kuksenko_sm.jpg", "texts": {"*": "KUKSENKO", "ru": "КУКСЕНКО"}},
+      {"main": "about-torts.jpg", "small": "about-torts_sm.jpg", "texts": {"*": "TORTS", "ru": "ТОРТЫ"}}
+    ]
+  ],
+  "meetingsUrls": {
+    "main": "https://devclub.github.io/data/ee_meetings_latest.json",
+    "archive": [
+      "https://devclub.github.io/data/ee_meetings_2016-2017_043-054.json",
+      "https://devclub.github.io/data/ee_meetings_2011-2015_001-042.json"
+    ]
+  },
+  "seminarsUrl": "https://devclub.github.io/data/data_seminars.json",
+  "finances": {
+    "dataUrl": "https://devclub.github.io/data/data_finances.json",
+    "logoUrlPrefix": "https://devclub.github.io/data/finances"
+  },
+  "team": {
+    "dataUrl": "https://devclub.github.io/data/data_team.json",
+    "personUrlPrefix": "https://devclub.github.io/data/persons"
+  },
+  "blogUrl": "http://blog.devclub.ee",
+  "hasTop": false
+}
