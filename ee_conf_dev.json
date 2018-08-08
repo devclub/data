@@ -34,6 +34,6 @@
     "dataUrl": "https://devclub.github.io/data/data_team.json",
     "personUrlPrefix": "https://devclub.github.io/data/persons"
   },
-  "blogUrl": "http://blog.devclub.ee",
+  "blogUrl": "https://blog.devclub.ee",
   "hasTop": false
 }
