@@ -3,12 +3,12 @@
   "navbarStyle": {"background": "#61441a"},
   "footerStyle": {"background": "#61441a"},
   "devclubText": "DEVCLUB.EU",
-  "devclubMenuUrl": "http://devclub.ee",
+  "devclubMenuUrl": "https://devclub.ee",
   "devclubMenuText": "DEVCLUB.EE",
-  "personUrlPrefix": "http://data.devclub.eu/persons",
+  "personUrlPrefix": "https://data.devclub.eu/persons",
   "personDefaultImage": "nophoto.png",
-  "fileUrlPrefix": "http://fileserver.devclub.eu/files",
-  "photoUrlPrefix": "http://data.devclub.eu/photos",
+  "fileUrlPrefix": "https://fileserver.devclub.eu/files",
+  "photoUrlPrefix": "https://data.devclub.eu/photos",
   "photos": [
     [
       {"main": "about-org-2016.jpg", "small": "about-org-2016_sm.jpg", "texts": {"*": "ORG 2016"}},
@@ -19,22 +19,22 @@
     ]
   ],
   "meetingsUrls": {
-    "main": "http://data.devclub.eu/eu_meetings_latest.json",
+    "main": "https://data.devclub.eu/eu_meetings_latest.json",
     "archive": [
-      "http://data.devclub.eu/eu_meetings_2015-2017_076-111.json",
-      "http://data.devclub.eu/eu_meetings_2012-2014_040-075.json",
-      "http://data.devclub.eu/eu_meetings_2008-2011_001-039.json"
+      "https://data.devclub.eu/eu_meetings_2015-2017_076-111.json",
+      "https://data.devclub.eu/eu_meetings_2012-2014_040-075.json",
+      "https://data.devclub.eu/eu_meetings_2008-2011_001-039.json"
     ]
   },
-  "seminarsUrl": "http://data.devclub.eu/data_seminars.json",
+  "seminarsUrl": "https://data.devclub.eu/data_seminars.json",
   "finances": {
-    "dataUrl": "http://data.devclub.eu/data_finances.json",
-    "logoUrlPrefix": "http://data.devclub.eu/finances"
+    "dataUrl": "https://data.devclub.eu/data_finances.json",
+    "logoUrlPrefix": "https://data.devclub.eu/finances"
   },
   "team": {
-    "dataUrl": "http://data.devclub.eu/data_team.json",
-    "personUrlPrefix": "http://data.devclub.eu/persons"
+    "dataUrl": "https://data.devclub.eu/data_team.json",
+    "personUrlPrefix": "https://data.devclub.eu/persons"
   },
-  "blogUrl": "http://blog.devclub.eu",
+  "blogUrl": "https://blog.devclub.eu",
   "hasTop": true
 }
