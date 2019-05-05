@@ -5,6 +5,7 @@
   "devclubText": "DEVCLUB.EU",
   "devclubMenuUrl": "https://devclub.ee",
   "devclubMenuText": "DEVCLUB.EE",
+  "googleApiKey": "AIzaSyCHfeG8ZRJjSh7dC9rzOfzqGUqC4_gDrHw",
   "personUrlPrefix": "https://devclub.github.io/data/persons",
   "personDefaultImage": "nophoto.png",
   "fileUrlPrefix": "https://devclub.github.io/fileserver/files",
@@ -34,6 +35,43 @@
   "team": {
     "dataUrl": "https://devclub.github.io/data/data_team.json",
     "personUrlPrefix": "https://devclub.github.io/data/persons"
+  },
+  "resources": {
+    "main": {
+      "mail": "info@devclub.eu",
+      "youtubeChannelId": "UCLq7vcHtwDtx4m9ZUrgxEBA",
+      "site": "http://devclub.eu",
+      "facebookPageId": "devclub.ee",
+      "facebookGroupId": "devclub.eu",
+      "blog": "http://blog.devclub.eu",
+      "blogFeed": "http://blog.devclub.eu/feed",
+      "googlegroup": "https://groups.google.com/forum/#!forum/devclub-eu",
+      "github": "https://github.com/devclub"
+    },
+    "extra": [
+      {
+        "title": "DEVCLUB.EU",
+        "youtubeChannelId": "UC9lRNfzenw_7MVmDPFyRFjQ",
+        "facebookPageId": "devclub.ee",
+        "facebookGroupId": "902165766655283",
+        "blog": "http://blog.devclub.ee",
+        "blogFeed": "http://blog.devclub.ee/feed",
+        "twitter": "https://twitter.com/devclubs"
+      },
+      {
+        "title": "DEVCLUB.LV",
+        "mail": "info@devclub.lv",
+        "youtubeChannelId": "UCyCCNFXxxW7_ed20UdcYywQ",
+        "site": "http://devclub.lv",
+        "flickr": "https://www.flickr.com/photos/88054423@N06/sets",
+        "facebookPageId": "DevClubLV",
+        "blog": "http://blog.devclub.eu",
+        "blogFeed": "http://blog.devclub.eu/feed",
+        "googlegroup": "https://groups.google.com/forum/#!forum/devclub-eu",
+        "googlecalendar": "https://calendar.google.com/calendar/embed?src=m84uql4ktbptludngkgtfbdvl0%40group.calendar.google.com&ctz=Europe%2FTallinn",
+        "twitter": "https://twitter.com/DevClub_lv"
+      }
+    ]
   },
   "blogUrl": "http://blog.devclub.eu",
   "hasTop": true
