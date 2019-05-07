@@ -45,12 +45,13 @@
       "facebookGroupId": "devclub.eu",
       "blog": "http://blog.devclub.eu",
       "blogFeed": "http://blog.devclub.eu/feed",
+      "googlecalendar": "https://calendar.google.com/calendar/embed?src=fmju94mnjv0a5s70hat38evqm8%40group.calendar.google.com&ctz=Europe%2FTallinn",
       "googlegroup": "https://groups.google.com/forum/#!forum/devclub-eu",
       "github": "https://github.com/devclub"
     },
     "extra": [
       {
-        "title": "DEVCLUB.EU",
+        "title": "DEVCLUB.EE",
         "youtubeChannelId": "UC9lRNfzenw_7MVmDPFyRFjQ",
         "facebookPageId": "devclub.ee",
         "facebookGroupId": "902165766655283",
