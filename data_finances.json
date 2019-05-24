@@ -7,6 +7,11 @@
   ],
   "companies": [
     {
+      "name": "Playtech",
+      "logo": "playtech.png",
+      "url": "http://www.playtech.ee/?nav=karjaar&lang=en"
+    },
+    {
       "name": "Neotech",
       "logo": "neotech.png",
       "url": "https://www.neotech.ee/career/"
