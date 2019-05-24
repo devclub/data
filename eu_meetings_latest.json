@@ -18,13 +18,13 @@
         "youtube": [],
         "speakers": [
           {
-            "names": {"*": "", "ru": ""},
+            "names": {"*": "", "ru": "Александр Тавген"},
             "titles": {"*": ""},
             "url": "",
             "image": ""
           }
         ],
-        "titles": {"ru": ""},
+        "titles": {"*": "Reactive and functional approaches"},
         "descr": {
           "ru": [
             ""
@@ -38,13 +38,13 @@
         "youtube": [],
         "speakers": [
           {
-            "names": {"*": "", "ru": ""},
+            "names": {"*": "", "ru": "Эрвин Вебер"},
             "titles": {"*": ""},
             "url": "",
             "image": ""
           }
         ],
-        "titles": {"ru": ""},
+        "titles": {"ru": "BeyondCorp: Есть ли жизнь после VPN?"},
         "descr": {
           "ru": [
             ""
@@ -58,13 +58,13 @@
         "youtube": [],
         "speakers": [
           {
-            "names": {"*": "", "ru": ""},
+            "names": {"*": "Igor Bossenko", "ru": ""},
             "titles": {"*": ""},
             "url": "",
             "image": ""
           }
         ],
-        "titles": {"ru": ""},
+        "titles": {"ru": "Пошкодим в PG"},
         "descr": {
           "ru": [
             ""
@@ -92,13 +92,13 @@
         "youtube": [],
         "speakers": [
           {
-            "names": {"*": "", "ru": ""},
+            "names": {"*": "", "ru": "Евгений Голобородько"},
             "titles": {"*": ""},
             "url": "",
             "image": ""
           }
         ],
-        "titles": {"ru": ""},
+        "titles": {"*": "Rule your cluster with Kubernetes"},
         "descr": {
           "ru": [
             ""
@@ -112,13 +112,13 @@
         "youtube": [],
         "speakers": [
           {
-            "names": {"*": "", "ru": ""},
+            "names": {"*": "", "ru": "Михаил Раер"},
             "titles": {"*": ""},
             "url": "",
             "image": ""
           }
         ],
-        "titles": {"ru": ""},
+        "titles": {"ru": "Azure Active Directory и используемые в ней токены"},
         "descr": {
           "ru": [
             ""
@@ -132,13 +132,13 @@
         "youtube": [],
         "speakers": [
           {
-            "names": {"*": "", "ru": ""},
+            "names": {"*": "", "ru": "Андрей Солнцев"},
             "titles": {"*": ""},
             "url": "",
             "image": ""
           }
         ],
-        "titles": {"ru": ""},
+        "titles": {"*": "Flaky tests (2)"},
         "descr": {
           "ru": [
             ""
@@ -166,13 +166,13 @@
         "youtube": [],
         "speakers": [
           {
-            "names": {"*": "", "ru": ""},
+            "names": {"*": "", "ru": "Алексей Михайлов"},
             "titles": {"*": ""},
             "url": "",
             "image": ""
           }
         ],
-        "titles": {"ru": ""},
+        "titles": {"ru": "Темпоральные таблицы в PostgreSQL"},
         "descr": {
           "ru": [
             ""
@@ -186,13 +186,13 @@
         "youtube": [],
         "speakers": [
           {
-            "names": {"*": "", "ru": ""},
+            "names": {"*": "", "ru": "Никита Сальников-Тарновский"},
             "titles": {"*": ""},
             "url": "",
             "image": ""
           }
         ],
-        "titles": {"ru": ""},
+        "titles": {"*": "Streaming architecture - beyond mere code"},
         "descr": {
           "ru": [
             ""
@@ -206,13 +206,13 @@
         "youtube": [],
         "speakers": [
           {
-            "names": {"*": "", "ru": ""},
+            "names": {"*": "", "ru": "Сергей Лабутин"},
             "titles": {"*": ""},
             "url": "",
             "image": ""
           }
         ],
-        "titles": {"ru": ""},
+        "titles": {"ru": "Блокчейн и игры - на пороге новой индустрии"},
         "descr": {
           "ru": [
             ""
@@ -237,16 +237,16 @@
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
         "labels": [],
-        "youtube": [],
+        "youtube": ["ZJPFFjfZKDg"],
         "speakers": [
           {
-            "names": {"*": "", "ru": ""},
+            "names": {"*": "", "ru": "Алексей Фёдоров"},
             "titles": {"*": ""},
             "url": "",
             "image": ""
           }
         ],
-        "titles": {"ru": ""},
+        "titles": {"ru": "Оборудование для конференций и митапов: видео, звук, свет, трансляция"},
         "descr": {
           "ru": [
             ""
@@ -257,16 +257,16 @@
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
         "labels": [],
-        "youtube": [],
+        "youtube": ["e7pBN15XmPk"],
         "speakers": [
           {
-            "names": {"*": "", "ru": ""},
+            "names": {"*": "", "ru": "Руслан Ахметзянов"},
             "titles": {"*": ""},
             "url": "",
             "image": ""
           }
         ],
-        "titles": {"ru": ""},
+        "titles": {"ru": "Имеющий уши да улучшит: работаем с фидбэком правильно"},
         "descr": {
           "ru": [
             ""
@@ -277,16 +277,16 @@
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
         "labels": [],
-        "youtube": [],
+        "youtube": ["LuLBL-DHTAQ"],
         "speakers": [
           {
-            "names": {"*": "", "ru": ""},
+            "names": {"*": "", "ru": "Дмитрий Тучс"},
             "titles": {"*": ""},
             "url": "",
             "image": ""
           }
         ],
-        "titles": {"ru": ""},
+        "titles": {"ru": "Jupiter - параллельная реальность"},
         "descr": {
           "ru": [
             ""
@@ -311,16 +311,36 @@
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
         "labels": [],
-        "youtube": [],
+        "youtube": ["hatWHIg_U2Q"],
         "speakers": [
           {
-            "names": {"*": "", "ru": ""},
+            "names": {"*": "", "ru": "Роман Захаров"},
             "titles": {"*": ""},
             "url": "",
             "image": ""
           }
         ],
-        "titles": {"ru": ""},
+        "titles": {"ru": "Плохой программист или плохой процесс?"},
+        "descr": {
+          "ru": [
+            ""
+          ]
+        }
+      },
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "labels": [],
+        "youtube": ["fmEFNFMSYP4"],
+        "speakers": [
+          {
+            "names": {"*": "", "ru": "Дмитрий Коробцов"},
+            "titles": {"*": ""},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"ru": "Чем тестировать API? Ускоряем end-to-end тесты."},
         "descr": {
           "ru": [
             ""
@@ -334,33 +354,13 @@
         "youtube": [],
         "speakers": [
           {
-            "names": {"*": "", "ru": ""},
+            "names": {"*": "", "ru": "Евгений Голобородько"},
             "titles": {"*": ""},
             "url": "",
             "image": ""
           }
         ],
-        "titles": {"ru": ""},
-        "descr": {
-          "ru": [
-            ""
-          ]
-        }
-      },
-      {
-        "org": {"cam": "", "edit": ""},
-        "lang": "ru",
-        "labels": [],
-        "youtube": [],
-        "speakers": [
-          {
-            "names": {"*": "", "ru": ""},
-            "titles": {"*": ""},
-            "url": "",
-            "image": ""
-          }
-        ],
-        "titles": {"ru": ""},
+        "titles": {"ru": "Что меня бесит в Java"},
         "descr": {
           "ru": [
             ""
@@ -385,16 +385,36 @@
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
         "labels": [],
-        "youtube": [],
+        "youtube": ["TSPyp1zmLSo"],
         "speakers": [
           {
-            "names": {"*": "", "ru": ""},
+            "names": {"*": "", "ru": "Андрей Скоморохов"},
             "titles": {"*": ""},
             "url": "",
             "image": ""
           }
         ],
-        "titles": {"ru": ""},
+        "titles": {"ru": "Как начать тестировать и не полысеть"},
+        "descr": {
+          "ru": [
+            ""
+          ]
+        }
+      },
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "labels": [],
+        "youtube": ["IYilFQN65-Y"],
+        "speakers": [
+          {
+            "names": {"*": "", "ru": "Александр Тавген"},
+            "titles": {"*": ""},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"ru": "Как соединить Java, Js и графы с искусством, или история о том, как создавался интерактивный театр"},
         "descr": {
           "ru": [
             ""
@@ -408,13 +428,13 @@
         "youtube": [],
         "speakers": [
           {
-            "names": {"*": "", "ru": ""},
+            "names": {"*": "", "ru": "Ольга Линник"},
             "titles": {"*": ""},
             "url": "",
             "image": ""
           }
         ],
-        "titles": {"ru": ""},
+        "titles": {"ru": "Как ветерана знакомств на тиндере забанили"},
         "descr": {
           "ru": [
             ""
@@ -425,16 +445,16 @@
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
         "labels": [],
-        "youtube": [],
+        "youtube": ["aVByzVR57yo"],
         "speakers": [
           {
-            "names": {"*": "", "ru": ""},
+            "names": {"*": "Alex Inside"},
             "titles": {"*": ""},
             "url": "",
             "image": ""
           }
         ],
-        "titles": {"ru": ""},
+        "titles": {"ru": "Что за биохакинг?"},
         "descr": {
           "ru": [
             ""
@@ -459,16 +479,16 @@
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
         "labels": [],
-        "youtube": [],
+        "youtube": ["UiP3ctCuS0U"],
         "speakers": [
           {
-            "names": {"*": "", "ru": ""},
+            "names": {"*": "", "ru": "Константин Золотарев"},
             "titles": {"*": ""},
             "url": "",
             "image": ""
           }
         ],
-        "titles": {"ru": ""},
+        "titles": {"*": "Making a smart car with Elixir"},
         "descr": {
           "ru": [
             ""
@@ -479,16 +499,16 @@
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
         "labels": [],
-        "youtube": [],
+        "youtube": ["_WJjbmWqa38"],
         "speakers": [
           {
-            "names": {"*": "", "ru": ""},
+            "names": {"*": "", "ru": "Илья Нафигин"},
             "titles": {"*": ""},
             "url": "",
             "image": ""
           }
         ],
-        "titles": {"ru": ""},
+        "titles": {"ru": "Гибкий API для вашего сервера"},
         "descr": {
           "ru": [
             ""
@@ -499,16 +519,16 @@
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
         "labels": [],
-        "youtube": [],
+        "youtube": ["BB-HCwQZj8Y"],
         "speakers": [
           {
-            "names": {"*": "", "ru": ""},
+            "names": {"*": "", "ru": "Андрей Солнцев"},
             "titles": {"*": ""},
             "url": "",
             "image": ""
           }
         ],
-        "titles": {"ru": ""},
+        "titles": {"ru": "Чем различаются интернет-банк физиков и юриков"},
         "descr": {
           "ru": [
             ""
@@ -536,13 +556,13 @@
         "youtube": [],
         "speakers": [
           {
-            "names": {"*": "", "ru": ""},
+            "names": {"*": "", "ru": "Михаил Бараш"},
             "titles": {"*": ""},
             "url": "",
             "image": ""
           }
         ],
-        "titles": {"ru": ""},
+        "titles": {"ru": "Что такое JetBrains MPS: просто о сложном"},
         "descr": {
           "ru": [
             ""
@@ -553,16 +573,16 @@
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
         "labels": [],
-        "youtube": [],
+        "youtube": ["WAByqnLFv2M"],
         "speakers": [
           {
-            "names": {"*": "", "ru": ""},
+            "names": {"*": "", "ru": "Валерий Твердохлеб"},
             "titles": {"*": ""},
             "url": "",
             "image": ""
           }
         ],
-        "titles": {"ru": ""},
+        "titles": {"ru": "Technical кто?"},
         "descr": {
           "ru": [
             ""
@@ -573,16 +593,16 @@
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
         "labels": [],
-        "youtube": [],
+        "youtube": ["d0-8K7QSuv4"],
         "speakers": [
           {
-            "names": {"*": "", "ru": ""},
+            "names": {"*": "", "ru": "Евгений Голобородько"},
             "titles": {"*": ""},
             "url": "",
             "image": ""
           }
         ],
-        "titles": {"ru": ""},
+        "titles": {"*": "Hell management"},
         "descr": {
           "ru": [
             ""
@@ -607,16 +627,16 @@
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
         "labels": [],
-        "youtube": [],
+        "youtube": ["R06QfCLrfXw"],
         "speakers": [
           {
-            "names": {"*": "", "ru": ""},
+            "names": {"*": "", "ru": "Сергей Цимбалист"},
             "titles": {"*": ""},
             "url": "",
             "image": ""
           }
         ],
-        "titles": {"ru": ""},
+        "titles": {"ru": "Нейронные сети и человеческий язык"},
         "descr": {
           "ru": [
             ""
@@ -627,16 +647,16 @@
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
         "labels": [],
-        "youtube": [],
+        "youtube": ["mCqjcPGQgAs"],
         "speakers": [
           {
-            "names": {"*": "", "ru": ""},
+            "names": {"*": "", "ru": "Александр Тавген"},
             "titles": {"*": ""},
             "url": "",
             "image": ""
           }
         ],
-        "titles": {"ru": ""},
+        "titles": {"*": "Building distributed application on Python. Love and hate."},
         "descr": {
           "ru": [
             ""
@@ -647,16 +667,16 @@
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
         "labels": [],
-        "youtube": [],
+        "youtube": ["xiBd5kTOoYo"],
         "speakers": [
           {
-            "names": {"*": "", "ru": ""},
+            "names": {"*": "", "ru": "Андрей Солнцев"},
             "titles": {"*": ""},
             "url": "",
             "image": ""
           }
         ],
-        "titles": {"ru": ""},
+        "titles": {"*": "WTF Connection pools"},
         "descr": {
           "ru": [
             ""
@@ -681,16 +701,16 @@
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
         "labels": [],
-        "youtube": [],
+        "youtube": ["HC8uoEX8B5A"],
         "speakers": [
           {
-            "names": {"*": "", "ru": ""},
+            "names": {"*": "", "ru": "Олег Шелаев"},
             "titles": {"*": ""},
             "url": "",
             "image": ""
           }
         ],
-        "titles": {"ru": ""},
+        "titles": {"*": "Fast startup for Java apps with GraalVM"},
         "descr": {
           "ru": [
             ""
@@ -701,16 +721,16 @@
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
         "labels": [],
-        "youtube": [],
+        "youtube": ["-gWdbpQXmFo"],
         "speakers": [
           {
-            "names": {"*": "", "ru": ""},
+            "names": {"*": "", "ru": "Вадим Герасимов"},
             "titles": {"*": ""},
             "url": "",
             "image": ""
           }
         ],
-        "titles": {"ru": ""},
+        "titles": {"ru": "Из грязи в князи? Или история о двухлетнем путешествии Java разработчика в мир nodejs"},
         "descr": {
           "ru": [
             ""
@@ -721,16 +741,22 @@
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
         "labels": [],
-        "youtube": [],
+        "youtube": ["owhyY09iEk0"],
         "speakers": [
           {
-            "names": {"*": "", "ru": ""},
+            "names": {"*": "", "ru": "Михаил Дунаев"},
+            "titles": {"*": ""},
+            "url": "",
+            "image": ""
+          },
+          {
+            "names": {"*": "", "ru": "Павел Лаврешин"},
             "titles": {"*": ""},
             "url": "",
             "image": ""
           }
         ],
-        "titles": {"ru": ""},
+        "titles": {"*": "What the hack is blockchain"},
         "descr": {
           "ru": [
             ""
