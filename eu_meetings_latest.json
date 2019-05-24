@@ -9,19 +9,19 @@
     },
     "photo": [],
     "event": "",
-    "org": {"mod": "jt", "photo": ""},
+    "org": {"mod": "jt", "photo": "kl"},
     "speeches": [
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": "as", "edit": ""},
         "lang": "ru",
         "labels": [],
         "youtube": [],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Александр Тавген"},
-            "titles": {"*": ""},
-            "url": "",
-            "image": ""
+            "names": {"*": "Aleksandr Tavgen", "ru": "Александр Тавген"},
+            "titles": {"*": "Software Architect with Data Science and Financial Background"},
+            "url": "https://www.linkedin.com/in/aleksandr-tavgen-24431815b",
+            "image": "atavgen.jpg"
           }
         ],
         "titles": {"*": "Reactive and functional approaches"},
@@ -38,16 +38,16 @@
         "youtube": [],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Эрвин Вебер"},
+            "names": {"*": "Ervin Weber", "ru": "Эрвин Вебер"},
             "titles": {"*": ""},
-            "url": "",
-            "image": ""
+            "url": "https://ee.linkedin.com/in/webervin",
+            "image": "eweber.jpg"
           }
         ],
         "titles": {"ru": "BeyondCorp: Есть ли жизнь после VPN?"},
         "descr": {
           "ru": [
-            ""
+            "Коротко расскажу про то, как по мере роста проекта OpenVPN сервер стал необходимостью, и как по мере роста команды он же стал - проблемой. Зачем и откуда взялось BeyondCorp? Поделюсь личным опытом использования Identity Aware Proxy в связке с Access Context Manager и мыслями что делать с VPN в дальнейшем."
           ]
         }
       },
@@ -58,16 +58,16 @@
         "youtube": [],
         "speakers": [
           {
-            "names": {"*": "Igor Bossenko", "ru": ""},
+            "names": {"*": "Igor Bossenko", "ru": "Игорь Босенко"},
             "titles": {"*": ""},
-            "url": "",
-            "image": ""
+            "url": "https://www.linkedin.com/in/igor-bossenko",
+            "image": "ibossenko.jpg"
           }
         ],
         "titles": {"ru": "Пошкодим в PG"},
         "descr": {
           "ru": [
-            ""
+            "Докладчик поделится опытом развертывания PostgreSQL серверов с использованием докера, поделится тонкостями настойки сервера, расскажет о \"дырах\" by design, которые обязательно нужно закрывать, ну и попишем интересные SQL-ы."
           ]
         }
       }
