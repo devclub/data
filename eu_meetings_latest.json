@@ -208,8 +208,8 @@
           {
             "names": {"*": "", "ru": "Сергей Лабутин"},
             "titles": {"*": ""},
-            "url": "",
-            "image": ""
+            "url": "https://www.facebook.com/labutin.sergei",
+            "image": "slabutin.jpg"
           }
         ],
         "titles": {"ru": "Блокчейн и игры - на пороге новой индустрии"},
@@ -262,8 +262,8 @@
           {
             "names": {"*": "", "ru": "Руслан Ахметзянов"},
             "titles": {"*": ""},
-            "url": "",
-            "image": ""
+            "url": "https://www.linkedin.com/in/руслан-ахметзянов-5b6046114",
+            "image": "rahmetzjanov.jpg"
           }
         ],
         "titles": {"ru": "Имеющий уши да улучшит: работаем с фидбэком правильно"},
@@ -316,8 +316,8 @@
           {
             "names": {"*": "", "ru": "Роман Захаров"},
             "titles": {"*": ""},
-            "url": "",
-            "image": ""
+            "url": "https://www.facebook.com/roman.zahharov",
+            "image": "rzahharov.jpg"
           }
         ],
         "titles": {"ru": "Плохой программист или плохой процесс?"},
@@ -336,8 +336,8 @@
           {
             "names": {"*": "", "ru": "Дмитрий Коробцов"},
             "titles": {"*": ""},
-            "url": "",
-            "image": ""
+            "url": "https://www.facebook.com/dkorobtsov",
+            "image": "dkorobtsov.jpg"
           }
         ],
         "titles": {"ru": "Чем тестировать API? Ускоряем end-to-end тесты."},
@@ -390,8 +390,8 @@
           {
             "names": {"*": "", "ru": "Андрей Скоморохов"},
             "titles": {"*": ""},
-            "url": "",
-            "image": ""
+            "url": "https://www.linkedin.com/in/andrey-skomorokhov-a07094ab",
+            "image": "askomorohov.jpg"
           }
         ],
         "titles": {"ru": "Как начать тестировать и не полысеть"},
@@ -430,8 +430,8 @@
           {
             "names": {"*": "", "ru": "Ольга Линник"},
             "titles": {"*": ""},
-            "url": "",
-            "image": ""
+            "url": "https://www.facebook.com/linniklinnik",
+            "image": "olinnik.jpg"
           }
         ],
         "titles": {"ru": "Как ветерана знакомств на тиндере забанили"},
@@ -450,8 +450,8 @@
           {
             "names": {"*": "Alex Inside"},
             "titles": {"*": ""},
-            "url": "",
-            "image": ""
+            "url": "https://www.facebook.com/alex.inside",
+            "image": "ainside.jpg"
           }
         ],
         "titles": {"ru": "Что за биохакинг?"},
@@ -484,8 +484,8 @@
           {
             "names": {"*": "", "ru": "Константин Золотарев"},
             "titles": {"*": ""},
-            "url": "",
-            "image": ""
+            "url": "https://www.linkedin.com/in/konstantin-zolotarev-36a8b545",
+            "image": "kzolotarev.jpg"
           }
         ],
         "titles": {"*": "Making a smart car with Elixir"},
@@ -504,8 +504,8 @@
           {
             "names": {"*": "", "ru": "Илья Нафигин"},
             "titles": {"*": ""},
-            "url": "",
-            "image": ""
+            "url": "https://www.facebook.com/ilja.nafigin",
+            "image": "inafigin.jpg"
           }
         ],
         "titles": {"ru": "Гибкий API для вашего сервера"},
@@ -558,8 +558,8 @@
           {
             "names": {"*": "", "ru": "Михаил Бараш"},
             "titles": {"*": ""},
-            "url": "",
-            "image": ""
+            "url": "https://twitter.com/mikhail_barash",
+            "image": "mbarash.jpg"
           }
         ],
         "titles": {"ru": "Что такое JetBrains MPS: просто о сложном"},
@@ -579,7 +579,7 @@
             "names": {"*": "", "ru": "Валерий Твердохлеб"},
             "titles": {"*": ""},
             "url": "",
-            "image": ""
+            "image": "vtverdohleb.jpg"
           }
         ],
         "titles": {"ru": "Technical кто?"},
@@ -632,8 +632,8 @@
           {
             "names": {"*": "", "ru": "Сергей Цимбалист"},
             "titles": {"*": ""},
-            "url": "",
-            "image": ""
+            "url": "https://www.linkedin.com/in/sergei-tsimbalist-248541155",
+            "image": "stsimbalist.jpg"
           }
         ],
         "titles": {"ru": "Нейронные сети и человеческий язык"},
@@ -652,8 +652,8 @@
           {
             "names": {"*": "", "ru": "Александр Тавген"},
             "titles": {"*": ""},
-            "url": "",
-            "image": ""
+            "url": "https://www.linkedin.com/in/aleksandr-tavgen-24431815b",
+            "image": "atavgen.jpg"
           }
         ],
         "titles": {"*": "Building distributed application on Python. Love and hate."},
@@ -706,8 +706,8 @@
           {
             "names": {"*": "", "ru": "Олег Шелаев"},
             "titles": {"*": ""},
-            "url": "",
-            "image": ""
+            "url": "https://twitter.com/shelajev",
+            "image": "oshelaev.jpg"
           }
         ],
         "titles": {"*": "Fast startup for Java apps with GraalVM"},
@@ -726,8 +726,8 @@
           {
             "names": {"*": "", "ru": "Вадим Герасимов"},
             "titles": {"*": ""},
-            "url": "",
-            "image": ""
+            "url": "https://www.linkedin.com/in/vadimgerassimov",
+            "image": "vgerassimov.jpg"
           }
         ],
         "titles": {"ru": "Из грязи в князи? Или история о двухлетнем путешествии Java разработчика в мир nodejs"},
@@ -752,8 +752,8 @@
           {
             "names": {"*": "", "ru": "Павел Лаврешин"},
             "titles": {"*": ""},
-            "url": "",
-            "image": ""
+            "url": "https://www.linkedin.com/in/pavel-lavreshin-32525150",
+            "image": "plavreshin.jpg"
           }
         ],
         "titles": {"*": "What the hack is blockchain"},
