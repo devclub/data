@@ -1,5 +1,30 @@
 [
   {
+    "datetime": "2019-05-13T19:00:00",
+    "duration_h": 3,
+    "places": 25,
+    "place": {
+      "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
+      "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
+    },
+    "url": ["https://www.eventbrite.com/e/61165530749"],
+    "speakers": [
+      {
+        "names": {"ru": "Роман Захаров", "*": "Roman Zahharov"},
+        "titles": {"*": "Business Process Management Consultant & ScrumMaster®"},
+        "url": "https://www.linkedin.com/in/romanzahharov"
+      }
+    ],
+    "lang": "ru",
+    "titles": {"*": "Семинар Романа Захарова по процессам"},
+    "descr": {
+      "ru": [
+        "Две секции по полтора часа и пять команд под руководством Романа будут вычленять, определять и определять эффективность процессов с фокусом на IT."
+      ]
+    },
+    "prices": {"ru": "Несмотря на отсутствие платы за вход, количество мест строго ограничено (25), и вход на данное мероприятие только по подверждению регистрации (мы пришлём письмо, что вам выдан билет из листа ожидания). В свободном доступе билетов нет: всё через анкету и лист ожидания."}
+  },
+  {
     "datetime": "2018-02-15T09:00:00",
     "duration_h": 16,
     "places": 40,
