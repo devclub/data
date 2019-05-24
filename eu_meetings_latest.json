@@ -109,7 +109,7 @@
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
         "labels": [],
-        "youtube": [],
+        "youtube": ["Qr-9Yqz9zlU"],
         "speakers": [
           {
             "names": {"*": "", "ru": "Михаил Раер"},
@@ -129,7 +129,7 @@
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
         "labels": [],
-        "youtube": [],
+        "youtube": ["elQ2LGGU2bg"],
         "speakers": [
           {
             "names": {"*": "", "ru": "Андрей Солнцев"},
@@ -163,7 +163,7 @@
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
         "labels": [],
-        "youtube": [],
+        "youtube": ["wdbWn_2od8w"],
         "speakers": [
           {
             "names": {"*": "", "ru": "Алексей Михайлов"},
@@ -183,7 +183,7 @@
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
         "labels": [],
-        "youtube": [],
+        "youtube": ["wCCR1Tkxc-s"],
         "speakers": [
           {
             "names": {"*": "", "ru": "Никита Сальников-Тарновский"},
@@ -351,7 +351,7 @@
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
         "labels": [],
-        "youtube": [],
+        "youtube": ["4bhB8A9Ln7E"],
         "speakers": [
           {
             "names": {"*": "", "ru": "Евгений Голобородько"},
@@ -781,7 +781,7 @@
         "org": {"cam": "as", "edit": ""},
         "lang": "ru",
         "labels": ["tests", "qa"],
-        "youtube": [],
+        "youtube": ["YrIRKE-39Dc"],
         "speakers": [
           {
             "names": {"*": "Sergei Chipiga", "ru": "Сергей Чипига"},
@@ -856,7 +856,7 @@
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
         "labels": [],
-        "youtube": [],
+        "youtube": ["vhNyUi1wpLE"],
         "speakers": [
           {
             "names": {"*": "Ervin Weber", "ru": "Эрвин Вебер "},
@@ -877,7 +877,7 @@
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
         "labels": [],
-        "youtube": [],
+        "youtube": ["Kgd4vfwth0g"],
         "speakers": [
           {
             "names": {"*": "Artur Peka", "ru": "Артур Пека"},
