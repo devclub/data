@@ -39,7 +39,7 @@
         "speakers": [
           {
             "names": {"*": "Ervin Weber", "ru": "Эрвин Вебер"},
-            "titles": {"*": ""},
+            "titles": {"*": "System Administrator @ Toggl"},
             "url": "https://ee.linkedin.com/in/webervin",
             "image": "eweber.jpg"
           }
@@ -59,7 +59,7 @@
         "speakers": [
           {
             "names": {"*": "Igor Bossenko", "ru": "Игорь Босенко"},
-            "titles": {"*": ""},
+            "titles": {"*": "Founder and CEO @ Kodality"},
             "url": "https://www.linkedin.com/in/igor-bossenko",
             "image": "ibossenko.jpg"
           }
@@ -93,7 +93,7 @@
         "speakers": [
           {
             "names": {"*": "Eugene Goloborodko", "ru": "Евгений Голобородько"},
-            "titles": {"*": ""},
+            "titles": {"*": "Software Architect & Founder @ Digital Magic Ltd"},
             "url": "https://ee.linkedin.com/in/jevgeni-goloborodko-65a048a",
             "image": "jgoloborodko.jpg"
           }
@@ -355,7 +355,7 @@
         "speakers": [
           {
             "names": {"*": "Eugene Goloborodko", "ru": "Евгений Голобородько"},
-            "titles": {"*": ""},
+            "titles": {"*": "Software Architect & Founder @ Digital Magic Ltd"},
             "url": "https://ee.linkedin.com/in/jevgeni-goloborodko-65a048a",
             "image": "jgoloborodko.jpg"
           }
@@ -597,7 +597,7 @@
         "speakers": [
           {
             "names": {"*": "Eugene Goloborodko", "ru": "Евгений Голобородько"},
-            "titles": {"*": ""},
+            "titles": {"*": "Software Architect & Founder @ Digital Magic Ltd"},
             "url": "https://ee.linkedin.com/in/jevgeni-goloborodko-65a048a",
             "image": "jgoloborodko.jpg"
           }
@@ -1364,7 +1364,7 @@
         "speakers": [
           {
             "names": {"*": "Jevgeni Goloborodko", "ru": "Евгений Голобородько"},
-            "titles": {"*": "Architect @ Digital Magic Ltd"},
+            "titles": {"*": "Software Architect & Founder @ Digital Magic Ltd"},
             "url": "https://ee.linkedin.com/in/jevgeni-goloborodko-65a048a",
             "image": "jgoloborodko.jpg"
           }
