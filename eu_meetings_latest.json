@@ -92,10 +92,10 @@
         "youtube": [],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Евгений Голобородько"},
+            "names": {"*": "Eugene Goloborodko", "ru": "Евгений Голобородько"},
             "titles": {"*": ""},
-            "url": "",
-            "image": ""
+            "url": "https://ee.linkedin.com/in/jevgeni-goloborodko-65a048a",
+            "image": "jgoloborodko.jpg"
           }
         ],
         "titles": {"*": "Rule your cluster with Kubernetes"},
@@ -114,8 +114,8 @@
           {
             "names": {"*": "", "ru": "Михаил Раер"},
             "titles": {"*": ""},
-            "url": "",
-            "image": ""
+            "url": "https://www.facebook.com/mraer",
+            "image": "assets/speakers/mraer.jpg"
           }
         ],
         "titles": {"ru": "Azure Active Directory и используемые в ней токены"},
@@ -132,10 +132,10 @@
         "youtube": ["elQ2LGGU2bg"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Андрей Солнцев"},
+            "names": {"*": "Andrei Solntsev", "ru": "Андрей Солнцев"},
             "titles": {"*": ""},
-            "url": "",
-            "image": ""
+            "url": "https://ee.linkedin.com/in/asolntsev",
+            "image": "asolntsev_2018.jpg"
           }
         ],
         "titles": {"*": "Flaky tests (2)"},
@@ -168,8 +168,8 @@
           {
             "names": {"*": "", "ru": "Алексей Михайлов"},
             "titles": {"*": ""},
-            "url": "",
-            "image": ""
+            "url": "https://www.linkedin.com/in/alexei-mikhaylov-33b282a6",
+            "image": "amihailov.jpg"
           }
         ],
         "titles": {"ru": "Темпоральные таблицы в PostgreSQL"},
@@ -188,8 +188,8 @@
           {
             "names": {"*": "", "ru": "Никита Сальников-Тарновский"},
             "titles": {"*": ""},
-            "url": "",
-            "image": ""
+            "url": "https://ee.linkedin.com/in/nikem",
+            "image": "nsalnikov.jpg"
           }
         ],
         "titles": {"*": "Streaming architecture - beyond mere code"},
@@ -242,8 +242,8 @@
           {
             "names": {"*": "", "ru": "Алексей Фёдоров"},
             "titles": {"*": ""},
-            "url": "",
-            "image": ""
+            "url": "https://vk.com/23derevo",
+            "image": "afjodorov_2019.jpg"
           }
         ],
         "titles": {"ru": "Оборудование для конференций и митапов: видео, звук, свет, трансляция"},
@@ -282,8 +282,8 @@
           {
             "names": {"*": "", "ru": "Дмитрий Тучс"},
             "titles": {"*": ""},
-            "url": "",
-            "image": ""
+            "url": "https://www.linkedin.com/in/dtuchs",
+            "image": "dtuchs_2019.jpg"
           }
         ],
         "titles": {"ru": "Jupiter - параллельная реальность"},
@@ -354,10 +354,10 @@
         "youtube": ["4bhB8A9Ln7E"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Евгений Голобородько"},
+            "names": {"*": "Eugene Goloborodko", "ru": "Евгений Голобородько"},
             "titles": {"*": ""},
-            "url": "",
-            "image": ""
+            "url": "https://ee.linkedin.com/in/jevgeni-goloborodko-65a048a",
+            "image": "jgoloborodko.jpg"
           }
         ],
         "titles": {"ru": "Что меня бесит в Java"},
@@ -408,10 +408,10 @@
         "youtube": ["IYilFQN65-Y"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Александр Тавген"},
-            "titles": {"*": ""},
-            "url": "",
-            "image": ""
+            "names": {"*": "Aleksandr Tavgen", "ru": "Александр Тавген"},
+            "titles": {"*": "Software Architect with Data Science and Financial Background"},
+            "url": "https://www.linkedin.com/in/aleksandr-tavgen-24431815b",
+            "image": "atavgen.jpg"
           }
         ],
         "titles": {"ru": "Как соединить Java, Js и графы с искусством, или история о том, как создавался интерактивный театр"},
@@ -522,10 +522,10 @@
         "youtube": ["BB-HCwQZj8Y"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Андрей Солнцев"},
+            "names": {"*": "Andrei Solntsev", "ru": "Андрей Солнцев"},
             "titles": {"*": ""},
-            "url": "",
-            "image": ""
+            "url": "https://ee.linkedin.com/in/asolntsev",
+            "image": "asolntsev_2018.jpg"
           }
         ],
         "titles": {"ru": "Чем различаются интернет-банк физиков и юриков"},
@@ -596,10 +596,10 @@
         "youtube": ["d0-8K7QSuv4"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Евгений Голобородько"},
+            "names": {"*": "Eugene Goloborodko", "ru": "Евгений Голобородько"},
             "titles": {"*": ""},
-            "url": "",
-            "image": ""
+            "url": "https://ee.linkedin.com/in/jevgeni-goloborodko-65a048a",
+            "image": "jgoloborodko.jpg"
           }
         ],
         "titles": {"*": "Hell management"},
@@ -672,8 +672,8 @@
           {
             "names": {"*": "", "ru": "Андрей Солнцев"},
             "titles": {"*": ""},
-            "url": "",
-            "image": ""
+            "url": "https://ee.linkedin.com/in/asolntsev",
+            "image": "asolntsev_2018.jpg"
           }
         ],
         "titles": {"*": "WTF Connection pools"},
@@ -746,8 +746,8 @@
           {
             "names": {"*": "", "ru": "Михаил Дунаев"},
             "titles": {"*": ""},
-            "url": "",
-            "image": ""
+            "url": "https://www.linkedin.com/in/mikhail-dunaev-ab6b6a68",
+            "image": "mdunajev.jpg"
           },
           {
             "names": {"*": "", "ru": "Павел Лаврешин"},
