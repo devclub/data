@@ -115,7 +115,7 @@
             "names": {"*": "", "ru": "Михаил Раер"},
             "titles": {"*": ""},
             "url": "https://www.facebook.com/mraer",
-            "image": "assets/speakers/mraer.jpg"
+            "image": "mraer.jpg"
           }
         ],
         "titles": {"ru": "Azure Active Directory и используемые в ней токены"},
