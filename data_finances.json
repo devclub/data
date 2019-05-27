@@ -1,4 +1,8 @@
 {
+  "bankName": "Swedbank",
+  "bankNumber": "EE822200221049645988",
+  "bankRecipient": "MTÜ DEVCLUB",
+  "bankDescription": "devclub donation",
   "prices": [
     {"month": 1, "price": 350},
     {"month": 3, "price": 300},
