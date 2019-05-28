@@ -40,11 +40,11 @@
     "main": {
       "mail": "info@devclub.eu",
       "youtubeChannelId": "UCLq7vcHtwDtx4m9ZUrgxEBA",
-      "site": "http://devclub.eu",
+      "site": "https://devclub.eu",
       "facebookPageId": "devclub.ee",
       "facebookGroupId": "devclub.eu",
-      "blog": "http://blog.devclub.eu",
-      "blogFeed": "http://blog.devclub.eu/feed",
+      "blog": "https://blog.devclub.eu",
+      "blogFeed": "https://blog.devclub.eu/feed",
       "googlecalendar": "https://calendar.google.com/calendar/embed?src=fmju94mnjv0a5s70hat38evqm8%40group.calendar.google.com&ctz=Europe%2FTallinn",
       "googlegroup": "https://groups.google.com/forum/#!forum/devclub-eu",
       "github": "https://github.com/devclub"
@@ -53,12 +53,12 @@
       {
         "title": "DEVCLUB.EE",
         "mail": "info@devclub.eu",
-        "site": "http://devclub.ee",
+        "site": "https://devclub.ee",
         "youtubeChannelId": "UC9lRNfzenw_7MVmDPFyRFjQ",
         "facebookPageId": "devclub.ee",
         "facebookGroupId": "902165766655283",
-        "blog": "http://blog.devclub.ee",
-        "blogFeed": "http://blog.devclub.ee/feed",
+        "blog": "https://blog.devclub.ee",
+        "blogFeed": "https://blog.devclub.ee/feed",
         "twitter": "https://twitter.com/devclubs"
       },
       {
@@ -73,6 +73,6 @@
       }
     ]
   },
-  "blogUrl": "http://blog.devclub.eu",
+  "blogUrl": "https://blog.devclub.eu",
   "hasTop": true
 }
