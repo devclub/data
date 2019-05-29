@@ -1,7 +1,7 @@
 {
   "defaultLang": "ru",
-  "navbarStyle": {"background": "#61441a"},
-  "footerStyle": {"background": "#61441a"},
+  "navbarStyle": {"background": "#0d561d"},
+  "footerStyle": {"background": "#0d561d"},
   "devclubText": "DEVCLUB.EU",
   "devclubMenuUrl": "https://devclub.ee",
   "devclubMenuText": "DEVCLUB.EE",
@@ -73,6 +73,5 @@
       }
     ]
   },
-  "blogUrl": "https://blog.devclub.eu",
   "hasTop": true
 }
