@@ -1,5 +1,208 @@
 [
   {
+    "num": 68,
+    "season": 2019,
+    "datetime": "2019-01-24T19:00:00",
+    "place": {
+      "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
+      "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
+    },
+    "photo": [""],
+    "speeches": [
+      {
+        "lang": "en",
+        "youtube": [""],
+        "speakers": [
+          {
+            "names": {"*": "Anton Arhipov"},
+            "titles": {"*": ""},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"*": "IntelliJ IDEA Tips & Tricks"},
+        "descr": {
+          "en": [
+            "This session takes you through the cool features of IntelliJ IDEA, uncovering not so commonly used features. We will review how to utilize the power of automated refactorings, shortcuts, fast navigation, and other features that the IDE provides for better productivity."
+          ]
+        }
+      },
+      {
+        "lang": "en",
+        "youtube": [""],
+        "speakers": [
+          {
+            "names": {"*": "Valeri Tverdohleb"},
+            "titles": {"*": ""},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"*": "Technical who?"},
+        "descr": {
+          "en": [
+            "I will try to answer a quite uncertain and not an easy question - What does techical artist do? - based on game development at Gamesys. During this session we'll build a prototype and define its necessity."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "num": 67,
+    "season": 2019,
+    "datetime": "2018-12-20T19:00:00",
+    "place": {
+      "name": "Olümpia hotell", "loc": "https://goo.gl/maps/dW36V6WUFhnTdCw9A",
+      "addr": "Liivalaia 33, 10118, Tallinn, Estonia", "url": "https://www.radissonblu.com/en/olumpiahotel-tallinn"
+    },
+    "photo": ["https://photos.app.goo.gl/DAuBKhAJPFJirzDf7"],
+    "speeches": [
+      {
+        "lang": "en",
+        "youtube": [""],
+        "speakers": [
+          {
+            "names": {"*": "Erik Kaju"},
+            "titles": {"*": ""},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"*": "How to build a payment card product"},
+        "descr": {
+          "en": [
+            "For a long time payment cards used to be the domain of banks. In the last decade, the paradigm has shifted – we see more and more regular enterprises issuing their own cards, be it telcos, grocery store chains, various fintech startups etc. But what does it take to build a payment card from scratch? How do cards work? What is the anatomy of card transactions? This is a talk focusing on technical and product aspects of the card issuance, based on true story."
+          ]
+        }
+      },
+      {
+        "lang": "en",
+        "youtube": [""],
+        "speakers": [
+          {
+            "names": {"*": "Dmitry Buzdin"},
+            "titles": {"*": ""},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"*": "How payment cards really work"},
+        "descr": {
+          "en": [
+            "This talk is an introduction about technical aspects of how payment cards function, what technical protocols are involved and what are implementation complexities in a typical payments project. You will learn about concepts like 3DSecure, Authorisation and Clearing, Tokenization and know about novelties in the payment world, which will affect consumers in the nearest future."
+          ]
+        }
+      },
+      {
+        "lang": "en",
+        "youtube": [""],
+        "speakers": [
+          {
+            "names": {"*": "Anton Arhipov"},
+            "titles": {"*": ""},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"*": "Kotlin DSL in under an hour"},
+        "descr": {
+          "en": [
+            "Learn how to create type-safe and statically typed DSLs in Kotlin. Uncover the language features that make DSL creation possible. We’ll take a look at a few practical examples and create a simple DSL ourselves. The session starts with an introduction to DSL related Kotlin language features.",
+            "Next, we create a simple DSL in a live coding session and then continue adding expressiveness and language features. We cover a number of examples, like JSON or XML builder’s, data binding, configuration & template engines. As a bonus, if time permits, we’ll take a look at Kotlin DSL example in TeamCity continuous integration server."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "num": 66,
+    "season": 2018,
+    "datetime": "2018-11-22T19:00:00",
+    "place": {
+      "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
+      "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
+    },
+    "photo": [""],
+    "speeches": [
+      {
+        "lang": "en",
+        "youtube": [""],
+        "speakers": [
+          {
+            "names": {"*": "Jouni Huttunen"},
+            "titles": {"*": "@ Solita"},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"*": "Hardening web app security, or how to pass security audits with flying colors"},
+        "descr": {
+          "en": [
+            "Simple steps to harden web app security. The story behind this is that we had a project with strict security demands and an audit. Usually, significant issues are found during the audit, but we passed it with praises. This is a story about how anyone can repeat it."
+          ]
+        }
+      },
+      {
+        "lang": "en",
+        "youtube": [""],
+        "speakers": [
+          {
+            "names": {"*": "Ali Baloi"},
+            "titles": {"*": "@ Mindworks Industries"},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"*": "What helps developer on the way of becoming a project manager"},
+        "descr": {
+          "en": [
+            "The goal of my speech is to encourage more developers to try project management role.",
+            "As a former developer I'll be talking about my own experience; pluses and minuses that developer has at the start; own insights and lifehacks that helped me; and of course f2ckups.",
+            "If you are a developer and think that IT project management might be your new career switch, then this talk might be useful for you."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "num": 65,
+    "season": 2018,
+    "datetime": "2018-10-31T19:00:00",
+    "place": {
+      "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
+      "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
+    },
+    "photo": [""],
+    "speeches": [
+      {
+        "lang": "en",
+        "youtube": [""],
+        "speakers": [
+          {
+            "names": {"*": "Megha Bangalore"},
+            "titles": {"*": "Firebase Technical Lead @ Google"},
+            "url": "",
+            "image": ""
+          },
+          {
+            "names": {"*": "Shannon McCabe"},
+            "titles": {"*": "Firebase Developer @ Google"},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"*": "Devclub x GDG Firebase meetup with Googlers"},
+        "descr": {
+          "en": [
+            "We will discuss what's new in Firebase and for all who interested organize Getting started with Firebase introductory talk.",
+            "Megha is a Technical Lead at Google working on making Firebase great. Her career has been focused on backend engineering, from building a highly distributed log management and SIEM platform to working on distributed systems at Twitter and then Google. Her number one focus is to help Firebase users engage and delight their users. A Silicon Valley native, Megha received her Master of Arts in CS from Oxford University. She is an avid skier and enjoys writing in her spare time.",
+            "Shannon is a member of the Firebase Developer Relations team, where she writes documentation and works on the Firebase Console. She enjoys learning about new technologies and services so that she can go on to teach others. Shannon's main goal is to keep Firebase docs short, useful, and relevant, to help developers spend less time reading and more time building cool stuff."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "num": 64,
     "season": 2018,
     "datetime": "2018-09-20T19:00:00",
@@ -24,26 +227,6 @@
         "descr": {
           "en": [
             "This talk has no description on purpose."
-          ]
-        }
-      },
-      {
-        "lang": "en",
-        "youtube": [""],
-        "speakers": [
-          {
-            "names": {"*": "Ali Baloi"},
-            "titles": {"*": "@ Mindworks Industries"},
-            "url": "",
-            "image": ""
-          }
-        ],
-        "titles": {"*": "What helps developer on the way of becoming a project manager"},
-        "descr": {
-          "en": [
-            "The goal of my speech is to encourage more developers to try project management role.",
-            "As a former developer I'll be talking about my own experience; pluses and minuses that developer has at the start; own insights and lifehacks that helped me; and of course f2ckups.",
-            "If you are a developer and think that IT project management might be your new career switch, then this talk might be useful for you."
           ]
         }
       },
