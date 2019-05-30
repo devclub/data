@@ -1,5 +1,176 @@
 [
   {
+    "num": 64,
+    "season": 2018,
+    "datetime": "2018-09-20T19:00:00",
+    "place": {
+      "name": "Codebourne office", "loc": "https://goo.gl/maps/hRdFRaurnmrGuAgW6",
+      "addr": "Sepise 8, 11415 Tallinn, Estonia", "url": "https://codeborne.com/#contact"
+    },
+    "photo": [""],
+    "speeches": [
+      {
+        "lang": "en",
+        "youtube": [""],
+        "speakers": [
+          {
+            "names": {"*": "Erik Jõgi"},
+            "titles": {"*": "@ Codeborne"},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"*": "Messaging. A different perspective"},
+        "descr": {
+          "en": [
+            "This talk has no description on purpose."
+          ]
+        }
+      },
+      {
+        "lang": "en",
+        "youtube": [""],
+        "speakers": [
+          {
+            "names": {"*": "Ali Baloi"},
+            "titles": {"*": "@ Mindworks Industries"},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"*": "What helps developer on the way of becoming a project manager"},
+        "descr": {
+          "en": [
+            "The goal of my speech is to encourage more developers to try project management role.",
+            "As a former developer I'll be talking about my own experience; pluses and minuses that developer has at the start; own insights and lifehacks that helped me; and of course f2ckups.",
+            "If you are a developer and think that IT project management might be your new career switch, then this talk might be useful for you."
+          ]
+        }
+      },
+      {
+        "lang": "en",
+        "youtube": [""],
+        "speakers": [
+          {
+            "names": {"*": "Anton Keks"},
+            "titles": {"*": "@ Codeborne"},
+            "url": "",
+            "image": ""
+          },
+          {
+            "names": {"*": "Andrei Solntsev"},
+            "titles": {"*": "@ Codeborne"},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"*": "Pair-programming demo"},
+        "descr": {
+          "en": [
+            "Are you aware of how pair programming actually works? Don't they annoy each other? Aren't they too noisy? How do they read news and facebook at work?",
+            "We at Codeborne use pair programming as everyday practice. We find it really effective. We will make a short demonstration of pair programming. You will see how it actually happens in real life."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "num": 63,
+    "season": 2018,
+    "datetime": "2018-08-23T19:00:00",
+    "place": {
+      "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
+      "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
+    },
+    "photo": [""],
+    "speeches": [
+      {
+        "lang": "en",
+        "youtube": [""],
+        "speakers": [
+          {
+            "names": {"*": "Peeter Marvet"},
+            "titles": {"*": "Data Protection Officer @ zone.ee"},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"*": "Chiropraxis PHP - let me feel the stress of your application and make it perform again"},
+        "descr": {
+          "en": [
+            "Peeter has been solving the problems of webapps that come to him with the usual diagnosis \"server is slow\" - and it is almost never the server that is slow. What are the signs of lazy code, depending too much on external services, not-very-intelligent db architecture choices and other common faults that take websites down? Examples are mostly from PHP+MySQL world, but the problems are presumably same everywhere."
+          ]
+        }
+      },
+      {
+        "lang": "en",
+        "youtube": [""],
+        "speakers": [
+          {
+            "names": {"*": "Ervin Weber"},
+            "titles": {"*": ""},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"*": "Hacking on emails"},
+        "descr": {
+          "en": [
+            "Let's talk about how and where emails go and how to alter it. Let's talk about spamming the right way. Toggl have grown big, like \"We send over 1M emails a month\" big. The talk will cover what needed to be fixed along the way and what needed to be learned."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "num": 62,
+    "season": 2018,
+    "datetime": "2018-07-10T19:00:00",
+    "place": {
+      "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
+      "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
+    },
+    "photo": [""],
+    "speeches": [
+      {
+        "lang": "en",
+        "youtube": [""],
+        "speakers": [
+          {
+            "names": {"*": "Kirils Solovjovs"},
+            "titles": {"*": "IT security expert @ Possible Security (Latvia)"},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"*": "Reverse engineering basics"},
+        "descr": {
+          "en": [
+            "Kirils will do introduction to reverse engineering and the basic principles of it."
+          ]
+        }
+      },
+      {
+        "lang": "en",
+        "youtube": [""],
+        "speakers": [
+          {
+            "names": {"*": "Misha Beshkin"},
+            "titles": {"*": "Founder @ KosherDev"},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"*": "Mobile text recognition from image"},
+        "descr": {
+          "en": [
+            "The project I founded some time ago uses text recognition from image. So, I decided to share some ideas about my experiments with various services. Lecture includes real Android code with running through emulator to check the text recognition from image."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "num": 61,
     "season": 2018,
     "datetime": "2018-06-05T19:00:00",
