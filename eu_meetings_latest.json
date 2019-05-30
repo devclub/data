@@ -240,7 +240,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
-        "labels": [],
+        "labels": ["meeting", "equipment"],
         "youtube": ["ZJPFFjfZKDg"],
         "speakers": [
           {
@@ -260,7 +260,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
-        "labels": [],
+        "labels": ["feedback", "case study", "meeting"],
         "youtube": ["e7pBN15XmPk"],
         "speakers": [
           {
@@ -280,7 +280,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
-        "labels": [],
+        "labels": ["tests", "jupiter", "junit", "java"],
         "youtube": ["LuLBL-DHTAQ"],
         "speakers": [
           {
@@ -314,7 +314,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
-        "labels": [],
+        "labels": ["casse study", "process", "lean"],
         "youtube": ["hatWHIg_U2Q"],
         "speakers": [
           {
@@ -334,7 +334,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
-        "labels": [],
+        "labels": ["tests", "api"],
         "youtube": ["fmEFNFMSYP4"],
         "speakers": [
           {
@@ -354,7 +354,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
-        "labels": [],
+        "labels": ["java", "hating"],
         "youtube": ["4bhB8A9Ln7E"],
         "speakers": [
           {
@@ -388,7 +388,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
-        "labels": [],
+        "labels": ["tests"],
         "youtube": ["TSPyp1zmLSo"],
         "speakers": [
           {
@@ -408,7 +408,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
-        "labels": [],
+        "labels": ["theatre", "interactive", "projects", "voting", "estonia"],
         "youtube": ["IYilFQN65-Y"],
         "speakers": [
           {
@@ -428,7 +428,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
-        "labels": [],
+        "labels": ["tinder", "dating", "experience"],
         "youtube": [],
         "speakers": [
           {
@@ -448,7 +448,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
-        "labels": [],
+        "labels": ["biohacking", "gene", "experience"],
         "youtube": ["aVByzVR57yo"],
         "speakers": [
           {
@@ -482,7 +482,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
-        "labels": [],
+        "labels": ["elixir", "smart", "car", "smart car", "experience"],
         "youtube": ["UiP3ctCuS0U"],
         "speakers": [
           {
@@ -503,7 +503,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
-        "labels": [],
+        "labels": ["rest api", "api", "graphql"],
         "youtube": ["_WJjbmWqa38"],
         "speakers": [
           {
@@ -523,7 +523,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
-        "labels": [],
+        "labels": ["bank", "projects"],
         "youtube": ["BB-HCwQZj8Y"],
         "speakers": [
           {
@@ -558,7 +558,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
-        "labels": [],
+        "labels": ["jetbrains", "mps", "dsl"],
         "youtube": [],
         "speakers": [
           {
@@ -578,7 +578,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
-        "labels": [],
+        "labels": ["game", "unity", "art"],
         "youtube": ["WAByqnLFv2M"],
         "speakers": [
           {
@@ -598,7 +598,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
-        "labels": [],
+        "labels": ["management", "experience", "case study"],
         "youtube": ["d0-8K7QSuv4"],
         "speakers": [
           {
@@ -633,7 +633,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
-        "labels": [],
+        "labels": ["ai", "machine learning", "amazon alexa"],
         "youtube": ["R06QfCLrfXw"],
         "speakers": [
           {
@@ -653,7 +653,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
-        "labels": [],
+        "labels": ["python", "observability", "monitoring", "projects", "case study"],
         "youtube": ["mCqjcPGQgAs"],
         "speakers": [
           {
@@ -673,7 +673,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
-        "labels": [],
+        "labels": ["wtf", "connection", "connection pool", "hikaricp", "c3p0"],
         "youtube": ["xiBd5kTOoYo"],
         "speakers": [
           {
@@ -707,7 +707,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
-        "labels": [],
+        "labels": ["graalvm", "oracle", "java", "virtual machine"],
         "youtube": ["HC8uoEX8B5A"],
         "speakers": [
           {
@@ -730,7 +730,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
-        "labels": [],
+        "labels": ["nodejs", "js", "experience"],
         "youtube": ["-gWdbpQXmFo"],
         "speakers": [
           {
@@ -750,7 +750,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
-        "labels": [],
+        "labels": ["blockchain"],
         "youtube": ["owhyY09iEk0"],
         "speakers": [
           {
@@ -865,7 +865,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
-        "labels": [],
+        "labels": ["mail", "security", "dmarc"],
         "youtube": ["vhNyUi1wpLE"],
         "speakers": [
           {
@@ -886,7 +886,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
-        "labels": [],
+        "labels": ["web assembly", "asm.js"],
         "youtube": ["Kgd4vfwth0g"],
         "speakers": [
           {
@@ -906,7 +906,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
-        "labels": [],
+        "labels": ["ai", "bot", "machine learning"],
         "youtube": [],
         "speakers": [
           {
@@ -1039,7 +1039,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
-        "labels": [],
+        "labels": ["bpm", "bpmn"],
         "youtube": ["SJ_k_PQcGYs"],
         "speakers": [
           {
@@ -1061,7 +1061,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
-        "labels": [],
+        "labels": ["js", "flow.js"],
         "youtube": ["jTU_Fpz4zeM"],
         "speakers": [
           {
