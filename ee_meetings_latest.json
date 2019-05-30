@@ -1,5 +1,149 @@
 [
   {
+    "num": 61,
+    "season": 2018,
+    "datetime": "2018-06-05T19:00:00",
+    "place": {
+      "name": "Topia office", "loc": "https://goo.gl/maps/xRxZ8CFDwhY8mskc7",
+      "addr": "Lõõtsa 12, 11415, Tallinn, Estonia", "url": "https://www.topia.com/contact-us"
+    },
+    "photo": [""],
+    "speeches": [
+      {
+        "lang": "en",
+        "youtube": [""],
+        "speakers": [
+          {
+            "names": {"*": "Sara Robinson"},
+            "titles": {"*": "Developer Advocate @ Google’s Cloud Platform team"},
+            "url": "https://2018.geekout.ee/sara-robinson/",
+            "image": ""
+          }
+        ],
+        "titles": {"*": "Text analysis: from pre-trained APIs to custom models"},
+        "descr": {
+          "en": [
+            "Most applications deal with text data in some form: from chat messages to product reviews to comments and more. Making sense of large amounts of text data manually is difficult and time consuming. Luckily, advances in natural language processing (NLP) have given us a variety of tools to help analyze text. Whether you’re new to ML or you’ve already built your own custom model, by the end of this talk you’ll know how to get started adding NLP to your own application. I’ll begin by introducing the Cloud Natural Language API, which lets you utilize a pre-trained model to get insights from your text with a single API call. Then I’ll discuss how to build a custom model trained on your own data using TensorFlow and Cloud ML Engine, with lots of live demos along the way."
+          ]
+        }
+      },
+      {
+        "lang": "en",
+        "youtube": [""],
+        "speakers": [
+          {
+            "names": {"*": "Chris Thalinger"},
+            "titles": {"*": "Software engineer"},
+            "url": "https://2018.geekout.ee/chris-thalinger/",
+            "image": ""
+          }
+        ],
+        "titles": {"*": "Twitter's quest for wholly Graal"},
+        "descr": {
+          "en": [
+            "Software engineer working on Java Virtual Machines for over 13 years. Twitter is a massively distributed system with thousands of machines running thousands of JVMs. In any similar big system a small change in performance and CPU utilization is multiplied thousandfold and results in big savings. Electricity costs, cooling costs, and possibly reduction of server farm size. One way to improve Java performance and reduce CPU utilization is to simply generate better machine code. Simply is obviously not trivial but doable. Twitter is going down that road and experimenting with Graal to generate better code and reduce cost."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "num": 60,
+    "season": 2018,
+    "datetime": "2018-05-15T19:00:00",
+    "place": {
+      "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
+      "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
+    },
+    "photo": [""],
+    "speeches": [
+      {
+        "lang": "en",
+        "youtube": [""],
+        "speakers": [
+          {
+            "names": {"*": "Miguel Caron"},
+            "titles": {"*": "Head of Baltic Studios @ Gamesys"},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"*": "Building a culture that can survive any obstacle"},
+        "descr": {
+          "en": [
+            "Sharing experience and thoughts on building strong teams and people value subject."
+          ]
+        }
+      },
+      {
+        "lang": "en",
+        "youtube": [""],
+        "speakers": [
+          {
+            "names": {"*": "Peeter Marvet"},
+            "titles": {"*": "Data Protection Officer @ zone.ee"},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"*": "I checked your code and you not gonna believe what I found there"},
+        "descr": {
+          "en": [
+            "About real attacks from Locked Shield to Juice Shop to CTFs."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "num": 59,
+    "season": 2018,
+    "datetime": "2018-04-26T19:00:00",
+    "place": {
+      "name": "Vaimo office", "loc": "",
+      "addr": "Tartu maantee 13, Tallinn", "url": ""
+    },
+    "photo": [""],
+    "speeches": [
+      {
+        "lang": "en",
+        "youtube": [""],
+        "speakers": [
+          {
+            "names": {"*": "Aleksandr Panshin"},
+            "titles": {"*": "Backend Developer @ Vaimo"},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"*": "Being framework agnostic"},
+        "descr": {
+          "en": [
+            ""
+          ]
+        }
+      },
+      {
+        "lang": "en",
+        "youtube": [""],
+        "speakers": [
+          {
+            "names": {"*": "Kirill Linnik"},
+            "titles": {"*": "Senior Software Architect @ Topia"},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"*": "GDPR and kittens"},
+        "descr": {
+          "en": [
+            ""
+          ]
+        }
+      }
+    ]
+  },
+  {
     "num": 58,
     "season": 2018,
     "datetime": "2018-03-20T19:00:00",
