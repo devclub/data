@@ -9,14 +9,14 @@
     },
     "speeches": [
       {
-        "youtube": [""],
+        "youtube": ["rkJUZ6gF92Q"],
         "origVid": ["https://www.youtube.com/watch?v=D5g9i-ZjnNs"],
         "speakers": [{"names": {"*": "Stanislav Gorski"}}],
         "titles": {"en": "Running Docker containers in Amazon AWS"},
         "lang": "en"
       },
       {
-        "youtube": [""],
+        "youtube": ["ubHkcdT3V5o"],
         "origVid": ["https://www.youtube.com/watch?v=wfjgzrJLOLM"],
         "speakers": [{"names": {"*": "Martin Paroll"}}],
         "titles": {"en": "Birds and bees and everything I like. Intro to craft brewing"},
@@ -83,14 +83,14 @@
     },
     "speeches": [
       {
-        "youtube": [""],
+        "youtube": ["tY8_ciWYrhc"],
         "origVid": ["https://www.youtube.com/watch?v=l6VegLWk6sg"],
         "speakers": [{"names": {"*": "Jaan Pullerits"}}],
         "titles": {"en": "How to Dramatically Increase The Delivery Speed of an IT Company?"},
         "lang": "en"
       },
       {
-        "youtube": [""],
+        "youtube": ["Igjckkq0EGo"],
         "origVid": ["https://www.youtube.com/watch?v=IqYKSOycfm4"],
         "speakers": [{"names": {"*": "Oleg Mürk"}}],
         "titles": {"en": "Big Data, Hadoop & Spark Intro"},
@@ -133,14 +133,14 @@
     ],
     "speeches": [
       {
-        "youtube": [""],
+        "youtube": ["QW3xOzXMy_0"],
         "origVid": ["https://www.youtube.com/watch?v=P-41C-JsdF4"],
         "speakers": [{"names": {"*": "Matthew Feigal"}}],
         "titles": {"en": "Kubernetes, Google Container Engine, and the Compute Continuum"},
         "lang": "en"
       },
       {
-        "youtube": [""],
+        "youtube": ["D_nkUOkBbp8"],
         "origVid": ["https://www.youtube.com/watch?v=miSzpP3tdFU"],
         "speakers": [{"names": {"*": "Jurģis Orups"}}],
         "titles": {"en": "What it takes to become a database in the Cloud - NoSQL database?"},
@@ -158,14 +158,14 @@
     },
     "speeches": [
       {
-        "youtube": [""],
+        "youtube": ["KBhhmoCqIJ4"],
         "origVid": ["https://www.youtube.com/watch?v=G-zy4i6F0lI"],
         "speakers": [{"names": {"*": "Vasco Duarte"}}],
         "titles": {"en": "No estimates: how you can predict the release date of your project without estimating"},
         "lang": "en"
       },
       {
-        "youtube": [""],
+        "youtube": ["7OPXYnUIbyk"],
         "origVid": ["https://www.youtube.com/watch?v=6-rZCC8BL_k"],
         "speakers": [{"names": {"*": "Konstantin Root"}}],
         "titles": {"en": "Using Docker in development and production, is it as useful as the hype claims?"},
@@ -183,14 +183,14 @@
     },
     "speeches": [
       {
-        "youtube": [""],
+        "youtube": ["g0Jbh8fddao"],
         "origVid": ["https://www.youtube.com/watch?v=ZsMzaiwcJLg"],
         "speakers": [{"names": {"*": "Märt Kalmo"}}],
         "titles": {"en": "TDD for developers in non TDD software company"},
         "lang": "en"
       },
       {
-        "youtube": [""],
+        "youtube": ["HkXQr33k_SE"],
         "origVid": ["https://www.youtube.com/watch?v=L0plJK-5INo"],
         "speakers": [{"names": {"*": "Stanislav Gorski"}}],
         "titles": {"en": "Prototyping with Ruby on Rails"},
@@ -208,14 +208,14 @@
     },
     "speeches": [
       {
-        "youtube": [""],
+        "youtube": ["Xr84WH6DX3Q"],
         "origVid": ["https://www.youtube.com/watch?v=iz6xOnJgQn8"],
         "speakers": [{"names": {"*": "Rain Johanson"}}],
         "titles": {"en": "A peek to Taxify engineering - behind the scenes"},
         "lang": "en"
       },
       {
-        "youtube": [""],
+        "youtube": ["O9LqnyzzH6I"],
         "origVid": ["https://www.youtube.com/watch?v=lDv9lYCAniE"],
         "speakers": [{"names": {"*": "Maria Pääsuke"}}, {"names": {"*": "Maroš Kotula"}}],
         "titles": {"en": "Internet of things meets blockchain"},
@@ -233,14 +233,14 @@
     },
     "speeches": [
       {
-        "youtube": [""],
+        "youtube": ["mlSJvHDBNLU"],
         "origVid": ["https://www.youtube.com/watch?v=9_722LCX15w"],
         "speakers": [{"names": {"*": "Mait Peekma"}}],
         "titles": {"en": "Do you think you can trust your logs?"},
         "lang": "en"
       },
       {
-        "youtube": [""],
+        "youtube": ["k2LSbcRkuiQ"],
         "origVid": ["https://www.youtube.com/watch?v=L_Y0rZxLsdk"],
         "speakers": [{"names": {"*": "Sven Varkel"}}],
         "titles": {"en": "Can script save the world? Devops, data migration"},
@@ -261,21 +261,21 @@
     ],
     "speeches": [
       {
-        "youtube": [""],
+        "youtube": ["-X9tdApx0pI"],
         "origVid": ["https://www.youtube.com/watch?v=4ti7bOO2YCw"],
         "speakers": [{"names": {"*": "Asse Sauga"}}],
         "titles": {"en": "Bitcoin and Ethereum - software development opportunities and potential"},
         "lang": "en"
       },
       {
-        "youtube": [""],
+        "youtube": ["wA-cwoK1Gwg"],
         "origVid": ["https://www.youtube.com/watch?v=tis1bvAnLFc"],
         "speakers": [{"names": {"*": "Erik Jõgi"}}],
         "titles": {"en": "One more way to deliver better software: Sports"},
         "lang": "en"
       },
       {
-        "youtube": [""],
+        "youtube": ["9C2mgMlrjEw"],
         "origVid": ["https://www.youtube.com/watch?v=i3IIr6Xcr54"],
         "speakers": [{"names": {"*": "Matti Jagula"}}, {"names": {"*": "Taavi Tuisk"}}],
         "titles": {"en": "Auto-scaling a Rails application on AWS"},
@@ -296,14 +296,14 @@
     ],
     "speeches": [
       {
-        "youtube": [""],
+        "youtube": ["1Rn5lJxuRtI"],
         "origVid": ["https://www.youtube.com/watch?v=pm5QzhPj0dY"],
         "speakers": [{"names": {"*": "Asko Oja"}}],
         "titles": {"en": "Making Fleep"},
         "lang": "en"
       },
       {
-        "youtube": [""],
+        "youtube": ["pLgQbhelS6U"],
         "origVid": ["https://www.youtube.com/watch?v=XyV7WNbM-rU"],
         "speakers": [{"names": {"*": "Wilko Nienhaus"}}],
         "titles": {"en": "Continuous Delivery"},
@@ -324,14 +324,14 @@
     ],
     "speeches": [
       {
-        "youtube": [""],
+        "youtube": ["H3H1Omkf43o"],
         "origVid": ["https://www.youtube.com/watch?v=uSFlpQ56meI"],
         "speakers": [{"names": {"*": "Jens Bussmann"}}, {"names": {"*": "Jens Kuehlers"}}],
         "titles": {"en": "Big Data Analysis with the Google Cloud Platform"},
         "lang": "en"
       },
       {
-        "youtube": [""],
+        "youtube": ["30tNpeBVFeM"],
         "origVid": ["https://www.youtube.com/watch?v=rwxaoF3nAwM"],
         "speakers": [{"names": {"*": "Jens Kuehlers"}}],
         "titles": {"en": "Growth through innovation"},
@@ -352,7 +352,7 @@
     ],
     "speeches": [
       {
-        "youtube": [""],
+        "youtube": ["ZAcLZd7I_m8"],
         "origVid": ["https://www.youtube.com/watch?v=IokUNUEkkeY"],
         "speakers": [{"names": {"*": "Anton Arhipov"}}],
         "titles": {"en": "Rebel Agents"},
@@ -378,14 +378,14 @@
     ],
     "speeches": [
       {
-        "youtube": [""],
+        "youtube": ["S_PzxK-1TRg"],
         "origVid": ["https://www.youtube.com/watch?v=0VgtM3xIfVs"],
         "speakers": [{"names": {"*": "Nikita Salnikov-Tarnovski"}}],
         "titles": {"en": "How Plumbr drips and flows"},
         "lang": "en"
       },
       {
-        "youtube": [""],
+        "youtube": ["lfTMLCf3Ak8"],
         "origVid": ["https://www.youtube.com/watch?v=Qobu6lAPc7U"],
         "speakers": [{"names": {"*": "TransferWise"}}],
         "titles": {"en": "Building an international payment engine - the good,the bad and the ugly"},
@@ -406,11 +406,13 @@
     ],
     "speeches": [
       {
+        "youtube": ["fo3Y6L8CUv4"],
         "speakers": [{"names": {"*": "Filipp Keks"}}],
         "titles": {"en": "Unity3D - explosion of indie game development"},
         "lang": "en"
       },
       {
+        "youtube": ["qh3P7T3nP0g"],
         "speakers": [{"names": {"*": "Kristo Iila"}}],
         "titles": {"en": "Marinexplore - The Ocean's Big Data Platform"},
         "lang": "en"
@@ -427,7 +429,7 @@
     },
     "speeches": [
       {
-        "youtube": [""],
+        "youtube": ["uYvnyF_4eO0"],
         "origVid": ["https://vimeo.com/91657625"],
         "speakers": [{"names": {"*": "Anton Keks"}}],
         "titles": {"en": "Apache Cordova"},
@@ -452,14 +454,14 @@
     },
     "speeches": [
       {
-        "youtube": [""],
+        "youtube": ["1i4xq6uIZ1M"],
         "origVid": ["https://vimeo.com/85442022"],
         "speakers": [{"names": {"*": "Rain Johanson"}}],
         "titles": {"en": "TransferWise"},
         "lang": "et"
       },
       {
-        "youtube": [""],
+        "youtube": ["VkTqC1OupAA"],
         "origVid": ["https://vimeo.com/85442023"],
         "speakers": [{"names": {"*": "Ethel Voites"}}],
         "titles": {"en": "Go Work A Bit"},
