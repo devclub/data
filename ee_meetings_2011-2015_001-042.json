@@ -1024,14 +1024,14 @@
     ],
     "speeches": [
       {
-        "youtube": [""],
+        "youtube": ["yaRtem01bdk"],
         "origVid": ["https://vimeo.com/31716760"],
         "speakers": [{"names": {"*": "Filipp Keks"}}],
         "titles": {"en": "Mobile Multiplatform Development"},
         "lang": "et"
       },
       {
-        "youtube": [""],
+        "youtube": ["mp28Q-_T1t4"],
         "origVid": ["https://vimeo.com/31716868"],
         "speakers": [{"names": {"*": "Ixonos Estonia OÜ"}}],
         "titles": {"en": "Android/MeeGo/Tizan sisikonna kiirülevaade"},
@@ -1065,28 +1065,28 @@
     ],
     "speeches": [
       {
-        "youtube": [""],
+        "youtube": ["QR1pteRgXT8"],
         "origVid": ["https://vimeo.com/28099011"],
         "speakers": [{"names": {"*": "Anton Keks"}}],
         "titles": {"en": "Plain Simple Java"},
         "lang": "et"
       },
       {
-        "youtube": [""],
+        "youtube": ["tFnfzBMPfko"],
         "origVid": ["https://vimeo.com/28097031"],
         "speakers": [{"names": {"*": "Erik Jõgi"}}],
         "titles": {"en": "Real-World Scala"},
         "lang": "et"
       },
       {
-        "youtube": [""],
+        "youtube": ["CXV4P4Vz3dY"],
         "origVid": ["https://vimeo.com/28096809"],
         "speakers": [{"names": {"*": "Andri Möll"}}],
         "titles": {"en": "Backbone"},
         "lang": "et"
       },
       {
-        "youtube": [""],
+        "youtube": ["Vt1x13gqnO4"],
         "origVid": ["https://vimeo.com/28330135"],
         "speakers": [{"names": {"*": "Anton Narusberg"}}],
         "titles": {"en": "Ruby Singleton Class"},
@@ -1107,21 +1107,21 @@
     ],
     "speeches": [
       {
-        "youtube": [""],
+        "youtube": ["sJKODBYZDQA"],
         "origVid": ["https://vimeo.com/26551584"],
         "speakers": [{"names": {"*": "Henri Muurimaa"}}],
         "titles": {"en": "Vaadin + Scala"},
         "lang": "en"
       },
       {
-        "youtube": [""],
+        "youtube": ["hmRNR_Hc3oc"],
         "origVid": ["https://vimeo.com/26033277"],
         "speakers": [{"names": {"*": "Anton Shishkov"}}],
         "titles": {"en": "Automated Testing praktikas"},
         "lang": "en"
       },
       {
-        "youtube": [""],
+        "youtube": ["jdtZlMPmQsY"],
         "origVid": ["https://vimeo.com/26050864"],
         "speakers": [{"names": {"*": "Anton Narusberg"}}, {"names": {"*": "Andri Möll"}}],
         "titles": {"en": "Starting with Rails"},
@@ -1142,14 +1142,14 @@
     ],
     "speeches": [
       {
-        "youtube": [""],
+        "youtube": ["saVbHZKRjyA"],
         "origVid": ["https://vimeo.com/24199053"],
         "speakers": [{"names": {"*": "Henn Sarv"}}],
         "titles": {"en": "LINQ .NET-võhikutele"},
         "lang": "et"
       },
       {
-        "youtube": [""],
+        "youtube": ["9kMs9lZOD3Y"],
         "origVid": ["https://vimeo.com/24192853"],
         "speakers": [{"names": {"*": "Mark Kofman"}}],
         "titles": {"en": "Meetrikad, milleks ja kuidas & Programeter"},
@@ -1170,21 +1170,21 @@
     ],
     "speeches": [
       {
-        "youtube": [""],
+        "youtube": ["IO2JLUVtZCo"],
         "origVid": ["https://vimeo.com/22266026"],
         "speakers": [{"names": {"*": "Jaan Pillesaar"}}],
         "titles": {"en": "Helmes 20"},
         "lang": "et"
       },
       {
-        "youtube": [""],
+        "youtube": ["DvLjJcc08E0"],
         "origVid": ["https://vimeo.com/22111173"],
         "speakers": [{"names": {"*": "Toomas Römer"}}],
         "titles": {"en": "LiveRebeli hingeelu"},
         "lang": "et"
       },
       {
-        "youtube": [""],
+        "youtube": ["d46b1erZT5s"],
         "origVid": ["https://vimeo.com/22107350"],
         "speakers": [{"names": {"*": "Anton Keks"}}],
         "titles": {"en": "Database Refactoring"},
@@ -1205,21 +1205,21 @@
     ],
     "speeches": [
       {
-        "youtube": [""],
+        "youtube": ["WMY2xrnJ9XU"],
         "origVid": ["https://vimeo.com/20640834"],
         "speakers": [{"names": {"*": "Meelis Lang"}}],
         "titles": {"en": "Kvaliteetne projekt"},
         "lang": "et"
       },
       {
-        "youtube": [""],
+        "youtube": ["dXR2jQg6tNE"],
         "origVid": ["https://vimeo.com/20639182"],
         "speakers": [{"names": {"*": "Erik Jõgi"}}],
         "titles": {"en": "Java Puzzlers"},
         "lang": "et"
       },
       {
-        "youtube": [""],
+        "youtube": ["TwbC-VkETQ4"],
         "origVid": ["https://vimeo.com/20624252"],
         "speakers": [{"names": {"*": "Tarvi Martens"}}],
         "titles": {"en": "ID-kaardi tagatuba, argipäev ja e-hääletamine"},
@@ -1240,21 +1240,21 @@
     ],
     "speeches": [
       {
-        "youtube": [""],
+        "youtube": ["0L_4I-11Dfw"],
         "origVid": ["https://vimeo.com/19541023"],
         "speakers": [{"names": {"*": "Anton Arhipov"}}],
         "titles": {"en": "Binary patching of Java classes for fun (and profit)"},
         "lang": "et"
       },
       {
-        "youtube": [""],
+        "youtube": ["AoiiJMt536U"],
         "origVid": ["https://vimeo.com/19541064"],
         "speakers": [{"names": {"*": "Margus Freudenthal"}}],
         "titles": {"en": "Valdkonnaspetsiifilised keeled"},
         "lang": "et"
       },
       {
-        "youtube": [""],
+        "youtube": ["ng2SMKOfoCk"],
         "origVid": ["https://vimeo.com/19556012"],
         "speakers": [{"names": {"*": "Revo Sirel"}}],
         "titles": {"en": "javax.smartcardio ja EstEID"},
