@@ -30,6 +30,11 @@
       {
         "lang": "en",
         "youtube": [""],
+        "info": {
+          "ru": "В монтажной.",
+          "en": "Editing video.",
+          "et": "Video tehakse."
+        },
         "speakers": [
           {
             "names": {"*": "Aleksandr Tavgen", "ru": "Александр Тавген"},
@@ -48,6 +53,11 @@
       {
         "lang": "en",
         "youtube": [""],
+        "info": {
+          "ru": "В монтажной.",
+          "en": "Editing video.",
+          "et": "Video tehakse."
+        },
         "speakers": [
           {
             "names": {"*": "Kirils Solovjovs"},
@@ -284,6 +294,11 @@
       {
         "lang": "en",
         "youtube": [""],
+        "info": {
+          "ru": "В монтажной.",
+          "en": "Editing video.",
+          "et": "Video tehakse."
+        },
         "speakers": [
           {
             "names": {"*": "Valeri Tverdohleb"},
@@ -564,6 +579,11 @@
       {
         "lang": "en",
         "youtube": [""],
+        "info": {
+          "ru": "В монтажной.",
+          "en": "Editing video.",
+          "et": "Video tehakse."
+        },
         "speakers": [
           {
             "names": {"*": "Peeter Marvet"},
@@ -582,6 +602,11 @@
       {
         "lang": "en",
         "youtube": [""],
+        "info": {
+          "ru": "В монтажной.",
+          "en": "Editing video.",
+          "et": "Video tehakse."
+        },
         "speakers": [
           {
             "names": {"*": "Ervin Weber"},
