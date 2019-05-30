@@ -14,7 +14,7 @@
       {
         "org": {"cam": "as", "edit": ""},
         "lang": "ru",
-        "labels": [],
+        "labels": ["reactive", "functional"],
         "youtube": [],
         "speakers": [
           {
@@ -34,7 +34,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
-        "labels": [],
+        "labels": ["google cloud", "vpn"],
         "youtube": [],
         "speakers": [
           {
@@ -54,7 +54,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
-        "labels": [],
+        "labels": ["postgresql", "db"],
         "youtube": [],
         "speakers": [
           {
@@ -88,7 +88,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
-        "labels": [],
+        "labels": ["kubernetes", "cluster"],
         "youtube": [],
         "speakers": [
           {
@@ -109,7 +109,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
-        "labels": [],
+        "labels": ["azure", "active directory", "security"],
         "youtube": ["Qr-9Yqz9zlU"],
         "speakers": [
           {
@@ -129,7 +129,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
-        "labels": [],
+        "labels": ["tests", "flacky"],
         "youtube": ["elQ2LGGU2bg"],
         "speakers": [
           {
@@ -165,7 +165,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
-        "labels": [],
+        "labels": ["postgresql", "db"],
         "youtube": ["wdbWn_2od8w"],
         "speakers": [
           {
@@ -206,7 +206,7 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
-        "labels": [],
+        "labels": ["blockchain", "game"],
         "youtube": [],
         "speakers": [
           {
