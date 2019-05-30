@@ -1,5 +1,119 @@
 [
   {
+    "num": 72,
+    "season": 2019,
+    "datetime": "2019-05-28T19:00:00",
+    "place": {
+      "name": "Topia office", "loc": "https://goo.gl/maps/xRxZ8CFDwhY8mskc7",
+      "addr": "Lõõtsa 12, 11415, Tallinn, Estonia", "url": "https://www.topia.com/contact-us"
+    },
+    "photo": [""],
+    "speeches": [
+      {
+        "lang": "en",
+        "youtube": [""],
+        "speakers": [
+          {
+            "names": {"*": "Mervi Sepp"},
+            "titles": {"*": "@ Topia"},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"*": "Dividing up Metropolises - Modelling Rent prices across the globe"},
+        "descr": {
+          "en": [
+            ""
+          ]
+        }
+      },
+      {
+        "lang": "en",
+        "youtube": [""],
+        "speakers": [
+          {
+            "names": {"*": "Aleksandr Tavgen", "ru": "Александр Тавген"},
+            "titles": {"*": "Software Architect with Data Science and Financial Background"},
+            "url": "https://www.linkedin.com/in/aleksandr-tavgen-24431815b",
+            "image": "atavgen.jpg"
+          }
+        ],
+        "titles": {"*": "Reactive and functional approaches"},
+        "descr": {
+          "*": [
+            "Сoncurrency and Parallelism. Context switch pain. Functional approach. Java Reactive Revolution. Blocking vs NonBlocking execution. Functional Architecture."
+          ]
+        }
+      },
+      {
+        "lang": "en",
+        "youtube": [""],
+        "speakers": [
+          {
+            "names": {"*": "Kirils Solovjovs"},
+            "titles": {"*": "@ Possible Security (Latvia)"},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"*": "Toll of personal privacy in 2018"},
+        "descr": {
+          "en": [
+            ""
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "num": 71,
+    "season": 2019,
+    "datetime": "2019-04-09T19:00:00",
+    "place": {
+      "name": "Park Inn by Radisson Meriton Conference & Spa Hotel Tallinn", "loc": "https://goo.gl/maps/AJbuvwDS7co",
+      "addr": "Toompuiestee 27/Paldiski mnt 4, 10149 Tallinn", "url": "https://www.parkinn.com/hotel-meriton-tallinn"
+    },
+    "photo": [""],
+    "speeches": [
+      {
+        "lang": "en",
+        "youtube": [""],
+        "speakers": [
+          {
+            "names": {"*": "Doug Sillars"},
+            "titles": {"*": "Web Google Developer Expert, author of O’Reilly’s “High Performance Android Apps”"},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"*": "Fast and Beautiful Images"},
+        "descr": {
+          "en": [
+            "“Fast and Beautiful Images” - the best ways to build images for all of the screens/devices that are out there."
+          ]
+        }
+      },
+      {
+        "lang": "en",
+        "youtube": [""],
+        "speakers": [
+          {
+            "names": {"*": "Lauri Koobas"},
+            "titles": {"*": "Data Warehouse Engineer @ Starship Technologies"},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"*": "Differences between software (engineering) and data engineering"},
+        "descr": {
+          "en": [
+            "A brief introduction to what it takes an experienced software engineer to enter the data engineering world."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "num": 70,
     "season": 2019,
     "datetime": "2019-03-28T19:00:00",
