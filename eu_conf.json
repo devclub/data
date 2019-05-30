@@ -1,7 +1,8 @@
 {
   "defaultLang": "ru",
-  "navbarStyle": {"background": "#12480c"},
-  "footerStyle": {"background": "#12480c"},
+  "baseColor": "#12480c",
+  "lightColor": "#a7c1a4",
+  "hasTop": true,
   "devclubText": "DEVCLUB.EU",
   "devclubMenuUrl": "https://devclub.ee",
   "devclubMenuText": "DEVCLUB.EE",
@@ -72,7 +73,5 @@
         "twitter": "https://twitter.com/DevClub_lv"
       }
     ]
-  },
-  "blogUrl": "https://blog.devclub.eu",
-  "hasTop": true
+  }
 }
