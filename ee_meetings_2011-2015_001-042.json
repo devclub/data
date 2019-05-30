@@ -244,7 +244,7 @@
         "origVid": ["https://www.youtube.com/watch?v=L_Y0rZxLsdk"],
         "speakers": [{"names": {"*": "Sven Varkel"}}],
         "titles": {"en": "Can script save the world? Devops, data migration"},
-        "lang": "ee"
+        "lang": "et"
       }
     ]
   },
@@ -456,35 +456,35 @@
         "origVid": ["https://vimeo.com/85442022"],
         "speakers": [{"names": {"*": "Rain Johanson"}}],
         "titles": {"en": "TransferWise"},
-        "lang": "ee"
+        "lang": "et"
       },
       {
         "youtube": [""],
         "origVid": ["https://vimeo.com/85442023"],
         "speakers": [{"names": {"*": "Ethel Voites"}}],
         "titles": {"en": "Go Work A Bit"},
-        "lang": "ee"
+        "lang": "et"
       },
       {
         "youtube": [""],
         "origVid": ["https://vimeo.com/82581295"],
         "speakers": [{"names": {"*": "Heldin Rikk"}}],
         "titles": {"en": "Icebreaker cards - kick-starter teie retrospektiivi jaoks"},
-        "lang": "ee"
+        "lang": "et"
       },
       {
         "youtube": [""],
         "origVid": ["https://vimeo.com/82581296"],
         "speakers": [{"names": {"*": "Jaan Pullerits"}}],
         "titles": {"en": "MYJAR"},
-        "lang": "ee"
+        "lang": "et"
       },
       {
         "youtube": [""],
         "origVid": ["https://vimeo.com/82604791"],
         "speakers": [{"names": {"*": "Alek Kozlov"}}],
         "titles": {"en": "Õppimiskõverast - meie oskused ja väärtuse loomine"},
-        "lang": "ee"
+        "lang": "et"
       }
     ]
   },
@@ -553,12 +553,12 @@
       {
         "speakers": [{"names": {"*": "Andrei Solntsev"}}],
         "titles": {"en": "UI-TDD Workshop"},
-        "lang": "ee"
+        "lang": "et"
       },
       {
         "speakers": [{"names": {"*": "Priit Tamboom"}}],
         "titles": {"en": ""},
-        "lang": "ee"
+        "lang": "et"
       }
     ]
   },
@@ -576,14 +576,14 @@
         "origVid": ["https://vimeo.com/65033737"],
         "speakers": [{"names": {"*": "Alvar Lumberg"}}],
         "titles": {"en": "Continuous Delivery in action (in Estonian)"},
-        "lang": "ee"
+        "lang": "et"
       },
       {
         "youtube": [""],
         "origVid": ["https://vimeo.com/65033739"],
         "speakers": [{"names": {"*": "Mart Oruaas"}}, {"names": {"*": "Renno Paat"}}],
         "titles": {"en": "Continuous Integration and Continuous Delivery GrabCADi kogemus"},
-        "lang": "ee"
+        "lang": "et"
       }
     ]
   },
@@ -601,21 +601,21 @@
         "origVid": ["https://vimeo.com/61307907"],
         "speakers": [{"names": {"*": "Anton Arhipov"}}],
         "titles": {"en": "Tehnilise tootejuhi seiklused"},
-        "lang": "ee"
+        "lang": "et"
       },
       {
         "youtube": [""],
         "origVid": ["https://vimeo.com/61308722"],
         "speakers": [{"names": {"*": "Sergei Anikin"}}],
         "titles": {"en": "Windows 8 modernse arendusplatvormi tutvustus läbi Skype meeskonna kogemuste prizma"},
-        "lang": "ee"
+        "lang": "et"
       },
       {
         "youtube": [""],
         "origVid": ["https://vimeo.com/61309614"],
         "speakers": [{"names": {"*": "Priit Kaasik"}}],
         "titles": {"en": "Agile Technical Operations"},
-        "lang": "ee"
+        "lang": "et"
       }
     ]
   },
@@ -631,12 +631,12 @@
       {
         "speakers": [{"names": {"*": "Viljo Marrandi"}}],
         "titles": {"en": ""},
-        "lang": "ee"
+        "lang": "et"
       },
       {
         "speakers": [{"names": {"*": "Erik Jõgi"}}],
         "titles": {"en": "Õpituba - Code Kata"},
-        "lang": "ee"
+        "lang": "et"
       }
     ]
   },
@@ -657,35 +657,35 @@
         "origVid": ["https://vimeo.com/55721899"],
         "speakers": [{"names": {"*": "Maarika Susi"}}, {"names": {"*": "Martin Grüner"}}],
         "titles": {"en": "Garage48"},
-        "lang": "ee"
+        "lang": "et"
       },
       {
         "youtube": [""],
         "origVid": ["https://vimeo.com/55719753"],
         "speakers": [{"names": {"*": "Alvar Lumberg"}}],
         "titles": {"en": "Sel sügisel San Franciscos toimunud QCon2012 konverentsist"},
-        "lang": "ee"
+        "lang": "et"
       },
       {
         "youtube": [""],
         "origVid": ["https://vimeo.com/55719659"],
         "speakers": [{"names": {"*": "Hanno Jarvet"}}],
         "titles": {"en": "Otsuste langetamise kunst"},
-        "lang": "ee"
+        "lang": "et"
       },
       {
         "youtube": [""],
         "origVid": ["https://vimeo.com/55719913"],
         "speakers": [{"names": {"*": "Erik Jõgi"}}],
         "titles": {"en": "Töötades firmas 8th Light"},
-        "lang": "ee"
+        "lang": "et"
       },
       {
         "youtube": [""],
         "origVid": ["https://vimeo.com/55720798"],
         "speakers": [{"names": {"*": "Patrick Abner"}}],
         "titles": {"en": "Miks jooksmine on hea sport"},
-        "lang": "ee"
+        "lang": "et"
       },
       {
         "youtube": [""],
@@ -725,7 +725,7 @@
         "origVid": ["https://vimeo.com/49722152"],
         "speakers": [{"names": {"*": "Artjom Kurapov"}}],
         "titles": {"en": "backlog"},
-        "lang": "ee"
+        "lang": "et"
       },
       {
         "youtube": [""],
@@ -746,7 +746,7 @@
         "origVid": ["https://vimeo.com/49839870"],
         "speakers": [{"names": {"*": "Mehis Hakkaja"}}],
         "titles": {"en": "Veebirakenduste turvatestimine ja Maarjamaa tüüpilised ämbrid"},
-        "lang": "ee"
+        "lang": "et"
       }
     ]
   },
@@ -767,21 +767,21 @@
         "origVid": ["https://vimeo.com/48646215"],
         "speakers": [{"names": {"*": "Erik Jõgi"}}],
         "titles": {"en": "Elektrituru avanemine"},
-        "lang": "ee"
+        "lang": "et"
       },
       {
         "youtube": [""],
         "origVid": ["https://vimeo.com/48288805"],
         "speakers": [{"names": {"*": "Peeter Marvet"}}],
         "titles": {"en": "Zurbi Foundation"},
-        "lang": "ee"
+        "lang": "et"
       },
       {
         "youtube": [""],
         "origVid": ["https://vimeo.com/48288432"],
         "speakers": [{"names": {"*": "Ahto Truu"}}],
         "titles": {"en": "GuardTime"},
-        "lang": "ee"
+        "lang": "et"
       }
     ]
   },
@@ -802,49 +802,49 @@
         "origVid": ["https://vimeo.com/45164539"],
         "speakers": [{"names": {"*": "Siim Tuisk"}}],
         "titles": {"en": "ACTA: esimene lahing kodanike õiguste pärast"},
-        "lang": "ee"
+        "lang": "et"
       },
       {
         "youtube": [""],
         "origVid": ["https://vimeo.com/45161927"],
         "speakers": [{"names": {"*": "Henri Veidenbaum"}}],
         "titles": {"en": "NFC? Yep!"},
-        "lang": "ee"
+        "lang": "et"
       },
       {
         "youtube": [""],
         "origVid": ["https://vimeo.com/45161929"],
         "speakers": [{"names": {"*": "Taavi Talvik"}}],
         "titles": {"en": "Pistikarvutid"},
-        "lang": "ee"
+        "lang": "et"
       },
       {
         "youtube": [""],
         "origVid": ["https://vimeo.com/45161930"],
         "speakers": [{"names": {"*": "Mart Stöör"}}],
         "titles": {"en": "Crowdsourcing ja kuidas seda Eestis lakkamatu ressursipuuduse kontekstis teha"},
-        "lang": "ee"
+        "lang": "et"
       },
       {
         "youtube": [""],
         "origVid": ["https://vimeo.com/45161931"],
         "speakers": [{"names": {"*": "Team Artify"}}],
         "titles": {"en": "How to choose a framework"},
-        "lang": "ee"
+        "lang": "et"
       },
       {
         "youtube": [""],
         "origVid": ["https://vimeo.com/45164538"],
         "speakers": [{"names": {"*": "Hanno Jarvet"}}],
         "titles": {"en": "Ühise visiooni loomine"},
-        "lang": "ee"
+        "lang": "et"
       },
       {
         "youtube": [""],
         "origVid": ["https://vimeo.com/45164540"],
         "speakers": [{"names": {"*": "Ita"}}, {"names": {"*": "Heldin"}}],
         "titles": {"en": "devclub.ee XIV"},
-        "lang": "ee"
+        "lang": "et"
       }
     ]
   },
@@ -865,21 +865,21 @@
         "origVid": ["https://vimeo.com/43631906"],
         "speakers": [{"names": {"*": "Henn Sarv"}}],
         "titles": {"en": "Windows Azure - mis ta on ja kuidas teda süüa"},
-        "lang": "ee"
+        "lang": "et"
       },
       {
         "youtube": [""],
         "origVid": ["https://vimeo.com/43631904"],
         "speakers": [{"names": {"*": "Tan Silliksaar"}}],
         "titles": {"en": "Windows Phone ja Windows 8 arendus"},
-        "lang": "ee"
+        "lang": "et"
       },
       {
         "youtube": [""],
         "origVid": ["https://vimeo.com/43631905"],
         "speakers": [{"names": {"*": "Tero Hurskainen"}}],
         "titles": {"en": "Kuidas lihtsamini Apple’i App Store’i jõuda"},
-        "lang": "ee"
+        "lang": "et"
       }
     ]
   },
@@ -897,28 +897,28 @@
         "origVid": ["https://vimeo.com/40120635"],
         "speakers": [{"names": {"*": "Kairi Kallas"}}, {"names": {"*": "Allan Randlepp"}}],
         "titles": {"en": "Rahva ja eluruumide loendus 2011"},
-        "lang": "ee"
+        "lang": "et"
       },
       {
         "youtube": [""],
         "origVid": ["https://vimeo.com/40120636"],
         "speakers": [{"names": {"*": "Taavi Talvik"}}],
         "titles": {"en": "Erlang"},
-        "lang": "ee"
+        "lang": "et"
       },
       {
         "youtube": [""],
         "origVid": ["https://vimeo.com/40120633"],
         "speakers": [{"names": {"*": "David Liik"}}],
         "titles": {"en": "Skype"},
-        "lang": "ee"
+        "lang": "et"
       },
       {
         "youtube": [""],
         "origVid": ["https://vimeo.com/40120634"],
         "speakers": [{"names": {"*": "Anton Keks"}}, {"names": {"*": "Anton Keks"}}],
         "titles": {"en": "Open-source Codeborne"},
-        "lang": "ee"
+        "lang": "et"
       }
     ]
   },
@@ -953,7 +953,7 @@
         "origVid": ["https://vimeo.com/37796051"],
         "speakers": [{"names": {"*": "Anton Keks"}}],
         "titles": {"en": "Asünkroonne programmeerimine Node.js-iga"},
-        "lang": "ee"
+        "lang": "et"
       }
     ]
   },
@@ -979,7 +979,7 @@
       {
         "speakers": [{"names": {"*": "Andrei Solntsev"}}],
         "titles": {"en": "Keep It Simple, Stupid - praaktika"},
-        "lang": "ee"
+        "lang": "et"
       }
     ]
   },
@@ -1000,14 +1000,14 @@
         "origVid": ["https://vimeo.com/33073401"],
         "speakers": [{"names": {"*": "Jaanus Lang"}}],
         "titles": {"en": "Kuidas Artify tegi MMO strateegiamängu?"},
-        "lang": "ee"
+        "lang": "et"
       },
       {
         "youtube": [""],
         "origVid": ["https://vimeo.com/33074521"],
         "speakers": [{"names": {"*": "Aleksandr Jastremski"}}],
         "titles": {"en": "BOT’id ja protsesside automatiseerimine"},
-        "lang": "ee"
+        "lang": "et"
       }
     ]
   },
@@ -1028,14 +1028,14 @@
         "origVid": ["https://vimeo.com/31716760"],
         "speakers": [{"names": {"*": "Filipp Keks"}}],
         "titles": {"en": "Mobile Multiplatform Development"},
-        "lang": "ee"
+        "lang": "et"
       },
       {
         "youtube": [""],
         "origVid": ["https://vimeo.com/31716868"],
         "speakers": [{"names": {"*": "Ixonos Estonia OÜ"}}],
         "titles": {"en": "Android/MeeGo/Tizan sisikonna kiirülevaade"},
-        "lang": "ee"
+        "lang": "et"
       }
     ]
   },
@@ -1069,28 +1069,28 @@
         "origVid": ["https://vimeo.com/28099011"],
         "speakers": [{"names": {"*": "Anton Keks"}}],
         "titles": {"en": "Plain Simple Java"},
-        "lang": "ee"
+        "lang": "et"
       },
       {
         "youtube": [""],
         "origVid": ["https://vimeo.com/28097031"],
         "speakers": [{"names": {"*": "Erik Jõgi"}}],
         "titles": {"en": "Real-World Scala"},
-        "lang": "ee"
+        "lang": "et"
       },
       {
         "youtube": [""],
         "origVid": ["https://vimeo.com/28096809"],
         "speakers": [{"names": {"*": "Andri Möll"}}],
         "titles": {"en": "Backbone"},
-        "lang": "ee"
+        "lang": "et"
       },
       {
         "youtube": [""],
         "origVid": ["https://vimeo.com/28330135"],
         "speakers": [{"names": {"*": "Anton Narusberg"}}],
         "titles": {"en": "Ruby Singleton Class"},
-        "lang": "ee"
+        "lang": "et"
       }
     ]
   },
@@ -1125,7 +1125,7 @@
         "origVid": ["https://vimeo.com/26050864"],
         "speakers": [{"names": {"*": "Anton Narusberg"}}, {"names": {"*": "Andri Möll"}}],
         "titles": {"en": "Starting with Rails"},
-        "lang": "ee"
+        "lang": "et"
       }
     ]
   },
@@ -1146,14 +1146,14 @@
         "origVid": ["https://vimeo.com/24199053"],
         "speakers": [{"names": {"*": "Henn Sarv"}}],
         "titles": {"en": "LINQ .NET-võhikutele"},
-        "lang": "ee"
+        "lang": "et"
       },
       {
         "youtube": [""],
         "origVid": ["https://vimeo.com/24192853"],
         "speakers": [{"names": {"*": "Mark Kofman"}}],
         "titles": {"en": "Meetrikad, milleks ja kuidas & Programeter"},
-        "lang": "ee"
+        "lang": "et"
       }
     ]
   },
@@ -1174,21 +1174,21 @@
         "origVid": ["https://vimeo.com/22266026"],
         "speakers": [{"names": {"*": "Jaan Pillesaar"}}],
         "titles": {"en": "Helmes 20"},
-        "lang": "ee"
+        "lang": "et"
       },
       {
         "youtube": [""],
         "origVid": ["https://vimeo.com/22111173"],
         "speakers": [{"names": {"*": "Toomas Römer"}}],
         "titles": {"en": "LiveRebeli hingeelu"},
-        "lang": "ee"
+        "lang": "et"
       },
       {
         "youtube": [""],
         "origVid": ["https://vimeo.com/22107350"],
         "speakers": [{"names": {"*": "Anton Keks"}}],
         "titles": {"en": "Database Refactoring"},
-        "lang": "ee"
+        "lang": "et"
       }
     ]
   },
@@ -1209,21 +1209,21 @@
         "origVid": ["https://vimeo.com/20640834"],
         "speakers": [{"names": {"*": "Meelis Lang"}}],
         "titles": {"en": "Kvaliteetne projekt"},
-        "lang": "ee"
+        "lang": "et"
       },
       {
         "youtube": [""],
         "origVid": ["https://vimeo.com/20639182"],
         "speakers": [{"names": {"*": "Erik Jõgi"}}],
         "titles": {"en": "Java Puzzlers"},
-        "lang": "ee"
+        "lang": "et"
       },
       {
         "youtube": [""],
         "origVid": ["https://vimeo.com/20624252"],
         "speakers": [{"names": {"*": "Tarvi Martens"}}],
         "titles": {"en": "ID-kaardi tagatuba, argipäev ja e-hääletamine"},
-        "lang": "ee"
+        "lang": "et"
       }
     ]
   },
@@ -1244,21 +1244,21 @@
         "origVid": ["https://vimeo.com/19541023"],
         "speakers": [{"names": {"*": "Anton Arhipov"}}],
         "titles": {"en": "Binary patching of Java classes for fun (and profit)"},
-        "lang": "ee"
+        "lang": "et"
       },
       {
         "youtube": [""],
         "origVid": ["https://vimeo.com/19541064"],
         "speakers": [{"names": {"*": "Margus Freudenthal"}}],
         "titles": {"en": "Valdkonnaspetsiifilised keeled"},
-        "lang": "ee"
+        "lang": "et"
       },
       {
         "youtube": [""],
         "origVid": ["https://vimeo.com/19556012"],
         "speakers": [{"names": {"*": "Revo Sirel"}}],
         "titles": {"en": "javax.smartcardio ja EstEID"},
-        "lang": "ee"
+        "lang": "et"
       }
     ]
   }
