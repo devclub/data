@@ -1,5 +1,6 @@
 {
   "defaultLang": "ru",
+  "styleColor": "#12480c",
   "navbarStyle": {"background": "#12480c"},
   "footerStyle": {"background": "#12480c"},
   "devclubText": "DEVCLUB.EU",
