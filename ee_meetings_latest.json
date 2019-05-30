@@ -1,5 +1,145 @@
 [
   {
+    "num": 70,
+    "season": 2019,
+    "datetime": "2019-03-28T19:00:00",
+    "place": {
+      "name": "Starship office", "loc": "",
+      "addr": "Teaduspargi 8, 12618, Tallinn", "url": ""
+    },
+    "photo": [""],
+    "speeches": [
+      {
+        "lang": "en",
+        "youtube": [""],
+        "speakers": [
+          {
+            "names": {"*": "Pavel Varyukhichev"},
+            "titles": {"*": ""},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"*": "Achieving low latency communication between services and robots"},
+        "descr": {
+          "en": [
+            "How we brought a solution of handling robots online from several robots to thousands of robots? The future is here."
+          ]
+        }
+      },
+      {
+        "lang": "en",
+        "youtube": [""],
+        "speakers": [
+          {
+            "names": {"*": "Jaanus Soots"},
+            "titles": {"*": ""},
+            "url": "",
+            "image": ""
+          },
+          {
+            "names": {"*": "Vitalii Lakusta"},
+            "titles": {"*": ""},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"*": "Robot scheduling challenges compare to taxi orchestration"},
+        "descr": {
+          "en": [
+            "Is delivery robot logistics easy as package courier milk-run or complicated as taxi orchestration? What we are facing now, how that is solved and what will wait for us ahead?"
+          ]
+        }
+      },
+      {
+        "lang": "en",
+        "youtube": [""],
+        "speakers": [
+          {
+            "names": {"*": "Indrek Ots"},
+            "titles": {"*": ""},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"*": "Consumer Driven Contract Testing"},
+        "descr": {
+          "en": [
+            "Consumer driven contract testing is a method of verifying that services (e.g. API consumer and an API provider) speak the same language. By providing examples, API consumers set expectations on providers on how they should behave on specific inputs.",
+            "A set of expectations forms a contract that's produced by consumers and is shared with providers. Contract obligations are verified by providers with tests that can be run in isolation, without having to set up integration testing environments.",
+            "That lets them evolve independently and get immediate feedback when they've broken any of their API consumers. Contract testing can be used anywhere where you have two services that need to communicate with each other but becomes especially useful in environments with many services (e.g. microservice architecture)."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "num": 69,
+    "season": 2019,
+    "datetime": "2019-02-21T19:00:00",
+    "place": {
+      "name": "Pipedrive OÜ", "loc": "https://goo.gl/maps/squwGHdRPMB2",
+      "addr": "Paldiski mnt 80, Tallinn 10617", "url": "https://www.pipedrive.com"
+    },
+    "photo": [""],
+    "speeches": [
+      {
+        "lang": "en",
+        "youtube": [""],
+        "speakers": [
+          {
+            "names": {"*": "Nikita Salnikov-Tarnovski"},
+            "titles": {"*": "CTO @ Plumbr"},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"*": "Project clarity - Random rant from an old engineer"},
+        "descr": {
+          "en": [
+            ""
+          ]
+        }
+      },
+      {
+        "lang": "en",
+        "youtube": [""],
+        "speakers": [
+          {
+            "names": {"*": "Martti Kuldma"},
+            "titles": {"*": "Head of Software Development"},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"*": "What is Tribes & Missions and how did Pipedrive get there?"},
+        "descr": {
+          "en": [
+            ""
+          ]
+        }
+      },
+      {
+        "lang": "en",
+        "youtube": [""],
+        "speakers": [
+          {
+            "names": {"*": "Vinay Ramani"},
+            "titles": {"*": "Chief Product Officer @ Pipedrive"},
+            "url": "",
+            "image": ""
+          }
+        ],
+        "titles": {"*": "How do you align the Product organization around a highly agile team setup such as Tribes & Missions?"},
+        "descr": {
+          "en": [
+            ""
+          ]
+        }
+      }
+    ]
+  },
+  {
     "num": 68,
     "season": 2019,
     "datetime": "2019-01-24T19:00:00",
