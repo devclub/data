@@ -23,7 +23,11 @@
         "lang": "en"
       },
       {
-        "youtube": [""],
+        "info": {
+          "ru": "По запросу CondeNast видео закрыто для просмотра.",
+          "en": "Video is closed for viewing by CondeNast request.",
+          "et": "Video on kinni CondeNast soovil."
+        },
         "origVid": ["https://www.youtube.com/watch?v=czrYu9kGZQc"],
         "speakers": [{"names": {"*": "Kaido Koort"}}],
         "titles": {"en": "Securing SWD"},
@@ -41,11 +45,21 @@
     },
     "speeches": [
       {
+        "info": {
+          "ru": "Встреча не снималась на камеру. Видео нет.",
+          "en": "No meeting recording on camera. No video.",
+          "et": "Kohtumise salvestamine kaamerasse ei toimunud. Videot pole."
+        },
         "speakers": [{"names": {"*": "Taivo Tender"}}, {"names": {"*": "Risto Reinpõld"}}],
         "titles": {"en": "How we use the Big Data to evaluate, fund and trade startup investments"},
         "lang": "en"
       },
       {
+        "info": {
+          "ru": "Встреча не снималась на камеру. Видео нет.",
+          "en": "No meeting recording on camera. No video.",
+          "et": "Kohtumise salvestamine kaamerasse ei toimunud. Videot pole."
+        },
         "speakers": [{"names": {"*": "Asko Tiidumaa"}}],
         "titles": {"en": "That's lovely. Now scale it up!"},
         "lang": "en"
@@ -62,11 +76,21 @@
     },
     "speeches": [
       {
+        "info": {
+          "ru": "Встреча не снималась на камеру. Видео нет.",
+          "en": "No meeting recording on camera. No video.",
+          "et": "Kohtumise salvestamine kaamerasse ei toimunud. Videot pole."
+        },
         "speakers": [{"names": {"*": "Wilko Nienhaus"}}],
         "titles": {"en": "High Availability with Pacemaker"},
         "lang": "en"
       },
       {
+        "info": {
+          "ru": "Встреча не снималась на камеру. Видео нет.",
+          "en": "No meeting recording on camera. No video.",
+          "et": "Kohtumise salvestamine kaamerasse ei toimunud. Videot pole."
+        },
         "speakers": [{"names": {"*": "Martin Kiuru"}}],
         "titles": {"en": "HFT or How deep the rabbit hole goes?"},
         "lang": "en"
@@ -108,11 +132,21 @@
     },
     "speeches": [
       {
+        "info": {
+          "ru": "Встреча не снималась на камеру. Видео нет.",
+          "en": "No meeting recording on camera. No video.",
+          "et": "Kohtumise salvestamine kaamerasse ei toimunud. Videot pole."
+        },
         "speakers": [{"names": {"*": "Dr. Venkat Subramaniam"}}],
         "titles": {"en": "Being Lazy—Lazy Evaluations and how it impacts Efficiency"},
         "lang": "en"
       },
       {
+        "info": {
+          "ru": "Встреча не снималась на камеру. Видео нет.",
+          "en": "No meeting recording on camera. No video.",
+          "et": "Kohtumise salvestamine kaamerasse ei toimunud. Videot pole."
+        },
         "speakers": [{"names": {"*": "Evelin Andrespok"}}],
         "titles": {"en": "How to Make Remote Teams Work?"},
         "lang": "en"
@@ -359,6 +393,11 @@
         "lang": "en"
       },
       {
+        "info": {
+          "ru": "По просьбе докладчика видео не снималось.",
+          "en": "No video by speaker request.",
+          "et": "Video puudub kõneleja soovil."
+        },
         "speakers": [{"names": {"*": "Stanislav Gorski"}}],
         "titles": {"en": "Development process in Desk Rock. Why we don’t have any project managers"},
         "lang": "en"
@@ -436,7 +475,11 @@
         "lang": "en"
       },
       {
-        "youtube": [""],
+        "info": {
+          "ru": "По уже забытым причинам видео закрыто для просмотра.",
+          "en": "Video is closed for viewing by speaker request.",
+          "et": "Video on kinni kõneleja soovil."
+        },
         "origVid": ["https://vimeo.com/92818092"],
         "speakers": [{"names": {"*": "Pärtel Tomberg"}}],
         "titles": {"en": "About isePankur"},
@@ -553,11 +596,21 @@
     ],
     "speeches": [
       {
+        "info": {
+          "ru": "Встреча не снималась на камеру. Видео нет.",
+          "en": "No meeting recording on camera. No video.",
+          "et": "Kohtumise salvestamine kaamerasse ei toimunud. Videot pole."
+        },
         "speakers": [{"names": {"*": "Andrei Solntsev"}}],
         "titles": {"en": "UI-TDD Workshop"},
         "lang": "et"
       },
       {
+        "info": {
+          "ru": "Встреча не снималась на камеру. Видео нет.",
+          "en": "No meeting recording on camera. No video.",
+          "et": "Kohtumise salvestamine kaamerasse ei toimunud. Videot pole."
+        },
         "speakers": [{"names": {"*": "Priit Tamboom"}}],
         "titles": {"en": ""},
         "lang": "et"
@@ -631,11 +684,21 @@
     },
     "speeches": [
       {
+        "info": {
+          "ru": "Встреча не снималась на камеру. Видео нет.",
+          "en": "No meeting recording on camera. No video.",
+          "et": "Kohtumise salvestamine kaamerasse ei toimunud. Videot pole."
+        },
         "speakers": [{"names": {"*": "Viljo Marrandi"}}],
         "titles": {"en": ""},
         "lang": "et"
       },
       {
+        "info": {
+          "ru": "Встреча не снималась на камеру. Видео нет.",
+          "en": "No meeting recording on camera. No video.",
+          "et": "Kohtumise salvestamine kaamerasse ei toimunud. Videot pole."
+        },
         "speakers": [{"names": {"*": "Erik Jõgi"}}],
         "titles": {"en": "Õpituba - Code Kata"},
         "lang": "et"
@@ -979,6 +1042,11 @@
         "lang": "en"
       },
       {
+        "info": {
+          "ru": "По просьбе докладчика видео не снималось.",
+          "en": "No video by speaker request.",
+          "et": "Video puudub kõneleja soovil."
+        },
         "speakers": [{"names": {"*": "Andrei Solntsev"}}],
         "titles": {"en": "Keep It Simple, Stupid - praaktika"},
         "lang": "et"
