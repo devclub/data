@@ -16,6 +16,11 @@
         "lang": "ru",
         "labels": ["reactive", "functional"],
         "youtube": [],
+        "info": {
+          "ru": "В монтажной.",
+          "en": "Editing video.",
+          "et": "Video tehakse."
+        },
         "speakers": [
           {
             "names": {"*": "Aleksandr Tavgen", "ru": "Александр Тавген"},
@@ -34,28 +39,13 @@
       {
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
-        "labels": ["google cloud", "vpn"],
-        "youtube": [],
-        "speakers": [
-          {
-            "names": {"*": "Ervin Weber", "ru": "Эрвин Вебер"},
-            "titles": {"*": "System Administrator @ Toggl"},
-            "url": "https://ee.linkedin.com/in/webervin",
-            "image": "eweber.jpg"
-          }
-        ],
-        "titles": {"ru": "BeyondCorp: Есть ли жизнь после VPN?"},
-        "descr": {
-          "ru": [
-            "Коротко расскажу про то, как по мере роста проекта OpenVPN сервер стал необходимостью, и как по мере роста команды он же стал - проблемой. Зачем и откуда взялось BeyondCorp? Поделюсь личным опытом использования Identity Aware Proxy в связке с Access Context Manager и мыслями что делать с VPN в дальнейшем."
-          ]
-        }
-      },
-      {
-        "org": {"cam": "", "edit": ""},
-        "lang": "ru",
         "labels": ["postgresql", "db"],
         "youtube": [],
+        "info": {
+          "ru": "В монтажной.",
+          "en": "Editing video.",
+          "et": "Video tehakse."
+        },
         "speakers": [
           {
             "names": {"*": "Igor Bossenko", "ru": "Игорь Босенко"},
@@ -68,6 +58,31 @@
         "descr": {
           "ru": [
             "Докладчик поделится опытом развертывания PostgreSQL серверов с использованием докера, поделится тонкостями настойки сервера, расскажет о \"дырах\" by design, которые обязательно нужно закрывать, ну и попишем интересные SQL-ы."
+          ]
+        }
+      },
+      {
+        "org": {"cam": "", "edit": ""},
+        "lang": "ru",
+        "labels": ["google cloud", "vpn"],
+        "youtube": [],
+        "info": {
+          "ru": "В монтажной.",
+          "en": "Editing video.",
+          "et": "Video tehakse."
+        },
+        "speakers": [
+          {
+            "names": {"*": "Ervin Weber", "ru": "Эрвин Вебер"},
+            "titles": {"*": "System Administrator @ Toggl"},
+            "url": "https://ee.linkedin.com/in/webervin",
+            "image": "eweber.jpg"
+          }
+        ],
+        "titles": {"ru": "BeyondCorp: Есть ли жизнь после VPN?"},
+        "descr": {
+          "ru": [
+            "Коротко расскажу про то, как по мере роста проекта OpenVPN сервер стал необходимостью, и как по мере роста команды он же стал - проблемой. Зачем и откуда взялось BeyondCorp? Поделюсь личным опытом использования Identity Aware Proxy в связке с Access Context Manager и мыслями что делать с VPN в дальнейшем."
           ]
         }
       }
@@ -90,6 +105,11 @@
         "lang": "ru",
         "labels": ["kubernetes", "cluster"],
         "youtube": [],
+        "info": {
+          "ru": "В монтажной.",
+          "en": "Editing video.",
+          "et": "Video tehakse."
+        },
         "speakers": [
           {
             "names": {"*": "Eugene Goloborodko", "ru": "Евгений Голобородько"},
@@ -208,6 +228,11 @@
         "lang": "ru",
         "labels": ["blockchain", "game"],
         "youtube": [],
+        "info": {
+          "ru": "В монтажной.",
+          "en": "Editing video.",
+          "et": "Video tehakse."
+        },
         "speakers": [
           {
             "names": {"*": "", "ru": "Сергей Лабутин"},
@@ -430,6 +455,11 @@
         "lang": "ru",
         "labels": ["tinder", "dating", "experience"],
         "youtube": [],
+        "info": {
+          "ru": "Всё ещё в монтажной по техническим проблемам.",
+          "en": "Editing video (technical problems).",
+          "et": "Video tehakse (tehnilised probleemid)."
+        },
         "speakers": [
           {
             "names": {"*": "", "ru": "Ольга Линник"},
@@ -560,6 +590,11 @@
         "lang": "ru",
         "labels": ["jetbrains", "mps", "dsl"],
         "youtube": [],
+        "info": {
+          "ru": "В монтажной.",
+          "en": "Editing video.",
+          "et": "Video tehakse."
+        },
         "speakers": [
           {
             "names": {"*": "", "ru": "Михаил Бараш"},
@@ -813,6 +848,11 @@
         "lang": "ru",
         "labels": ["docker", "ci", "wercker"],
         "youtube": [],
+        "info": {
+          "ru": "В монтажной.",
+          "en": "Editing video.",
+          "et": "Video tehakse."
+        },
         "speakers": [
           {
             "names": {"*": "Stanislav Gorski", "ru": "Станислав Горский"},
@@ -833,6 +873,11 @@
         "lang": "ru",
         "labels": ["ci", "intellij", "teamcity"],
         "youtube": [],
+        "info": {
+          "ru": "В монтажной.",
+          "en": "Editing video.",
+          "et": "Video tehakse."
+        },
         "speakers": [
           {
             "names": {"*": "Anton Arhipov", "ru": "Антон Архипов"},
@@ -908,6 +953,11 @@
         "lang": "ru",
         "labels": ["ai", "bot", "machine learning"],
         "youtube": [],
+        "info": {
+          "ru": "В монтажной.",
+          "en": "Editing video.",
+          "et": "Video tehakse."
+        },
         "speakers": [
           {
             "names": {"*": "Roman Ring", "ru": "Роман Ринг "},
@@ -964,6 +1014,11 @@
         "lang": "ru",
         "labels": ["test", "qa", "junit", "ddt"],
         "youtube": [],
+        "info": {
+          "ru": "В монтажной.",
+          "en": "Editing video.",
+          "et": "Video tehakse."
+        },
         "speakers": [
           {
             "names": {"*": "Dmitri Tuchs", "ru": "Дмитрий Тучс"},
@@ -1295,6 +1350,11 @@
         "lang": "ru",
         "labels": ["js", "angular", "devclub"],
         "youtube": [""],
+        "info": {
+          "ru": "В монтажной.",
+          "en": "Editing video.",
+          "et": "Video tehakse."
+        },
         "speakers": [
           {
             "names": {"*": "Anton Stalnuhhin", "ru": "Антон Стальнухин"},
