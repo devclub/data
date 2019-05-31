@@ -7,7 +7,7 @@
       "name": "Topia office", "loc": "https://goo.gl/maps/xRxZ8CFDwhY8mskc7",
       "addr": "Lõõtsa 12, 11415, Tallinn, Estonia", "url": "https://www.topia.com/contact-us"
     },
-    "photo": [],
+    "photo": ["https://photos.app.goo.gl/BeDYScCHDpNxT4ER8"],
     "event": "https://www.eventbrite.com/e/devclubeu-129-tickets-62354390661",
     "org": {"mod": "jt", "photo": "kl"},
     "speeches": [
