@@ -163,14 +163,22 @@
     "photo": ["https://goo.gl/photos/9KqbKgNioXzCi8TBA"],
     "speeches": [
       {
-        "youtube": [""],
+        "info": {
+          "ru": "Встреча не снималась на камеру. Видео нет.",
+          "en": "No meeting recording on camera. No video.",
+          "et": "Kohtumise salvestamine kaamerasse ei toimunud. Videot pole."
+        },
         "speakers": [{"names": {"*": "Martin Kiuru"}, "titles": {"*": "CTO @ Make IT Work"}}],
         "titles": {"en": "How to become an entrepreneur: the story of a software developer"},
         "descr": {"en": ["About choices, opportunities, obstacles and dangers on a way to own company."]},
         "lang": "en"
       },
       {
-        "youtube": [""],
+        "info": {
+          "ru": "Встреча не снималась на камеру. Видео нет.",
+          "en": "No meeting recording on camera. No video.",
+          "et": "Kohtumise salvestamine kaamerasse ei toimunud. Videot pole."
+        },
         "speakers": [
           {"names": {"*": "Kalle Volkov"}, "titles": {"*": "Head of Server Services @ Starship Technologies"}}
         ],
@@ -251,7 +259,11 @@
         "lang": "en"
       },
       {
-        "youtube": [""],
+        "info": {
+          "ru": "По просьбе докладчика видео не снималось.",
+          "en": "No video by speaker request.",
+          "et": "Video puudub kõneleja soovil."
+        },
         "speakers": [{"names": {"*": "Benjamin André Micolon"}}],
         "titles": {"en": "GraphQL: what it is, why use it and how it helps us at Palleter"},
         "lang": "en"
