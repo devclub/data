@@ -35,7 +35,7 @@
     "photo": ["https://photos.app.goo.gl/3QxhtVZ8AsBz5Pc42"],
     "speeches": [
       {
-        "youtube": [""],
+        "youtube": ["3I8kY-UfFDI"],
         "speakers": [{"names": {"*": "Dmitry Zhukov"}, "titles": {"*": "Product engineer @ TransferWise"}}],
         "titles": {"en": "Apache Spark 1.6-2.2: Testing in Production"},
         "descr": {
@@ -46,7 +46,7 @@
         "lang": "en"
       },
       {
-        "youtube": [""],
+        "youtube": ["Z9qIDr8hVAE"],
         "speakers": [{"names": {"*": "Filipp Keks"}, "titles": {"*": "Software engineer @ Wolf3D"}}],
         "titles": {"en": "Horrors of mobile graphics"},
         "descr": {
@@ -57,7 +57,7 @@
         "lang": "en"
       },
       {
-        "youtube": [""],
+        "youtube": ["XE5PPtrSNQ8"],
         "speakers": [{"names": {"*": "Erkki Alamäe"}, "titles": {"*": "Senior System analyst @ Nortal"}}],
         "titles": {"en": "What can you do with data?"},
         "descr": {
@@ -293,12 +293,6 @@
     },
     "speeches": [
       {
-        "youtube": [""],
-        "speakers": [{"names": {"*": "Playtech support"}}],
-        "titles": {"en": "Playtech Office Tour"},
-        "lang": "en"
-      },
-      {
         "youtube": ["opwxpjbLXXg"],
         "origVid": ["https://www.youtube.com/watch?v=F9kTzGaTmok"],
         "speakers": [{"names": {"*": "Tõnis Pihlakas"}}],
@@ -324,7 +318,7 @@
     },
     "speeches": [
       {
-        "youtube": [""],
+        "youtube": ["TPdlULD-DCo"],
         "origVid": ["https://www.youtube.com/watch?v=9mXO6-nN4sU"],
         "speakers": [{"names": {"*": "Erko Risthein"}}],
         "titles": {"en": "Risk@TransferWise"},
