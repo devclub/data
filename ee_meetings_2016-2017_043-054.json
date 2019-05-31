@@ -10,13 +10,13 @@
     "photo": ["https://photos.app.goo.gl/8imlUDi6GStjanui2"],
     "speeches": [
       {
-        "youtube": [""],
+        "youtube": ["pHPl6DTVTbs"],
         "speakers": [{"names": {"*": "Dmitri Dorofejev"}, "titles": {"*": "Java team lead @ Playtech"}}],
         "titles": {"en": "Cross-platform protocol design with Google Protocol Buffers"},
         "lang": "en"
       },
       {
-        "youtube": [""],
+        "youtube": ["w4z4uYmn688"],
         "speakers": [{"names": {"*": "Joonathan Mägi"}, "titles": {"*": "Technical Lead @ MOVE Guides"}}],
         "titles": {"en": "From 0 to 60 with Kubernetes and Istio"},
         "descr": {"en": ["Setting up a cluster and running your first micro-services on Kubernetes and Istio."]},
@@ -80,7 +80,7 @@
     "photo": ["https://photos.app.goo.gl/8w2AULJdPqpzQuqj2"],
     "speeches": [
       {
-        "youtube": [""],
+        "youtube": ["JhM2NvcfnVY"],
         "speakers": [{"names": {"*": "Steve Giles"}, "titles": {"*": "VP Engineering"}}],
         "titles": {"en": "Technical challenges of building SaaS software for Fortune 500 customers"},
         "descr": {
@@ -91,7 +91,7 @@
         "lang": "en"
       },
       {
-        "youtube": [""],
+        "youtube": ["6KzMYkxTo20"],
         "speakers": [{"names": {"*": "Hendrik Kaju"}, "titles": {"*": "Front-end engineer"}}],
         "titles": {"en": "Componentized Frontend Architecture"},
         "descr": {
@@ -102,7 +102,7 @@
         "lang": "en"
       },
       {
-        "youtube": [""],
+        "youtube": ["iz6MJ2QGBg0"],
         "speakers": [{"names": {"*": "Joonathan Mägi"}, "titles": {"*": "Tech Lead"}}],
         "titles": {"en": "Security in the Age of Containers"},
         "descr": {
@@ -124,7 +124,7 @@
     },
     "speeches": [
       {
-        "youtube": [""],
+        "youtube": ["KDcEOhdGAF0"],
         "speakers": [
           {"names": {"*": "Kirill Slavetski"}, "titles": {"*": "Product designed and researcher @ Jobbatical"}}
         ],
@@ -137,7 +137,7 @@
         "lang": "en"
       },
       {
-        "youtube": [""],
+        "youtube": ["yHd06oUVXSg"],
         "speakers": [{"names": {"*": "Andres Ivanov"}, "titles": {"*": "Head of Infrastructure @ Inbank"}}],
         "titles": {"en": "Infrastructure as code with AWS CloudFormation"},
         "descr": {
@@ -194,14 +194,14 @@
     },
     "speeches": [
       {
-        "youtube": [""],
+        "youtube": ["jJ3Q5DSGMFI"],
         "origVid": ["https://www.youtube.com/watch?v=jJ3Q5DSGMFI"],
         "speakers": [{"names": {"*": "Kristo Kaiv"}}],
         "titles": {"en": "Pains & Gains of microservices"},
         "lang": "en"
       },
       {
-        "youtube": [""],
+        "youtube": ["nlEnnddGIc0"],
         "origVid": ["https://www.youtube.com/watch?v=nlEnnddGIc0"],
         "speakers": [{"names": {"*": "Konstantin Root"}}],
         "titles": {"en": "How to start running: myths and data science"},
@@ -219,14 +219,14 @@
     },
     "speeches": [
       {
-        "youtube": [""],
+        "youtube": ["NjefBzv9L50"],
         "origVid": ["https://www.youtube.com/watch?v=ziQZD-wehPE"],
         "speakers": [{"names": {"*": "Anton Arhipov"}}],
         "titles": {"en": "Inadequate Java interview"},
         "lang": "en"
       },
       {
-        "youtube": [""],
+        "youtube": ["SxRfRi8Xs90"],
         "origVid": ["https://www.youtube.com/watch?v=hTCt1Pyh9ic"],
         "speakers": [{"names": {"*": "Erik Kaju"}}],
         "titles": {"en": "Cards & payment methods lead @ TransferWise"},
@@ -244,7 +244,7 @@
     },
     "speeches": [
       {
-        "youtube": [""],
+        "youtube": ["1oTgz-1kx4A"],
         "origVid": ["https://www.youtube.com/watch?v=44EO0ICnw9Q"],
         "speakers": [{"names": {"*": "Artur Schaback"}}],
         "titles": {"en": "Development Security for Peer to Peer Marketplaces"},
@@ -268,14 +268,14 @@
     },
     "speeches": [
       {
-        "youtube": [""],
+        "youtube": ["2Ov5yehFuOc"],
         "origVid": ["https://www.youtube.com/watch?v=wi1d1YgSAcE"],
         "speakers": [{"names": {"*": "Matti Jagula"}}, {"names": {"*": "Raido Kaldma"}}],
         "titles": {"en": "Developing a desktop application in Javascript"},
         "lang": "en"
       },
       {
-        "youtube": [""],
+        "youtube": ["Jwy5_98Z-QI"],
         "origVid": ["https://www.youtube.com/watch?v=MANmZ1ZwCfI"],
         "speakers": [{"names": {"*": "Konstantin Root"}}],
         "titles": {"en": "Securing website with HTTP headers"},
@@ -299,14 +299,14 @@
         "lang": "en"
       },
       {
-        "youtube": [""],
+        "youtube": ["opwxpjbLXXg"],
         "origVid": ["https://www.youtube.com/watch?v=F9kTzGaTmok"],
         "speakers": [{"names": {"*": "Tõnis Pihlakas"}}],
         "titles": {"en": "Weaving Web Applications with Apache Tapestry"},
         "lang": "en"
       },
       {
-        "youtube": [""],
+        "youtube": ["xxkab1PSNUc"],
         "origVid": ["https://www.youtube.com/watch?v=jk_uvt9zP7g"],
         "speakers": [{"names": {"*": "Villu Vaimets"}}],
         "titles": {"en": "Implementing an intelligent form engine"},
@@ -331,14 +331,14 @@
         "lang": "en"
       },
       {
-        "youtube": [""],
+        "youtube": ["AN1kbLAnOyQ"],
         "origVid": ["https://www.youtube.com/watch?v=x6MUptcLB7g"],
         "speakers": [{"names": {"*": "Dmitry Zhukov"}}, {"names": {"*": "Maksims Juvcenko"}}],
         "titles": {"en": "Fraud Detection in PHP: Ascending from Hell"},
         "lang": "en"
       },
       {
-        "youtube": [""],
+        "youtube": ["Pii2EHcmsHI"],
         "origVid": ["https://www.youtube.com/watch?v=9hz2HlClZaw"],
         "speakers": [{"names": {"*": "Stanislav Gorski"}}],
         "titles": {"en": "AWS Lambda in Your Stack"},
@@ -356,14 +356,14 @@
     },
     "speeches": [
       {
-        "youtube": [""],
+        "youtube": ["y2Dpj4QElv4"],
         "origVid": ["https://www.youtube.com/watch?v=jHpnU8eDH9o"],
         "speakers": [{"names": {"*": "Martin Tajur"}}],
         "titles": {"en": "Queues, queues, queues. How RabbitMQ enables reactive architectures"},
         "lang": "en"
       },
       {
-        "youtube": [""],
+        "youtube": ["wlOcp_-4280"],
         "origVid": ["https://www.youtube.com/watch?v=BcnnOfpPiN0"],
         "speakers": [{"names": {"*": "Anton Keks"}}],
         "titles": {"en": "Digital Signatures: Estonia vs The World"},
