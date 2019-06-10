@@ -21,7 +21,7 @@
             "names": {"*": "Viktor Kondin", "ru": "Виктор Кондин"},
             "titles": {"*": "QA Lead @ Genius Sports"},
             "url": "https://www.linkedin.com/in/viktor-kondin-5276ab68",
-            "image": ""
+            "image": "vkondin.jpg"
           }
         ],
         "titles": {"*": "Introduction to Quality Assistance"},
@@ -41,7 +41,7 @@
         "speakers": [
           {
             "names": {"*": "Sergei Chipiga", "ru": "Сергей Чипига"},
-            "titles": {"*": "Senior Automation Engineer @ Derivco Estonia"},
+            "titles": {"*": "Software Engineer @ Pipedrive"},
             "url": "https://www.linkedin.com/in/sergei-chipiga-05b29661/",
             "image": "schipiga.jpg"
           }
