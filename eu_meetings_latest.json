@@ -1,5 +1,82 @@
 [
   {
+    "num": 130,
+    "datetime": "2019-06-27T19:00:00",
+    "season": 2019,
+    "place": {
+      "name": "Park Inn by Radisson Meriton Conference & Spa Hotel Tallinn", "loc": "https://goo.gl/maps/AJbuvwDS7co",
+      "addr": "Toompuiestee 27/Paldiski mnt 4, 10149 Tallinn", "url": "https://www.parkinn.com/hotel-meriton-tallinn"
+    },
+    "photo": [],
+    "event": "",
+    "org": {"mod": "ag", "photo": "kl"},
+    "speeches": [
+      {
+        "org": {"cam": "as", "edit": ""},
+        "lang": "ru",
+        "labels": [],
+        "youtube": [],
+        "speakers": [
+          {
+            "names": {"*": "Viktor Kondin", "ru": "Виктор Кондин"},
+            "titles": {"*": "QA Lead @ Genius Sports"},
+            "url": "https://www.linkedin.com/in/viktor-kondin-5276ab68",
+            "image": ""
+          }
+        ],
+        "titles": {"*": "Introduction to Quality Assistance"},
+        "descr": {
+          "ru": [
+            "На сегодняшний день качество выпускаемого на рынок ПО существенно снизилось. Любой внимательный пользователь может найти достаточно много ошибок, как серьёных так и не очень, в работе программ, выполняющих самые разные функции. Целью доклада не является установка или представление аудитории причин, влияющих на это, а предлагается ознакомиться с относительно новой методологией на рынке — Quality Assistance.",
+            "Quality Assistance — новая методология, предложенния компанией Atlassian, направленная на интенсивное привлечение разработчиков к процессу тестирования, а также нахождение и УСТРАНЕНИЕ ошибок на ранних этапах разработки.",
+            "Доклад будет состоять из нескольких логических частей: (1) Ознакомление аудитории с существующей методологий Quality Assurance, указав её минусы, историю и отсутствие права на существование в 21-ом веке :) (2) Ознакомление аудитории с Quality Assistance. Основные идеи и понятия. (3) Шаги по интеграции Quality Assistance “у Вас в фирме” (4) Процесс эволюции навыков тестирования команды, их измерение и как следствие изменение уже адоптированной методики Quality Assistance."
+          ]
+        }
+      },
+      {
+        "org": {"cam": "as", "edit": ""},
+        "lang": "ru",
+        "labels": [],
+        "youtube": [],
+        "speakers": [
+          {
+            "names": {"*": "Sergei Chipiga", "ru": "Сергей Чипига"},
+            "titles": {"*": "Senior Automation Engineer @ Derivco Estonia"},
+            "url": "https://www.linkedin.com/in/sergei-chipiga-05b29661/",
+            "image": "schipiga.jpg"
+          }
+        ],
+        "titles": {"*": "Machine Learning, Feature Store & ClickHouse"},
+        "descr": {
+          "ru": [
+            "В этом докладе я бы хотел рассказать о своем опыте вхождения в Machine Learning. С какими необычностями и особенностями пришлось мне столкнуться. Значительная часть доклада будет посвящена одному из ключевых пунктов в построении Machine Learning - Feature Store. Также поделюсь мыслям о возможности использования колоночной базы данных ClickHouse в качестве хранилища для Feature Store. Наверное, довольно часто для этого в качестве стандарта де-факто можно встретить применение AWS-стэка, RedShift, Spark, Hadoop, но, тем не менее, присмотримся и к других решениям. ClickHouse (https://clickhouse.yandex) - это open-source разработка от компании Yandex, и, судя по активности в телеграм-чате и использованию другими компаниями, он набирает популярность, к чему и я приложу руку на devclub."
+          ]
+        }
+      },
+      {
+        "org": {"cam": "as", "edit": ""},
+        "lang": "ru",
+        "labels": [],
+        "youtube": [""],
+        "speakers": [
+          {
+            "names": {"*": "Andrei Solntsev", "ru": "Андрей Солнцев"},
+            "titles": {"*": ""},
+            "url": "https://ee.linkedin.com/in/asolntsev",
+            "image": "asolntsev_2018.jpg"
+          }
+        ],
+        "titles": {"*": "Antistatic", "ru": "Антистатик"},
+        "descr": {
+          "ru": [
+            "Чем плохи статические методы (кроме того, что \"это не ООП\")? Так ли уж полезен dependency injection? Есть ли жизнь без спринга?",
+            "Эти вопросы давно вызывают много споров. Пуканы рвутся, но к единому мнение общество пока не пришло. Я расскажу, как менялось со временем моё понимание этих вещей и к чему я пришёл сейчас."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "num": 129,
     "datetime": "2019-05-30T19:00:00",
     "season": 2019,
