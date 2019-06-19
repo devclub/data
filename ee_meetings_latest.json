@@ -9,6 +9,46 @@
     },
     "photo": [""],
     "speeches": [
+      {
+        "lang": "en",
+        "youtube": [""],
+        "speakers": [
+          {
+            "names": {"*": "Ervin Weber", "ru": "Эрвин Вебер"},
+            "titles": {"*": "System Administrator @ Toggl"},
+            "url": "https://ee.linkedin.com/in/webervin",
+            "image": "eweber.jpg"
+          }
+        ],
+        "titles": {"*": "No-magic behind 'Ok, Google'"},
+        "descr": {
+          "en": [
+            "The talk about Ervin’s experiments with Google Assistant devices. Where it feels natural and where it comes short. Why as developer you should consider this platform for your products, and of course, some \"hello world\" demo."
+          ]
+        }
+      },
+      {
+        "lang": "en",
+        "youtube": [""],
+        "speakers": [
+          {
+            "names": {"*": "Aleksandr Gritsevski", "ru": "Александр Грицевский"},
+            "titles": {"*": "Lead Quality Manager @ Kuehne + Nagel"},
+            "url": "https://www.linkedin.com/in/leadqualitymanager",
+            "image": "agritsevski.jpg"
+          }
+        ],
+        "titles": {"*": "Changing mindset regarding Quality Assurance Engineers. Software testing is harder than development."},
+        "descr": {
+          "en": [
+            "Two decades ago when modern technologies were emerging, the idea that software should be tested before getting released was meaning only that someone has to act as a future user of the software what led to the concept of Manual Testing.",
+            "However, this was taking too much time, especially at the time when number of functions included in software were increasing so rapidly. This is why companies discovered that some actions which were being repeated for a number of times could be automated what was the basis for Automation Testing.",
+            "Although, this is a much faster process than Manual Testing, this is not enough to satisfy the needs of the company, because the way it is done is usually based on simulating logical actions which can be done by the future user. This means that work of the QA team members is limited to creating simple auto tests and doing some manual testing where it takes less effort than creating an auto test.",
+            "At the same time, having this idea HR officers are hiring people who are unable to bring QA forward in order to achieve better quality of the product. Ideally, the person who is the one responsible for quality should be involved in the process of development and not just having to assess what has been already done as well as to be able not only to test the product, but to be able to understand why the mistake has occurred what is possible only in case if QA specialist has sufficient programming background.",
+            "The speaker will tell how to change the mindset regarding Quality Assurance Engineers based on his own experience in the field as well as is about to give some pieces of advice that will help both the ones responsible for hiring QA specialists to recruit the most competent people and the ones pursuing careers in the industry to know what is expected from them."
+          ]
+        }
+      }
     ]
   },
   {
