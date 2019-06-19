@@ -16,7 +16,7 @@
         "speakers": [
           {
             "names": {"*": "Ervin Weber", "ru": "Эрвин Вебер"},
-            "titles": {"*": "System Administrator @ Toggl"},
+            "titles": {"*": "Google Cloud Developer Community Tallinn"},
             "url": "https://ee.linkedin.com/in/webervin",
             "image": "eweber.jpg"
           }
