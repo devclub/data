@@ -1,5 +1,84 @@
 [
   {
+    "num": 131,
+    "datetime": "2019-07-25T19:00:00",
+    "season": 2019,
+    "place": {
+      "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
+      "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
+    },
+    "photo": [],
+    "event": "",
+    "org": {"mod": "asv", "photo": "kl"},
+    "speeches": [
+      {
+        "org": {"cam": "as", "edit": ""},
+        "lang": "ru",
+        "labels": [],
+        "youtube": [],
+        "speakers": [
+          {
+            "names": {"*": "Tatjana Gordejeva", "ru": "Татьяна Гордеева"},
+            "titles": {"*": ""},
+            "url": "",
+            "image": "tgordejeva.jpg"
+          }
+        ],
+        "titles": {"*": "Как вести себя на первом свидании ITишнику"},
+        "descr": {
+          "ru": [
+            "О первом свидании, и не только: любовь в схемах и таблицах.",
+            "1. Deep learning самого себя. Мужчины и женщины в нашей жизни.",
+            "2. Алгоритмы судьбы или «вечные грабли». Можно ли с этим что-то сделать?",
+            "3. Ищем primary key в SQL наших отношений.",
+            "4. Javascript или выбор языка общения в паре.",
+            "5. Раскрываем секретную формулу pick-up’a."
+          ]
+        }
+      },
+      {
+        "org": {"cam": "as", "edit": ""},
+        "lang": "ru",
+        "labels": [],
+        "youtube": [],
+        "speakers": [
+          {
+            "names": {"*": "Aleksandr Tavgen", "ru": "Александр Тавген"},
+            "titles": {"*": "Software Architect with Data Science and Financial Background"},
+            "url": "https://www.linkedin.com/in/aleksandr-tavgen-24431815b",
+            "image": "atavgen.jpg"
+          }
+        ],
+        "titles": {"*": "Observability - the good, the bad and the ugly"},
+        "descr": {
+          "ru": [
+            "Расскажу про задачу создания мониторинга и observability  для операционных команд без лишних False Positives и непонятных алертов. Проблемы, ловушки, анти-паттерны, и как это сделать правильно. Как справиться с зоопарком мониторинга. Спагеттификация дашбордов. Зачем Уберу 9 миллионов метрик (¯\_(ツ)_/¯) и почему это антипаттерн. Метрики как потоки данных. Анализ данных временных рядов. Новый язык Flux от InfluxDb и создание пайплайнов для метрик на Flux. “Прогулка пьяницы” по вашим метрикам, и зачем измерять случайность."
+          ]
+        }
+      },
+      {
+        "org": {"cam": "as", "edit": ""},
+        "lang": "ru",
+        "labels": [],
+        "youtube": [""],
+        "speakers": [
+          {
+            "names": {"*": "Juri Timoshin", "ru": "Юрий Тимошин"},
+            "titles": {"*": "Engineering Services and Operations @ Microsoft"},
+            "url": "https://www.linkedin.com/in/juritimoshin",
+            "image": "jtimosin_2018.png"
+          }
+        ],
+        "titles": {"*": "Vim. Часть 3."},
+        "descr": {
+          "ru": [
+            "Плагины, настройка под свои нужды. Vimrc: options, mappings, abbreviations."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "num": 130,
     "datetime": "2019-06-27T19:00:00",
     "season": 2019,
