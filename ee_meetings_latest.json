@@ -11,6 +11,7 @@
     "event": "",
     "speeches": [
       {
+        "org": {"cam": "ij", "edit": "-"},
         "lang": "en",
         "youtube": [""],
         "speakers": [
@@ -30,6 +31,7 @@
         }
       },
       {
+        "org": {"cam": "ij", "edit": "-"},
         "lang": "en",
         "youtube": [""],
         "speakers": [
@@ -63,7 +65,7 @@
     "speeches": [
       {
         "lang": "en",
-        "youtube": [""],
+        "youtube": ["UuBwSyEecQ8"],
         "speakers": [
           {
             "names": {"*": "Ervin Weber", "ru": "Эрвин Вебер"},
@@ -81,7 +83,7 @@
       },
       {
         "lang": "en",
-        "youtube": [""],
+        "youtube": ["VUKi8sxKVsE"],
         "speakers": [
           {
             "names": {"*": "Aleksandr Gritsevski", "ru": "Александр Грицевский"},
