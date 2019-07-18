@@ -46,7 +46,7 @@
         "descr": {
           "en": [
             "What’s wrong with static methods (apart from them not being inline with OOP conventions)? Is dependency injection really that great? Is there life after Spring?",
-            "These question have caused a lot of flame for a long time now. Butts hurt bad, but the community haven’t reached the consensus yet. I will share how my own understanding of these things changed over time and where did I end up eventually."
+            "These question have been causing a lot of flame for a long time now. Butts hurt bad, but the community haven’t reached the consensus yet. I will share how my own understanding of these things changed over time and where did I end up eventually."
           ]
         }
       }
