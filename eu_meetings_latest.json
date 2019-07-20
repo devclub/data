@@ -5,7 +5,7 @@
     "season": 2019,
     "place": {
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
-      "addr": "Toompuiestee 23, Tallinn 10137 test", "url": "https://www.vonstackelberghotel.com"
+      "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
     },
     "photo": [],
     "event": "https://www.eventbrite.com/e/devclub-131-tickets-65774640721",
