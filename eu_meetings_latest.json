@@ -21,7 +21,7 @@
             "names": {"*": "Aleksandr Korotkov", "ru": "Александр Коротков"},
             "titles": {"*": "Architect and full stack Ai engineer @ Omniva"},
             "url": "https://www.linkedin.com/in/krotix/",
-            "image": "akorotkov.jpg"
+            "image": "aleksandrkorotkov.jpg"
           }
         ],
         "titles": {"*": "Machine learning решение за 4 месяца"},
@@ -40,7 +40,7 @@
           {
             "names": {"*": "Anton Arhipov", "ru": "Антон Архипов"},
             "url": "https://ee.linkedin.com/in/antonarhipov",
-            "image": "aarhipov.jpg"            
+            "image": "aarhipov.jpg"
           }
         ],
         "titles": {"*": "Анализ и отладка приложений в IntelliJ IDEA"},
