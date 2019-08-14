@@ -1,5 +1,86 @@
 [
   {
+    "num": 132,
+    "datetime": "2019-08-22T19:00:00",
+    "season": 2019,
+    "place": {
+      "name": "Park Inn by Radisson Meriton Conference & Spa Hotel Tallinn", "loc": "https://goo.gl/maps/AJbuvwDS7co",
+      "addr": "Toompuiestee 27/Paldiski mnt 4, 10149 Tallinn", "url": "https://www.parkinn.com/hotel-meriton-tallinn"
+    },
+    "photo": [],
+    "event": "",
+    "org": {"mod": "jt", "photo": "gb", "cam": "as"},
+    "speeches": [
+      {
+        "org": {"cam": "as", "edit": ""},
+        "lang": "ru",
+        "labels": [],
+        "youtube": [],
+        "speakers": [
+          {
+            "names": {"*": "Aleksandr Korotkov", "ru": "Александр Коротков"},
+            "titles": {"*": "Architect and full stack Ai engineer @ Omniva"},
+            "url": "https://www.linkedin.com/in/krotix/",
+            "image": "akorotkov.jpg"
+          }
+        ],
+        "titles": {"*": "Machine learning решение за 4 месяца"},
+        "descr": {
+          "ru": [
+            "I would like to talk about my experience of developing full stack ML solution for OCR(Optical character recognition). This is a small presentation about the task, solution and result of project."
+          ]
+        }
+      },
+      {
+        "org": {"cam": "as", "edit": ""},
+        "lang": "ru",
+        "labels": [],
+        "youtube": [],
+        "speakers": [
+          {
+            "names": {"*": "Anton Arhipov", "ru": "Антон Архипов"},
+            "url": "https://ee.linkedin.com/in/antonarhipov",
+            "image": "aarhipov.jpg"            
+          }
+        ],
+        "titles": {"*": "Анализ и отладка приложений в IntelliJ IDEA"},
+        "descr": {
+          "ru": [
+            "Выкачали исходники, открываем проект в IDE, и…. где? что? как это работает!? IDEA не только помогает писать код, но и помогает в этом коде разбираться. У нас в арсенале целый набор замечательных инструментов которые упрощают жизнь при работе с legacy-кодом.",
+            "В данном докладе мы рассмотрим 3 основным темы:",
+            "- Инспекции кода",
+            "- Отладка приложений",
+            "- Структурный поиск (и замена)"
+          ]
+        }
+      },
+      {
+        "org": {"cam": "as", "edit": ""},
+        "lang": "ru",
+        "labels": [],
+        "youtube": [""],
+        "speakers": [
+          {
+            "names": {"*": "Oleg Dokuka", "ru": "Олег Докука"},
+            "titles": {"*": "Software Engineer @ Levi9"},
+            "url": "https://github.com/OlegDokuka",
+            "image": "odokuka.jpg"
+          }
+        ],
+        "titles": {"*": "Multiplayer Pac-Man with RSocket"},
+        "descr": {
+          "ru": [
+            "One of the challenging aspects of building modern games is making it multiplayer. Can we use HTTP there?",
+            "We can, but we will not get a real-time game. Can we use WebSockets / TCP? Of course, we can and we should!",
+            "However, developing API on top of WebSocket is another challenge that no one wants to solve, but everyone does.",
+            "Existing libraries do not give us a required variety of communication models. Today we will show you the way to tackle this - using RSocket.",
+            "RSocket is an application protocol that makes developing any networked application as easy as pie. To prove that, we are going to build a multiplayer Pac-Man, and during the process compare different ways of making a multiplayer game."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "num": 131,
     "datetime": "2019-07-25T19:00:00",
     "season": 2019,
