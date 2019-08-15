@@ -39,7 +39,7 @@
         "speakers": [
           {
             "names": {"*": "Oleg Dokuka", "ru": "Олег Докука"},
-            "titles": {"*": "Software Engineer @ Levi9"},
+            "titles": {"*": "Software Engineer @ Netifi"},
             "url": "https://github.com/OlegDokuka",
             "image": "odokuka.jpg"
           }
