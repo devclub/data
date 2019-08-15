@@ -35,6 +35,26 @@
         "org": {"cam": "as", "edit": ""},
         "lang": "ru",
         "labels": [],
+        "youtube": [""],
+        "speakers": [
+          {
+            "names": {"*": "Oleg Dokuka", "ru": "Олег Докука"},
+            "titles": {"*": "Software Engineer @ Levi9"},
+            "url": "https://github.com/OlegDokuka",
+            "image": "odokuka.jpg"
+          }
+        ],
+        "titles": {"*": "Multiplayer Pac-Man with RSocket"},
+        "descr": {
+          "ru": [
+            "One of the challenging aspects of building modern games is making it multiplayer. Can we use HTTP there? We can, but we will not get a real-time game. Can we use WebSockets / TCP? Of course, we can and we should! However, developing API on top of WebSocket is another challenge that no one wants to solve, but everyone does. Existing libraries do not give us a required variety of communication models. Today we will show you the way to tackle this - using RSocket. RSocket is an application protocol that makes developing any networked application as easy as pie. To prove that, we are going to build a multiplayer Pac-Man, and during the process compare different ways of making a multiplayer game."
+          ]
+        }
+      },
+      {
+        "org": {"cam": "as", "edit": ""},
+        "lang": "ru",
+        "labels": [],
         "youtube": [],
         "speakers": [
           {
@@ -51,30 +71,6 @@
             "- Инспекции кода",
             "- Отладка приложений",
             "- Структурный поиск (и замена)"
-          ]
-        }
-      },
-      {
-        "org": {"cam": "as", "edit": ""},
-        "lang": "ru",
-        "labels": [],
-        "youtube": [""],
-        "speakers": [
-          {
-            "names": {"*": "Oleg Dokuka", "ru": "Олег Докука"},
-            "titles": {"*": "Software Engineer @ Levi9"},
-            "url": "https://github.com/OlegDokuka",
-            "image": "odokuka.jpg"
-          }
-        ],
-        "titles": {"*": "Multiplayer Pac-Man with RSocket"},
-        "descr": {
-          "ru": [
-            "One of the challenging aspects of building modern games is making it multiplayer. Can we use HTTP there?",
-            "We can, but we will not get a real-time game. Can we use WebSockets / TCP? Of course, we can and we should!",
-            "However, developing API on top of WebSocket is another challenge that no one wants to solve, but everyone does.",
-            "Existing libraries do not give us a required variety of communication models. Today we will show you the way to tackle this - using RSocket.",
-            "RSocket is an application protocol that makes developing any networked application as easy as pie. To prove that, we are going to build a multiplayer Pac-Man, and during the process compare different ways of making a multiplayer game."
           ]
         }
       }
