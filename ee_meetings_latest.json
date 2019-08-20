@@ -1,4 +1,55 @@
 [
+    {
+    "num": 75,
+    "season": 2019,
+    "datetime": "2019-08-27T19:00:00",
+    "place": {
+      "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
+      "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
+    },
+    "photo": [""],
+    "event": "",
+    "speeches": [
+      {
+        "org": {"cam": "ij", "edit": "-"},
+        "lang": "en",
+        "youtube": [""],
+        "speakers": [
+          {
+            "names": {"*": "Sam Kruglov", "ru": "Сэм Круглов"},
+            "titles": {"*": "Java Developer @ Monese"},
+            "url": "https://www.linkedin.com/in/sam-kruglov",
+            "image": "sam-kruglov.jpg"
+          }
+        ],
+        "titles": {"*": "Reactive is here to stay"},
+        "descr": {
+          "en": [
+            "Being Reactive is the key to staying within the modern standards. We start with a simple MVC style application. First, we define a modern system. Then we introduce and solve the problems with the application. We will keep our REST API working the same way while utilizing Event Driven Architecture and many more!"
+          ]
+        }
+      },
+      {
+        "org": {"cam": "ij", "edit": "-"},
+        "lang": "en",
+        "youtube": [""],
+        "speakers": [
+          {
+            "names": {"*": "Anton Arhipov", "ru": "Антон Архипов"},
+            "titles": {"*": "Developer Advocate @ JetBrains"},
+            "url": "https://www.linkedin.com/in/antonarhipov",
+            "image": "aarhipov.jpg"
+          }
+        ],
+        "titles": {"*": "TeamCity build pipelines"},
+        "descr": {
+          "en": [
+            "TeamCity is a great tool for Continuous Integration with a lot of advanced features provided out-of-the-box. In this session, we will learn how TeamCity helps the software development in the daily routine; what was added to the product in the latest releases; what features are coming next."
+          ]
+        }
+      }
+    ]
+  },
   {
     "num": 74,
     "season": 2019,
