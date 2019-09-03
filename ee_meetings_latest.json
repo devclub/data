@@ -1,5 +1,59 @@
 [
-    {
+{
+    "num": 76,
+    "season": 2019,
+    "datetime": "2019-09-10T19:00:00",
+    "place": {
+      "name": "Monese", "loc": "https://goo.gl/maps/LKgtx8qtQ7Ao2WoP9",
+      "addr": "Telliskivi 60/2i-hoone B korpus, II korrus, 10412 Tallinn", "url": "https://monese.com"
+    },
+    "photo": [""],
+    "event": "",
+    "speeches": [
+      {
+        "org": {"cam": "ij", "edit": "-"},
+        "lang": "en",
+        "youtube": [""],
+        "speakers": [
+          {
+            "names": {"*": "Jonas Kiiver"},
+            "titles": {"*": "VP of Technology @ Monese"},
+            "url": "https://www.linkedin.com/in/jonaskiiver",
+            "image": "jonas-kiiver.jpg"
+          }
+        ],
+        "titles": {"*": "Exploring GraphQL-Braid: Leaving RESTish world and building a distributed GraphQL system"},
+        "descr": {
+          "en": [
+            "Do you have 100 microservices on your backend all exposing an API? And Android and iOS apps trying to communicate with them?",
+            "You would probably create a funnel-like API which forwards app calls, collects and returns the data. Then the app guys ask you to return one more field to the endpoint or create a new endpoint. A simple GET request (DB-wise). You plan, you build, you release. App engineers are waiting. Product guys are waiting. Users are waiting!",
+            "Then you wake up one day and see that you have an age-old endpoint which returns half of the database. You have to put an end to this mess! What options are there?",
+            "In this session we will share the result of our GraphQL and Atlassian Braid exploration journey. We are building a new distributed services architecture which will combine GraphQL backends into one schema. The result should be a fast, safe and easily maintainable cluster of microservices."
+          ]
+        }
+      },
+      {
+        "org": {"cam": "ij", "edit": "-"},
+        "lang": "en",
+        "youtube": [""],
+        "speakers": [
+          {
+            "names": {"*": "Edgars Letinskis"},
+            "titles": {"*": "The man behind DevClub.lv"},
+            "url": "https://www.linkedin.com/in/edgarsletinskis",
+            "image": "edgars-letinskis.jpg"
+          }
+        ],
+        "titles": {"*": "Burnout syndrome – why should you take it serious"},
+        "descr": {
+          "en": [
+            "In this talk, I will share my experience with burnout syndrome – symptoms, how to avoid or cope with it and will use mega patented Chopstick method to explain why should you take it serious."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "num": 75,
     "season": 2019,
     "datetime": "2019-08-27T19:00:00",
