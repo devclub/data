@@ -2,7 +2,7 @@
 {
     "num": 76,
     "season": 2019,
-    "datetime": "2019-09-10T19:00:00",
+    "datetime": "2019-09-10T19:00:00+03:00",
     "place": {
       "name": "Monese", "loc": "https://goo.gl/maps/LKgtx8qtQ7Ao2WoP9",
       "addr": "Telliskivi 60/2i-hoone B korpus, II korrus, 10412 Tallinn", "url": "https://monese.com"
