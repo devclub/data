@@ -56,6 +56,11 @@
         "lang": "ru",
         "labels": [],
         "youtube": [],
+        "info": {
+          "ru": "В монтажной.",
+          "en": "Editing video.",
+          "et": "Video tehakse."
+        },
         "speakers": [
           {
             "names": {"*": "Anton Arhipov", "ru": "Антон Архипов"},
@@ -195,6 +200,11 @@
         "lang": "ru",
         "labels": [],
         "youtube": [],
+        "info": {
+          "ru": "В монтажной.",
+          "en": "Editing video.",
+          "et": "Video tehakse."
+        },
         "speakers": [
           {
             "names": {"*": "Sergei Chipiga", "ru": "Сергей Чипига"},
