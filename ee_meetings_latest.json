@@ -68,6 +68,11 @@
         "org": {"cam": "ij", "edit": "-"},
         "lang": "en",
         "youtube": [""],
+        "info": {
+          "ru": "В монтажной.",
+          "en": "Editing video.",
+          "et": "Video tehakse."
+        },
         "speakers": [
           {
             "names": {"*": "Sam Kruglov", "ru": "Сэм Круглов"},
@@ -87,6 +92,11 @@
         "org": {"cam": "ij", "edit": "-"},
         "lang": "en",
         "youtube": [""],
+        "info": {
+          "ru": "Видео не записано по техническим причинам.",
+          "en": "Video is not recorded for technical reasons.",
+          "et": "Video ei tule, pole salvestatud."
+        },
         "speakers": [
           {
             "names": {"*": "Anton Arhipov", "ru": "Антон Архипов"},
@@ -118,7 +128,7 @@
       {
         "org": {"cam": "ij", "edit": "-"},
         "lang": "en",
-        "youtube": [""],
+        "youtube": ["n2lLnibmkWo"],
         "speakers": [
           {
             "names": {"*": "Aleksandr Tavgen", "ru": "Александр Тавген"},
@@ -138,7 +148,7 @@
       {
         "org": {"cam": "ij", "edit": "-"},
         "lang": "en",
-        "youtube": [""],
+        "youtube": ["dFQSOlOOoXE"],
         "speakers": [
           {
             "names": {"*": "Andrei Solntsev", "ru": "Андрей Солнцев"},
