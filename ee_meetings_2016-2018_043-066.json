@@ -194,12 +194,7 @@
     "speeches": [
       {
         "lang": "en",
-        "youtube": [""],
-        "info": {
-          "ru": "В монтажной.",
-          "en": "Editing video.",
-          "et": "Video tehakse."
-        },
+        "youtube": ["VPyZomjVqcs"],
         "speakers": [
           {
             "names": {"*": "Peeter Marvet"},
