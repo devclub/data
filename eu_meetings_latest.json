@@ -1265,12 +1265,7 @@
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
         "labels": ["test", "qa", "junit", "ddt"],
-        "youtube": [],
-        "info": {
-          "ru": "В монтажной.",
-          "en": "Editing video.",
-          "et": "Video tehakse."
-        },
+        "youtube": ["Hs8rcmyYV4U"],
         "speakers": [
           {
             "names": {"*": "Dmitri Tuchs", "ru": "Дмитрий Тучс"},
