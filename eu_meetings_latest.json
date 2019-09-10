@@ -1119,12 +1119,7 @@
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
         "labels": ["ci", "intellij", "teamcity"],
-        "youtube": [],
-        "info": {
-          "ru": "В монтажной.",
-          "en": "Editing video.",
-          "et": "Video tehakse."
-        },
+        "youtube": ["I9M-ds-Fjlw"],
         "speakers": [
           {
             "names": {"*": "Anton Arhipov", "ru": "Антон Архипов"},
