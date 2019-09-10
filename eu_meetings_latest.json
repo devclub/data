@@ -1099,12 +1099,7 @@
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
         "labels": ["docker", "ci", "wercker"],
-        "youtube": [],
-        "info": {
-          "ru": "В монтажной.",
-          "en": "Editing video.",
-          "et": "Video tehakse."
-        },
+        "youtube": ["lB7OYQ7A6P4"],
         "speakers": [
           {
             "names": {"*": "Stanislav Gorski", "ru": "Станислав Горский"},
