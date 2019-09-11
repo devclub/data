@@ -836,12 +836,7 @@
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
         "labels": ["jetbrains", "mps", "dsl"],
-        "youtube": [],
-        "info": {
-          "ru": "В монтажной.",
-          "en": "Editing video.",
-          "et": "Video tehakse."
-        },
+        "youtube": ["1BkElnlTBb4"],
         "speakers": [
           {
             "names": {"*": "", "ru": "Михаил Бараш"},
