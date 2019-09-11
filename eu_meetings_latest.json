@@ -476,15 +476,10 @@
         }
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": "", "edit": "stal"},
         "lang": "ru",
         "labels": ["blockchain", "game"],
-        "youtube": [],
-        "info": {
-          "ru": "В монтажной.",
-          "en": "Editing video.",
-          "et": "Video tehakse."
-        },
+        "youtube": ["yYThXsYonTE"],
         "speakers": [
           {
             "names": {"*": "", "ru": "Сергей Лабутин"},
