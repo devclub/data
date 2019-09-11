@@ -346,12 +346,7 @@
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
         "labels": ["kubernetes", "cluster"],
-        "youtube": [],
-        "info": {
-          "ru": "В монтажной.",
-          "en": "Editing video.",
-          "et": "Video tehakse."
-        },
+        "youtube": ["Mh2-9je_N1Q"],
         "speakers": [
           {
             "names": {"*": "Eugene Goloborodko", "ru": "Евгений Голобородько"},
