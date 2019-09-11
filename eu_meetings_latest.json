@@ -1169,12 +1169,7 @@
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
         "labels": ["ai", "bot", "machine learning"],
-        "youtube": [],
-        "info": {
-          "ru": "В монтажной.",
-          "en": "Editing video.",
-          "et": "Video tehakse."
-        },
+        "youtube": ["LVygNu8EH3U"],
         "speakers": [
           {
             "names": {"*": "Roman Ring", "ru": "Роман Ринг "},
