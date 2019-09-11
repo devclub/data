@@ -317,12 +317,7 @@
         "org": {"cam": "", "edit": ""},
         "lang": "ru",
         "labels": ["google cloud", "vpn"],
-        "youtube": [],
-        "info": {
-          "ru": "В монтажной.",
-          "en": "Editing video.",
-          "et": "Video tehakse."
-        },
+        "youtube": ["kq3wD3S1mpg"],
         "speakers": [
           {
             "names": {"*": "Ervin Weber", "ru": "Эрвин Вебер"},
