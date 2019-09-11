@@ -272,12 +272,7 @@
         "org": {"cam": "as", "edit": ""},
         "lang": "ru",
         "labels": ["reactive", "functional"],
-        "youtube": [],
-        "info": {
-          "ru": "В монтажной.",
-          "en": "Editing video.",
-          "et": "Video tehakse."
-        },
+        "youtube": ["D1TibtDjOJs"],
         "speakers": [
           {
             "names": {"*": "Aleksandr Tavgen", "ru": "Александр Тавген"},
