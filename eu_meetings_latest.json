@@ -68,12 +68,7 @@
         "org": {"cam": "as", "edit": ""},
         "lang": "ru",
         "labels": [],
-        "youtube": [],
-        "info": {
-          "ru": "В монтажной.",
-          "en": "Editing video.",
-          "et": "Video tehakse."
-        },
+        "youtube": ["p6nXKii-GEo"],
         "speakers": [
           {
             "names": {"*": "Anton Arhipov", "ru": "Антон Архипов"},
