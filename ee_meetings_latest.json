@@ -65,14 +65,9 @@
     "event": "https://www.eventbrite.com/e/devclub-75-von-stackelberg-hotel-tickets-69837506863",
     "speeches": [
       {
-        "org": {"cam": "ij", "edit": "-"},
+        "org": {"cam": "timo", "edit": "stal"},
         "lang": "en",
-        "youtube": [""],
-        "info": {
-          "ru": "В монтажной.",
-          "en": "Editing video.",
-          "et": "Video tehakse."
-        },
+        "youtube": ["XrFEwjkLNqw"],
         "speakers": [
           {
             "names": {"*": "Sam Kruglov", "ru": "Сэм Круглов"},
