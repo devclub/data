@@ -10,7 +10,49 @@
     "photo": [],
     "event": "",
     "org": {"mod": "gord", "photo": "linn", "cam": "timo"},
-    "speeches": []
+    "speeches": [
+      {
+        "org": {"cam": "timo", "edit": ""},
+        "lang": "ru",
+        "labels": [],
+        "youtube": [""],
+        "speakers": [
+          {
+            "names": {"*": "Sergei Jegorov", "ru": "Сергей Егоров"},
+            "url": "https://ee.linkedin.com/in/bsideup/en",
+            "image": "segorov.jpg"
+          }
+        ],
+        "titles": {"*": "Как сделать OSS проект успешным... и даже не на JavaScript!"},
+        "descr": {
+          "ru": [
+            "Допустим Вы хотите сделать ваш OSS проект успешным. Какой план? Просто закинуть его на GitHub? Добро пожаловать в клуб '10 звёзд 1 форк'! Чтобы сделать OSS проект успешным, над этим придётся работать 'full-time'. Наблюдать за его первыми шагами, гордиться даже маленьким успехам... По сути дела - почувствовать себя родителем.",
+            "Но... Что ж такое 'успех' в данном вопросе? И как вести себя хорошо на пути к 'успеху'?",
+            "В данном докладе я хотел бы поговорить про основы (а так же некоторые продвинутые техники) того, как управлять такими проектами, как помочь им расти и что ожидать *после* того как Вы выложили его на GitHub. Ведь в мире столько отличных проектов с огромным потенциалом которые так и не достучались до своей аудитории!"
+          ]
+        }
+      },
+      {
+        "org": {"cam": "timo", "edit": ""},
+        "lang": "ru",
+        "labels": [],
+        "youtube": [""],
+        "speakers": [
+          {
+            "names": {"*": "Andrei Solntsev", "ru": "Андрей Солнцев"},
+            "titles": {"*": "Software developer @ Codeborne"},
+            "url": "https://ee.linkedin.com/in/asolntsev",
+            "image": "asolntsev_2018.jpg"
+          }
+        ],
+        "titles": {"*": "10 Things I Hate About test automation"},
+        "descr": {
+          "*": [
+            "People often ask why I hate Page Objects, TestNG, ReportPortal, try/catch, loops, ifs, implicit waitings, explicit waitings, Dependency injection, Spring, etc. in tests. I will talk briefly - 5 minutes for every topic."
+          ]
+        }
+      }
+    ]
   },
   {
     "num": 132,
