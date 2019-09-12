@@ -207,12 +207,7 @@
         "org": {"cam": "as", "edit": ""},
         "lang": "ru",
         "labels": [],
-        "youtube": [],
-        "info": {
-          "ru": "В монтажной.",
-          "en": "Editing video.",
-          "et": "Video tehakse."
-        },
+        "youtube": ["8A5BqCY2cX8"],
         "speakers": [
           {
             "names": {"*": "Sergei Chipiga", "ru": "Сергей Чипига"},
