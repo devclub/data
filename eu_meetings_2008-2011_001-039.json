@@ -1601,21 +1601,21 @@
     ]
   },
   {
-    "datetime": "2009-11-26T19:00:00",
+    "datetime": "2009-11-26T19:00:00+02:00",
     "season": 2009,
     "place": {
-      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
-      "url": "http://www.oruhotel.ee"
+      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", 
+      "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
     "num": 15,
-    "org": {"mod": "aa", "photo": ""},
+    "org": {"mod": ["aarhipov"], "photo": ["aarhipov"]},
+    "photo": ["https://photos.app.goo.gl/C7PMqRLayemA7wrbA"],
     "speeches": [
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": ["aarhipov"], "orig": ["https://vimeo.com/7885067"], "origViews": 575},
         "lang": "ru",
-        "labels": [],
+        "labels": ["c sharp", "c", "functional"],
         "youtube": ["e1f8ebEPcNE"],
-        "origVid": ["https://vimeo.com/7885067"],
         "speakers": [
           {
             "names": {"*": "Juri Mulenko", "ru": "Юрий Муленко"},
@@ -1626,11 +1626,10 @@
         "titles": {"ru": "Функциональное программирование в C#"}
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": ["aarhipov"], "orig": ["https://vimeo.com/7863984"], "origViews": 433},
         "lang": "ru",
-        "labels": [],
+        "labels": ["python"],
         "youtube": ["xQixV8C_G-A"],
-        "origVid": ["https://vimeo.com/7872596"],
         "speakers": [
           {
             "names": {"*": "Aleksandr Motsjonov", "ru": "Александр Мочёнов"},
@@ -1641,11 +1640,10 @@
         "titles": {"ru": "Это же Python!"}
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": ["aarhipov"], "orig": ["https://vimeo.com/7863984"], "origViews": 602},
         "lang": "ru",
-        "labels": [],
+        "labels": ["functional", "java"],
         "youtube": ["bedo5DNeVGQ"],
-        "origVid": ["https://vimeo.com/7863984"],
         "speakers": [
           {
             "names": {"*": "Andrei Solntsev", "ru": "Андрей Солнцев"},
@@ -1659,28 +1657,22 @@
     ]
   },
   {
-    "datetime": "2009-10-29T19:00:00",
+    "datetime": "2009-10-29T19:00:00+02:00",
     "season": 2009,
     "place": {
-      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
-      "url": "http://www.oruhotel.ee"
+      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", 
+      "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
     "num": 14,
-    "org": {"mod": "Захар Кириллов", "photo": ""},
-    "photo": [
-      "https://picasaweb.google.com/112734643471916024675/DevclubEu20091029",
-      "https://picasaweb.google.com/113700290255174605295/DevClub29102009"
-    ],
+    "org": {"mod": ["zkirillov"], "photo": ["aarhipov", "amotsjonov"]},
+    "photo": ["https://photos.app.goo.gl/XkXyVHDbHc1Jh5Ki7"],
     "speeches": [
       {
-        "org": {},
         "lang": "ru",
-        "labels": [],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Антон Литвиненко"},
-            "url": "",
-            "image": ""
+            "names": {"*": "Anton Litvinenko", "ru": "Антон Литвиненко"},
+            "image": "alitvinenko.jpg"
           }
         ],
         "titles": {"ru": "Термометер для управления проектом"},
@@ -1691,9 +1683,8 @@
         }
       },
       {
-        "org": {},
         "lang": "ru",
-        "labels": [],
+        "labels": ["automat testing", "testing"],
         "speakers": [
           {
             "names": {"*": "Stanislav Katkov", "ru": "Станислав Катков"},
@@ -1709,14 +1700,12 @@
         }
       },
       {
-        "org": {},
         "lang": "ru",
-        "labels": [],
+        "labels": ["automat testing", "testing"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Антон Шишков"},
-            "url": "",
-            "image": ""
+            "names": {"*": "Anton Shishkov", "ru": "Антон Шишков"},
+            "image": "ashishkov.jpg"
           }
         ],
         "titles": {"ru": "Краткий обзор программ для автоматичесткого тестирования"},
@@ -1727,14 +1716,12 @@
         }
       },
       {
-        "org": {},
         "lang": "ru",
-        "labels": [],
+        "labels": ["testing", "web"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Сергей Сергеев"},
-            "url": "",
-            "image": ""
+            "names": {"*": "Sergei Sergejev", "ru": "Сергей Сергеев"},
+            "image": "ssergejev.jpg"
           }
         ],
         "titles": {"ru": "Что такое (web)тестирование и с чем его едят?"},
@@ -1747,24 +1734,21 @@
     ]
   },
   {
-    "datetime": "2009-09-29T19:00:00",
+    "datetime": "2009-09-29T19:00:00+03:00",
     "season": 2009,
     "place": {
-      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
-      "url": "http://www.oruhotel.ee"
+      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", 
+      "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
     "num": 13,
-    "org": {"mod": "jh", "photo": ""},
-    "photo": [
-      "https://picasaweb.google.com/112734643471916024675/DevclubEu20090929"
-    ],
+    "org": {"mod": ["jholodkov"], "photo": ["aarhipov"]},
+    "photo": ["https://photos.app.goo.gl/ypsySqhTFatef2F77"],
     "speeches": [
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": ["aarhipov"], "orig": ["https://vimeo.com/7139653"], "origViews": 7278},
         "lang": "ru",
-        "labels": [],
+        "labels": ["pair programming"],
         "youtube": ["n1tOBnSpyWc"],
-        "origVid": ["https://vimeo.com/7139653"],
         "speakers": [
           {
             "names": {"*": "Anton Keks", "ru": "Антон Кекс"},
@@ -1781,138 +1765,116 @@
         "top": {"season": 2009, "place": 2}
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": ["aarhipov"], "orig": ["https://vimeo.com/6891469"], "origViews": 138},
         "lang": "ru",
-        "labels": [],
+        "labels": ["phone", "honeywell"],
         "youtube": ["6mqm-aM0Xmk"],
-        "origVid": ["https://vimeo.com/6891469"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Роман Шестаков"},
-            "url": "",
-            "image": ""
+            "names": {"*": "Roman Shestakov", "ru": "Роман Шестаков"},
+            "image": "rshestakov.jpg"
           }
         ],
-        "titles": {"ru": "Мобильные устройства Honeywell"},
-        "presentations": ["http://www.slideshare.net/arhan/honeywell-devices-roman-shestakov"]
+        "titles": {"ru": "Мобильные устройства Honeywell"}
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": ["aarhipov"], "orig": ["https://vimeo.com/6887189"], "origViews": 426},
         "lang": "ru",
-        "labels": [],
+        "labels": ["phone"],
         "youtube": ["1O2bSA87Ozc"],
-        "origVid": ["https://vimeo.com/6887189"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Николай Павлов"},
-            "url": "",
-            "image": ""
+            "names": {"*": "Nikolai Pavlov", "ru": "Николай Павлов"},
+            "image": "npavlov.jpg"
           }
         ],
         "titles": {"ru": "Мобильниге"},
-        "presentations": ["http://www.slideshare.net/arhan/mobile-platforms-nikolai-pavlov"],
         "top": {"season": 2009, "place": 3}
       }
     ]
   },
   {
-    "datetime": "2009-08-27T19:00:00",
+    "datetime": "2009-08-27T19:00:00+03:00",
     "season": 2009,
     "place": {
-      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
-      "url": "http://www.oruhotel.ee"
+      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2",
+      "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
     "num": 12,
-    "org": {"mod": "kl", "photo": ""},
-    "photo": [
-      "https://picasaweb.google.com/112734643471916024675/DevclubEu20090827"
-    ],
+    "org": {"mod": ["klinnik"], "photo": ["aarhipov"]},
+    "photo": ["https://photos.app.goo.gl/eeHrw53qL5zBXtJY9"],
     "speeches": [
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": ["aarhipov"], "orig": ["https://vimeo.com/6511539"], "origViews": 301},
         "lang": "ru",
-        "labels": [],
+        "labels": ["team", "management"],
         "youtube": ["DL0ZEC0OpXk"],
-        "origVid": ["https://vimeo.com/6511539"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Игорь Меньков"},
-            "url": "",
-            "image": ""
+            "names": {"*": "Igor Menkov", "ru": "Игорь Меньков"},
+            "image": "imenkov.jpg"
           }
         ],
-        "titles": {"ru": "Управление командой и… нужен ли вам архитектор?"},
-        "presentations": ["http://www.slideshare.net/arhan/igor-menkov-who-needs-an-architect"]
+        "titles": {"ru": "Управление командой и… нужен ли вам архитектор?"}
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": ["aarhipov"], "orig": ["https://vimeo.com/6455834"], "origViews": 450},
         "lang": "ru",
-        "labels": [],
+        "labels": ["agile"],
         "youtube": ["BhvIFmEuW_g"],
-        "origVid": ["https://vimeo.com/6455834"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Станислав Васильев"},
-            "url": "",
-            "image": ""
+            "names": {"*": "Stanislav Vasiljev", "ru": "Станислав Васильев"},
+            "image": "svasiljev.jpg"
           }
         ],
         "titles": {"ru": "Что такое Agile или мой первый урок японского"},
-        "presentations": ["http://www.slideshare.net/arhan/stanislav-vassiljev-what-is-agile"],
         "top": {"season": 2009, "place": 4}
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": ["aarhipov"], "orig": ["https://vimeo.com/6454912"], "origViews": 219},
         "lang": "ru",
-        "labels": [],
+        "labels": ["business", "investing", "estonia"],
         "youtube": ["nj6O86RqlhA"],
-        "origVid": ["https://vimeo.com/6454912"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Марк Кофман"},
-            "url": "",
-            "image": ""
+            "names": {"*": "Mark Kofman", "ru": "Марк Кофман"},
+            "image": "mkofman.jpg"
           }
         ],
-        "titles": {"ru": "Привлечение инвестиций в Эстонии"},
-        "presentations": ["http://www.slideshare.net/arhan/mark-kofman-raising-money-in-estonia"]
+        "titles": {"ru": "Привлечение инвестиций в Эстонии"}
       }
     ]
   },
   {
-    "datetime": "2009-07-28T19:00:00",
+    "datetime": "2009-07-28T19:00:00+03:00",
     "season": 2009,
     "place": {
-      "name": "Helmes AS", "loc": "https://goo.gl/maps/L5dLpjcmHnq", "addr": "Lõõtsa 6b, 11415 Tallinn",
-      "url": "http://www.helmes.com"
+      "name": "Helmes AS", "loc": "https://goo.gl/maps/L5dLpjcmHnq",
+      "addr": "Lõõtsa 6b, 11415 Tallinn", "url": "http://www.helmes.com"
     },
     "num": 11,
-    "org": {"mod": "aso", "photo": ""},
-    "photo": [
-      "https://picasaweb.google.com/112734643471916024675/DevclubEu20090728"
-    ],
+    "org": {"mod": ["asolntsev"], "photo": ["aarhipov"]},
+    "photo": ["https://photos.app.goo.gl/4tkpoumWq3iu89xF7"],
     "speeches": [
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": ["aarhipov"], "orig": ["https://vimeo.com/5995249"], "origViews": 321},
         "lang": "ru",
-        "labels": [],
+        "labels": ["ruby", "ruby on rails"],
         "youtube": ["zpa1x8zF81g"],
-        "origVid": ["https://vimeo.com/5995249"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Ярослав Калищук"},
-            "url": "",
-            "image": ""
+            "names": {"*": "Jaroslav Kalischuk", "ru": "Ярослав Калищук"},
+            "image": "jkalischuk.jpg"
           }
         ],
         "titles": {"*": "Ruby On Rails hands-on"}
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": ["aarhipov"], "orig": ["https://vimeo.com/5994327"], "origViews": 1320},
         "lang": "ru",
-        "labels": [],
+        "labels": ["business", "fuck-ups"],
         "youtube": ["fNg2aP-IV8c"],
-        "origVid": ["https://vimeo.com/5994327"],
         "speakers": [
           {
             "names": {"*": "Zahhar Kirillov", "ru": "Захар Кириллов"},
@@ -1925,14 +1887,12 @@
         "presentations": ["20090728_zkirillov_grabli.pdf"]
       },
       {
-        "org": {},
         "lang": "ru",
-        "labels": [],
+        "labels": ["programeter", "startup", "project"],
         "speakers": [
           {
             "names": {"*": "Mark Kofman", "ru": "Марк Кофман"},
-            "url": "",
-            "image": ""
+            "image": "mkofman.jpg"
           }
         ],
         "titles": {"*": "Programeter"},
@@ -1943,16 +1903,14 @@
         }
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": ["aarhipov"], "orig": ["https://vimeo.com/5995255"], "origViews": 710},
         "lang": "ru",
-        "labels": [],
+        "labels": ["business", "marketing"],
         "youtube": ["bwFsjS18GM8"],
-        "origVid": ["https://vimeo.com/5995255"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Андрей Тукин"},
-            "url": "",
-            "image": ""
+            "names": {"*": "Andrei Tukin", "ru": "Андрей Тукин"},
+            "image": "atukin.jpg"
           }
         ],
         "titles": {"ru": "IT-бизнес с точки зрения бизнеса"}
@@ -1960,17 +1918,16 @@
     ]
   },
   {
-    "datetime": "2009-06-30T19:00:00",
+    "datetime": "2009-06-30T19:00:00+03:00",
     "season": 2009,
     "place": {"name": "Aqris"},
     "num": 10,
-    "org": {"mod": "kl", "photo": ""},
+    "org": {"mod": ["klinnik"]},
     "speeches": [
       {
-        "org": {},
+        "org": {"cam": ["aarhipov"], "orig": ["https://vimeo.com/5496714"]},
         "lang": "ru",
-        "labels": [],
-        "initialVideoUrl-hidden": ["https://vimeo.com/5496714"],
+        "labels": ["db", "database"],
         "speakers": [
           {
             "names": {"*": "Andrei Solntsev", "ru": "Андрей Солнцев"},
@@ -1986,11 +1943,10 @@
         }
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": ["aarhipov"], "orig": ["https://vimeo.com/5494697"], "origViews": 364},
         "lang": "ru",
-        "labels": [],
+        "labels": ["db", "database", "oracle"],
         "youtube": ["lhKleb7aRjw"],
-        "origVid": ["https://vimeo.com/5494697"],
         "speakers": [
           {
             "names": {"*": "Martin Kiuru", "ru": "Мартин Киуру"},
@@ -2001,16 +1957,14 @@
         "titles": {"*": "Oracle Secrets"}
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": ["aarhipov"], "orig": ["https://vimeo.com/5494665"], "origViews": 346},
         "lang": "ru",
-        "labels": [],
+        "labels": ["db", "database"],
         "youtube": ["ugqzrlmH8VM"],
-        "origVid": ["https://vimeo.com/5494665"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Сергей Мудрецов"},
-            "url": "",
-            "image": ""
+            "names": {"*": "Sergei Mudretsov", "ru": "Сергей Мудрецов"},
+            "image": "smudretsov.jpg"
           }
         ],
         "titles": {"ru": "Мир баз данных, его тенденции и тонкости"}
@@ -2018,18 +1972,17 @@
     ]
   },
   {
-    "datetime": "2009-05-28T19:00:00",
+    "datetime": "2009-05-28T19:00:00+03:00",
     "season": 2009,
     "place": {"name": "Aqris"},
     "num": 9,
-    "org": {"mod": "Дмитрий Семиренко", "photo": ""},
+    "org": {"mod": ["dsemirenko"]},
     "speeches": [
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": ["aarhipov"], "orig": ["https://vimeo.com/5042958"], "origViews": 172},
         "lang": "ru",
-        "labels": [],
+        "labels": ["java", "ajax", "dwr"],
         "youtube": ["8dQEDNfhUgc"],
-        "origVid": ["https://vimeo.com/5042958"],
         "speakers": [
           {
             "names": {"*": "Arseni Grigorjev", "ru": "Арсений Григорьев"},
@@ -2038,29 +1991,26 @@
           }
         ],
         "titles": {"*": "DWR"},
-        "presentations": ["http://www.slideshare.net/arsenikum/dwr-devclubeu"]
+        "presentations": ["20090423_agrigorjev_dwr.pdf"]
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": ["aarhipov"], "orig": ["https://vimeo.com/5043231"], "origViews": 143},
         "lang": "ru",
-        "labels": [],
+        "labels": ["web", "framework", "aranea"],
         "youtube": ["QllNRTrvx7M"],
-        "origVid": ["https://vimeo.com/5043231"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Олег Чернецов"},
-            "url": "",
-            "image": ""
+            "names": {"*": "Oleg Tšernetsov", "ru": "Олег Чернецов"},
+            "image": "otsernetsov.jpg"
           }
         ],
         "titles": {"*": "Aranea"}
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": ["aarhipov"], "orig": ["https://vimeo.com/4908037"], "origViews": 374},
         "lang": "ru",
-        "labels": ["js", "jquery"],
+        "labels": ["js", "javascript", "jquery"],
         "youtube": ["E-0_o4nEcxs"],
-        "origVid": ["https://vimeo.com/4908037"],
         "speakers": [
           {
             "names": {"*": "Aleksandr Motsjonov", "ru": "Александр Мочёнов"},
@@ -2069,37 +2019,34 @@
           }
         ],
         "titles": {"*": "jQuery"},
-        "presentations": ["http://www.slideshare.net/soswow/js-libraries-and-jquery-overview"]
+        "presentations": ["20090423_amotsjonov_jquery.pdf"]
       }
     ]
   },
   {
-    "datetime": "2009-04-23T19:00:00",
+    "datetime": "2009-04-23T19:00:00+03:00",
     "season": 2009,
     "place": {"name": "Ericsson"},
     "num": 8,
     "speeches": [
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": ["aarhipov"], "orig": ["https://vimeo.com/4564313"], "origViews": 1087},
         "lang": "ru",
-        "labels": [],
+        "labels": ["offtopic", "semiotics"],
         "youtube": ["fOa--TThL_A"],
-        "origVid": ["https://vimeo.com/4564313"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Елена Григорьева"},
-            "url": "",
-            "image": ""
+            "names": {"*": "Jelena Grigorjeva", "ru": "Елена Григорьева"},
+            "image": "jgrigorjeva.jpg"
           }
         ],
         "titles": {"ru": "Семиотика"}
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": ["aarhipov"], "orig": ["https://vimeo.com/4412497"], "origViews": 604},
         "lang": "ru",
-        "labels": [],
+        "labels": ["esb", "servicemix", "java"],
         "youtube": ["Nhu495_XzIE"],
-        "origVid": ["https://vimeo.com/4412497"],
         "speakers": [
           {
             "names": {"*": "Jevgeni Holodkov", "ru": "Евгений Холодков"},
@@ -2110,11 +2057,10 @@
         "titles": {"*": "Servicemix ESB"}
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": ["aarhipov"], "orig": ["https://vimeo.com/4324555"], "origViews": 1238},
         "lang": "ru",
-        "labels": [],
+        "labels": ["apache", "camel", "java"],
         "youtube": ["ZtRGAMrq3lM"],
-        "origVid": ["https://vimeo.com/4410464"],
         "speakers": [
           {
             "names": {"*": "Anton Arhipov", "ru": "Антон Архипов"},
@@ -2123,13 +2069,12 @@
           }
         ],
         "titles": {"*": "Apache Camel"},
-        "presentations": ["http://www.slideshare.net/helggeist/apache-camel-1336249"]
+        "presentations": ["20090423_aarhipov_apachecamel.pdf"]
       },
       {
-        "org": {},
+        "org": {"cam": ["aarhipov"], "orig": ["https://vimeo.com/4327417"]},
         "lang": "ru",
-        "labels": [],
-        "_vids-hidden": ["https://vimeo.com/4327417"],
+        "labels": ["esb", "fiorano"],
         "speakers": [
           {
             "names": {"*": "Andrei Solntsev", "ru": "Андрей Солнцев"},
@@ -2138,7 +2083,7 @@
           }
         ],
         "titles": {"*": "Fiorano ESB"},
-        "presentations": ["http://www.slideshare.net/helggeist/fiorano"],
+        "presentations": ["20090423_asolntsev_fiorano.pdf"],
         "info": {
           "ru": "Из-за конфликтной ситуации видео было закрыто для просмотра.",
           "en": "Video is closed for viewing.",
@@ -2146,11 +2091,10 @@
         }
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": ["aarhipov"], "orig": ["https://vimeo.com/4324555"], "origViews": 170},
         "lang": "ru",
-        "labels": [],
+        "labels": ["xbrl"],
         "youtube": ["7Vl6jHmpVCY"],
-        "origVid": ["https://vimeo.com/4324555"],
         "speakers": [
           {
             "names": {"*": "Kirill Linnik", "ru": "Кирилл Линник"},
@@ -2159,24 +2103,21 @@
           }
         ],
         "titles": {"*": "XBRL [2]"},
-        "presentations": [
-          "http://www.slideshare.net/helggeist/110-introduction-to-xbrl-taxonomies-and-instance-documents-sept-2007-print-version"
-        ]
+        "presentations": ["20090423_klinnik_xbrl2.pdf"]
       }
     ]
   },
   {
-    "datetime": "2009-03-28T19:00:00",
+    "datetime": "2009-03-28T19:00:00+03:00",
     "season": 2009,
     "place": {"name": "Ericsson"},
     "num": 7,
     "speeches": [
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": ["aarhipov"], "orig": ["https://vimeo.com/3988419"], "origViews": 169},
         "lang": "ru",
-        "labels": [],
+        "labels": ["marketing", "voting"],
         "youtube": ["KF-Iik4Htmg"],
-        "origVid": ["https://vimeo.com/3988419"],
         "speakers": [
           {
             "names": {"*": "Jevgeni Holodkov", "ru": "Евгений Холодков"},
@@ -2184,14 +2125,13 @@
             "image": "jholodkov.jpg"
           }
         ],
-        "titles": {"ru": "Технологии в предвыборной компании мистера Обама."}
+        "titles": {"ru": "Технологии в предвыборной компании мистера Обама"}
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": ["aarhipov"], "orig": ["https://vimeo.com/4108438"], "origViews": 473},
         "lang": "ru",
         "labels": ["bi", "reporting", "crystal reports"],
         "youtube": ["jHY_J0LiDTw"],
-        "origVid": ["https://vimeo.com/4108438"],
         "speakers": [
           {
             "names": {"*": "Juri Mulenko", "ru": "Юрий Муленко"},
@@ -2202,11 +2142,10 @@
         "titles": {"*": "Crystal Reports"}
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": ["aarhipov"], "orig": ["https://vimeo.com/3904620"], "origViews": 218},
         "lang": "ru",
-        "labels": [],
+        "labels": ["xbrl"],
         "youtube": ["S19ZQAHCiBM"],
-        "origVid": ["https://vimeo.com/3904620"],
         "speakers": [
           {
             "names": {"*": "Kirill Linnik", "ru": "Кирилл Линник"},
@@ -2219,86 +2158,77 @@
     ]
   },
   {
-    "datetime": "2009-02-19T19:00:00",
+    "datetime": "2009-02-19T19:00:00+02:00",
     "season": 2009,
     "place": {"name": "Ericsson"},
     "num": 6,
     "speeches": [
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": ["aarhipov"], "orig": ["https://vimeo.com/4599992"], "origViews": 302},
         "lang": "ru",
-        "labels": [],
+        "labels": ["sms"],
         "youtube": ["BDNpgO3yqB0"],
-        "origVid": ["https://vimeo.com/4599992"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Роман Васёхо"},
-            "url": "",
-            "image": ""
+            "names": {"*": "Roman Vasjoho", "ru": "Роман Васёхо"},
+            "image": "rvasjoho.jpg"
           }
         ],
         "titles": {"*": "SMS & Mobi"},
-        "presentations": ["http://www.slideshare.net/jevgeni_holodkov/mobi"]
+        "presentations": ["20090219_rvasjoho_sms-mobi.pdf"]
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": ["aarhipov"], "orig": ["https://vimeo.com/4638177"], "origViews": 394},
         "lang": "ru",
-        "labels": [],
+        "labels": ["money", "credit card"],
         "youtube": ["G8M-Jc8GcG0"],
-        "origVid": ["https://vimeo.com/4638177"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Сергей Кузнецов"},
-            "url": "",
-            "image": ""
+            "names": {"*": "Sergei Kuznetsov", "ru": "Сергей Кузнецов"},
+            "image": "skuznetsov.jpg"
           }
         ],
         "titles": {"*": "Kaardikeskus"},
-        "presentations": ["http://www.slideshare.net/jevgeni_holodkov/kaardikeskus"]
+        "presentations": ["20090219_skuznetsov_kaardikeskus.pdf"]
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": ["aarhipov"], "orig": ["https://vimeo.com/3392788"], "origViews": 809},
         "lang": "ru",
-        "labels": [],
+        "labels": ["bank", "money", "pangalink"],
         "youtube": ["VAjTuAVTQqg"],
-        "origVid": ["https://vimeo.com/3392788"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Артём Курапов"},
-            "url": "",
-            "image": ""
+            "names": {"*": "Artjom Kurapov", "ru": "Артём Курапов"},
+            "image": "akurapov.jpg"
           }
         ],
         "titles": {"*": "Pangalink"}
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": ["aarhipov"], "orig": ["https://vimeo.com/3377701"], "origViews": 311},
         "lang": "ru",
-        "labels": [],
+        "labels": ["money", "webmoney"],
         "youtube": ["6laoZtjGv0k"],
-        "origVid": ["https://vimeo.com/3377701"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Алекс Бург"},
-            "url": "",
-            "image": ""
+            "names": {"*": "Alex Burg", "ru": "Алекс Бург"},
+            "image": "aburg.jpg"
           }
         ],
         "titles": {"*": "Webmoney"},
-        "presentations": ["http://www.slideshare.net/jevgeni_holodkov/ss-1069374"]
+        "presentations": ["20090219_aburg_webmoney.pdf"]
       }
     ]
   },
   {
-    "datetime": "2009-01-30T19:00:00",
+    "datetime": "2009-01-30T19:00:00+02:00",
     "season": 2009,
     "place": {"name": "Ericsson"},
     "num": 5,
     "speeches": [
       {
-        "org": {},
         "lang": "ru",
-        "labels": [],
+        "labels": ["jboss", "drools"],
         "speakers": [
           {
             "names": {"*": "Andrei Solntsev", "ru": "Андрей Солнцев"},
@@ -2314,9 +2244,8 @@
         }
       },
       {
-        "org": {},
         "lang": "ru",
-        "labels": [],
+        "labels": ["ilog"],
         "speakers": [
           {
             "names": {"*": "Kirill Linnik", "ru": "Кирилл Линник"},
@@ -2332,9 +2261,8 @@
         }
       },
       {
-        "org": {},
         "lang": "ru",
-        "labels": [],
+        "labels": ["jboss", "drools"],
         "speakers": [
           {
             "names": {"*": "Anton Arhipov", "ru": "Антон Архипов"},
@@ -2343,7 +2271,7 @@
           }
         ],
         "titles": {"*": "JBoss Drools"},
-        "presentations": ["http://www.slideshare.net/arhan/jboss-drools-presentation-for-devclubeu"],
+        "presentations": ["20090130_aarhipov_jboss-drools.pdf"],
         "info": {
           "ru": "Встреча не снималась на камеру. Видео нет.",
           "en": "No meeting recording on camera. No video.",
@@ -2353,20 +2281,17 @@
     ]
   },
   {
-    "datetime": "2008-12-26T19:00:00",
+    "datetime": "2008-12-26T19:00:00+02:00",
     "season": 2009,
     "place": {"name": "Ustus Aguri maja"},
     "num": 4,
-    "photo": [
-      "https://plus.google.com/photos/105266766340206558621/albums/6158139935991968401"
-    ],
+    "photo": ["https://photos.app.goo.gl/7DcrawHExSfWGh8U9"],
     "speeches": [
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": ["akurapov"], "orig": ["https://vimeo.com/5399511"], "origViews": 405},
         "lang": "ru",
-        "labels": [],
+        "labels": ["javafx"],
         "youtube": ["FQz9EYZAphc"],
-        "origVid": ["https://vimeo.com/5399511"],
         "speakers": [
           {
             "names": {"*": "Jevgeni Holodkov", "ru": "Евгений Холодков"},
@@ -2377,11 +2302,10 @@
         "titles": {"ru": "Введение в JavaFX 1.0"}
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": ["akurapov"], "orig": ["https://vimeo.com/5344172"], "origViews": 201},
         "lang": "ru",
-        "labels": [],
+        "labels": ["silverlight"],
         "youtube": ["uk5qJWgb51o"],
-        "origVid": ["https://vimeo.com/5344172"],
         "speakers": [
           {
             "names": {"*": "Juri Mulenko", "ru": "Юрий Муленко"},
@@ -2389,19 +2313,17 @@
             "image": "jmulenko.jpg"
           }
         ],
-        "titles": {"ru": "Обзор Silverlight "}
+        "titles": {"ru": "Обзор Silverlight"}
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": ["akurapov"], "orig": ["https://vimeo.com/5404394"], "origViews": 303},
         "lang": "ru",
-        "labels": [],
+        "labels": ["flex"],
         "youtube": ["C0fOKuxoknM"],
-        "origVid": ["https://vimeo.com/5404394"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Юрий Рейнсалу"},
-            "url": "",
-            "image": ""
+            "names": {"*": "Jüri Reinsalu", "ru": "Юрий Рейнсалу"},
+            "image": "jreinsalu.jpg"
           }
         ],
         "titles": {"ru": "Flex в действии"}
@@ -2409,19 +2331,19 @@
     ]
   },
   {
-    "datetime": "2008-06-05T19:00:00",
+    "datetime": "2008-06-05T19:00:00+03:00",
     "season": 2009,
     "place": {"name": "Scotland Yard"},
     "num": 3
   },
   {
-    "datetime": "2008-04-12T19:00:00",
+    "datetime": "2008-04-12T19:00:00+03:00",
     "season": 2009,
     "place": {"name": "Exact"},
     "num": 2
   },
   {
-    "datetime": "2008-03-07T19:00:00",
+    "datetime": "2008-03-07T19:00:00+02:00",
     "season": 2009,
     "num": 1
   }
