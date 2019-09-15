@@ -771,16 +771,12 @@
     "datetime": "2010-12-22T19:00:00",
     "season": 2011,
     "place": {
-      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
-      "url": "http://www.oruhotel.ee"
+      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2",
+      "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
     "num": 28,
-    "org": {"mod": "aa", "photo": ""},
-    "photo": [
-      "https://picasaweb.google.com/112734643471916024675/Devclub201012221",
-      "https://picasaweb.google.com/112734643471916024675/Devclub201012222",
-      "https://plus.google.com/photos/+AndreiTkachyov/albums/5556260289101096705"
-    ],
+    "org": {"mod": ["aarhipov"], "photo": ["aarhipov"]},
+    "photo": ["https://photos.app.goo.gl/UaMZtRFMaN5i2Mqq6", "https://plus.google.com/photos/+AndreiTkachyov/albums/5556260289101096705"],
     "speeches": [
       {
         "org": {"cam": "", "edit": ""},
@@ -848,14 +844,12 @@
     "datetime": "2010-11-23T19:00:00",
     "season": 2010,
     "place": {
-      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
-      "url": "http://www.oruhotel.ee"
+      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2",
+      "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
     "num": 27,
-    "org": {"mod": "aa", "photo": ""},
-    "photo": [
-      "https://picasaweb.google.com/112734643471916024675/Devclub20101123"
-    ],
+    "org": {"mod": ["aarhipov"], "photo": ["aarhipov"]},
+    "photo": ["https://photos.app.goo.gl/2Ub2p5e5E6F6L7318"],
     "speeches": [
       {
         "org": {"cam": "", "edit": ""},
@@ -910,15 +904,12 @@
     "datetime": "2010-10-26T19:00:00",
     "season": 2010,
     "place": {
-      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
-      "url": "http://www.oruhotel.ee"
+      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2",
+      "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
     "num": 26,
-    "org": {"mod": "jm", "photo": ""},
-    "photo": [
-      "https://picasaweb.google.com/112734643471916024675/Devclub20101026",
-      "https://plus.google.com/photos/102725365159851236118/albums/5532838614526213953"
-    ],
+    "org": {"mod": ["jmulenko"], "photo": ["aarhipov"]},
+    "photo": [ "https://photos.app.goo.gl/82iSYWuAz3hUsqBh8", "https://plus.google.com/photos/102725365159851236118/albums/5532838614526213953"],
     "speeches": [
       {
         "org": {"cam": "", "edit": ""},
@@ -1022,11 +1013,8 @@
       "url": "http://www.oruhotel.ee"
     },
     "num": 24,
-    "org": {"mod": "aso", "photo": ""},
-    "photo": [
-      "https://plus.google.com/photos/101124267861537730212/albums/5510359004663580177",
-      "https://plus.google.com/photos/+AleksandrMotsjonov/albums/5509842566639579937"
-    ],
+    "org": {"mod": ["asolntsev"], "photo": ["klinnik", "amotsjonov"]},
+    "photo": ["https://photos.app.goo.gl/C75ERmA6a9uMUJsp7"],
     "speeches": [
       {
         "org": {"cam": "", "edit": ""},
@@ -1081,15 +1069,12 @@
     "datetime": "2010-07-27T19:00:00",
     "season": 2010,
     "place": {
-      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
-      "url": "http://www.oruhotel.ee"
+      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", 
+      "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
     "num": 23,
-    "org": {"mod": "aa", "photo": ""},
-    "photo": [
-      "https://picasaweb.google.com/112734643471916024675/Devclub20010727",
-      "https://plus.google.com/photos/101124267861537730212/albums/5498841008094424881"
-    ],
+    "org": {"mod": ["aarhipov"], "photo": ["klinnik"]},
+    "photo": ["https://photos.app.goo.gl/Xx8hGPp5b5uiW6Sn8"],
     "speeches": [
       {
         "org": {"cam": "", "edit": ""},
@@ -1146,15 +1131,12 @@
     "datetime": "2010-06-28T19:00:00",
     "season": 2010,
     "place": {
-      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
-      "url": "http://www.oruhotel.ee"
+      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", 
+      "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
     "num": 22,
-    "org": {"mod": "jh", "photo": ""},
-    "photo": [
-      "https://picasaweb.google.com/112734643471916024675/Devclub20100628",
-      "https://plus.google.com/photos/101124267861537730212/albums/5488248741635970385"
-    ],
+    "org": {"mod": ["jholodkov"], "photo": ["aarhipov", "klinnik"]},
+    "photo": ["https://photos.app.goo.gl/jF2hQDQyqGuaKVo4A"],
     "speeches": [
       {
         "org": {"cam": "", "edit": ""},
@@ -1207,15 +1189,12 @@
     "datetime": "2010-05-26T19:00:00",
     "season": 2010,
     "place": {
-      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
-      "url": "http://www.oruhotel.ee"
+      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", 
+      "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
     "num": 21,
-    "org": {"mod": "aa", "photo": ""},
-    "photo": [
-      "https://picasaweb.google.com/112734643471916024675/Devclub201005261",
-      "https://picasaweb.google.com/112734643471916024675/Devclub201005262"
-    ],
+    "org": {"mod": ["aarhipov"], "photo": ["aarhipov"]},
+    "photo": ["https://photos.app.goo.gl/fVhpQ5Xg3RC5yyfy6"],
     "speeches": [
       {
         "org": {"cam": "", "edit": ""},
@@ -1272,16 +1251,12 @@
     "datetime": "2010-04-30T19:00:00",
     "season": 2010,
     "place": {
-      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
-      "url": "http://www.oruhotel.ee"
+      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", 
+      "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
     "num": 20,
-    "org": {"mod": "aso", "photo": ""},
-    "photo": [
-      "https://picasaweb.google.com/100467396985255209330/TallinnDevelopersClub30042010",
-      "https://plus.google.com/photos/101124267861537730212/albums/5466060806339521553",
-      "https://plus.google.com/photos/+AndreiTkachyov/albums/5466688960462685649"
-    ],
+    "org": {"mod": ["asolntsev"], "photo": ["klinnik", "asolntsev"]},
+    "photo": ["https://photos.app.goo.gl/wTrLu5NmB6CaxAxD8", "https://plus.google.com/photos/+AndreiTkachyov/albums/5466688960462685649"],
     "speeches": [
       {
         "org": {"cam": "", "edit": ""},
@@ -1444,10 +1419,8 @@
       "url": "http://www.oruhotel.ee"
     },
     "num": 17,
-    "org": {"mod": "kl", "photo": ""},
-    "photo": [
-      "https://picasaweb.google.com/112734643471916024675/DevclubEu20100126"
-    ],
+    "org": {"mod": "klinnik", "photo": "aarhipov"},
+    "photo": ["https://photos.app.goo.gl/qdb62dGvuJYzr1vS7"],
     "speeches": [
       {
         "org": {"cam": "", "edit": ""},
@@ -1506,38 +1479,33 @@
     ]
   },
   {
-    "datetime": "2009-12-22T19:00:00",
+    "datetime": "2009-12-22T19:00:00+02:00",
     "season": 2010,
     "place": {
-      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
-      "url": "http://www.oruhotel.ee"
+      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2",
+      "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
     "num": 16,
-    "org": {"mod": "Александр Моченов", "photo": ""},
-    "photo": [
-      "https://picasaweb.google.com/112734643471916024675/DevclubEu20091222"
-    ],
+    "org": {"mod": "amotsjonov", "photo": ""},
+    "photo": ["https://picasaweb.google.com/112734643471916024675/DevclubEu20091222"],
     "speeches": [
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": ["aarhipov"], "orig": ["https://vimeo.com/8434609"], "origViews": 151},
         "lang": "ru",
-        "labels": [],
+        "labels": ["gaming", "animation", "project"],
         "youtube": ["S2k_RO0557A"],
-        "origVid": ["https://vimeo.com/8434609"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Алек Козлов"},
-            "url": "",
-            "image": ""
+            "names": {"*": "Alek Kozlov", "ru": "Алек Козлов"},
+            "image": "akozlov.jpg"
           }
         ],
         "titles": {"*": "Alice.org"}
       },
       {
-        "org": {},
+        "org": {"orig": ["https://vimeo.com/8434698"]},
         "lang": "ru",
-        "labels": [],
-        "origVid": ["https://vimeo.com/8434698"],
+        "labels": ["hirebug"],
         "speakers": [
           {
             "names": {"*": "Andrei Solntsev", "ru": "Андрей Солнцев"},
@@ -1553,11 +1521,10 @@
         }
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": ["aarhipov"], "orig": ["https://vimeo.com/8431535"], "origViews": 151},
         "lang": "ru",
-        "labels": [],
+        "labels": ["phone", "mobile"],
         "youtube": ["nu8FrqKDY_k"],
-        "origVid": ["https://vimeo.com/8431535"],
         "speakers": [
           {
             "names": {"*": "Jevgeni Holodkov", "ru": "Евгений Холодков"},
@@ -1568,11 +1535,10 @@
         "titles": {"*": "Ericsson labs"}
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": ["aarhipov"], "orig": ["https://vimeo.com/8434767"], "origViews": 468},
         "lang": "ru",
-        "labels": [],
+        "labels": ["web"],
         "youtube": ["6qYISXZLGpY"],
-        "origVid": ["https://vimeo.com/8434767"],
         "speakers": [
           {
             "names": {"*": "Mihhail Beshkin", "ru": "Михаил Бешкин"},
@@ -1584,11 +1550,10 @@
         "top": {"season": 2010, "place": 2}
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": ["aarhipov"], "orig": ["https://vimeo.com/8430306"], "origViews": 120},
         "lang": "ru",
-        "labels": [],
+        "labels": ["scratch", "programming language"],
         "youtube": ["NRhtAQbkG_4"],
-        "origVid": ["https://vimeo.com/8430306"],
         "speakers": [
           {
             "names": {"*": "Kirill Linnik", "ru": "Кирилл Линник"},
