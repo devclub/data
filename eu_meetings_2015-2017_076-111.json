@@ -1083,11 +1083,11 @@
     },
     "num": 95,
     "titles": {"ru": "33 июля", "en": "33. July", "ee": "33. juuli"},
-    "org": {"mod": "aa", "photo": ""},
-    "photo": ["https://photos.google.com/share/AF1QipNpSNOvKpya3swyGrirkhaN73Qv0Nl52zIZOq0lUISGphVFCKWWJf_j5z0Erot8aQ?key=NmRCTmN5aFY4Mm1PZDlmdlUzb0JjYzdEUGdONy1R"],
+    "org": {"mod": ["aarhipov"], "photo": ["klinnik"]},
+    "photo": ["https://goo.gl/photos/537dvggMnw4viYyU7"],
     "speeches": [
       {
-        "org": {"cam": "jt", "edit": "as"},
+        "org": {"cam": "jtimoshin", "edit": "astalnuhhin"},
         "lang": "ru",
         "labels": ["java", "memory", "gc", "performance"],
         "youtube": ["N4Z2xEGWneU"],
@@ -1120,7 +1120,7 @@
         }
       },
       {
-        "org": {"cam": "jt", "edit": "as"},
+        "org": {"cam": "jtimoshin", "edit": "astalnuhhin"},
         "lang": "ru",
         "labels": ["riot", "js"],
         "youtube": ["vRFq2ZwKrUI"],
@@ -1145,11 +1145,11 @@
       "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
     },
     "num": 94,
-    "org": {"mod": "aa", "photo": ""},
-    "photo": ["https://photos.google.com/b/105266766340206558621/share/AF1QipMTmMSGEOFhEJV7eSH9GD0veCaxNcVVx5yO3GU8vIP4cBRvW27bBw71YjW48XYyTg?key=U2laam9CNHdXeVhfMUpkVkJ4Y21BM0Fhd09EZWdn"],
+    "org": {"mod": ["aarhipov"], "photo": ["klinnik"]},
+    "photo": ["https://goo.gl/photos/pZPXM7DvWmegW8ENA"],
     "speeches": [
       {
-        "org": {"cam": "as", "edit": "as"},
+        "org": {"cam": "astalnuhhin", "edit": "astalnuhhin"},
         "lang": "ru",
         "labels": ["offtopic", "posters", "design"],
         "youtube": ["dsGmoCgFtCo"],
@@ -1165,7 +1165,7 @@
         "presentations": ["20160628_sdidyk_plakat-1-21.pdf", "20160628_sdidyk_plakat-22-49.pdf"]
       },
       {
-        "org": {"cam": "as", "edit": "as"},
+        "org": {"cam": "astalnuhhin", "edit": "astalnuhhin"},
         "lang": "ru",
         "labels": ["scala", "language"],
         "youtube": ["1qA8wGJff3g"],
@@ -1180,7 +1180,7 @@
         "examples": ["https://github.com/digital-magic-io/dsl-examples"]
       },
       {
-        "org": {"cam": "as", "edit": "as"},
+        "org": {"cam": "astalnuhhin", "edit": "astalnuhhin"},
         "lang": "ru",
         "labels": ["projects", "architecture", "latvia"],
         "youtube": ["q7uOeFEBkiI"],
@@ -1204,12 +1204,12 @@
       "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
     },
     "num": 93,
-    "org": {"mod": "aa", "photo": ""},
-    "photo": ["https://photos.google.com/share/AF1QipMswSrND-In7Km6LkSM0Oj_DJybkimDeOYLlWhoZh617qXSSL1eIRE-Gw415stqXw?key=UEdZRXBKRVdJa2ZKNmFRaFNZUFdpUWVjNjlPaHZR"],
+    "org": {"mod": ["aarhipov"], "photo": ["klinnik"]},
+    "photo": ["https://goo.gl/photos/VM3PecLsjM3EudVVA"],
     "event": "https://www.eventbrite.com/e/25522212625",
     "speeches": [
       {
-        "org": {"cam": "as", "edit": "as"},
+        "org": {"cam": "astalnuhhin", "edit": "astalnuhhin"},
         "lang": "ru",
         "labels": ["aws", "cloud", "docker", "server"],
         "youtube": ["9lpDjZUGhKA"],
@@ -1230,7 +1230,7 @@
         }
       },
       {
-        "org": {"cam": "as", "edit": "as"},
+        "org": {"cam": "astalnuhhin", "edit": "astalnuhhin"},
         "lang": "ru",
         "labels": ["projects", "estonia", "architecture"],
         "youtube": ["P-s7LlVf9hg"],
@@ -1249,7 +1249,7 @@
         }
       },
       {
-        "org": {"cam": "as", "edit": "as"},
+        "org": {"cam": "astalnuhhin", "edit": "astalnuhhin"},
         "lang": "ru",
         "labels": ["ble", "bluetooth", "wireless"],
         "youtube": ["Z5SzA_Q-l14"],
@@ -1273,20 +1273,16 @@
     "datetime": "2016-04-21T19:00:00",
     "season": 2016,
     "place": {
-      "name": "Nortal AS", "loc": "https://goo.gl/maps/Hx1WpPRW4x32", "addr": "Lõõtsa 6, 11415 Tallinn",
-      "url": "https://nortal.com"
+      "name": "Nortal AS", "loc": "https://goo.gl/maps/Hx1WpPRW4x32",
+      "addr": "Lõõtsa 6, 11415 Tallinn", "url": "https://nortal.com"
     },
     "num": 92,
-    "org": {"mod": "kl", "photo": ""},
-    "operator": [
-      "Антон Стальнухин",
-      "Юрий Тимошин"
-    ],
-    "photo": ["https://photos.google.com/share/AF1QipOfEEihjou75xbHec0vJIkUSi4aBFmOfFm00XHVDbFXwYrUziQBCs64aPljc7lBVw?key=SzRsSTFoSWhQZ3MxTk41RTNRU0ktdHBDLVRwUTl3"],
+    "org": {"mod": ["klinnik"], "photo": ["klinnik"]},
+    "photo": ["https://goo.gl/photos/dJMJf5vMVwenJc4d9"],
     "event": "https://www.eventbrite.com/e/nortal-tickets-24507074319",
     "speeches": [
       {
-        "org": {"cam": "", "edit": "as"},
+        "org": {"cam": "astalnuhhin", "edit": "astalnuhhin"},
         "lang": "ru",
         "labels": ["management", "experience", "estonia"],
         "youtube": ["qxAA1u1IfZs"],
@@ -1306,7 +1302,7 @@
         }
       },
       {
-        "org": {"cam": "", "edit": "as"},
+        "org": {"cam": "jtimoshin", "edit": "astalnuhhin"},
         "lang": "en",
         "labels": ["ux", "accessibility"],
         "youtube": ["EzVwHHD0JX4"],
@@ -1329,7 +1325,7 @@
         }
       },
       {
-        "org": {"cam": "", "edit": "as"},
+        "org": {"cam": "jtimoshin", "edit": "astalnuhhin"},
         "lang": "ru",
         "labels": ["experience", "architecture"],
         "youtube": ["wOdAdXj4TsI"],
@@ -1357,8 +1353,8 @@
       "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
     },
     "num": 91,
-    "org": {"mod": "aso", "photo": ""},
-    "photo": ["https://photos.google.com/share/AF1QipNrtE6O0lgIrss1zbvqXbTtXBKohUFJeOKsHlGuhJStmFIdNmXm1gnrKcRRZSUD4Q?key=elVNUS1rMmNtRm9FWXBLZU9DdHRqQzF4UTEtT0pR"],
+    "org": {"mod": ["asolntsev"], "photo": ["klinnik"]},
+    "photo": ["https://goo.gl/photos/wbwh53EWJVRpp7tg7"],
     "speeches": [
       {
         "org": {"cam": "jt", "edit": "as"},
@@ -1430,8 +1426,8 @@
       "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
     },
     "num": 90,
-    "org": {"mod": "aso", "photo": ""},
-    "photo": ["https://photos.google.com/share/AF1QipOuHfEqvaNg7xeoYv_xopxB4OV7hjuXRkR1GTnYbMa7xMQpnbenBoAHJKNVsM6BfA?key=MnQxRk1naHJpOVJlSzNud19BMU5kMEdxbzAxc3Jn"],
+    "org": {"mod": ["asolntsev"], "photo": ["klinnik"]},
+    "photo": ["https://goo.gl/photos/Y4iXbNnnUyEeuAEy5"],
     "event": "http://www.eventbrite.com/e/24-tickets-21759454113",
     "speeches": [
       {
@@ -1503,16 +1499,12 @@
       "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
     },
     "num": 89,
-    "org": {"mod": "aa,as,kl", "photo": ""},
-    "operator": [
-      "Антон Стальнухин",
-      "Юрий Тимошин"
-    ],
-    "photo": ["https://photos.google.com/share/AF1QipMf1ESWguU8gNXHl7a6bFDKAEPxekX17xDZ2xITFchszJ_Fsyr0kDRA2xgPrShjIg?key=dzQwNzU3THB3Y2FlMURhRDZ5N1VUOHBUc1M2OW9B"],
+    "org": {"mod": ["aarhipov", "astalnuhhin"], "photo": ["klinnik"]},
+    "photo": ["https://goo.gl/photos/SwUz5B8D9qkU7aSG6"],
     "event": "http://www.eventbrite.com/e/-tv-bi-hr-tickets-20925794615",
     "speeches": [
       {
-        "org": {"cam": "", "edit": "as"},
+        "org": {"cam": "jtimoshin", "edit": "as"},
         "lang": "ru",
         "labels": ["bi", "sap", "spagobi", "pentaho"],
         "youtube": ["kkGuxKYvHaI"],
@@ -1527,7 +1519,7 @@
         "presentations": ["20160127_ibosenko_bi.pdf"]
       },
       {
-        "org": {"cam": "", "edit": "as"},
+        "org": {"cam": "jtimoshin", "edit": "as"},
         "lang": "ru",
         "labels": ["digital", "television"],
         "youtube": ["o050WmqoMz4"],
@@ -1541,7 +1533,7 @@
         "titles": {"ru": "Дигитальное телевидение"}
       },
       {
-        "org": {"cam": "", "edit": "as"},
+        "org": {"cam": "astalnuhhin", "edit": "as"},
         "lang": "ru",
         "labels": ["recruitment", "cv", "job"],
         "youtube": ["dwb0qdiUPiU"],
@@ -1566,8 +1558,8 @@
       "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
     },
     "num": 88,
-    "org": {"mod": "aa", "photo": ""},
-    "photo": ["https://plus.google.com/photos/105266766340206558621/album/6233979055616720961"],
+    "org": {"mod": ["aarhipov"], "photo": ["klinnik"]},
+    "photo": ["https://photos.app.goo.gl/HQuNZ7oaiJ1t2HLW8"],
     "event": "https://www.eventbrite.com/e/3c9eff-tickets-20043606968",
     "speeches": [
       {
@@ -1646,8 +1638,8 @@
       "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
     },
     "num": 87,
-    "org": {"mod": "aa", "photo": ""},
-    "photo": ["https://plus.google.com/photos/105266766340206558621/albums/6221209806882800433"],
+    "org": {"mod": ["aarhipov"], "photo": ["klinnik"]},
+    "photo": ["https://photos.app.goo.gl/1RBGPivTEYa69e4V6"],
     "speeches": [
       {
         "org": {"cam": "", "edit": "as"},
@@ -1704,7 +1696,7 @@
       "addr": "Sadama 11a, 10111 Tallinn", "url": "https://www.tallinkhotels.com/tallink-spa-conference-hotel"
     },
     "num": 86,
-    "org": {"mod": "kl", "photo": ""},
+    "org": {"mod": ["klinnik"], "photo": ""},
     "photo": ["https://plus.google.com/photos/105266766340206558621/albums/6210823207533670865"],
     "speeches": [
       {
@@ -1761,8 +1753,8 @@
       "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
     },
     "num": 85,
-    "org": {"mod": "kl", "photo": ""},
-    "photo": ["https://plus.google.com/photos/105266766340206558621/albums/6200352494143601265"],
+    "org": {"mod": ["klinnik"], "photo": ["gbeshkin"]},
+    "photo": ["https://goo.gl/photos/EcfhuHqdCqezpUKq7"],
     "speeches": [
       {
         "org": {"cam": "", "edit": "as"},
@@ -1819,8 +1811,8 @@
       "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
     },
     "num": 84,
-    "org": {"mod": "aso", "photo": ""},
-    "photo": ["https://plus.google.com/photos/105266766340206558621/albums/6184829266311516977"],
+    "org": {"mod": ["asolntsev"], "photo": ["klinnik"]},
+    "photo": ["https://photos.app.goo.gl/Lw1jb4PdwbBVhTdz6"],
     "speeches": [
       {
         "org": {"cam": "", "edit": "as"},
@@ -1878,11 +1870,8 @@
       "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
     },
     "num": 83,
-    "org": {"mod": "aso", "photo": ""},
-    "photo": [
-      "https://plus.google.com/photos/105266766340206558621/albums/6177456314153147201",
-      "https://picasaweb.google.com/107973065832795673929/Devclub_300715?authkey=Gv1sRgCJLVzo2hlYOikgE"
-    ],
+    "org": {"mod": ["asolntsev"], "photo": ["klinnik"]},
+    "photo": ["https://photos.app.goo.gl/utUKxZDDFLuFWFQf8"],
     "speeches": [
       {
         "org": {"cam": ""},
@@ -1947,8 +1936,8 @@
     },
     "num": 82,
     "titles": {"ru": "32 июня", "en": "32. June", "ee": "32. juuni"},
-    "org": {"mod": "kl", "photo": ""},
-    "photo": ["https://plus.google.com/photos/105266766340206558621/albums/6176157478914898561"],
+    "org": {"mod": ["klinnik"], "photo": ["aarhipov"]},
+    "photo": ["https://photos.app.goo.gl/ugBN2naXCPFirVOb2"],
     "speeches": [
       {
         "org": {"cam": "", "edit": "as"},
@@ -2004,8 +1993,8 @@
       "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
     },
     "num": 81,
-    "org": {"mod": "aa", "photo": ""},
-    "photo": ["https://plus.google.com/photos/105266766340206558621/albums/6153474564634814241"],
+    "org": {"mod": ["aarhipov"], "photo": ["klinnik"]},
+    "photo": ["https://photos.app.goo.gl/jJjVpFHn1PyVtL826"],
     "speeches": [
       {
         "org": {"cam": "", "edit": "as"},
@@ -2060,11 +2049,8 @@
       "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
     },
     "num": 80,
-    "org": {"mod": "aso", "photo": ""},
-    "photo": [
-      "https://plus.google.com/photos/105266766340206558621/albums/6144187603665325441",
-      "https://plus.google.com/photos/+IvanGaidamakin/albums/6143805836340961425"
-    ],
+    "org": {"mod": ["asolntsev"], "photo": ["klinnik"]},
+    "photo": ["https://photos.app.goo.gl/ecwY312VLPvs4BG78", "https://plus.google.com/photos/+IvanGaidamakin/albums/6143805836340961425"],
     "speeches": [
       {
         "org": {"cam": "", "edit": "as"},
@@ -2122,8 +2108,8 @@
       "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
     },
     "num": 79,
-    "org": {"mod": "kl", "photo": ""},
-    "photo": ["https://plus.google.com/photos/101124267861537730212/albums/6131754921509327009"],
+    "org": {"mod": ["klinnik"], "photo": ["klinnik"]},
+    "photo": ["https://photos.app.goo.gl/1mxjtuyNogVqEFL8A"],
     "speeches": [
       {
         "org": {"cam": "", "edit": "as"},
@@ -2177,8 +2163,8 @@
       "addr": "Sadama 11a, 10111 Tallinn", "url": "https://www.tallinkhotels.com/tallink-spa-conference-hotel"
     },
     "num": 78,
-    "org": {"mod": "aa", "photo": ""},
-    "photo": ["https://plus.google.com/photos/101124267861537730212/albums/6120870846920387953"],
+    "org": {"mod": ["aarhipov"], "photo": ["klinnik"]},
+    "photo": ["https://photos.app.goo.gl/LhHTqhLw7R6apECr9"],
     "speeches": [
       {
         "org": {"cam": "", "edit": ""},
@@ -2231,12 +2217,12 @@
     "datetime": "2015-01-27T19:00:00",
     "season": 2015,
     "place": {
-      "name": "Hotell Euroopa", "loc": "https://goo.gl/maps/bu6pbxbmCJS2", "addr": "Paadi 5, 10151 Tallinn",
-      "url": "http://www.euroopa.ee"
+      "name": "Hotell Euroopa", "loc": "https://goo.gl/maps/bu6pbxbmCJS2",
+      "addr": "Paadi 5, 10151 Tallinn", "url": "http://www.euroopa.ee"
     },
     "num": 77,
-    "org": {"mod": "kl", "photo": ""},
-    "photo": ["https://plus.google.com/photos/101124267861537730212/albums/6109818874996592129"],
+    "org": {"mod": ["klinnik"], "photo": ["klinnik"]},
+    "photo": ["https://photos.app.goo.gl/bicdAMLTYhNMU2y67"],
     "speeches": [
       {
         "org": {},
@@ -2298,12 +2284,12 @@
     "datetime": "2014-12-18T19:00:00",
     "season": 2015,
     "place": {
-      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
-      "url": "http://www.oruhotel.ee"
+      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2",
+      "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
     "num": 76,
-    "org": {"mod": "aa", "photo": ""},
-    "photo": ["https://plus.google.com/photos/101124267861537730212/albums/6094961666805579297"],
+    "org": {"mod": ["aarhipov"], "photo": ["klinnik"]},
+    "photo": ["https://photos.app.goo.gl/o3ykBBgDA8FQUj9M9"],
     "speeches": [
       {
         "org": {"cam": "", "edit": ""},
