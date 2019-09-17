@@ -7,12 +7,12 @@
       "name": "Park Inn by Radisson Meriton Conference & Spa Hotel Tallinn", "loc": "https://goo.gl/maps/AJbuvwDS7co",
       "addr": "Toompuiestee 27/Paldiski mnt 4, 10149 Tallinn", "url": "https://www.parkinn.com/hotel-meriton-tallinn"
     },
+    "org": {"mod": ["jtimoshin"], "photo": ["gbeshkin"]},
     "photo": ["https://photos.app.goo.gl/r2WyVnccLEYSR2Ap8"],
     "event": "https://www.eventbrite.com/e/devclubeu-132-tickets-69266896151",
-    "org": {"mod": "jt", "photo": "gb", "cam": "as"},
     "speeches": [
       {
-        "org": {"cam": "as", "edit": ""},
+        "org": {"cam": "astalnuhhin", "edit": "klinnik"},
         "lang": "ru",
         "labels": [],
         "youtube": ["Qgqqs3BCTBg"],
@@ -32,7 +32,7 @@
         }
       },
       {
-        "org": {"cam": "as", "edit": ""},
+        "org": {"cam": "astalnuhhin", "edit": ""},
         "lang": "ru",
         "labels": [],
         "youtube": ["xBU-YVbp89I"],
@@ -52,7 +52,7 @@
         }
       },
       {
-        "org": {"cam": "as", "edit": ""},
+        "org": {"cam": "astalnuhhin", "edit": "astalnuhhin"},
         "lang": "ru",
         "labels": [],
         "youtube": ["p6nXKii-GEo"],
@@ -84,9 +84,9 @@
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
       "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
     },
+    "org": {"mod": ["asviridenko"], "photo": ["klinnik"]},
     "photo": ["https://photos.app.goo.gl/4Yp1yeKqCqQs9ZvX7"],
     "event": "https://www.eventbrite.com/e/devclub-131-tickets-65774640721",
-    "org": {"mod": "asv", "photo": "kl"},
     "speeches": [
       {
         "org": {"cam": "as", "edit": ""},
@@ -164,9 +164,9 @@
       "name": "Park Inn by Radisson Meriton Conference & Spa Hotel Tallinn", "loc": "https://goo.gl/maps/AJbuvwDS7co",
       "addr": "Toompuiestee 27/Paldiski mnt 4, 10149 Tallinn", "url": "https://www.parkinn.com/hotel-meriton-tallinn"
     },
+    "org": {"mod": ["agritsevski"], "photo": ["klinnik"]},
     "photo": ["https://photos.app.goo.gl/n9hmjAJrguqDydJ87"],
     "event": "",
-    "org": {"mod": "ag", "photo": "kl"},
     "speeches": [
       {
         "org": {"cam": "as", "edit": ""},
@@ -241,9 +241,9 @@
       "name": "Topia office", "loc": "https://goo.gl/maps/xRxZ8CFDwhY8mskc7",
       "addr": "Lõõtsa 12, 11415, Tallinn, Estonia", "url": "https://www.topia.com/contact-us"
     },
+    "org": {"mod": ["jtimoshin"], "photo": ["klinnik"]},
     "photo": ["https://photos.app.goo.gl/BeDYScCHDpNxT4ER8"],
     "event": "https://www.eventbrite.com/e/devclubeu-129-tickets-62354390661",
-    "org": {"mod": "jt", "photo": "kl"},
     "speeches": [
       {
         "org": {"cam": "as", "edit": ""},
@@ -315,9 +315,9 @@
       "name": "Park Inn by Radisson Meriton Conference & Spa Hotel Tallinn", "loc": "https://goo.gl/maps/AJbuvwDS7co",
       "addr": "Toompuiestee 27/Paldiski mnt 4, 10149 Tallinn", "url": "https://www.parkinn.com/hotel-meriton-tallinn"
     },
+    "org": {"mod": ["eweber"], "photo": ["klinnik"]},
     "photo": ["https://photos.app.goo.gl/UEw4deaP8kez2ZmXA"],
     "event": "",
-    "org": {"mod": "ew", "photo": ""},
     "speeches": [
       {
         "org": {"cam": "", "edit": ""},
@@ -392,9 +392,9 @@
       "name": "Park Inn by Radisson Meriton Conference & Spa Hotel Tallinn", "loc": "https://goo.gl/maps/AJbuvwDS7co",
       "addr": "Toompuiestee 27/Paldiski mnt 4, 10149 Tallinn", "url": "https://www.parkinn.com/hotel-meriton-tallinn"
     },
+    "org": {"mod": ["tgordejeva"], "photo": ["klinnik"]},
     "photo": ["https://photos.app.goo.gl/4LALnACQoz6RWmW26"],
     "event": "",
-    "org": {"mod": "tg", "photo": "kl"},
     "speeches": [
       {
         "org": {"cam": "", "edit": ""},
@@ -467,9 +467,9 @@
       "name": "Park Inn by Radisson Meriton Conference & Spa Hotel Tallinn", "loc": "https://goo.gl/maps/AJbuvwDS7co",
       "addr": "Toompuiestee 27/Paldiski mnt 4, 10149 Tallinn", "url": "https://www.parkinn.com/hotel-meriton-tallinn"
     },
+    "org": {"mod": ["agritsevski"], "photo": ["klinnik"]},
     "photo": ["https://photos.app.goo.gl/jxbSRZXjs8UwXonu5"],
     "event": "",
-    "org": {"mod": "ag", "photo": ""},
     "speeches": [
       {
         "org": {"cam": "", "edit": ""},
@@ -541,9 +541,9 @@
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
       "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
     },
+    "org": {"mod": ["jtimoshin"], "photo": ["klinnik"]},
     "photo": ["https://photos.app.goo.gl/gSY5vfwrj1CxVDR19"],
     "event": "https://www.eventbrite.com/e/devclubeu-125-registration-55368126557",
-    "org": {"mod": "jt", "photo": "kl"},
     "speeches": [
       {
         "org": {"cam": "", "edit": ""},
@@ -615,9 +615,9 @@
       "name": "Olümpia hotell", "loc": "https://goo.gl/maps/dW36V6WUFhnTdCw9A",
       "addr": "Liivalaia 33, 10118, Tallinn, Estonia", "url": "https://www.radissonblu.com/en/olumpiahotel-tallinn"
     },
+    "org": {"mod": ["klinnik", "astalnuhhin"], "photo": ["gbeshkin"]},
     "photo": ["https://photos.app.goo.gl/DAuBKhAJPFJirzDf7"],
     "event": "https://www.eventbrite.com/e/devclub-10-eu-tickets-53479326104",
-    "org": {"mod": "kl", "photo": "gb"},
     "speeches": [
       {
         "org": {"cam": "", "edit": ""},
@@ -714,9 +714,9 @@
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
       "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
     },
+    "org": {"mod": ["jgoloborodko"], "photo": ["klinnik"]},
     "photo": ["https://photos.app.goo.gl/oySM72z3oU8M2osm7"],
     "event": "https://www.eventbrite.com/e/123-tickets-53005335385",
-    "org": {"mod": "jg", "photo": "kl"},
     "speeches": [
       {
         "org": {"cam": "", "edit": ""},
@@ -790,9 +790,9 @@
       "name": "Park Inn by Radisson Meriton Conference & Spa Hotel Tallinn", "loc": "https://goo.gl/maps/AJbuvwDS7co",
       "addr": "Toompuiestee 27/Paldiski mnt 4, 10149 Tallinn", "url": "https://www.parkinn.com/hotel-meriton-tallinn"
     },
+    "org": {"mod": ["tgordejeva"], "photo": ["astalnuhhin", "klinnik"]},
     "photo": ["https://photos.app.goo.gl/bSjuKvPmo4xXgnmd8"],
     "event": "https://www.eventbrite.com/e/devclub-122-tickets-51582484600",
-    "org": {"mod": "tg", "photo": "kl"},
     "speeches": [
       {
         "org": {"cam": "", "edit": ""},
@@ -865,9 +865,9 @@
       "name": "Park Inn by Radisson Meriton Conference & Spa Hotel Tallinn", "loc": "https://goo.gl/maps/AJbuvwDS7co",
       "addr": "Toompuiestee 27/Paldiski mnt 4, 10149 Tallinn", "url": "https://www.parkinn.com/hotel-meriton-tallinn"
     },
+    "org": {"mod": ["agritsevski"], "photo": ["klinnik"]},
     "photo": ["https://photos.app.goo.gl/19oJ77UhdVavpStY7"],
     "event": "https://www.eventbrite.com/e/devclub-121-tickets-50568466645",
-    "org": {"mod": "ag", "photo": ""},
     "speeches": [
       {
         "org": {"cam": "", "edit": ""},
@@ -939,9 +939,9 @@
       "name": "Codebourne office", "loc": "https://goo.gl/maps/hRdFRaurnmrGuAgW6",
       "addr": "Sepise 8, 11415 Tallinn, Estonia", "url": "https://codeborne.com/#contact"
     },
+    "org": {"mod": ["jtimoshin"], "photo": ["klinnik"]},
     "photo": ["https://photos.app.goo.gl/d5xx4QJesgbk3n6M7"],
     "event": "https://www.eventbrite.com/e/devclub-120-tickets-49471002099",
-    "org": {"mod": "jt", "photo": "kl"},
     "speeches": [
       {
         "org": {"cam": "", "edit": ""},
@@ -1022,9 +1022,9 @@
       "name": "Park Inn by Radisson Meriton Conference & Spa Hotel Tallinn", "loc": "https://goo.gl/maps/AJbuvwDS7co",
       "addr": "Toompuiestee 27/Paldiski mnt 4, 10149 Tallinn", "url": "https://www.parkinn.com/hotel-meriton-tallinn"
     },
+    "org": {"mod": ["eweber"], "photo": ["klinnik"]},
     "photo": ["https://photos.app.goo.gl/cWztfFVyokzE6s218"],
     "event": "https://www.eventbrite.com/e/devclub-119-tickets-48212928166",
-    "org": {"mod": "ew", "photo": "kl"},
     "speeches": [
       {
         "org": {"cam": "as", "edit": ""},
@@ -1097,9 +1097,9 @@
       "name": "Park Inn by Radisson Meriton Conference & Spa Hotel Tallinn", "loc": "https://goo.gl/maps/AJbuvwDS7co",
       "addr": "Toompuiestee 27/Paldiski mnt 4, 10149 Tallinn", "url": "https://www.parkinn.com/hotel-meriton-tallinn"
     },
+    "org": {"mod": "ag", "photo": "kl"},
     "photo": ["https://photos.app.goo.gl/EoiLBWEvUHs5pyye8"],
     "event": "https://www.eventbrite.com/e/devclub118-tickets-47262295799",
-    "org": {"mod": "ag", "photo": "kl"},
     "speeches": [
       {
         "org": {"cam": "", "edit": ""},
@@ -1173,9 +1173,9 @@
       "name": "Park Inn by Radisson Meriton Conference & Spa Hotel Tallinn", "loc": "https://goo.gl/maps/AJbuvwDS7co",
       "addr": "Toompuiestee 27/Paldiski mnt 4, 10149 Tallinn", "url": "https://www.parkinn.com/hotel-meriton-tallinn"
     },
+    "org": {"mod": ["tgordejeva"], "photo": ["klinnik"]},
     "photo": ["https://photos.app.goo.gl/OVlG3k4fcciBxIn82"],
     "event": "https://www.eventbrite.com/e/devclub117-tickets-46397386833",
-    "org": {"mod": "tg", "photo": "kl"},
     "speeches": [
       {
         "org": {"cam": "", "edit": ""},
@@ -1248,9 +1248,9 @@
       "name": "Park Inn by Radisson Meriton Conference & Spa Hotel Tallinn", "loc": "https://goo.gl/maps/AJbuvwDS7co",
       "addr": "Toompuiestee 27/Paldiski mnt 4, 10149 Tallinn", "url": "https://www.parkinn.com/hotel-meriton-tallinn"
     },
+    "org": {"mod": ["asviridenko"], "photo": ["klinnik"]},
     "photo": ["https://photos.app.goo.gl/kJtaYQtDyvTpuJtA2"],
     "event": "https://www.eventbrite.com/e/devclub116-tickets-45098633226",
-    "org": {"mod": "asv", "photo": "kl"},
     "speeches": [
       {
         "org": {"cam": "gb", "edit": ""},
@@ -1327,9 +1327,9 @@
       "name": "Park Inn by Radisson Meriton Conference & Spa Hotel Tallinn", "loc": "https://goo.gl/maps/AJbuvwDS7co",
       "addr": "Toompuiestee 27/Paldiski mnt 4, 10149 Tallinn", "url": "https://www.parkinn.com/hotel-meriton-tallinn"
     },
+    "org": {"mod": ["agritsevski"], "photo": ["klinnik"]},
     "photo": ["https://photos.app.goo.gl/gvA7xgjkyi00EJfJ2"],
     "event": "https://www.eventbrite.com/e/devclub115-tickets-44443910934",
-    "org": {"mod": "ag", "photo": "kl"},
     "speeches": [
       {
         "org": {"cam": "gb", "edit": ""},
@@ -1403,9 +1403,9 @@
       "name": "Park Inn by Radisson Meriton Conference & Spa Hotel Tallinn", "loc": "https://goo.gl/maps/AJbuvwDS7co",
       "addr": "Toompuiestee 27/Paldiski mnt 4, 10149 Tallinn", "url": "https://www.parkinn.com/hotel-meriton-tallinn"
     },
+    "org": {"mod": ["astalnuhhin"], "photo": ["klinnik"]},
     "photo": ["https://photos.app.goo.gl/d2Lt6twYRvHNhZYA2"],
     "event": "https://www.eventbrite.com/e/devclub-114-gdpr-tickets-43246130340",
-    "org": {"mod": "as", "photo": "kl"},
     "speeches": [
       {
         "org": {"cam": "gb", "edit": ""},
@@ -1481,9 +1481,9 @@
       "name": "Park Inn by Radisson Meriton Conference & Spa Hotel Tallinn", "loc": "https://goo.gl/maps/AJbuvwDS7co",
       "addr": "Toompuiestee 27/Paldiski mnt 4, 10149 Tallinn", "url": "https://www.parkinn.com/hotel-meriton-tallinn"
     },
+    "org": {"mod": ["agritsevki"], "photo": ["klinnik"]},
     "photo": ["https://photos.app.goo.gl/HLAgZYvRAxrvRbkE2"],
     "event": "",
-    "org": {"mod": "ag", "photo": "kl"},
     "speeches": [
       {
         "org": {"cam": "", "edit": ""},
@@ -1563,9 +1563,9 @@
       "name": "Park Inn by Radisson Meriton Conference & Spa Hotel Tallinn", "loc": "https://goo.gl/maps/AJbuvwDS7co",
       "addr": "Toompuiestee 27/Paldiski mnt 4, 10149 Tallinn", "url": "https://www.parkinn.com/hotel-meriton-tallinn"
     },
+    "org": {"mod": ["aarhipov"], "photo": ["klinnik"]},
     "photo": ["https://photos.app.goo.gl/FCHiRi8xtapSzPcz2"],
     "event": "https://www.eventbrite.com/e/41538878905",
-    "org": {"mod": "aa", "photo": "kl"},
     "speeches": [
       {
         "org": {"cam": "as", "edit": "as"},
