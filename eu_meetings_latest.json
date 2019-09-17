@@ -14,7 +14,7 @@
       {
         "org": {"cam": "timo", "edit": ""},
         "lang": "ru",
-        "labels": [],
+        "labels": ["open source", "project", "marketing"],
         "youtube": [""],
         "speakers": [
           {
@@ -35,7 +35,7 @@
       {
         "org": {"cam": "timo", "edit": ""},
         "lang": "ru",
-        "labels": [],
+        "labels": ["tests"],
         "youtube": [""],
         "speakers": [
           {
@@ -45,10 +45,33 @@
             "image": "asolntsev_2018.jpg"
           }
         ],
-        "titles": {"*": "10 Things I Hate About test automation"},
+        "titles": {"*": "10 причин моей ненависти"},
         "descr": {
           "*": [
             "People often ask why I hate Page Objects, TestNG, ReportPortal, try/catch, loops, ifs, implicit waitings, explicit waitings, Dependency injection, Spring, etc. in tests. I will talk briefly - 5 minutes for every topic."
+          ],
+          "ru": [
+            "Люди часто спрашивают, почему я ненавижу age Objects, TestNG, ReportPortal, try/catch, loops, ifs, implicit waitings, explicit waitings, Dependency injection, Spring и прочее в тестах. Коротенечко, по 5 минут на тему, поясню."
+          ]
+        }
+      },
+      {
+        "org": {"cam": "timo", "edit": ""},
+        "lang": "ru",
+        "labels": ["testing"],
+        "youtube": [""],
+        "speakers": [
+          {
+            "names": {"*": "Aleksandr Gritsevski", "ru": "Александр Грицевский"},
+            "titles": {"*": "Lead Quality Manager @ Kuehne + Nagel"},
+            "url": "https://www.linkedin.com/in/leadqualitymanager",
+            "image": "agritsevski.jpg"
+          }
+        ],
+        "titles": {"*": "Тестирование программного обеспечения сложнее, чем разработка."},
+        "descr": {
+          "ru": [
+            "Изменение менталитита в отношении инженеров по обеспечению качества."
           ]
         }
       }
