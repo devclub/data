@@ -7,9 +7,9 @@
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
       "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
     },
+    "org": {"mod": ["klinnik"], "photo": ["klinnik", "aarhipov"]},
     "photo": ["https://photos.app.goo.gl/QyrXo0YFMWRfJ4rg2"],
     "event": "https://www.eventbrite.com/e/7-tickets-40601586438",
-    "org": {"mod": "kl", "photo": "kl,aa"},
     "speeches": [
       {
         "org": {"cam": "as", "edit": "as"},
@@ -84,9 +84,9 @@
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
       "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
     },
-    "photo": ["https://photos.app.goo.gl/dubNfYwYN9NBVsbw2", "https://photos.app.goo.gl/1BuMKtbz5v2u1YgJA"],
+    "org": {"mod": ["agritsevski"], "photo": ["klinnik", "astalnuhhin"]},
+    "photo": ["https://photos.app.goo.gl/dubNfYwYN9NBVsbw2"],
     "event": "https://www.eventbrite.com/e/110-tickets-39007785336",
-    "org": {"mod": "ag", "photo": "kl"},
     "speeches": [
       {
         "org": {"cam": "gb", "edit": "as"},
@@ -160,9 +160,9 @@
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
       "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
     },
+    "org": {"mod": ["aarhipov"], "photo": ["klinnik"]},
     "photo": ["https://photos.app.goo.gl/4cjpEqsZc1jy83ql2"],
     "event": "https://www.eventbrite.com/e/109-skype-elixir-tickets-38076004354",
-    "org": {"mod": "aa", "photo": "kl"},
     "speeches": [
       {
         "org": {"cam": "gb", "edit": "as"},
@@ -231,9 +231,9 @@
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
       "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
     },
+    "org": {"mod": ["jgoloborodko"], "photo": ["klinnik"]},
     "photo": ["https://goo.gl/photos/NxMwtdaqFR69AzgJ6"],
     "event": "https://www.eventbrite.com/e/108-tickets-37059103777",
-    "org": {"mod": "jg", "photo": "kl"},
     "speeches": [
       {
         "org": {"cam": "gb", "edit": "as"},
@@ -290,9 +290,9 @@
       "name": "Park Inn by Radisson Meriton Conference & Spa Hotel Tallinn", "loc": "https://goo.gl/maps/AJbuvwDS7co",
       "addr": "Toompuiestee 27/Paldiski mnt 4, 10149 Tallinn", "url": "https://www.parkinn.com/hotel-meriton-tallinn"
     },
+    "org": {"mod": ["agritsevski"], "photo": ["aarhipov", "astalnuhhin"]},
     "photo": ["https://photos.app.goo.gl/BBv9U58eSlw4BPmf1"],
     "event": "https://www.eventbrite.com/e/107-tickets-36456578608",
-    "org": {"mod": "ag", "photo": "aa,as"},
     "speeches": [
       {
         "org": {"cam": "as", "edit": "as"},
@@ -348,12 +348,12 @@
       "name": "Wabadus", "loc": "https://goo.gl/maps/7ya5Znk3Vv62", "addr": "Vabaduse väljak 10, 10146 Tallinn",
       "url": "http://www.wabadus.ee"
     },
+    "org": {"mod": ["klinnik"], "photo": ["klinnik"]},
     "photo": ["https://goo.gl/photos/n6TDwUS7ugjDrYBh9"],
     "event": "https://www.eventbrite.com/e/35339911627",
-    "org": {"mod": "kl", "photo": "kl"},
     "speeches": [
       {
-        "org": {"cam": "gb", "edit": "as"},
+        "org": {"cam": "gbeshkin", "edit": "astalnuhhin"},
         "lang": "ru",
         "labels": ["projects", "healthcare", "estonia"],
         "youtube": ["CTB516GtVKU"],
@@ -373,7 +373,7 @@
         "presentations": ["20170619_ibosenko_healthcare.pdf"]
       },
       {
-        "org": {"cam": "gb", "edit": "as"},
+        "org": {"cam": "gbeshkin", "edit": "astalnuhhin"},
         "lang": "ru",
         "labels": ["projects", "healthcare", "estonia", "architecture"],
         "youtube": ["ud26J5LduM4"],
@@ -393,7 +393,7 @@
         "presentations": ["20170619_astalnuhhin_ehl.odp"]
       },
       {
-        "org": {"cam": "gb,as", "edit": "as"},
+        "org": {"cam": "astalnuhhin", "edit": "astalnuhhin"},
         "lang": "ru",
         "labels": ["projects", "healthcare", "estonia", "lithuania", "fhir", "architecture"],
         "youtube": ["-4OOrtL4f6Q"],
@@ -419,12 +419,12 @@
     "datetime": "2017-05-23T19:00:00",
     "season": 2017,
     "place": {
-      "name": "Wabadus", "loc": "https://goo.gl/maps/7ya5Znk3Vv62", "addr": "Vabaduse väljak 10, 10146 Tallinn",
-      "url": "http://www.wabadus.ee"
+      "name": "Wabadus", "loc": "https://goo.gl/maps/7ya5Znk3Vv62",
+      "addr": "Vabaduse väljak 10, 10146 Tallinn", "url": "http://www.wabadus.ee"
     },
+    "org": {"mod": ["sgorski"], "photo": ["klinnik"]},
     "photo": ["https://goo.gl/photos/Mp64i6S8chW1CUFS6"],
     "event": "https://www.eventbrite.com/e/devclubeu-wabaduse-tickets-34624193896",
-    "org": {"mod": "sg", "photo": "kl"},
     "speeches": [
       {
         "org": {"cam": "jt", "edit": "as"},
@@ -483,7 +483,7 @@
     },
     "photo": ["https://goo.gl/photos/vSDJ2K1KoPcKoxHV7"],
     "event": "https://www.eventbrite.com/e/devclub-ux--tickets-33850769563",
-    "org": {"mod": "as", "photo": "kl"},
+    "org": {"mod": ["astalnuhhin"], "photo": ["klinnik"]},
     "speeches": [
       {
         "org": {"cam": "jt", "edit": "as"},
@@ -557,9 +557,9 @@
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
       "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
     },
+    "org": {"mod": ["klinnik"], "photo": ["aarhipov", "klinnik"]},
     "photo": ["https://goo.gl/photos/5bLf7LnQFKE9VFHk8"],
     "event": "https://www.eventbrite.com/e/33121810226",
-    "org": {"mod": "kl", "photo": "aa,kl"},
     "speeches": [
       {
         "org": {"cam": "jt", "edit": "as"},
@@ -619,9 +619,9 @@
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
       "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
     },
+    "org": {"mod": ["aarhipov"], "photo": ["klinnik"]},
     "photo": ["https://goo.gl/photos/d2dBgsAAy9hTF5hVA"],
     "event": "https://www.eventbrite.com/e/32285098599",
-    "org": {"mod": "aa", "photo": "kl"},
     "speeches": [
       {
         "org": {"cam": "jt", "edit": "as"},
@@ -676,9 +676,9 @@
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
       "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
     },
+    "org": {"mod": ["aarhipov"], "photo": ["klinnik"]},
     "photo": ["https://goo.gl/photos/5i3ErAcLaSwgAe45A"],
     "event": "https://www.eventbrite.com/e/31464706785",
-    "org": {"mod": "aa", "photo": "kl"},
     "speeches": [
       {
         "org": {"cam": "jt", "edit": "as"},
@@ -735,9 +735,9 @@
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
       "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
     },
+    "org": {"mod": ["klinnik"], "photo": ["klinnik"]},
     "photo": ["https://goo.gl/photos/eCwqWxcaJRHbw1Ti7"],
     "event": "https://www.eventbrite.com/e/100-tickets-30092958850",
-    "org": {"mod": "kl", "photo": "kl"},
     "speeches": [
       {
         "org": {"cam": "jt", "edit": "as"},
@@ -810,8 +810,8 @@
       "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
     },
     "num": 99,
-    "org": {"mod": "aa", "photo": ""},
-    "photo": ["https://photos.google.com/share/AF1QipNGD-3lCfWZTU1WLUWN_CfFER2WKcmN2Cxo_EcUFI9yaanKpbrvrbL_PfQWFn4XUA?key=bkZiTnNnSWppREdMNHlHaWtBRmliVUlVdEU0bUdB"],
+    "org": {"mod": ["aarhipov"], "photo": [""]},
+    "photo": ["https://goo.gl/photos/FpUJagZ34uq5zpew5"],
     "event": "https://www.eventbrite.com/e/29660261641",
     "speeches": [
       {
@@ -886,8 +886,8 @@
     },
     "num": 98,
     "titles": {"*": "PostgreSQL"},
-    "org": {"mod": "Эрвин Вебер", "photo": ""},
-    "photo": ["https://photos.google.com/share/AF1QipMEt4ySP4SBskEz4tbSOq8A_-FNZgw2w_qQy0ECkBoGBcZebKQtzZh7Ff0ICSoLdg?key=TnRrT1hxRDRQUmg2Y1FRWmN1SC1EOXJLMDk4VHJR"],
+    "org": {"mod": ["eweber"], "photo": ["klinnik"]},
+    "photo": ["https://goo.gl/photos/yRZJEZUbLKWBawWY8"],
     "event": "https://www.eventbrite.com/e/20-postgresql-tickets-28836396438",
     "speeches": [
       {
@@ -950,8 +950,8 @@
       "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
     },
     "num": 97,
-    "org": {"mod": "kl", "photo": ""},
-    "photo": ["https://photos.google.com/share/AF1QipM_cLMsz8C9Ofsk4xMjfL4tD8Y7BjiwYcKMo18KsPdNt4QsR4cD5RbIO7dbmWWEtg?key=Slpmc3ZUT3Y2QWYta3g2Z3NHSmNLOVgxNWRPb0xR"],
+    "org": {"mod": ["klinnik"], "photo": ["gbeshkin"]},
+    "photo": ["https://goo.gl/photos/aak2T2MhwjNiDgJj9"],
     "event": "https://www.eventbrite.com/e/27972867600",
     "speeches": [
       {
@@ -1010,8 +1010,8 @@
       "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
     },
     "num": 96,
-    "org": {"mod": "kl", "photo": ""},
-    "photo": ["https://photos.google.com/share/AF1QipMK8zdpmhXgCa3M2tj5qG3mbU3E1EyrXXkIZ2uuHAxq_sqqDqUrJV3_x-3SnWb42g?key=YXRhWW5YRTJSZGhfQ1BrX2h0SkIyRDA5ajIzVXp3"],
+    "org": {"mod": ["klinnik"], "photo": ["gbeshkin"]},
+    "photo": ["https://goo.gl/photos/z7Z1c71iCjurn2KbA"],
     "speeches": [
       {
         "org": {"cam": "jt", "edit": "as"},
