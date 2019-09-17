@@ -23,7 +23,7 @@
   "meetingsUrls": {
     "main": "https://data.devclub.eu/eu_meetings_latest.json",
     "archive": [
-      "https://data.devclub.eu/eu_meetings_2018-2020_111-147.json",
+      "https://data.devclub.eu/eu_meetings_2018-2020_112-147.json",
       "https://data.devclub.eu/eu_meetings_2015-2017_076-111.json",
       "https://data.devclub.eu/eu_meetings_2012-2014_040-075.json",
       "https://data.devclub.eu/eu_meetings_2008-2011_001-039.json"
