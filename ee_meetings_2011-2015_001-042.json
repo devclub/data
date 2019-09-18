@@ -162,9 +162,8 @@
       "addr": "Sadama 11a, 10111 Tallinn", "url": "https://www.tallinkhotels.com/tallink-spa-conference-hotel"
     },
     "titles": {"*": "Google party vol.2"},
-    "photo": [
-      "https://get.google.com/albumarchive/101124267861537730212/album/AF1QipOyE5IdaKOGtd6gwrE3zzaObw2fCEjx7hK37PsC?source=pwa"
-    ],
+    "org": {"mod": [], "photo": ["klinnik"]},
+    "photo": ["https://photos.app.goo.gl/LjABq72RrKnnohKs6"],
     "speeches": [
       {
         "youtube": ["QW3xOzXMy_0"],
@@ -187,8 +186,8 @@
     "season": 2015,
     "datetime": "2015-03-17T19:00:00",
     "place": {
-      "name": "Hotell Euroopa", "loc": "https://goo.gl/maps/bu6pbxbmCJS2", "addr": "Paadi 5, 10151 Tallinn",
-      "url": "http://www.euroopa.ee"
+      "name": "Hotell Euroopa", "loc": "https://goo.gl/maps/bu6pbxbmCJS2",
+      "addr": "Paadi 5, 10151 Tallinn", "url": "http://www.euroopa.ee"
     },
     "speeches": [
       {
@@ -212,8 +211,8 @@
     "season": 2015,
     "datetime": "2015-02-26T19:00:00",
     "place": {
-      "name": "Hotell Euroopa", "loc": "https://goo.gl/maps/bu6pbxbmCJS2", "addr": "Paadi 5, 10151 Tallinn",
-      "url": "http://www.euroopa.ee"
+      "name": "Hotell Euroopa", "loc": "https://goo.gl/maps/bu6pbxbmCJS2",
+      "addr": "Paadi 5, 10151 Tallinn", "url": "http://www.euroopa.ee"
     },
     "speeches": [
       {
@@ -237,8 +236,8 @@
     "season": 2015,
     "datetime": "2015-01-19T19:00:00",
     "place": {
-      "name": "Hotell Euroopa", "loc": "https://goo.gl/maps/bu6pbxbmCJS2", "addr": "Paadi 5, 10151 Tallinn",
-      "url": "http://www.euroopa.ee"
+      "name": "Hotell Euroopa", "loc": "https://goo.gl/maps/bu6pbxbmCJS2",
+      "addr": "Paadi 5, 10151 Tallinn", "url": "http://www.euroopa.ee"
     },
     "speeches": [
       {
@@ -262,8 +261,8 @@
     "season": 2014,
     "datetime": "2014-11-27T19:00:00",
     "place": {
-      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
-      "url": "http://www.oruhotel.ee"
+      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2",
+      "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
     "speeches": [
       {
@@ -287,12 +286,11 @@
     "season": 2014,
     "datetime": "2014-10-30T19:00:00",
     "place": {
-      "name": "Hotell Euroopa", "loc": "https://goo.gl/maps/bu6pbxbmCJS2", "addr": "Paadi 5, 10151 Tallinn",
-      "url": "http://www.euroopa.ee"
+      "name": "Hotell Euroopa", "loc": "https://goo.gl/maps/bu6pbxbmCJS2",
+      "addr": "Paadi 5, 10151 Tallinn", "url": "http://www.euroopa.ee"
     },
-    "photo": [
-      "https://get.google.com/albumarchive/101124267861537730212/album/AF1QipNH88N8bOPj3Wxx7zEBcK-A-HPi9BSaE2loRxhh?source=pwa"
-    ],
+    "org": {"mod": [], "photo": ["klinnik"]},
+    "photo": ["https://photos.app.goo.gl/TLwRDB9fgNQDiXhH7"],
     "speeches": [
       {
         "youtube": ["-X9tdApx0pI"],
@@ -322,12 +320,11 @@
     "season": 2014,
     "datetime": "2014-09-30T19:00:00",
     "place": {
-      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
-      "url": "http://www.oruhotel.ee"
+      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2",
+      "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
-    "photo": [
-      "https://get.google.com/albumarchive/101124267861537730212/album/AF1QipOgh1ddoqFxpqmgHRGMwxkfEKPZLJ2EP2drc7fd"
-    ],
+    "org": {"mod": [], "photo": ["klinnik"]},
+    "photo": ["https://photos.app.goo.gl/72asJd9xovpHDi4x9"],
     "speeches": [
       {
         "youtube": ["1Rn5lJxuRtI"],
@@ -350,12 +347,11 @@
     "season": 2014,
     "datetime": "2014-09-02T19:00:00",
     "place": {
-      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
-      "url": "http://www.oruhotel.ee"
+      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2",
+      "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
-    "photo": [
-      "https://get.google.com/albumarchive/101124267861537730212/album/AF1QipOr0KGp9FvTxDef714QWCbkiXJ02gM_FHHZpgNV?source=pwa"
-    ],
+    "org": {"mod": [], "photo": ["klinnik"]},
+    "photo": ["https://photos.app.goo.gl/7MU8QJ9RoGwpSAvE8"],
     "speeches": [
       {
         "youtube": ["H3H1Omkf43o"],
@@ -378,12 +374,11 @@
     "season": 2014,
     "datetime": "2014-07-24T19:00:00",
     "place": {
-      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
-      "url": "http://www.oruhotel.ee"
+      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2",
+      "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
-    "photo": [
-      "https://get.google.com/albumarchive/101124267861537730212/album/AF1QipORJCQSzX5OKyQBG9ESgSQrgd2E3j6DxU2l7ckf?source=pwa"
-    ],
+    "org": {"mod": [], "photo": ["klinnik"]},
+    "photo": ["https://photos.app.goo.gl/yjgDmpCdeSpgzrbA8"],
     "speeches": [
       {
         "youtube": ["ZAcLZd7I_m8"],
@@ -412,9 +407,8 @@
       "name": "Transferwise Ltd Estonia", "loc": "https://goo.gl/maps/fXmz146K1SD2",
       "addr": "Veerenni 24, 10135 Tallinn", "url": "https://transferwise.com"
     },
-    "photo": [
-      "https://get.google.com/albumarchive/101124267861537730212/album/AF1QipPt7g7aGKDnwlxpdg2x_zSd7692UX-5hXNv7lIu?source=pwa"
-    ],
+    "org": {"mod": [], "photo": ["klinnik"]},
+    "photo": ["https://photos.app.goo.gl/CqejKqhsZNt2EbPm8"],
     "speeches": [
       {
         "youtube": ["S_PzxK-1TRg"],
@@ -437,12 +431,11 @@
     "season": 2014,
     "datetime": "2014-05-15T19:00:00",
     "place": {
-      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
-      "url": "http://www.oruhotel.ee"
+      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2",
+      "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
-    "photo": [
-      "https://get.google.com/albumarchive/117914486418507679216/album/AF1QipNENanLT7fY9Rs4wmNPAtlGyhLWIsep1B90OVxZ?source=pwa"
-    ],
+    "org": {"mod": [], "photo": ["aarhipov"]},
+    "photo": ["https://photos.app.goo.gl/TMJGwKK8fAKHNuf66"],
     "speeches": [
       {
         "youtube": ["fo3Y6L8CUv4"],
@@ -463,8 +456,8 @@
     "season": 2014,
     "datetime": "2014-04-10T19:00:00",
     "place": {
-      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
-      "url": "http://www.oruhotel.ee"
+      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2",
+      "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
     "speeches": [
       {
@@ -492,8 +485,8 @@
     "season": 2014,
     "datetime": "2013-12-17T19:00:00",
     "place": {
-      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
-      "url": "http://www.oruhotel.ee"
+      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2",
+      "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
     "speeches": [
       {
@@ -538,8 +531,8 @@
     "season": 2013,
     "datetime": "2013-09-24T19:00:00",
     "place": {
-      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
-      "url": "http://www.oruhotel.ee"
+      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2",
+      "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
     "speeches": [
       {
@@ -563,8 +556,8 @@
     "season": 2013,
     "datetime": "2013-08-22T19:00:00",
     "place": {
-      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
-      "url": "http://www.oruhotel.ee"
+      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2",
+      "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
     "speeches": [
       {
@@ -588,12 +581,11 @@
     "season": 2013,
     "datetime": "2013-06-04T19:00:00",
     "place": {
-      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
-      "url": "http://www.oruhotel.ee"
+      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2",
+      "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
-    "photo": [
-      "https://get.google.com/albumarchive/101124267861537730212/album/AF1QipNvEc-gghSwoJjotWy0Sv_J_58LH6xc2r_kxHwB?source=pwa"
-    ],
+    "org": {"mod": [], "photo": ["klinnik"]},
+    "photo": ["https://photos.app.goo.gl/NDcFh7gg4YhVVKUB6"],
     "speeches": [
       {
         "info": {
@@ -622,8 +614,8 @@
     "season": 2013,
     "datetime": "2013-04-25T19:00:00",
     "place": {
-      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
-      "url": "http://www.oruhotel.ee"
+      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2",
+      "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
     "speeches": [
       {
@@ -647,8 +639,8 @@
     "season": 2013,
     "datetime": "2013-03-07T19:00:00",
     "place": {
-      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
-      "url": "http://www.oruhotel.ee"
+      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2",
+      "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
     "speeches": [
       {
@@ -679,8 +671,8 @@
     "season": 2013,
     "datetime": "2013-01-17T19:00:00",
     "place": {
-      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
-      "url": "http://www.oruhotel.ee"
+      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2",
+      "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
     "speeches": [
       {
