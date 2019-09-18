@@ -620,8 +620,8 @@
     "season": 2017,
     "datetime": "2017-11-21T19:00:00",
     "place": {
-      "name": "Playtech Estonia OÜ", "loc": "https://goo.gl/maps/VKtUZz2biJ32", "addr": "Lõõtsa 5, 11415 Tallinn",
-      "url": "http://www.playtech.ee"
+      "name": "Playtech Estonia OÜ", "loc": "https://goo.gl/maps/VKtUZz2biJ32",
+      "addr": "Lõõtsa 5, 11415 Tallinn", "url": "http://www.playtech.ee"
     },
     "photo": ["https://photos.app.goo.gl/8imlUDi6GStjanui2"],
     "speeches": [
@@ -690,8 +690,8 @@
     "season": 2017,
     "datetime": "2017-09-13T19:00:00",
     "place": {
-      "name": "MOVE Guides", "loc": "https://goo.gl/maps/ajGHj3bWLRs", "addr": "Valukoja 8, 11415 Tallinn",
-      "url": "https://www.moveguides.com"
+      "name": "MOVE Guides", "loc": "https://goo.gl/maps/ajGHj3bWLRs",
+      "addr": "Valukoja 8, 11415 Tallinn", "url": "https://www.moveguides.com"
     },
     "photo": ["https://photos.app.goo.gl/8w2AULJdPqpzQuqj2"],
     "speeches": [
@@ -773,8 +773,8 @@
     "season": 2017,
     "datetime": "2017-07-04T19:00:00",
     "place": {
-      "name": "Wabadus", "loc": "https://goo.gl/maps/7ya5Znk3Vv62", "addr": "Vabaduse väljak 10, 10146 Tallinn",
-      "url": "http://www.wabadus.ee"
+      "name": "Wabadus", "loc": "https://goo.gl/maps/7ya5Znk3Vv62",
+      "addr": "Vabaduse väljak 10, 10146 Tallinn", "url": "http://www.wabadus.ee"
     },
     "photo": ["https://goo.gl/photos/9KqbKgNioXzCi8TBA"],
     "speeches": [
