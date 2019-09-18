@@ -1,6 +1,6 @@
 [
   {
-    "datetime": "2011-11-30T19:00:00",
+    "datetime": "2011-11-30T19:00:00+02:00",
     "season": 2011,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", 
@@ -76,7 +76,7 @@
     ]
   },
   {
-    "datetime": "2011-10-26T19:00:00",
+    "datetime": "2011-10-26T19:00:00+03:00",
     "season": 2011,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", 
@@ -174,7 +174,7 @@
     ]
   },
   {
-    "datetime": "2011-09-28T19:00:00",
+    "datetime": "2011-09-28T19:00:00+03:00",
     "season": 2011,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2",
@@ -280,7 +280,7 @@
     ]
   },
   {
-    "datetime": "2011-08-30T19:00:00",
+    "datetime": "2011-08-30T19:00:00+03:00",
     "season": 2011,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2",
@@ -354,7 +354,7 @@
     ]
   },
   {
-    "datetime": "2011-07-28T19:00:00",
+    "datetime": "2011-07-28T19:00:00+03:00",
     "season": 2011,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", 
@@ -447,7 +447,7 @@
     ]
   },
   {
-    "datetime": "2011-06-28T19:00:00",
+    "datetime": "2011-06-28T19:00:00+03:00",
     "season": 2011,
     "place": {
       "name": "Hotell Susi", "loc": "https://goo.gl/maps/55CMMhKW67K2",
@@ -600,7 +600,7 @@
     ]
   },
   {
-    "datetime": "2011-05-31T19:00:00",
+    "datetime": "2011-05-31T19:00:00+03:00",
     "season": 2011,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", 
@@ -676,7 +676,7 @@
     ]
   },
   {
-    "datetime": "2011-04-27T19:00:00",
+    "datetime": "2011-04-27T19:00:00+03:00",
     "season": 2011,
     "place": {
       "name": "Hotell Susi", "loc": "https://goo.gl/maps/55CMMhKW67K2", 
@@ -749,7 +749,7 @@
     ]
   },
   {
-    "datetime": "2011-03-25T19:00:00",
+    "datetime": "2011-03-25T19:00:00+02:00",
     "season": 2011,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", 
@@ -803,7 +803,7 @@
     ]
   },
   {
-    "datetime": "2011-02-25T19:00:00",
+    "datetime": "2011-02-25T19:00:00+02:00",
     "season": 2011,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", 
@@ -877,7 +877,7 @@
     ]
   },
   {
-    "datetime": "2011-01-26T19:00:00",
+    "datetime": "2011-01-26T19:00:00+02:00",
     "season": 2011,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2",
@@ -931,7 +931,7 @@
     ]
   },
   {
-    "datetime": "2010-12-22T19:00:00",
+    "datetime": "2010-12-22T19:00:00+02:00",
     "season": 2011,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2",
@@ -1024,7 +1024,7 @@
     ]
   },
   {
-    "datetime": "2010-11-23T19:00:00",
+    "datetime": "2010-11-23T19:00:00+02:00",
     "season": 2010,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2",
@@ -1099,7 +1099,7 @@
     ]
   },
   {
-    "datetime": "2010-10-26T19:00:00",
+    "datetime": "2010-10-26T19:00:00+03:00",
     "season": 2010,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2",
@@ -1153,17 +1153,15 @@
     ]
   },
   {
-    "datetime": "2010-09-29T19:00:00",
+    "datetime": "2010-09-29T19:00:00+03:00",
     "season": 2010,
     "place": {
-      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
-      "url": "http://www.oruhotel.ee"
+      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2",
+      "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
     "num": 25,
-    "org": {"mod": "kl", "photo": ""},
-    "photo": [
-      "https://plus.google.com/photos/+AndreiTkachyov/albums/5522722426006692897"
-    ],
+    "org": {"mod": ["klinnik"], "photo": [""]},
+    "photo": ["https://plus.google.com/photos/+AndreiTkachyov/albums/5522722426006692897"],
     "speeches": [
       {
         "org": {"cam": "", "edit": ""},
@@ -1229,11 +1227,11 @@
     ]
   },
   {
-    "datetime": "2010-08-26T19:00:00",
+    "datetime": "2010-08-26T19:00:00+03:00",
     "season": 2010,
     "place": {
-      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
-      "url": "http://www.oruhotel.ee"
+      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2",
+      "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
     "num": 24,
     "org": {"mod": ["asolntsev"], "photo": ["klinnik", "amotsjonov"]},
@@ -1304,7 +1302,7 @@
     ]
   },
   {
-    "datetime": "2010-07-27T19:00:00",
+    "datetime": "2010-07-27T19:00:00+03:00",
     "season": 2010,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", 
@@ -1381,7 +1379,7 @@
     ]
   },
   {
-    "datetime": "2010-06-28T19:00:00",
+    "datetime": "2010-06-28T19:00:00+03:00",
     "season": 2010,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", 
@@ -1454,7 +1452,7 @@
     ]
   },
   {
-    "datetime": "2010-05-26T19:00:00",
+    "datetime": "2010-05-26T19:00:00+03:00",
     "season": 2010,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", 
@@ -1531,7 +1529,7 @@
     ]
   },
   {
-    "datetime": "2010-04-30T19:00:00",
+    "datetime": "2010-04-30T19:00:00+03:00",
     "season": 2010,
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", 
@@ -1605,14 +1603,14 @@
     ]
   },
   {
-    "datetime": "2010-03-30T19:00:00",
+    "datetime": "2010-03-30T19:00:00+03:00",
     "season": 2010,
     "place": {
-      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
-      "url": "http://www.oruhotel.ee"
+      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2",
+      "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
     "num": 19,
-    "org": {"mod": "aso", "photo": ""},
+    "org": {"mod": ["asolntsev"]},
     "speeches": [
       {
         "org": {"cam": "", "edit": ""},
@@ -1680,21 +1678,20 @@
     ]
   },
   {
-    "datetime": "2010-02-26T19:00:00",
+    "datetime": "2010-02-26T19:00:00+02:00",
     "season": 2010,
     "place": {
-      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
-      "url": "http://www.oruhotel.ee"
+      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2",
+      "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
     "num": 18,
-    "org": {"mod": "jm", "photo": ""},
+    "org": {"mod": ["jmulenko"]},
     "speeches": [
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": ["aarhipov"], "orig": ["https://vimeo.com/10175629"], "origViews": 892},
         "lang": "ru",
-        "labels": [],
+        "labels": ["cv", "management", "hr", "team"],
         "youtube": ["VFFp_ziHzNo"],
-        "origVid": ["https://vimeo.com/10175629"],
         "speakers": [
           {
             "names": {"*": "Anton Arhipov", "ru": "Антон Архипов"},
@@ -1712,16 +1709,14 @@
         "top": {"season": 2010, "place": 4}
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": ["aarhipov"], "orig": ["https://vimeo.com/10176007"], "origViews": 285},
         "lang": "ru",
-        "labels": [],
+        "labels": ["pair programming"],
         "youtube": ["f9AdmMxWXKw"],
-        "origVid": ["https://vimeo.com/10176007"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Андрей Зиновьев"},
-            "url": "",
-            "image": ""
+            "names": {"*": "Andrei Zinovjev", "ru": "Андрей Зиновьев"},
+            "image": "azinovjev.jpg"
           }
         ],
         "titles": {"ru": "Плюсы и минусы парного программирования"},
@@ -1729,28 +1724,26 @@
           "ru": [
             "Не могу не отметить, что это второй доклад по ПП в нашей копилке. В прошлом году dream-team в составе Антона Кекса и Антона Архипова устроила нам hands-on по ping-pong programming, фото чего и продемонстировал Андрей. Однако вернёмся к теме. После краткого общего экскурса в парное программирование Андрей поделился своими субьективными заметками по теме. Лично мне было интересно узнать мнение от человека, который уже довольно долго его практикует – с какими проблемами столкнулась команда, как они решаются, что работает, а что нет. Было много веселых примеров из жизни описывающих работу в парах и swinging :)(pair switching), за что отдельное спасибо. Для себя я вынес, что при внедрении процесса ПП следует учесть тот факт, что все люди разные, а также наладить коммуникацию между начальством и испытуемыми программистами. Ответ на вопрос “to be or not to be” довольно прост – попробуйте сами, и решите – подходит оно вам или нет."
           ]
-        },
-        "presentations": ["http://www.slideshare.net/arhan/pair-programming-by-andrei-zinovjev"]
+        }
       }
     ]
   },
   {
-    "datetime": "2010-01-26T19:00:00",
+    "datetime": "2010-01-26T19:00:00+02:00",
     "season": 2010,
     "place": {
-      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
-      "url": "http://www.oruhotel.ee"
+      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2",
+      "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
     "num": 17,
-    "org": {"mod": "klinnik", "photo": "aarhipov"},
+    "org": {"mod": ["klinnik"], "photo": ["aarhipov"]},
     "photo": ["https://photos.app.goo.gl/qdb62dGvuJYzr1vS7"],
     "speeches": [
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": ["aarhipov"], "orig": ["https://vimeo.com/9060462"], "origViews": 230},
         "lang": "ru",
         "labels": ["dsl"],
         "youtube": ["GdF_ZGWP8go"],
-        "origVid": ["https://vimeo.com/9060462"],
         "speakers": [
           {
             "names": {"*": "Anton Arhipov", "ru": "Антон Архипов"},
@@ -1764,19 +1757,17 @@
             "Антон Архипов поделился мыслями о языках предметной области (DSL) относительно систем управления бизнес-правилами. Было небольшое демо, как можно было бы сделать встроенный DSL на базе ruby или groovy."
           ]
         },
-        "presentations": ["http://www.slideshare.net/arhan/domain-specific-languages-for-business-rules"]
+        "presentations": ["20100126_aarhipov_dsl.pdf"]
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": ["aarhipov"], "orig": ["https://vimeo.com/9055964"], "origViews": 527},
         "lang": "ru",
-        "labels": [],
+        "labels": ["patterns"],
         "youtube": ["8Yp426KEFZw"],
-        "origVid": ["https://vimeo.com/9055964"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Игорь Меньков"},
-            "url": "",
-            "image": ""
+            "names": {"*": "Igor Menkov", "ru": "Игорь Меньков"},
+            "image": "imenkov.jpg"
           }
         ],
         "titles": {"ru": "Шаблоны/паттерны программирования"},
@@ -1784,21 +1775,13 @@
           "ru": [
             "Игорь Меньков выступил с рассказом о шаблонах проектирования. Сегодняшние программисты, в большинстве своём, полагаются на фреймворки, и не задумываются о том, что эти фреймворки делают – а ведь именно эти знания могут помочь решить самые нетривиальные задачи. Получился интересный и повествовательный рассказ включающий описание нескольких шаблонов проектирования – Identity, Identity Map и Unit of Work. А ещё рассказал о концепции optimistic offline lock."
           ]
-        },
-        "presentations": ["http://www.slideshare.net/arhan/patterns-by-igor-menkov-part-1a"]
+        }
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": ["aarhipov"], "orig": ["https://vimeo.com/9032285", "https://vimeo.com/9045680"], "origViews": 250},
         "lang": "ru",
-        "labels": [],
-        "youtube": [
-          "skZToKvnlt4",
-          "Xr8pzBuGLrU"
-        ],
-        "origVid": [
-          "https://vimeo.com/9032285",
-          "https://vimeo.com/9045680"
-        ],
+        "labels": ["ui"],
+        "youtube": ["skZToKvnlt4", "Xr8pzBuGLrU"],
         "speakers": [
           {
             "names": {"*": "Anton Keks", "ru": "Антон Кекс"},
@@ -1811,8 +1794,7 @@
           "ru": [
             "Антон Кекс поделился мыслями по поводу того, что происходит в области пользовательских интерфейсов, и какие проблемы он видит. Было много как хороших так и плохих примеров, начиная с диалоговых окошек в Windows и заканчая поведением интерфейса iPhone. Публика довольно живо реагировала, что не могло не радовать, и многие даже приводили свои примеры."
           ]
-        },
-        "presentations": ["http://www.slideshare.net/arhan/usability-of-human-interfaces"]
+        }
       }
     ]
   },
@@ -1824,7 +1806,7 @@
       "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
     "num": 16,
-    "org": {"mod": "amotsjonov", "photo": ""},
+    "org": {"mod": ["amotsjonov"], "photo": [""]},
     "photo": ["https://picasaweb.google.com/112734643471916024675/DevclubEu20091222"],
     "speeches": [
       {
