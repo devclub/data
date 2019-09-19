@@ -607,8 +607,8 @@
       "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
     "num": 33,
-    "org": {"mod": ["aarhipov"], "photo": ["amotsjonov"]},
-    "photo": ["https://photos.app.goo.gl/YDmU9eqrzYpKjxLq5", "https://plus.google.com/photos/+AndreiTkachyov/albums/5613006743887433937"],
+    "org": {"mod": ["aarhipov"], "photo": ["amotsjonov", "atkachev"]},
+    "photo": ["https://photos.app.goo.gl/YDmU9eqrzYpKjxLq5"],
     "speeches": [
       {
         "org": {"cam": "", "edit": ""},
@@ -756,8 +756,8 @@
       "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
     "num": 31,
-    "org": {"mod": ["jmulenko"], "photo": ["klinnik"]},
-    "photo": ["https://photos.app.goo.gl/6LDu2tavrpP4qL3M9", "https://plus.google.com/photos/+AndreiTkachyov/albums/5588502412497265697"],
+    "org": {"mod": ["jmulenko"], "photo": ["klinnik", "atkachev"]},
+    "photo": ["https://photos.app.goo.gl/6LDu2tavrpP4qL3M9"],
     "speeches": [
       {
         "org": {"cam": "", "edit": ""},
@@ -810,8 +810,8 @@
       "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
     "num": 30,
-    "org": {"mod": ["klinnik"], "photo": ["aarhipov"]},
-    "photo": ["https://photos.app.goo.gl/NieSBSnwUs3pw2vz6", "https://plus.google.com/photos/+AndreiTkachyov/albums/5577962012213367537"],
+    "org": {"mod": ["klinnik"], "photo": ["aarhipov", "atkachev"]},
+    "photo": ["https://photos.app.goo.gl/NieSBSnwUs3pw2vz6"],
     "speeches": [
       {
         "org": {"cam": "", "edit": ""},
@@ -884,8 +884,8 @@
       "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
     "num": 29,
-    "org": {"mod": ["aarhipov"], "photo": ["aarhipov", "klinnik"]},
-    "photo": ["https://photos.app.goo.gl/4eEmRMpNE25hSJSA7", "https://plus.google.com/photos/+AndreiTkachyov/albums/5566644621073184881"],
+    "org": {"mod": ["aarhipov"], "photo": ["aarhipov", "klinnik", "atkachev"]},
+    "photo": ["https://photos.app.goo.gl/4eEmRMpNE25hSJSA7"],
     "speeches": [
       {
         "org": {"cam": "", "edit": ""},
@@ -938,8 +938,8 @@
       "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
     "num": 28,
-    "org": {"mod": ["aarhipov"], "photo": ["aarhipov"]},
-    "photo": ["https://photos.app.goo.gl/UaMZtRFMaN5i2Mqq6", "https://plus.google.com/photos/+AndreiTkachyov/albums/5556260289101096705"],
+    "org": {"mod": ["aarhipov"], "photo": ["aarhipov", "atkachev"]},
+    "photo": ["https://photos.app.goo.gl/UaMZtRFMaN5i2Mqq6"],
     "speeches": [
       {
         "org": {"cam": "", "edit": ""},
@@ -1160,8 +1160,8 @@
       "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
     "num": 25,
-    "org": {"mod": ["klinnik"], "photo": [""]},
-    "photo": ["https://plus.google.com/photos/+AndreiTkachyov/albums/5522722426006692897"],
+    "org": {"mod": ["klinnik"], "photo": ["atkachev"]},
+    "photo": ["https://photos.app.goo.gl/7QdzcajfvftkVao7A"],
     "speeches": [
       {
         "org": {"cam": "", "edit": ""},
@@ -1536,8 +1536,8 @@
       "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
     "num": 20,
-    "org": {"mod": ["asolntsev"], "photo": ["klinnik", "asolntsev"]},
-    "photo": ["https://photos.app.goo.gl/wTrLu5NmB6CaxAxD8", "https://plus.google.com/photos/+AndreiTkachyov/albums/5466688960462685649"],
+    "org": {"mod": ["asolntsev"], "photo": ["klinnik", "asolntsev", "atkachev"]},
+    "photo": ["https://photos.app.goo.gl/wTrLu5NmB6CaxAxD8"],
     "speeches": [
       {
         "org": {"cam": "", "edit": ""},
