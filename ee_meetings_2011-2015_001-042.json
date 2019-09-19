@@ -1110,8 +1110,8 @@
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2",
       "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
-    "org": {"mod": [], "photo": ["klinnik"]},
-    "photo": ["https://photos.app.goo.gl/rqdjgKP43ef42epe9", "https://get.google.com/albumarchive/103828092922403049853/album/AF1QipP3OG_L-BsTwV7ep3aQdrkqopmKUFF1QcendTUi?source=pwa"],
+    "org": {"mod": [], "photo": ["klinnik", "atkachev"]},
+    "photo": ["https://photos.app.goo.gl/rqdjgKP43ef42epe9"],
     "speeches": [
       {
         "youtube": ["QR1pteRgXT8"],
