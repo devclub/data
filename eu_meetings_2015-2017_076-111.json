@@ -12,7 +12,7 @@
     "event": "https://www.eventbrite.com/e/7-tickets-40601586438",
     "speeches": [
       {
-        "org": {"cam": "as", "edit": "as"},
+        "org": {"cam": ["astalnuhhin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": ["regulations", "estonia"],
         "youtube": ["pj8HekHA_Ek"],
@@ -33,7 +33,7 @@
         }
       },
       {
-        "org": {"cam": "as", "edit": "as"},
+        "org": {"cam": ["astalnuhhin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": ["tests", "experience"],
         "youtube": ["y5TqMKdzmlk"],
@@ -55,7 +55,7 @@
         "top": {"season": 2017, "place": 6}
       },
       {
-        "org": {"cam": "as", "edit": "as"},
+        "org": {"cam": ["astalnuhhin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": ["aws", "cloud", "lambda"],
         "youtube": ["JFYs7tV6CZY"],
@@ -89,7 +89,7 @@
     "event": "https://www.eventbrite.com/e/110-tickets-39007785336",
     "speeches": [
       {
-        "org": {"cam": "gb", "edit": "as"},
+        "org": {"cam": ["gbeskin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": ["latvia", "experience", "process", "devclub"],
         "youtube": ["FBIedQl_KTc"],
@@ -109,7 +109,7 @@
         }
       },
       {
-        "org": {"cam": "gb", "edit": "as"},
+        "org": {"cam": ["gbeskin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": ["rest", "swagger"],
         "youtube": ["K587n8XRmWM"],
@@ -130,7 +130,7 @@
         }
       },
       {
-        "org": {"cam": "as", "edit": "as"},
+        "org": {"cam": ["gbeskin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": ["darknet", "security"],
         "youtube": ["MjB4P34zAJM"],
@@ -165,7 +165,7 @@
     "event": "https://www.eventbrite.com/e/109-skype-elixir-tickets-38076004354",
     "speeches": [
       {
-        "org": {"cam": "gb", "edit": "as"},
+        "org": {"cam": ["gbeskin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": ["bot", "skype"],
         "youtube": ["0GdOPxKXEx0"],
@@ -184,7 +184,7 @@
         }
       },
       {
-        "org": {"cam": "gb", "edit": "as"},
+        "org": {"cam": ["gbeskin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": ["elixir", "language"],
         "youtube": ["oLEWdeBEuCY"],
@@ -203,7 +203,7 @@
         }
       },
       {
-        "org": {"cam": "gb", "edit": "as"},
+        "org": {"cam": ["gbeskin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": ["language"],
         "youtube": ["Lf47F_DCjn4"],
@@ -236,7 +236,7 @@
     "event": "https://www.eventbrite.com/e/108-tickets-37059103777",
     "speeches": [
       {
-        "org": {"cam": "gb", "edit": "as"},
+        "org": {"cam": ["gbeskin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": ["projects", "survey"],
         "youtube": ["ri8yRAIxMzg"],
@@ -250,7 +250,7 @@
         "titles": {"ru": "Креативность и инновативность в IT"}
       },
       {
-        "org": {"cam": "gb", "edit": "as"},
+        "org": {"cam": ["gbeskin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": ["deep learning", "ai"],
         "youtube": ["Ekvb9EgQDLk"],
@@ -265,7 +265,7 @@
         "top": {"season": 2017, "place": 2}
       },
       {
-        "org": {"cam": "gb", "edit": "as"},
+        "org": {"cam": ["gbeskin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": ["deep learning", "ai", "prisma"],
         "youtube": ["IYfA934cYKs"],
@@ -295,7 +295,7 @@
     "event": "https://www.eventbrite.com/e/107-tickets-36456578608",
     "speeches": [
       {
-        "org": {"cam": "as", "edit": "as"},
+        "org": {"cam": ["astalnuhhin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": ["internalization", "translation"],
         "youtube": ["ednUmqbra9s"],
@@ -310,7 +310,7 @@
         "presentations": ["20170727_aiohimovich_translations.key"]
       },
       {
-        "org": {"cam": "as", "edit": "as"},
+        "org": {"cam": ["astalnuhhin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": ["physics", "ai", "computer vision"],
         "youtube": ["PC1VVulS3_E"],
@@ -324,7 +324,7 @@
         "presentations": ["20170727_dtsimbal_digitalvision.pptx"]
       },
       {
-        "org": {"cam": "as", "edit": "as"},
+        "org": {"cam": ["astalnuhhin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": ["tests", "qa", "testcontainers"],
         "youtube": ["ohrdeXKMHWQ"],
@@ -345,15 +345,15 @@
     "datetime": "2017-06-20T19:00:00",
     "season": 2017,
     "place": {
-      "name": "Wabadus", "loc": "https://goo.gl/maps/7ya5Znk3Vv62", "addr": "Vabaduse väljak 10, 10146 Tallinn",
-      "url": "http://www.wabadus.ee"
+      "name": "Wabadus", "loc": "https://goo.gl/maps/7ya5Znk3Vv62",
+      "addr": "Vabaduse väljak 10, 10146 Tallinn", "url": "http://www.wabadus.ee"
     },
     "org": {"mod": ["klinnik"], "photo": ["klinnik"]},
     "photo": ["https://goo.gl/photos/n6TDwUS7ugjDrYBh9"],
     "event": "https://www.eventbrite.com/e/35339911627",
     "speeches": [
       {
-        "org": {"cam": "gbeshkin", "edit": "astalnuhhin"},
+        "org": {"cam": ["gbeskin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": ["projects", "healthcare", "estonia"],
         "youtube": ["CTB516GtVKU"],
@@ -373,7 +373,7 @@
         "presentations": ["20170619_ibosenko_healthcare.pdf"]
       },
       {
-        "org": {"cam": "gbeshkin", "edit": "astalnuhhin"},
+        "org": {"cam": ["gbeskin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": ["projects", "healthcare", "estonia", "architecture"],
         "youtube": ["ud26J5LduM4"],
@@ -393,7 +393,7 @@
         "presentations": ["20170619_astalnuhhin_ehl.odp"]
       },
       {
-        "org": {"cam": "astalnuhhin", "edit": "astalnuhhin"},
+        "org": {"cam": ["astalnuhhin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": ["projects", "healthcare", "estonia", "lithuania", "fhir", "architecture"],
         "youtube": ["-4OOrtL4f6Q"],
@@ -427,7 +427,7 @@
     "event": "https://www.eventbrite.com/e/devclubeu-wabaduse-tickets-34624193896",
     "speeches": [
       {
-        "org": {"cam": "jt", "edit": "as"},
+        "org": {"cam": ["jtimosin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": ["experience", "job"],
         "youtube": ["QtlcJpQl1pk"],
@@ -442,7 +442,7 @@
         "presentations": ["https://www.slideshare.net/JuliaJolkin/dev-club-2305-pdf", "20170523_jjolkin_1job.pdf"]
       },
       {
-        "org": {"cam": "jt", "edit": "as"},
+        "org": {"cam": ["jtimosin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": ["process", "management", "job"],
         "youtube": ["0dXJQ3gQKDU"],
@@ -456,7 +456,7 @@
         "titles": {"ru": "Страшная правда о работающих удалённо фирмах"}
       },
       {
-        "org": {"cam": "gb", "edit": "as"},
+        "org": {"cam": ["gbeskin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": ["java", "stream"],
         "youtube": ["MP5d_GAHJ20"],
@@ -486,7 +486,7 @@
     "org": {"mod": ["astalnuhhin"], "photo": ["klinnik"]},
     "speeches": [
       {
-        "org": {"cam": "jt", "edit": "as"},
+        "org": {"cam": ["jtimosin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": ["design", "ux", "pet", "methodology"],
         "youtube": ["pq9JktHh8zA"],
@@ -507,7 +507,7 @@
         "examples": ["https://uxdesign.cc/designing-for-persuasion-emotion-and-trust-cdac44c61d53"]
       },
       {
-        "org": {"cam": "jt", "edit": "as"},
+        "org": {"cam": ["jtimosin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": ["design", "ux", "sprint", "methodology"],
         "youtube": ["RxrAiTm5Drk"],
@@ -527,7 +527,7 @@
         }
       },
       {
-        "org": {"cam": "jt", "edit": "as"},
+        "org": {"cam": ["jtimosin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": ["ux", "d3", "js", "design", "graphics"],
         "youtube": ["lkTH4-jsioA"],
@@ -562,7 +562,7 @@
     "event": "https://www.eventbrite.com/e/33121810226",
     "speeches": [
       {
-        "org": {"cam": "jt", "edit": "as"},
+        "org": {"cam": ["jtimosin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": ["server"],
         "youtube": ["chcGxKAQnSk"],
@@ -582,7 +582,7 @@
         "presentations": ["20170328_sbrilis_serverscom.pptx"]
       },
       {
-        "org": {"cam": "jt", "edit": "as"},
+        "org": {"cam": ["jtimosin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": ["swift", "language"],
         "youtube": ["99wz9XkyucY"],
@@ -596,7 +596,7 @@
         "titles": {"ru": "Использование Swift на сервере"}
       },
       {
-        "org": {"cam": "as", "edit": "as"},
+        "org": {"cam": ["astalnuhhin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": ["vim", "text editor"],
         "youtube": ["xAL9scgNcCA"],
@@ -624,7 +624,7 @@
     "event": "https://www.eventbrite.com/e/32285098599",
     "speeches": [
       {
-        "org": {"cam": "jt", "edit": "as"},
+        "org": {"cam": ["jtimosin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": [".net", "language", "asynchronous", "io"],
         "youtube": ["eYobx9EXR_I"],
@@ -639,7 +639,7 @@
         "presentations": ["20170228_mraer_async-io-net.pdf"]
       },
       {
-        "org": {"cam": "jt", "edit": "as"},
+        "org": {"cam": ["jtimosin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": ["annotaion", "java"],
         "youtube": ["V7LDcwoTfcI"],
@@ -653,7 +653,7 @@
         "titles": {"ru": "Marvel of Annotation Preprocessing in Java"}
       },
       {
-        "org": {"cam": "jt", "edit": "as"},
+        "org": {"cam": ["jtimosin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": ["oauth", "jwt", "spring", "java", "security"],
         "youtube": ["PMCKjrwL5rM"],
@@ -681,7 +681,7 @@
     "event": "https://www.eventbrite.com/e/31464706785",
     "speeches": [
       {
-        "org": {"cam": "jt", "edit": "as"},
+        "org": {"cam": ["jtimosin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": ["job", "interview", "java"],
         "youtube": ["Vlb_Is-rRTQ"],
@@ -697,7 +697,7 @@
         "top": {"season": 2017, "place": 1}
       },
       {
-        "org": {"cam": "jt", "edit": "as"},
+        "org": {"cam": ["jtimosin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": ["security", "php", "bitcoin"],
         "youtube": ["0ThCqyNS0ZE"],
@@ -711,7 +711,7 @@
         "titles": {"ru": "Как защищать от хакеров fintec-приложение на примере bitcoin marketplace"}
       },
       {
-        "org": {"cam": "jt", "edit": "as"},
+        "org": {"cam": ["jtimosin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": ["management", "business", "experience"],
         "youtube": ["HlNUUAXD-E0"],
@@ -740,7 +740,7 @@
     "event": "https://www.eventbrite.com/e/100-tickets-30092958850",
     "speeches": [
       {
-        "org": {"cam": "jt", "edit": "as"},
+        "org": {"cam": ["jtimosin"], "edit": ["astalnuhhin"]},
         "lang": "en",
         "labels": ["estonia", "projects", "regulations", "e-voting", "e-residency"],
         "youtube": ["zIptAtTNVvc", "ny75q_hbT7w"],
@@ -757,7 +757,7 @@
         }
       },
       {
-        "org": {"cam": "as", "edit": "as"},
+        "org": {"cam": ["astalnuhhin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": ["devclub", "offtopic"],
         "youtube": ["luKdI0MXJpQ"],
@@ -771,7 +771,7 @@
         "titles": {"ru": "Небольшой сюрприз к 8-летию и 100-й встрече"}
       },
       {
-        "org": {"cam": "jt", "edit": "as"},
+        "org": {"cam": ["jtimosin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": ["offtopic", "lifestyle", "sport"],
         "youtube": ["JyO43q-_TTY"],
@@ -786,7 +786,7 @@
         "presentations": ["20161222_nsalnikovtarnovski_10percent-happier.pdf"]
       },
       {
-        "org": {"cam": "jt", "edit": "as"},
+        "org": {"cam": ["jtimosin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": ["offtopic", "lifestyle", "running", "sport"],
         "youtube": ["PN2MQF9siBM"],
@@ -810,12 +810,12 @@
       "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
     },
     "num": 99,
-    "org": {"mod": ["aarhipov"], "photo": [""]},
+    "org": {"mod": ["aarhipov"], "photo": ["klinnik"]},
     "photo": ["https://goo.gl/photos/FpUJagZ34uq5zpew5"],
     "event": "https://www.eventbrite.com/e/29660261641",
     "speeches": [
       {
-        "org": {"cam": "", "edit": "as"},
+        "org": {"cam": ["astalnuhhin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": ["ci", "jenkins"],
         "youtube": ["-Dxm3jhk-W0"],
@@ -834,7 +834,7 @@
         }
       },
       {
-        "org": {"cam": "", "edit": "as"},
+        "org": {"cam": ["astalnuhhin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": ["cloud", "estonia", "projects", "architecture"],
         "youtube": ["WVzzRvtK24M"],
@@ -853,8 +853,8 @@
         },
         "top": {"season": 2016, "place": 6}
       },
-            {
-        "org": {"cam": "", "edit": "as"},
+      {
+        "org": {"cam": ["astalnuhhin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": ["ci", "concourse"],
         "youtube": ["JtbR2bTmjkI"],
@@ -891,7 +891,7 @@
     "event": "https://www.eventbrite.com/e/20-postgresql-tickets-28836396438",
     "speeches": [
       {
-        "org": {"cam": "", "edit": "as"},
+        "org": {"cam": ["astalnuhhin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": ["sql", "db", "postgresql"],
         "youtube": ["O7aIUQG2rj4"],
@@ -905,7 +905,7 @@
         "titles": {"ru": "Внутренности SQL Tabs"}
       },
       {
-        "org": {"cam": "", "edit": "as"},
+        "org": {"cam": ["astalnuhhin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": ["sql", "db", "postgresql"],
         "youtube": ["GcTP9epXqTc"],
@@ -924,7 +924,7 @@
         "titles": {"ru": "Российский след в постгресе"}
       },
       {
-        "org": {"cam": "", "edit": "as"},
+        "org": {"cam": ["astalnuhhin"], "edit": ["astalnuhhin"]},
         "lang": "en",
         "labels": ["sql", "db", "postgresql"],
         "youtube": ["VLW-rARakXY"],
@@ -950,12 +950,12 @@
       "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
     },
     "num": 97,
-    "org": {"mod": ["klinnik"], "photo": ["gbeshkin"]},
+    "org": {"mod": ["klinnik"], "photo": ["gbeskin"]},
     "photo": ["https://goo.gl/photos/aak2T2MhwjNiDgJj9"],
     "event": "https://www.eventbrite.com/e/27972867600",
     "speeches": [
       {
-        "org": {"cam": "as", "edit": "as"},
+        "org": {"cam": ["astalnuhhin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": ["projects", "estonia", "architecture"],
         "youtube": ["k6ng9g0956M"],
@@ -971,7 +971,7 @@
         "top": {"season": 2016, "place": 3}
       },
       {
-        "org": {"cam": "as", "edit": "as"},
+        "org": {"cam": ["astalnuhhin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": ["job", "recruitment", "cv"],
         "youtube": ["rTUu5QaWneU"],
@@ -986,7 +986,7 @@
         "presentations": ["20160929_jjolkin_hr.pdf"]
       },
       {
-        "org": {"cam": "as", "edit": "as"},
+        "org": {"cam": ["astalnuhhin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": ["security", "http", "headers"],
         "youtube": ["nM92asjjde0"],
@@ -1010,11 +1010,11 @@
       "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
     },
     "num": 96,
-    "org": {"mod": ["klinnik"], "photo": ["gbeshkin"]},
+    "org": {"mod": ["klinnik"], "photo": ["gbeskin"]},
     "photo": ["https://goo.gl/photos/z7Z1c71iCjurn2KbA"],
     "speeches": [
       {
-        "org": {"cam": "jt", "edit": "as"},
+        "org": {"cam": ["jtimosin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": ["deep learning", "ai", "text recognition"],
         "youtube": ["QyXkCCC2PKo"],
@@ -1033,7 +1033,7 @@
         }
       },
       {
-        "org": {"cam": "jt", "edit": "as"},
+        "org": {"cam": ["jtimosin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": ["estonia", "projects", "architecture"],
         "youtube": ["iFlAZNvWQP8"],
@@ -1053,7 +1053,7 @@
         }
       },
       {
-        "org": {"cam": "jt", "edit": "as"},
+        "org": {"cam": ["jtimosin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": ["hybrid", "native", "mobile"],
         "youtube": ["qMXvidzTu1Q"],
@@ -1087,7 +1087,7 @@
     "photo": ["https://goo.gl/photos/537dvggMnw4viYyU7"],
     "speeches": [
       {
-        "org": {"cam": "jtimoshin", "edit": "astalnuhhin"},
+        "org": {"cam": ["jtimosin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": ["java", "memory", "gc", "performance"],
         "youtube": ["N4Z2xEGWneU"],
@@ -1120,7 +1120,7 @@
         }
       },
       {
-        "org": {"cam": "jtimoshin", "edit": "astalnuhhin"},
+        "org": {"cam": ["jtimosin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": ["riot", "js"],
         "youtube": ["vRFq2ZwKrUI"],
@@ -1149,7 +1149,7 @@
     "photo": ["https://goo.gl/photos/pZPXM7DvWmegW8ENA"],
     "speeches": [
       {
-        "org": {"cam": "astalnuhhin", "edit": "astalnuhhin"},
+        "org": {"cam": ["astalnuhhin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": ["offtopic", "posters", "design"],
         "youtube": ["dsGmoCgFtCo"],
@@ -1165,7 +1165,7 @@
         "presentations": ["20160628_sdidyk_plakat-1-21.pdf", "20160628_sdidyk_plakat-22-49.pdf"]
       },
       {
-        "org": {"cam": "astalnuhhin", "edit": "astalnuhhin"},
+        "org": {"cam": ["astalnuhhin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": ["scala", "language"],
         "youtube": ["1qA8wGJff3g"],
@@ -1180,7 +1180,7 @@
         "examples": ["https://github.com/digital-magic-io/dsl-examples"]
       },
       {
-        "org": {"cam": "astalnuhhin", "edit": "astalnuhhin"},
+        "org": {"cam": ["astalnuhhin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": ["projects", "architecture", "latvia"],
         "youtube": ["q7uOeFEBkiI"],
@@ -1209,7 +1209,7 @@
     "event": "https://www.eventbrite.com/e/25522212625",
     "speeches": [
       {
-        "org": {"cam": "astalnuhhin", "edit": "astalnuhhin"},
+        "org": {"cam": ["astalnuhhin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": ["aws", "cloud", "docker", "server"],
         "youtube": ["9lpDjZUGhKA"],
@@ -1230,7 +1230,7 @@
         }
       },
       {
-        "org": {"cam": "astalnuhhin", "edit": "astalnuhhin"},
+        "org": {"cam": ["astalnuhhin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": ["projects", "estonia", "architecture"],
         "youtube": ["P-s7LlVf9hg"],
@@ -1249,7 +1249,7 @@
         }
       },
       {
-        "org": {"cam": "astalnuhhin", "edit": "astalnuhhin"},
+        "org": {"cam": ["astalnuhhin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": ["ble", "bluetooth", "wireless"],
         "youtube": ["Z5SzA_Q-l14"],
@@ -1282,7 +1282,7 @@
     "event": "https://www.eventbrite.com/e/nortal-tickets-24507074319",
     "speeches": [
       {
-        "org": {"cam": "astalnuhhin", "edit": "astalnuhhin"},
+        "org": {"cam": ["astalnuhhin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": ["management", "experience", "estonia"],
         "youtube": ["qxAA1u1IfZs"],
@@ -1302,7 +1302,7 @@
         }
       },
       {
-        "org": {"cam": "jtimoshin", "edit": "astalnuhhin"},
+        "org": {"cam": ["jtimosin"], "edit": ["astalnuhhin"]},
         "lang": "en",
         "labels": ["ux", "accessibility"],
         "youtube": ["EzVwHHD0JX4"],
@@ -1325,7 +1325,7 @@
         }
       },
       {
-        "org": {"cam": "jtimoshin", "edit": "astalnuhhin"},
+        "org": {"cam": ["jtimosin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": ["experience", "architecture"],
         "youtube": ["wOdAdXj4TsI"],
@@ -1357,7 +1357,7 @@
     "photo": ["https://goo.gl/photos/wbwh53EWJVRpp7tg7"],
     "speeches": [
       {
-        "org": {"cam": "jt", "edit": "as"},
+        "org": {"cam": ["jtimosin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": ["kotlin", "language"],
         "youtube": ["DQqOCx2UJ10"],
@@ -1376,7 +1376,7 @@
         }
       },
       {
-        "org": {"cam": "jt", "edit": "as"},
+        "org": {"cam": ["jtimosin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": ["server"],
         "youtube": ["N3AMGsUS-yU"],
@@ -1397,7 +1397,7 @@
         }
       },
       {
-        "org": {"cam": "jt", "edit": "as"},
+        "org": {"cam": ["jtimosin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": ["java", "experience", "methodology"],
         "youtube": ["piAFQOAgU5U"],
@@ -1431,7 +1431,7 @@
     "event": "http://www.eventbrite.com/e/24-tickets-21759454113",
     "speeches": [
       {
-        "org": {"cam": "as", "edit": "as"},
+        "org": {"cam": ["astalnuhhin"], "edit": ["astalnuhhin"]},
         "lang": "en",
         "labels": ["big data"],
         "youtube": ["BgkzGCfTkoE"],
@@ -1450,7 +1450,7 @@
         }
       },
       {
-        "org": {"cam": "as", "edit": "as"},
+        "org": {"cam": ["astalnuhhin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": ["java", "concurrency", "volatile", "memory"],
         "youtube": ["XZi67qYZ1UY"],
@@ -1470,7 +1470,7 @@
         "presentations": ["http://gvsmirnov.ru/docs/presentations/java-concurrency-hands-on/devclub-feb-2016.html"]
       },
             {
-        "org": {"cam": "as", "edit": "as"},
+        "org": {"cam": ["astalnuhhin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": ["experience", "job", "lifestyle"],
         "youtube": ["zaqZYDFm7Wo"],
@@ -1482,7 +1482,7 @@
           }
         ],
         "titles": {"ru": "Дигитальные Номады"},
-              "descr": {
+        "descr": {
           "ru": [
             "Расскажу и покажу дигитальных номадов: кто такие “дигитальные номады”; почему этот стиль жизни не для всех; почему это интересно как явление; тыкну пальцем в небо и предположу, что будет дальше; как попробовать себя в этом стиле жизни; возможные проблемы, полезные ресурсы."
           ]
@@ -1504,7 +1504,7 @@
     "event": "http://www.eventbrite.com/e/-tv-bi-hr-tickets-20925794615",
     "speeches": [
       {
-        "org": {"cam": "jtimoshin", "edit": "as"},
+        "org": {"cam": ["jtimosin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": ["bi", "sap", "spagobi", "pentaho"],
         "youtube": ["kkGuxKYvHaI"],
@@ -1519,7 +1519,7 @@
         "presentations": ["20160127_ibosenko_bi.pdf"]
       },
       {
-        "org": {"cam": "jtimoshin", "edit": "as"},
+        "org": {"cam": ["jtimosin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": ["digital", "television"],
         "youtube": ["o050WmqoMz4"],
@@ -1533,7 +1533,7 @@
         "titles": {"ru": "Дигитальное телевидение"}
       },
       {
-        "org": {"cam": "astalnuhhin", "edit": "as"},
+        "org": {"cam": ["astalnuhhin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": ["recruitment", "cv", "job"],
         "youtube": ["dwb0qdiUPiU"],
@@ -1563,7 +1563,7 @@
     "event": "https://www.eventbrite.com/e/3c9eff-tickets-20043606968",
     "speeches": [
       {
-        "org": {"cam": "jt", "edit": "as"},
+        "org": {"cam": ["jtimosin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": ["microservices", "tests", "experience"],
         "youtube": ["n3APDzvPF0k"],
@@ -1579,7 +1579,7 @@
         "examples": ["https://github.com/kronar/one-nio-microservice-example"]
       },
       {
-        "org": {"cam": "jt", "edit": "as"},
+        "org": {"cam": ["jtimosin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": ["regulations", "estonia", "recruitment", "management"],
         "youtube": ["H739IbLytyQ"],
@@ -1594,7 +1594,7 @@
         "presentations": ["20151229_klinnik_marriage.pptx"]
       },
       {
-        "org": {"cam": "jt", "edit": "as"},
+        "org": {"cam": ["jtimosin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": ["offtopic", "language", "movies"],
         "youtube": ["kPC043A0Op0"],
@@ -1615,7 +1615,7 @@
         "top": {"season": 2016, "place": 1}
       },
       {
-        "org": {"cam": "jt", "edit": "as"},
+        "org": {"cam": ["jtimosin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": ["offtopic", "lifestyle"],
         "youtube": ["d_oOvd793Lo"],
@@ -1642,7 +1642,7 @@
     "photo": ["https://photos.app.goo.gl/1RBGPivTEYa69e4V6"],
     "speeches": [
       {
-        "org": {"cam": "", "edit": "as"},
+        "org": {"cam": ["jtimosin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": [],
         "youtube": ["qKTREnERaec"],
@@ -1657,7 +1657,7 @@
         "top": {"season": 2015, "place": 4}
       },
       {
-        "org": {"cam": "", "edit": "as"},
+        "org": {"cam": ["jtimosin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": [],
         "youtube": ["j8EoGX5at1w"],
@@ -1672,7 +1672,7 @@
         "examples": ["https://github.com/mihhail-lapushkin/devclub_nov2015"]
       },
       {
-        "org": {"cam": "", "edit": "as"},
+        "org": {"cam": ["astalnuhhin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": [],
         "youtube": ["xBYkGBqFPeI"],
@@ -1700,7 +1700,7 @@
     "photo": ["https://plus.google.com/photos/105266766340206558621/albums/6210823207533670865"],
     "speeches": [
       {
-        "org": {"cam": "", "edit": "as"},
+        "org": {"cam": ["astalnuhhin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": [],
         "youtube": ["OdbXwQPV3dw"],
@@ -1715,7 +1715,7 @@
         "top": {"season": 2015, "place": 7}
       },
       {
-        "org": {"cam": "", "edit": "as"},
+        "org": {"cam": ["astalnuhhin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": [],
         "youtube": ["A8MetRHGv4U"],
@@ -1730,7 +1730,7 @@
         "presentations": ["http://www.slideshare.net/totra/variety-of-automated-tests"]
       },
       {
-        "org": {"cam": "", "edit": "as"},
+        "org": {"cam": ["astalnuhhin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": [],
         "youtube": ["GMK_0b6Wgjw"],
@@ -1753,26 +1753,25 @@
       "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
     },
     "num": 85,
-    "org": {"mod": ["klinnik"], "photo": ["gbeshkin"]},
+    "org": {"mod": ["klinnik"], "photo": ["gbeskin"]},
     "photo": ["https://goo.gl/photos/EcfhuHqdCqezpUKq7"],
     "speeches": [
       {
-        "org": {"cam": "", "edit": "as"},
+        "org": {"cam": ["jtimosin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": [],
-        "youtube": ["DbLYqRqbQSw"],
+        "youtube": ["nttZNPPC1cQ"],
         "speakers": [
           {
-            "names": {"*": "Konstantin Tretyakov", "ru": "Константин Третьяков"},
-            "url": "http://kt.era.ee/",
-            "image": "ktretyakov.jpg"
+            "names": {"*": "Vitali Nartov", "ru": "Виталий Нартов"},
+            "url": "https://ee.linkedin.com/in/vitali-nartov-656ab75b",
+            "image": "vnartov.jpg"
           }
         ],
-        "titles": {"ru": "Весёлые картинки"},
-        "top": {"season": 2015, "place": 3}
+        "titles": {"ru": "Эффективная разработка пользовательских интерфейсов под Android"}
       },
       {
-        "org": {"cam": "", "edit": "as"},
+        "org": {"cam": ["jtimosin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": [],
         "youtube": ["QmluxspuS8E"],
@@ -1788,18 +1787,19 @@
         "top": {"season": 2015, "place": 1}
       },
       {
-        "org": {"cam": "", "edit": "as"},
+        "org": {"cam": ["astalnuhhin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": [],
-        "youtube": ["nttZNPPC1cQ"],
+        "youtube": ["DbLYqRqbQSw"],
         "speakers": [
           {
-            "names": {"*": "Vitali Nartov", "ru": "Виталий Нартов"},
-            "url": "https://ee.linkedin.com/in/vitali-nartov-656ab75b",
-            "image": "vnartov.jpg"
+            "names": {"*": "Konstantin Tretyakov", "ru": "Константин Третьяков"},
+            "url": "http://kt.era.ee/",
+            "image": "ktretyakov.jpg"
           }
         ],
-        "titles": {"ru": "Эффективная разработка пользовательских интерфейсов под Android"}
+        "titles": {"ru": "Весёлые картинки"},
+        "top": {"season": 2015, "place": 3}
       }
     ]
   },
@@ -1815,7 +1815,7 @@
     "photo": ["https://photos.app.goo.gl/Lw1jb4PdwbBVhTdz6"],
     "speeches": [
       {
-        "org": {"cam": "", "edit": "as"},
+        "org": {"cam": ["astalnuhhin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": [],
         "youtube": ["cGXorQkw3JE"],
@@ -1830,7 +1830,7 @@
         "presentations": ["http://www.slideshare.net/arhan/something-about-golang"]
       },
       {
-        "org": {"cam": "", "edit": "as"},
+        "org": {"cam": ["astalnuhhin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": [],
         "youtube": ["1PZmalhJyS0"],
@@ -1847,7 +1847,7 @@
         "titles": {"ru": "Школа программирования Codeborne"}
       },
       {
-        "org": {"cam": "", "edit": "as"},
+        "org": {"cam": ["astalnuhhin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": [],
         "youtube": ["tf_7Drar-NU"],
@@ -1874,7 +1874,6 @@
     "photo": ["https://photos.app.goo.gl/utUKxZDDFLuFWFQf8"],
     "speeches": [
       {
-        "org": {"cam": ""},
         "lang": "ru",
         "labels": [],
         "speakers": [
@@ -1892,7 +1891,7 @@
         }
       },
       {
-        "org": {"cam": "", "edit": "as"},
+        "org": {"cam": ["astalnuhhin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": [],
         "youtube": ["ME4HqzRjjJs"],
@@ -1907,7 +1906,6 @@
         "presentations": ["http://www.slideshare.net/iiiirina/devclubeu-30072015"]
       },
       {
-        "org": {"cam": ""},
         "lang": "ru",
         "labels": ["offtopic", "physics", "math"],
         "speakers": [
@@ -1940,7 +1938,7 @@
     "photo": ["https://photos.app.goo.gl/ugBN2naXCPFirVOb2"],
     "speeches": [
       {
-        "org": {"cam": "", "edit": "as"},
+        "org": {"cam": ["jtimosin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": [],
         "youtube": ["8VZU5_Dsqyg"],
@@ -1954,7 +1952,7 @@
         "titles": {"*": "Stream Style"}
       },
       {
-        "org": {"cam": "", "edit": "as"},
+        "org": {"cam": ["jtimosin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": [],
         "youtube": ["fRQhYKqpfog"],
@@ -1968,7 +1966,7 @@
         "titles": {"*": "HFT or How Deep the Rabbit Hole Goes"}
       },
       {
-        "org": {"cam": "", "edit": "as"},
+        "org": {"cam": ["jtimosin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": [],
         "youtube": ["5ZHSdwRnKvQ"],
@@ -1997,7 +1995,7 @@
     "photo": ["https://photos.app.goo.gl/jJjVpFHn1PyVtL826"],
     "speeches": [
       {
-        "org": {"cam": "", "edit": "as"},
+        "org": {"cam": ["jtimosin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": [],
         "youtube": ["kZDa5hD-oQI"],
@@ -2012,7 +2010,7 @@
         "top": {"season": 2015, "place": 4}
       },
       {
-        "org": {"cam": "", "edit": "as"},
+        "org": {"cam": ["jtimosin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": [],
         "youtube": ["wJa7oIuR-a0"],
@@ -2026,7 +2024,7 @@
         "titles": {"ru": "Веб технологии Facebook"}
       },
       {
-        "org": {"cam": "", "edit": "as"},
+        "org": {"cam": ["jtimosin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": [],
         "youtube": ["05GZoxdSYfk"],
@@ -2053,7 +2051,7 @@
     "photo": ["https://photos.app.goo.gl/ecwY312VLPvs4BG78", "https://plus.google.com/photos/+IvanGaidamakin/albums/6143805836340961425"],
     "speeches": [
       {
-        "org": {"cam": "", "edit": "as"},
+        "org": {"cam": ["jtimosin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": [],
         "youtube": ["pRpY-s6ivOc"],
@@ -2067,7 +2065,7 @@
         "titles": {"ru": "Наши люди в Омане"}
       },
       {
-        "org": {"cam": "", "edit": "as"},
+        "org": {"cam": ["jtimosin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": [],
         "youtube": ["NZ1QaiDJP3o"],
@@ -2081,7 +2079,7 @@
         "titles": {"*": "Big Data & Spark"}
       },
       {
-        "org": {"cam": "", "edit": "as"},
+        "org": {"cam": ["jtimosin"], "edit": ["astalnuhhin"]},
         "lang": "en",
         "labels": [],
         "youtube": ["PzYGWCCDK7M"],
@@ -2112,7 +2110,7 @@
     "photo": ["https://photos.app.goo.gl/1mxjtuyNogVqEFL8A"],
     "speeches": [
       {
-        "org": {"cam": "", "edit": "as"},
+        "org": {"cam": ["astalnuhhin"]},
         "lang": "ru",
         "labels": [],
         "youtube": ["lr0N5kyHny8"],
@@ -2126,7 +2124,7 @@
         "titles": {"ru": "Прекомпиляция на примере GWT"}
       },
       {
-        "org": {"cam": "", "edit": "as"},
+        "org": {"cam": ["astalnuhhin"]},
         "lang": "ru",
         "labels": [],
         "youtube": ["6wYdwpPnPTg"],
@@ -2140,7 +2138,7 @@
         "titles": {"ru": "И снова о разработке под мобильные платформы"}
       },
       {
-        "org": {"cam": "", "edit": "as"},
+        "org": {"cam": ["astalnuhhin"]},
         "lang": "ru",
         "labels": [],
         "youtube": ["54Og5qW_pu8"],
@@ -2167,7 +2165,7 @@
     "photo": ["https://photos.app.goo.gl/LhHTqhLw7R6apECr9"],
     "speeches": [
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["SsrmLyVxnoE"],
@@ -2182,7 +2180,7 @@
         "titles": {"ru": "Android, Black Jack и … тапёр"}
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["mG2irGDbuRA"],
@@ -2197,7 +2195,7 @@
         "titles": {"ru": "Разработка как живопись"}
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["Qlq3e7_EGeU"],
@@ -2225,7 +2223,6 @@
     "photo": ["https://photos.app.goo.gl/bicdAMLTYhNMU2y67"],
     "speeches": [
       {
-        "org": {},
         "lang": "ru",
         "labels": [],
         "speakers": [
@@ -2243,7 +2240,6 @@
         }
       },
       {
-        "org": {},
         "lang": "ru",
         "labels": [],
         "speakers": [
@@ -2261,7 +2257,6 @@
         }
       },
       {
-        "org": {},
         "lang": "ru",
         "labels": [],
         "speakers": [
@@ -2292,7 +2287,7 @@
     "photo": ["https://photos.app.goo.gl/o3ykBBgDA8FQUj9M9"],
     "speeches": [
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["sjvUf3lWT7U"],
@@ -2307,7 +2302,7 @@
         "titles": {"ru": "Что делать программисту после 30?"}
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["_0PsWV6nhmQ"],
@@ -2322,7 +2317,7 @@
         "titles": {"ru": "Почему логистической компании может понадобиться так много программистов"}
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["j_V6TZ3ZU6c"],
@@ -2337,7 +2332,7 @@
         "titles": {"ru": "Как получить чёрный пояс по программированию"}
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["-ZZm6qO1CvY"],
