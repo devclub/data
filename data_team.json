@@ -61,5 +61,26 @@
     {"names": {"*": "Zahhar Kirillov", "ru": "Захар Кириллов"}, "image": "zkirillov_team.jpg", "url": "https://ee.linkedin.com/in/zahhar"},
     {"names": {"*": "Arseni Grigorjev", "ru": "Арсений Григорьев"}, "image": "agrigorjev_team.jpg", "url": "https://ee.linkedin.com/in/arsenig"},
     {"names": {"*": "Kirill Buhhalko", "ru": "Кирилл Бухалко"}, "image": "kbuhhalko_team.jpg", "url": "https://ee.linkedin.com/pub/kirill-buhhalko/2/584/7b6"}
-  ]
+  ],
+  "persons": {
+    "aarhipov": {"names": {"*": "Anton Arhipov", "ru": "Антон Архипов"}, "image": "aarhipov_team.jpg", "url": "https://ee.linkedin.com/in/antonarhipov"},
+    "agrigorjev": {"names": {"*": "Arseni Grigorjev", "ru": "Арсений Григорьев"}, "image": "agrigorjev_team.jpg", "url": "https://ee.linkedin.com/in/arsenig"},
+    "agritsevski": {"names": {"*": "Aleksandr Gritsevski", "ru": "Александр Грицевский"}, "image": "agritsevski_team.jpg", "url": "https://www.linkedin.com/in/leadqualitymanager"},
+    "amotsenov": {"names": {"*": "Aleksandr Motšenov", "ru": "Александр Мочёнов"}, "image": "amotsenov_team.jpg", "url": "https://au.linkedin.com/pub/aleksandr-motsjonov/11/306/719"},
+    "asolntsev": {"names": {"*": "Andrei Solntsev", "ru": "Андрей Солнцев"}, "image": "asolntsev_team.jpg", "url": "https://ee.linkedin.com/in/asolntsev"},
+    "astalnuhhin": {"names": {"*": "Anton Stalnuhhin", "ru": "Антон Стальнухин"}, "image": "astalnuhhin_team.jpg", "url": "https://anton.stalnuhhin.ee/cv"},
+    "asviridenko": {"names": {"*": "Andrey Sviridenko", "ru": "Андрей Свириденко"}, "image": "asviridenko_team.jpg", "url": "https://www.linkedin.com/in/putpixel"},
+    "eweber": {"names": {"*": "Ervin Weber", "ru": "Эрвин Вебер"}, "image": "eweber_team.jpg", "url": "https://ee.linkedin.com/in/webervin"},
+    "gbeskin": {"names": {"*": "Grigori Beškin", "ru": "Григорий Бешкин"}, "image": "gbeskin_team.jpg", "url": "https://ee.linkedin.com/in/grigorij-beshkin-50016b31"},
+    "ijaama": {"names": {"*": "Ivo Jaama", "ru": "Иво Яама"}, "image": "ijaama_team.jpg", "url": "https://www.facebook.com/ijaama"},
+    "jgoloborodko": {"names": {"*": "Jevgeni Goloborodko", "ru": "Евгений Голобородько"}, "image": "jgoloborodko_team.jpg", "url": "https://ee.linkedin.com/in/jevgeni-goloborodko-65a048a"},
+    "jholodkov": {"names": {"*": "Jevgeni Holodkov", "ru": "Евгений Холодков"}, "image": "jholodkov_team.jpg", "url": "https://ch.linkedin.com/in/jevgeni"},
+    "jmulenko": {"names": {"*": "Juri Mulenko", "ru": "Юрий Муленко"}, "image": "jmulenko_team.jpg", "url": "https://ee.linkedin.com/in/jurimulenko"},
+    "jtimosin": {"names": {"*": "Juri Timošin", "ru": "Юрий Тимошин"}, "image": "jtimosin_team.jpg", "url": "https://ee.linkedin.com/in/juritimoshin"},
+    "kbuhhalko": {"names": {"*": "Kirill Buhhalko", "ru": "Кирилл Бухалко"}, "image": "kbuhhalko_team.jpg", "url": "https://ee.linkedin.com/pub/kirill-buhhalko/2/584/7b6"},
+    "klinnik": {"names": {"*": "Kirill Linnik", "ru": "Кирилл Линник"}, "image": "klinnik_team.jpg", "url": "https://ee.linkedin.com/pub/kirill-linnik/50/a65/976"},
+    "sgorski": {"names": {"*": "Stanislav Gorski", "ru": "Станислав Горский"}, "image": "sgorski_team.jpg", "url": "https://www.linkedin.com/in/stanislav-gorski-1b5b5b55"},
+    "tgordejeva": {"names": {"*": "Tatjana Gordejeva", "ru": "Татьяна Гордеева"}, "image": "tgordejeva_team.jpg", "url": "https://www.facebook.com/tanya.hrc"},
+    "zkirillov": {"names": {"*": "Zahhar Kirillov", "ru": "Захар Кириллов"}, "image": "zkirillov_team.jpg", "url": "https://ee.linkedin.com/in/zahhar"}
+  }
 }
