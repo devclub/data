@@ -11,7 +11,7 @@
     "photo": ["https://photos.app.goo.gl/Ngu4JWjNhpgZaJXv6"],
     "speeches": [
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["RmcpSBuy-Zs"],
@@ -32,7 +32,7 @@
         }
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": ["battle", "jira", "pivotal", "issue tracking"],
         "youtube": ["v0NFb4y6Hkw"],
@@ -53,7 +53,7 @@
         "top": {"season": 2014, "place": 4}
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": ["vagrant", "virtual"],
         "youtube": ["7jdswaWkj-8"],
@@ -77,11 +77,11 @@
       "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
     "num": 74,
-    "org": {"mod": ["jtimoshin"], "photo": ["klinnik"]},
+    "org": {"mod": ["jtimosin"], "photo": ["klinnik"]},
     "photo": ["https://photos.app.goo.gl/CkQtbDkh7cosTZzF6"],
     "speeches": [
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["3I69U-DH6eI"],
@@ -97,7 +97,7 @@
         "top": {"season": 2014, "place": 4}
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["GIa-2owR5nQ"],
@@ -112,7 +112,7 @@
         "titles": {"ru": "OAuth по велосипедам"}
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["TLBsEzxW20E"],
@@ -141,7 +141,7 @@
     "photo": ["https://photos.app.goo.gl/R6Rj3AZvCSKA7PBn7"],
     "speeches": [
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["4ZgC3uQCP6I"],
@@ -156,7 +156,7 @@
         "titles": {"ru": "Разговоры про IDE"}
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": ["battle", "tests"],
         "youtube": ["KQB2c7mp29M"],
@@ -177,7 +177,7 @@
         "top": {"season": 2014, "place": 4}
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["XQLNAx9DGmk"],
@@ -206,7 +206,7 @@
     "photo": ["https://photos.app.goo.gl/EWzkZdKV53jRPzE27"],
     "speeches": [
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["_NxqCgLVnN0"],
@@ -221,7 +221,7 @@
         "titles": {"ru": "Анатомия БД"}
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["SUkyUpWk-Vk"],
@@ -236,7 +236,7 @@
         "titles": {"ru": "TypeScript"}
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["Ujuz-D-ekXE"],
@@ -264,7 +264,6 @@
     "photo": ["https://photos.app.goo.gl/XBusHqiMMk6mczjt6"],
     "speeches": [
       {
-        "org": {"cam": "", "edit": ""},
         "lang": "ru",
         "labels": ["offtopic", "defence", "fight"],
         "speakers": [
@@ -282,7 +281,7 @@
         }
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["gBJ5aFtYk78"],
@@ -297,7 +296,7 @@
         "titles": {"ru": "Docker hands-on"}
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["e4ZJQzKAxxA"],
@@ -321,11 +320,11 @@
       "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
     "num": 70,
-    "org": {"mod": ["asolntsev"], "photo": ""},
+    "org": {"mod": ["asolntsev"], "photo": [""]},
     "photo": ["https://plus.google.com/photos/+AndreiTkachyov/albums/6031566158895680497"],
     "speeches": [
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["yEFeuftK0iM"],
@@ -341,7 +340,7 @@
         "top": {"season": 2014, "place": 4}
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["RNwWGPyfocA"],
@@ -356,7 +355,7 @@
         "titles": {"ru": "Взгляд на современный С++"}
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["GnkokmDVSfY"],
@@ -380,11 +379,11 @@
       "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
     "num": 69,
-    "org": {"mod": ["klinnik"], "photo": ["amotsjonov"]},
+    "org": {"mod": ["klinnik"], "photo": ["amotsenov"]},
     "photo": ["https://photos.app.goo.gl/WfHnVgHuNGP2p8cF9"],
     "speeches": [
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["v2vytyI8UvA"],
@@ -400,7 +399,7 @@
         "top": {"season": 2014, "place": 1}
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["A3XoEp_3V88"],
@@ -415,7 +414,7 @@
         "titles": {"ru": "Про агильную разработку базы данных"}
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["T1Y7AfApqyc"],
@@ -443,7 +442,7 @@
     "photo": ["https://photos.app.goo.gl/oHbxsVnXM7UsV5zU7"],
     "speeches": [
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["7yhAr0g_Xj8"],
@@ -458,7 +457,7 @@
         "titles": {"ru": "Игры для мобильных устройств на HTML5"}
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["k7KvVwwn7GI"],
@@ -473,7 +472,7 @@
         "titles": {"ru": "Feature-driven development"}
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": [
@@ -503,11 +502,11 @@
       "addr": "Raja 15, 12618 Tallinn", "url": "https://www.ttu.ee/mektory-eng"
     },
     "num": 67,
-    "org": {"mod": ["amotsjonov"], "photo": ["klinnik"]},
+    "org": {"mod": ["amotsenov"], "photo": ["klinnik"]},
     "photo": ["https://photos.app.goo.gl/RCWiYB3goJCytSHm8"],
     "speeches": [
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["EVS_BqZcnjM"],
@@ -522,7 +521,7 @@
         "titles": {"ru": "Про девклаб"}
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "en",
         "labels": [],
         "youtube": ["NQk5anPc4ZQ"],
@@ -537,7 +536,7 @@
         "titles": {"ru": "Hacker-space"}
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["znAlJOPK2IY"],
@@ -552,7 +551,7 @@
         "titles": {"ru": "3D принтеры"}
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["S9_n6EZBA2E"],
@@ -583,7 +582,7 @@
     "photo": ["https://photos.app.goo.gl/N712C4dgZwZaQCBk7"],
     "speeches": [
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["RWoA6oWXp2U"],
@@ -598,7 +597,7 @@
         "titles": {"ru": "PostgreSQL"}
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["W0XTNJKB3SA"],
@@ -613,7 +612,7 @@
         "titles": {"ru": "JRebel"}
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["deJm66ZDM3s"],
@@ -641,7 +640,7 @@
     "photo": ["https://photos.app.goo.gl/rQDPPEpp7cgPkocH8"],
     "speeches": [
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["jLBrmIEQ8S0"],
@@ -661,7 +660,7 @@
         }
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["uNRiSDTebLA"],
@@ -676,7 +675,7 @@
         "titles": {"ru": "Backbone.js"}
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["SW_7-3UQTSQ"],
@@ -704,7 +703,7 @@
     "photo": ["https://photos.app.goo.gl/kKZMeARCrSkPmAda8"],
     "speeches": [
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["fhBye21QA94"],
@@ -718,7 +717,7 @@
         "titles": {"ru": "Уволь своего frontend разработчика"}
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["vMVPgK3KoYw"],
@@ -732,7 +731,7 @@
         "titles": {"ru": "О Швейцарии"}
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["ACAqMxvClvg"],
@@ -748,7 +747,7 @@
         "top": {"season": 2014, "place": 2}
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["oAzLJyPUICA"],
@@ -775,7 +774,7 @@
     "photo": ["https://photos.app.goo.gl/qCFAeB41ivmGKzR78"],
     "speeches": [
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["DNfQHfD-gNg"],
@@ -789,7 +788,7 @@
         "titles": {"ru": "Сессия вопросов-ответов о производительности Java"}
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["RGFJjQKChNQ"],
@@ -804,7 +803,7 @@
         "top": {"season": 2013, "place": 1}
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["G1YmHAjFx98"],
@@ -826,11 +825,10 @@
       "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
     "num": 62,
-    "org": {"mod": ["aarhipov"], "photo": ["amotsjonov"]},
+    "org": {"mod": ["aarhipov"], "photo": ["amotsenov"]},
     "photo": ["https://photos.app.goo.gl/XTVCzoAa6Aeb1bR4A"],
     "speeches": [
       {
-        "org": {},
         "lang": "ru",
         "labels": [],
         "speakers": [
@@ -848,7 +846,7 @@
         }
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": ["vim", "text editor"],
         "youtube": ["AUwsYhUxKUQ"],
@@ -864,7 +862,6 @@
         "top": {"season": 2013, "place": 2}
       },
       {
-        "org": {},
         "lang": "ru",
         "labels": [],
         "speakers": [
@@ -891,11 +888,10 @@
       "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
     "num": 61,
-    "org": {"mod": ["eweber"], "photo": ["klinnik", "gbeshkin"]},
+    "org": {"mod": ["eweber"], "photo": ["klinnik", "gbeskin"]},
     "photo": ["https://photos.app.goo.gl/3iex6LLXHHnUHNNG9"],
     "speeches": [
       {
-        "org": {},
         "lang": "en",
         "labels": [],
         "speakers": [
@@ -913,7 +909,7 @@
         }
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["q-3xo6NvEeg"],
@@ -929,7 +925,7 @@
         "top": {"season": 2013, "place": 6}
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["OouojcuUbjM"],
@@ -954,11 +950,11 @@
       "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
     "num": 60,
-    "org": {"mod": ["asolntsev"], "photo": ["gbeshkin"]},
+    "org": {"mod": ["asolntsev"], "photo": ["gbeskin"]},
     "photo": ["https://photos.app.goo.gl/eGyFtAzEjxZHjMvd6"],
     "speeches": [
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["ZEYZNwn-Ees"],
@@ -974,7 +970,7 @@
         "top": {"season": 2013, "place": 2}
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["78NSunPwMIY"],
@@ -989,7 +985,7 @@
         "titles": {"ru": "Скрипты в Java приложениях"}
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["Plo3e9lkFr0"],
@@ -1019,7 +1015,7 @@
     "photo": ["https://photos.app.goo.gl/7xeMsGkQrWDMG9tB7"],
     "speeches": [
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "en",
         "labels": [],
         "youtube": ["tn0rx_uAfRc"],
@@ -1035,7 +1031,6 @@
         "top": {"season": 2013, "place": 6}
       },
       {
-        "org": {},
         "lang": "ru",
         "labels": [],
         "speakers": [
@@ -1053,7 +1048,7 @@
         }
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["EmdvjreFRp8"],
@@ -1068,7 +1063,7 @@
         "titles": {"ru": "StaffLogic"}
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["nUyXhziWrgI"],
@@ -1083,7 +1078,7 @@
         "titles": {"ru": "Plumbr"}
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "en",
         "labels": [],
         "youtube": ["x11Zi6CkMx0"],
@@ -1098,7 +1093,7 @@
         "titles": {"ru": "Toggl"}
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "en",
         "labels": [],
         "youtube": ["VJk3iUo2U8Q"],
@@ -1113,7 +1108,7 @@
         "titles": {"ru": "VitalFields"}
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["AP3VUg7fWSI"],
@@ -1138,10 +1133,10 @@
       "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
     "num": 58,
-    "org": {"mod": ["amotsjonov"]},
+    "org": {"mod": ["amotsenov"]},
     "speeches": [
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["SqOwuTvAToc"],
@@ -1161,7 +1156,7 @@
         }
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["ZEaXh1MF7Bc"],
@@ -1176,7 +1171,7 @@
         "titles": {"ru": "Сказка про .NET"}
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["Rke-qcoO_lQ"],
@@ -1201,11 +1196,11 @@
       "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
     "num": 57,
-    "org": {"mod": ["aarhipov"], "photo": ["amotsjonov"]},
+    "org": {"mod": ["aarhipov"], "photo": ["amotsenov"]},
     "photo": ["https://photos.app.goo.gl/CxK2HczW8HKNthkFA"],
     "speeches": [
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["Ni94-gBooj4"],
@@ -1220,7 +1215,7 @@
         "titles": {"ru": "Разработка веб-приложений на node.js при помощи WebStorm"}
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["PGu2MDoS5qE"],
@@ -1235,7 +1230,7 @@
         "titles": {"ru": "Обзор TeamCity"}
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["G6gp01PokNg"],
@@ -1250,7 +1245,7 @@
         "titles": {"ru": "YouTrack"}
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["yzWHLsxo0A8"],
@@ -1274,11 +1269,11 @@
       "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
     "num": 56,
-    "org": {"mod": ["klinnik"], "photo": ["amotsjonov"]},
+    "org": {"mod": ["klinnik"], "photo": ["amotsenov"]},
     "photo": ["https://photos.app.goo.gl/sT4WGSnp84sPKqvz8"],
     "speeches": [
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["GZ079h5AcCs"],
@@ -1294,7 +1289,7 @@
         "presentations": ["https://prezi.com/k1i5lmcdl8cy/angry-ip-scanner"]
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["zNsgQs30cG4"],
@@ -1309,7 +1304,7 @@
         "titles": {"ru": "Unity для игр"}
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "speakers": [
@@ -1327,7 +1322,7 @@
         }
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["l4Ux_WXGobY"],
@@ -1360,7 +1355,7 @@
     "photo": ["https://photos.app.goo.gl/sM1YWCjnVLpXiguv9"],
     "speeches": [
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["sLHC4PAqzYY"],
@@ -1375,7 +1370,7 @@
         "titles": {"ru": "Как проходят изменения в команде, и как кто на них реагирует."}
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["SOhRStqrXmo"],
@@ -1390,7 +1385,7 @@
         "titles": {"ru": "Тулзы для JavaScript front-end разработчиков"}
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["B82Ox2BM5GA"],
@@ -1414,11 +1409,11 @@
       "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
     "num": 54,
-    "org": {"mod": ["amotsjonov"], "photo": ["klinnik", "amotsjonov"]},
+    "org": {"mod": ["amotsjonov"], "photo": ["klinnik", "amotsenov"]},
     "photo": ["https://photos.app.goo.gl/6Q16g8dsx8TzJc8y8"],
     "speeches": [
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["HjOEstmjTNc"],
@@ -1433,7 +1428,7 @@
         "titles": {"ru": "Смотрим в будущее"}
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["Y0-wSgjzteE"],
@@ -1453,7 +1448,7 @@
         "titles": {"ru": "Selenide: тестирование по-пацански"}
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["Tx9uP9y_0_c"],
@@ -1481,7 +1476,7 @@
     "photo": ["https://photos.app.goo.gl/BvJBVQoG93PM52LRA"],
     "speeches": [
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["eroIfh6fwaU"],
@@ -1496,7 +1491,7 @@
         "titles": {"ru": "Ruby-ть или не Ruby-ть"}
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["1C7sFXPXLkM"],
@@ -1512,7 +1507,7 @@
         "presentations": ["http://www.slideshare.net/arhan/introduction-to-groovy-16256118"]
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["SwlDQ9_WBds"],
@@ -1540,7 +1535,7 @@
     "photo": ["https://photos.app.goo.gl/tqdpP6pDnkJVmPgR8"],
     "speeches": [
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["ZHjWM2nUtCk"],
@@ -1555,7 +1550,6 @@
         "titles": {"ru": "Хвалите друг друга"}
       },
       {
-        "org": {},
         "lang": "ru",
         "labels": [],
         "speakers": [
@@ -1575,7 +1569,7 @@
         }
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["E7Ye2mwpA5g"],
@@ -1591,7 +1585,7 @@
         "top": {"season": 2013, "place": 2}
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["6KEV_HwVBCI"],
@@ -1615,11 +1609,11 @@
       "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
     "num": 51,
-    "org": {"mod": ["jtimoshin"], "photo": ["aarhipov"]},
+    "org": {"mod": ["jtimosin"], "photo": ["aarhipov"]},
     "photo": ["https://photos.app.goo.gl/Z75ynm6mp4311fTe8"],
     "speeches": [
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["h4NICbw8oq8"],
@@ -1634,7 +1628,7 @@
         "top": {"season": 2012, "place": 3}
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["vCMYy6Of01Y"],
@@ -1649,7 +1643,7 @@
         "titles": {"*": "Transport Layer Security (TLS)"}
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["raFDt883fFQ"],
@@ -1677,7 +1671,7 @@
     "photo": ["https://photos.app.goo.gl/yzDSqAcdN3FjYXy18"],
     "speeches": [
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["8K4rB7DPd58"],
@@ -1692,7 +1686,7 @@
         "titles": {"ru": "Кто такие тим лиды?"}
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["oELpx0O2kNc"],
@@ -1707,7 +1701,7 @@
         "titles": {"ru": "Open-source лицензии"}
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["HgIsMsptWBI"],
@@ -1735,7 +1729,7 @@
     "photo": ["https://photos.app.goo.gl/9EmUNVGFgcLuZWDe6"],
     "speeches": [
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["BtGjFj77Alc"],
@@ -1751,7 +1745,7 @@
         "presentations": ["http://www.slideshare.net/kirillica/raspberry-pi-by-jevgeni-shatohhin"]
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["gtTg1tlOKnE"],
@@ -1766,7 +1760,7 @@
         "titles": {"*": "Gradle: The new way to build"}
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["CFJgmLC-k0Q"],
@@ -1782,7 +1776,7 @@
         "top": {"season": 2012, "place": 5}
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["rlvMItkp4ts"],
@@ -1806,11 +1800,11 @@
       "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
     "num": 48,
-    "org": {"mod": ["amotsjonov"], "photo": ["klinnik"]},
+    "org": {"mod": ["amotsenov"], "photo": ["klinnik"]},
     "photo": ["https://photos.app.goo.gl/n6r2cprmNb9FzPNv7", "https://plus.google.com/photos/+AndreiTkachyov/albums/5782126903994084593"],
     "speeches": [
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["oAVaw0-zR74"],
@@ -1825,7 +1819,6 @@
         "titles": {"*": "Play Framework"}
       },
       {
-        "org": {},
         "lang": "ru",
         "labels": [],
         "speakers": [
@@ -1843,7 +1836,7 @@
         }
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["bdRv97KMJsA"],
@@ -1859,7 +1852,7 @@
         "top": {"season": 2012, "place": 5}
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["pZrfCCLBeLY"],
@@ -1887,7 +1880,7 @@
     "photo": ["https://photos.app.goo.gl/rQB9ydyZXKteTV1G6"],
     "speeches": [
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["yRUCByqGBng"],
@@ -1903,7 +1896,7 @@
         "top": {"season": 2012, "place": 1}
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["HAwjCq0gL3E"],
@@ -1918,7 +1911,7 @@
         "titles": {"*": "Team Code Review Ethics"}
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["9E0bsjHOrO0"],
@@ -1933,7 +1926,7 @@
         "titles": {"ru": "Про новую голосовалку для докладов в девклубе"}
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["vEKxJUvwkhs"],
@@ -1948,7 +1941,7 @@
         "titles": {"ru": "Про Java курс от Zeroturnaround в Тартуском универе"}
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["2p1lyZ03UVs"],
@@ -1968,7 +1961,6 @@
         "titles": {"*": "DEVCLUB.LV"}
       },
       {
-        "org": {},
         "lang": "ru",
         "labels": [],
         "speakers": [
@@ -1986,7 +1978,7 @@
         }
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["BAKdCMrQyQA"],
@@ -2014,7 +2006,7 @@
     "photo": ["https://photos.app.goo.gl/AUGhXxTQ5b9oxnaz6"],
     "speeches": [
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["Z0077JnpQ7s"],
@@ -2030,7 +2022,7 @@
         "top": {"season": 2012, "place": 5}
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["eXGhkzXjAoU"],
@@ -2045,7 +2037,7 @@
         "titles": {"ru": "О распознавании мульти-тач жестов"}
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": ["ci", "jenkins"],
         "youtube": ["5mhV7ZqfUnQ"],
@@ -2060,7 +2052,7 @@
         "titles": {"*": "Jenkins"}
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["jiAalbnhZfo"],
@@ -2088,7 +2080,7 @@
     "photo": ["https://photos.app.goo.gl/kF3jvn27jJgkquhU7"],
     "speeches": [
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["Qu8l84H32jI"],
@@ -2104,7 +2096,7 @@
         "top": {"season": 2012, "place": 1}
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["5vOmsBSFzdQ"],
@@ -2119,7 +2111,6 @@
         "titles": {"*": "Power Games and Projects"}
       },
       {
-        "org": {},
         "lang": "ru",
         "labels": [],
         "speakers": [
@@ -2146,11 +2137,11 @@
       "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
     "num": 44,
-    "org": {"mod": ["jtimoshin"], "photo": ["klinnik"]},
+    "org": {"mod": ["jtimosin"], "photo": ["klinnik"]},
     "photo": ["https://photos.app.goo.gl/3A5spyPZSa49yNzD7"],
     "speeches": [
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["pHx4yQTHMPI"],
@@ -2166,7 +2157,7 @@
         "presentations": ["http://www.slideshare.net/pgrigorenko/cocovila-devclubeu"]
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["-32jgQ5Lkuo"],
@@ -2181,7 +2172,7 @@
         "titles": {"*": "Rx"}
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["6iM85c_5RhQ"],
@@ -2209,7 +2200,7 @@
     "photo": ["https://photos.app.goo.gl/1HwUSGJGz4KpcHmC6"],
     "speeches": [
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["OJBuljoouL8"],
@@ -2225,7 +2216,7 @@
         "top": {"season": 2012, "place": 5}
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["z1e3s8nWAyw"],
@@ -2241,7 +2232,6 @@
         "top": {"season": 2012, "place": 3}
       },
       {
-        "org": {},
         "lang": "ru",
         "labels": [],
         "speakers": [
@@ -2259,7 +2249,7 @@
         }
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["5SOn3tsrumQ"],
@@ -2283,11 +2273,10 @@
       "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
     "num": 42,
-    "org": {"mod": ["amotsjonov"], "photo": ["klinnik"]},
+    "org": {"mod": ["amotsenov"], "photo": ["klinnik"]},
     "photo": ["https://photos.app.goo.gl/R2EkFkHuxy3DCD2G7"],
     "speeches": [
       {
-        "org": {},
         "lang": "ru",
         "labels": [],
         "speakers": [
@@ -2305,7 +2294,7 @@
         }
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": ["chef", "configuration management"],
         "youtube": ["QGKQ_0kXXu0"],
@@ -2320,7 +2309,7 @@
         "titles": {"*": "Chef"}
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "en",
         "labels": [],
         "youtube": ["RyQnJUWcXFo"],
@@ -2348,7 +2337,7 @@
     "photo": ["https://photos.app.goo.gl/pEWDR7VZ22BdVdReA"],
     "speeches": [
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["8FcOcQa-A5o"],
@@ -2363,7 +2352,7 @@
         "titles": {"ru": "Как победить “Могучую Точку”?"}
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["DYa1Jpjrox4"],
@@ -2379,7 +2368,7 @@
         "presentations": ["https://prezi.com/gt7tlu3rhooz/nodejs"]
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["b2ZZpj2da9M"],
@@ -2407,7 +2396,7 @@
     "photo": ["https://photos.app.goo.gl/v4NKxmpj3zrov5Sx7"],
     "speeches": [
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["FpRH23WAWy0"],
@@ -2423,7 +2412,7 @@
         "top": {"season": 2012, "place": 5}
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["ZHstk7RDneA"],
@@ -2438,7 +2427,7 @@
         "titles": {"ru": "Про разные обучающие источники"}
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["KSlfuA_wyeU"],
@@ -2453,7 +2442,7 @@
         "titles": {"*": "Microsoft Research Labs"}
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["Ck7BD2sCBng"],
@@ -2468,7 +2457,7 @@
         "titles": {"*": "Marketing Bullshits"}
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["iGZj7VsWWx0"],
@@ -2483,7 +2472,7 @@
         "titles": {"ru": "Социальное предпринемательство"}
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["wS7pI5ybCqM"],
