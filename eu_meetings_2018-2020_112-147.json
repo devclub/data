@@ -7,12 +7,12 @@
       "name": "Park Inn by Radisson Meriton Conference & Spa Hotel Tallinn", "loc": "https://goo.gl/maps/AJbuvwDS7co",
       "addr": "Toompuiestee 27/Paldiski mnt 4, 10149 Tallinn", "url": "https://www.parkinn.com/hotel-meriton-tallinn"
     },
-    "org": {"mod": ["jtimoshin"], "photo": ["gbeshkin"]},
+    "org": {"mod": ["jtimosin"], "photo": ["gbeskin"]},
     "photo": ["https://photos.app.goo.gl/r2WyVnccLEYSR2Ap8"],
     "event": "https://www.eventbrite.com/e/devclubeu-132-tickets-69266896151",
     "speeches": [
       {
-        "org": {"cam": "astalnuhhin", "edit": "klinnik"},
+        "org": {"cam": ["astalnuhhin"], "edit": ["klinnik"]},
         "lang": "ru",
         "labels": [],
         "youtube": ["Qgqqs3BCTBg"],
@@ -32,7 +32,7 @@
         }
       },
       {
-        "org": {"cam": "astalnuhhin", "edit": ""},
+        "org": {"cam": ["astalnuhhin"], "edit": ["asviridenko"]},
         "lang": "ru",
         "labels": [],
         "youtube": ["xBU-YVbp89I"],
@@ -52,7 +52,7 @@
         }
       },
       {
-        "org": {"cam": "astalnuhhin", "edit": "astalnuhhin"},
+        "org": {"cam": ["astalnuhhin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": [],
         "youtube": ["p6nXKii-GEo"],
@@ -89,7 +89,7 @@
     "event": "https://www.eventbrite.com/e/devclub-131-tickets-65774640721",
     "speeches": [
       {
-        "org": {"cam": "as", "edit": ""},
+        "org": {"cam": ["astalnuhhin"], "edit": ["klinnik"]},
         "lang": "ru",
         "labels": [],
         "youtube": ["rYguZ_ejFko"],
@@ -114,7 +114,7 @@
         }
       },
       {
-        "org": {"cam": "as", "edit": ""},
+        "org": {"cam": ["astalnuhhin"], "edit": ["klinnik"]},
         "lang": "ru",
         "labels": [],
         "youtube": ["hegoyam3E7E"],
@@ -135,7 +135,7 @@
         }
       },
       {
-        "org": {"cam": "as", "edit": ""},
+        "org": {"cam": ["astalnuhhin"], "edit": ["asviridenko"]},
         "lang": "ru",
         "labels": [],
         "youtube": ["r19d0mDMxYQ"],
@@ -169,7 +169,7 @@
     "event": "",
     "speeches": [
       {
-        "org": {"cam": "as", "edit": ""},
+        "org": {"cam": ["astalnuhhin"], "edit": ["klinnik"]},
         "lang": "ru",
         "labels": [],
         "youtube": ["7JldQl0qLZA"],
@@ -191,7 +191,7 @@
         }
       },
       {
-        "org": {"cam": "as", "edit": ""},
+        "org": {"cam": ["astalnuhhin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": [],
         "youtube": ["8A5BqCY2cX8"],
@@ -211,7 +211,7 @@
         }
       },
       {
-        "org": {"cam": "as", "edit": ""},
+        "org": {"cam": ["astalnuhhin"], "edit": ["klinnik"]},
         "lang": "ru",
         "labels": [],
         "youtube": ["4JJNccWtdNI"],
@@ -241,12 +241,12 @@
       "name": "Topia office", "loc": "https://goo.gl/maps/xRxZ8CFDwhY8mskc7",
       "addr": "Lõõtsa 12, 11415, Tallinn, Estonia", "url": "https://www.topia.com/contact-us"
     },
-    "org": {"mod": ["jtimoshin"], "photo": ["klinnik"]},
+    "org": {"mod": ["jtimosin"], "photo": ["klinnik"]},
     "photo": ["https://photos.app.goo.gl/BeDYScCHDpNxT4ER8"],
     "event": "https://www.eventbrite.com/e/devclubeu-129-tickets-62354390661",
     "speeches": [
       {
-        "org": {"cam": "as", "edit": ""},
+        "org": {"cam": ["astalnuhhin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": ["reactive", "functional"],
         "youtube": ["D1TibtDjOJs"],
@@ -266,7 +266,7 @@
         }
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": ["astalnuhhin"], "edit": ["klinnik"]},
         "lang": "ru",
         "labels": ["postgresql", "db"],
         "youtube": ["-aNODNDSSTY"],
@@ -286,7 +286,7 @@
         }
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": ["astalnuhhin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": ["google cloud", "vpn"],
         "youtube": ["kq3wD3S1mpg"],
@@ -320,7 +320,7 @@
     "event": "",
     "speeches": [
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": ["gbeskin"], "edit": ["jgoloborodko"]},
         "lang": "ru",
         "labels": ["kubernetes", "cluster"],
         "youtube": ["Mh2-9je_N1Q"],
@@ -341,7 +341,7 @@
         }
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": ["gbeskin"], "edit": ["asviridenko"]},
         "lang": "ru",
         "labels": ["azure", "active directory", "security"],
         "youtube": ["Qr-9Yqz9zlU"],
@@ -361,7 +361,7 @@
         }
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": ["astalnuhhin"], "edit": ["asviridenko"]},
         "lang": "ru",
         "labels": ["tests", "flacky"],
         "youtube": ["elQ2LGGU2bg"],
@@ -397,7 +397,7 @@
     "event": "",
     "speeches": [
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": ["gbeskin"], "edit": ["asviridenko"]},
         "lang": "ru",
         "labels": ["postgresql", "db"],
         "youtube": ["wdbWn_2od8w"],
@@ -418,7 +418,7 @@
         }
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": ["gbeskin"], "edit": ["asviridenko"]},
         "lang": "ru",
         "labels": [],
         "youtube": ["wCCR1Tkxc-s"],
@@ -438,7 +438,7 @@
         }
       },
       {
-        "org": {"cam": "", "edit": "stal"},
+        "org": {"cam": ["gbeskin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": ["blockchain", "game"],
         "youtube": ["yYThXsYonTE"],
@@ -472,7 +472,7 @@
     "event": "",
     "speeches": [
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": ["astalnuhhin"], "edit": ["klinnik"]},
         "lang": "ru",
         "labels": ["meeting", "equipment"],
         "youtube": ["ZJPFFjfZKDg"],
@@ -492,7 +492,7 @@
         }
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": ["astalnuhhin"], "edit": ["asviridenko"]},
         "lang": "ru",
         "labels": ["feedback", "case study", "meeting"],
         "youtube": ["e7pBN15XmPk"],
@@ -512,7 +512,7 @@
         }
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": ["astalnuhhin"], "edit": ["klinnik"]},
         "lang": "ru",
         "labels": ["tests", "jupiter", "junit", "java"],
         "youtube": ["LuLBL-DHTAQ"],
@@ -541,12 +541,12 @@
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
       "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
     },
-    "org": {"mod": ["jtimoshin"], "photo": ["klinnik"]},
+    "org": {"mod": ["jtimosin"], "photo": ["klinnik"]},
     "photo": ["https://photos.app.goo.gl/gSY5vfwrj1CxVDR19"],
     "event": "https://www.eventbrite.com/e/devclubeu-125-registration-55368126557",
     "speeches": [
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": ["astalnuhhin"], "edit": ["klinnik"]},
         "lang": "ru",
         "labels": ["casse study", "process", "lean"],
         "youtube": ["hatWHIg_U2Q"],
@@ -566,7 +566,7 @@
         }
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": ["astalnuhhin"], "edit": ["asviridenko"]},
         "lang": "ru",
         "labels": ["tests", "api"],
         "youtube": ["fmEFNFMSYP4"],
@@ -586,7 +586,7 @@
         }
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": ["astalnuhhin"], "edit": ["jgoloborodko"]},
         "lang": "ru",
         "labels": ["java", "hating"],
         "youtube": ["4bhB8A9Ln7E"],
@@ -615,12 +615,12 @@
       "name": "Olümpia hotell", "loc": "https://goo.gl/maps/dW36V6WUFhnTdCw9A",
       "addr": "Liivalaia 33, 10118, Tallinn, Estonia", "url": "https://www.radissonblu.com/en/olumpiahotel-tallinn"
     },
-    "org": {"mod": ["klinnik", "astalnuhhin"], "photo": ["gbeshkin"]},
+    "org": {"mod": ["klinnik", "astalnuhhin"], "photo": ["gbeskin"]},
     "photo": ["https://photos.app.goo.gl/DAuBKhAJPFJirzDf7"],
     "event": "https://www.eventbrite.com/e/devclub-10-eu-tickets-53479326104",
     "speeches": [
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": ["astalnuhhin"], "edit": ["klinnik"]},
         "lang": "ru",
         "labels": ["tests"],
         "youtube": ["TSPyp1zmLSo"],
@@ -640,7 +640,7 @@
         }
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": ["astalnuhhin"], "edit": ["klinnik"]},
         "lang": "ru",
         "labels": ["theatre", "interactive", "projects", "voting", "estonia"],
         "youtube": ["IYilFQN65-Y"],
@@ -660,7 +660,7 @@
         }
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": ["astalnuhhin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": ["tinder", "dating", "experience"],
         "youtube": [],
@@ -685,7 +685,7 @@
         }
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": ["astalnuhhin"], "edit": ["klinnik"]},
         "lang": "ru",
         "labels": ["biohacking", "gene", "experience"],
         "youtube": ["aVByzVR57yo"],
@@ -719,7 +719,7 @@
     "event": "https://www.eventbrite.com/e/123-tickets-53005335385",
     "speeches": [
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": ["gbeskin"], "edit": ["klinnik"]},
         "lang": "ru",
         "labels": ["elixir", "smart", "car", "smart car", "experience"],
         "youtube": ["UiP3ctCuS0U"],
@@ -740,7 +740,7 @@
         "top": {"season": 2018, "place": 4}
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": ["gbeskin"], "edit": ["klinnik"]},
         "lang": "ru",
         "labels": ["rest api", "api", "graphql"],
         "youtube": ["_WJjbmWqa38"],
@@ -760,7 +760,7 @@
         }
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": ["astalnuhhin"], "edit": ["asviridenko"]},
         "lang": "ru",
         "labels": ["bank", "projects"],
         "youtube": ["BB-HCwQZj8Y"],
@@ -795,7 +795,7 @@
     "event": "https://www.eventbrite.com/e/devclub-122-tickets-51582484600",
     "speeches": [
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": ["astalnuhhin", "agritsevski"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": ["jetbrains", "mps", "dsl"],
         "youtube": ["1BkElnlTBb4"],
@@ -815,7 +815,7 @@
         }
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": ["astalnuhhin"], "edit": ["klinnik"]},
         "lang": "ru",
         "labels": ["game", "unity", "art"],
         "youtube": ["WAByqnLFv2M"],
@@ -835,7 +835,7 @@
         }
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": ["astalnuhhin"], "edit": ["klinnik"]},
         "lang": "ru",
         "labels": ["management", "experience", "case study"],
         "youtube": ["d0-8K7QSuv4"],
@@ -870,7 +870,7 @@
     "event": "https://www.eventbrite.com/e/devclub-121-tickets-50568466645",
     "speeches": [
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": ["astalnuhhin"], "edit": ["klinnik"]},
         "lang": "ru",
         "labels": ["ai", "machine learning", "amazon alexa"],
         "youtube": ["R06QfCLrfXw"],
@@ -890,7 +890,7 @@
         }
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": ["astalnuhhin"], "edit": ["klinnik"]},
         "lang": "ru",
         "labels": ["python", "observability", "monitoring", "projects", "case study"],
         "youtube": ["mCqjcPGQgAs"],
@@ -910,7 +910,7 @@
         }
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": ["astalnuhhin"], "edit": ["klinnik"]},
         "lang": "ru",
         "labels": ["wtf", "connection", "connection pool", "hikaricp", "c3p0"],
         "youtube": ["xiBd5kTOoYo"],
@@ -939,12 +939,12 @@
       "name": "Codebourne office", "loc": "https://goo.gl/maps/hRdFRaurnmrGuAgW6",
       "addr": "Sepise 8, 11415 Tallinn, Estonia", "url": "https://codeborne.com/#contact"
     },
-    "org": {"mod": ["jtimoshin"], "photo": ["klinnik"]},
+    "org": {"mod": ["jtimosin"], "photo": ["klinnik"]},
     "photo": ["https://photos.app.goo.gl/d5xx4QJesgbk3n6M7"],
     "event": "https://www.eventbrite.com/e/devclub-120-tickets-49471002099",
     "speeches": [
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": ["astalnuhhin"], "edit": ["klinnik"]},
         "lang": "ru",
         "labels": ["graalvm", "oracle", "java", "virtual machine"],
         "youtube": ["HC8uoEX8B5A"],
@@ -967,7 +967,7 @@
         "top": {"season": 2018, "place": 6}
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": ["astalnuhhin"], "edit": ["asviridenko"]},
         "lang": "ru",
         "labels": ["nodejs", "js", "experience"],
         "youtube": ["-gWdbpQXmFo"],
@@ -987,7 +987,7 @@
         }
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": ["astalnuhhin"], "edit": ["klinnik"]},
         "lang": "ru",
         "labels": ["blockchain"],
         "youtube": ["owhyY09iEk0"],
@@ -1027,7 +1027,7 @@
     "event": "https://www.eventbrite.com/e/devclub-119-tickets-48212928166",
     "speeches": [
       {
-        "org": {"cam": "as", "edit": ""},
+        "org": {"cam": ["astalnuhhin"], "edit": ["klinnik"]},
         "lang": "ru",
         "labels": ["tests", "qa"],
         "youtube": ["YrIRKE-39Dc"],
@@ -1048,7 +1048,7 @@
         }
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": ["astalnuhhin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": ["docker", "ci", "wercker"],
         "youtube": ["lB7OYQ7A6P4"],
@@ -1068,7 +1068,7 @@
         }
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": ["astalnuhhin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": ["ci", "intellij", "teamcity"],
         "youtube": ["I9M-ds-Fjlw"],
@@ -1097,12 +1097,12 @@
       "name": "Park Inn by Radisson Meriton Conference & Spa Hotel Tallinn", "loc": "https://goo.gl/maps/AJbuvwDS7co",
       "addr": "Toompuiestee 27/Paldiski mnt 4, 10149 Tallinn", "url": "https://www.parkinn.com/hotel-meriton-tallinn"
     },
-    "org": {"mod": "ag", "photo": "kl"},
+    "org": {"mod": ["agritsevski"], "photo": ["klinnik"]},
     "photo": ["https://photos.app.goo.gl/EoiLBWEvUHs5pyye8"],
     "event": "https://www.eventbrite.com/e/devclub118-tickets-47262295799",
     "speeches": [
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": ["jtimosin"], "edit": ["eweber"]},
         "lang": "ru",
         "labels": ["mail", "security", "dmarc"],
         "youtube": ["vhNyUi1wpLE"],
@@ -1123,7 +1123,7 @@
         }
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": ["jtimosin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": ["web assembly", "asm.js"],
         "youtube": ["Kgd4vfwth0g"],
@@ -1143,7 +1143,7 @@
         }
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": ["jtimosin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": ["ai", "bot", "machine learning"],
         "youtube": ["LVygNu8EH3U"],
@@ -1178,7 +1178,7 @@
     "event": "https://www.eventbrite.com/e/devclub117-tickets-46397386833",
     "speeches": [
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": ["astalnuhhin"], "edit": ["klinnik"]},
         "lang": "ru",
         "labels": ["python", "django", "code generation"],
         "youtube": ["kR2ukkzMT8U"],
@@ -1199,7 +1199,7 @@
         }
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": ["astalnuhhin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": ["test", "qa", "junit", "ddt"],
         "youtube": ["Hs8rcmyYV4U"],
@@ -1219,7 +1219,7 @@
         }
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": ["astalnuhhin"], "edit": ["klinnik"]},
         "lang": "ru",
         "labels": ["security", "web", "injections", "http", "headers"],
         "youtube": ["z-aEjd22BGU"],
@@ -1253,7 +1253,7 @@
     "event": "https://www.eventbrite.com/e/devclub116-tickets-45098633226",
     "speeches": [
       {
-        "org": {"cam": "gb", "edit": ""},
+        "org": {"cam": ["gbeskin"], "edit": ["asviridenko"]},
         "lang": "ru",
         "labels": ["tests", "qa"],
         "youtube": ["5oLYUH0sXc8"],
@@ -1276,7 +1276,7 @@
         }
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": ["gbeskin"], "edit": ["asviridenko"]},
         "lang": "ru",
         "labels": ["bpm", "bpmn"],
         "youtube": ["SJ_k_PQcGYs"],
@@ -1298,7 +1298,7 @@
         }
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": ["gbeskin"], "edit": ["asviridenko"]},
         "lang": "ru",
         "labels": ["js", "flow.js"],
         "youtube": ["jTU_Fpz4zeM"],
@@ -1332,7 +1332,7 @@
     "event": "https://www.eventbrite.com/e/devclub115-tickets-44443910934",
     "speeches": [
       {
-        "org": {"cam": "gb", "edit": ""},
+        "org": {"cam": ["gbeskin"], "edit": ["asviridenko"]},
         "lang": "ru",
         "labels": ["offtopic", "physics"],
         "youtube": ["1XYvlq6xoYc"],
@@ -1354,7 +1354,7 @@
         "presentations": ["20180329_vgoman_ekzoplanety.pdf"]
       },
       {
-        "org": {"cam": "gb", "edit": ""},
+        "org": {"cam": ["gbeskin"], "edit": ["jtimosin"]},
         "lang": "ru",
         "labels": ["ci", "jenkins"],
         "youtube": ["4xbuI6hunUQ"],
@@ -1374,7 +1374,7 @@
         }
       },
       {
-        "org": {"cam": "gb", "edit": ""},
+        "org": {"cam": ["gbeskin"], "edit": ["jtimosin"]},
         "lang": "ru",
         "labels": ["ci", "jenkins"],
         "youtube": ["2I-PqhEIWlY"],
@@ -1408,7 +1408,7 @@
     "event": "https://www.eventbrite.com/e/devclub-114-gdpr-tickets-43246130340",
     "speeches": [
       {
-        "org": {"cam": "gb", "edit": ""},
+        "org": {"cam": ["gbeskin"], "edit": ["klinnik"]},
         "lang": "ru",
         "labels": ["tests", "qa"],
         "youtube": ["0vpKJuSQH4Y"],
@@ -1428,7 +1428,7 @@
         }
       },
       {
-        "org": {"cam": "gb", "edit": ""},
+        "org": {"cam": ["gbeskin"], "edit": ["aarhipov"]},
         "lang": "ru",
         "labels": ["tests", "qa"],
         "youtube": ["qubgs3GEMks"],
@@ -1449,7 +1449,7 @@
         "presentations": ["20180222_schipiga_test.pptx"]
       },
       {
-        "org": {"cam": "as", "edit": ""},
+        "org": {"cam": ["astalnuhhin"], "edit": ["klinnik"]},
         "lang": "ru",
         "labels": ["regulations", "gdpr"],
         "youtube": ["6eax3paxjDU"],
@@ -1481,12 +1481,12 @@
       "name": "Park Inn by Radisson Meriton Conference & Spa Hotel Tallinn", "loc": "https://goo.gl/maps/AJbuvwDS7co",
       "addr": "Toompuiestee 27/Paldiski mnt 4, 10149 Tallinn", "url": "https://www.parkinn.com/hotel-meriton-tallinn"
     },
-    "org": {"mod": ["agritsevki"], "photo": ["klinnik"]},
+    "org": {"mod": ["gbeskin"], "photo": ["klinnik"]},
     "photo": ["https://photos.app.goo.gl/HLAgZYvRAxrvRbkE2"],
     "event": "",
     "speeches": [
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": ["astalnuhhin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": ["projects", "estonia"],
         "youtube": ["lsKYFkprPY0"],
@@ -1509,7 +1509,7 @@
         "presentations": ["20180131_ibosenko_maksuamet.pdf"]
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": ["gbeskin"], "edit": ["klinnik"]},
         "lang": "ru",
         "labels": ["projects", "store", "etcd"],
         "youtube": ["lmN0hNyzJ9k"],
@@ -1530,7 +1530,7 @@
         }
       },
       {
-        "org": {"cam": "", "edit": ""},
+        "org": {"cam": ["gbeskin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": ["js", "angular", "devclub"],
         "youtube": ["Ao00tdd6RHo"],
@@ -1568,7 +1568,7 @@
     "event": "https://www.eventbrite.com/e/41538878905",
     "speeches": [
       {
-        "org": {"cam": "as", "edit": "as"},
+        "org": {"cam": ["astalnuhhin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": ["puzzlers", "kotlin"],
         "youtube": ["IsjeD6PFzZw"],
@@ -1588,7 +1588,7 @@
         }
       },
       {
-        "org": {"cam": "gb", "edit": "as"},
+        "org": {"cam": ["gbeskin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": ["puzzlers", "selenide", "tests"],
         "youtube": ["LQSrhmzXpHM"],
@@ -1608,7 +1608,7 @@
         }
       },
       {
-        "org": {"cam": "gb,as", "edit": "as"},
+        "org": {"cam": ["gbeskin", "astalnuhhin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": ["experience", "architecture"],
         "youtube": ["ii66pI756Zc"],
