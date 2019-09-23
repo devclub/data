@@ -1,58 +1,19 @@
 {
   "logos": "https://devclub.github.io/fileserver/files/devclub_logos.zip",
   "team": [
-    {
-      "row": 1, "col": 1, "names": {"*": "Kirill Linnik", "ru": "Кирилл Линник"},
-      "image": "klinnik_team.jpg", "url": "https://ee.linkedin.com/pub/kirill-linnik/50/a65/976"
-    },
-    {
-      "row": 1, "col": 2, "names": {"*": "Anton Arhipov", "ru": "Антон Архипов"},
-      "image": "aarhipov_team.jpg", "url": "https://ee.linkedin.com/in/antonarhipov"
-    },
-    {
-      "row": 1, "col": 3, "names": {"*": "Anton Stalnuhhin", "ru": "Антон Стальнухин"},
-      "image": "astalnuhhin_team.jpg", "url": "https://anton.stalnuhhin.ee/cv"
-    },
-    {
-      "row": 2, "col": 1, "names": {"*": "Stanislav Gorski", "ru": "Станислав Горский"},
-      "image": "sgorski_team.jpg", "url": "https://www.linkedin.com/in/stanislav-gorski-1b5b5b55"
-    },
-    {
-      "row": 2, "col": 2, "names": {"*": "Ivo Jaama", "ru": "Иво Яама"},
-      "image": "ijaama_team.jpg", "url": "https://www.facebook.com/ijaama"
-    },
-    {
-      "row": 2, "col": 3, "names": {"*": "Grigori Beškin", "ru": "Григорий Бешкин"},
-      "image": "gbeskin_team.jpg", "url": "https://ee.linkedin.com/in/grigorij-beshkin-50016b31"
-    },
-    {
-      "row": 2, "col": 4, "names": {"*": "Tatjana Gordejeva", "ru": "Татьяна Гордеева"},
-      "image": "tgordejeva_team.jpg", "url": "https://www.facebook.com/tanya.hrc"
-    },
-    {
-      "row": 2, "col": 5, "names": {"*": "Jevgeni Goloborodko", "ru": "Евгений Голобородько"},
-      "image": "jgoloborodko_team.jpg", "url": "https://ee.linkedin.com/in/jevgeni-goloborodko-65a048a"
-    },
-    {
-      "row": 3, "col": 1, "names": {"*": "Andrey Sviridenko", "ru": "Андрей Свириденко"},
-      "image": "asviridenko_team.jpg", "url": "https://www.linkedin.com/in/putpixel"
-    },
-    {
-      "row": 3, "col": 2, "names": {"*": "Aleksandr Gritsevski", "ru": "Александр Грицевский"},
-      "image": "agritsevski_team.jpg", "url": "https://www.linkedin.com/in/leadqualitymanager"
-    },
-    {
-      "row": 3, "col": 3, "names": {"*": "Ervin Weber", "ru": "Эрвин Вебер"},
-      "image": "eweber_team.jpg", "url": "https://ee.linkedin.com/in/webervin"
-    },
-    {
-      "row": 3, "col": 4, "names": {"*": "Juri Timošin", "ru": "Юрий Тимошин"},
-      "image": "jtimosin_team.jpg", "url": "https://ee.linkedin.com/in/juritimoshin"
-    },
-    {
-      "row": 3, "col": 5, "names": {"*": "Andrei Solntsev", "ru": "Андрей Солнцев"},
-      "image": "asolntsev_team.jpg", "url": "https://ee.linkedin.com/in/asolntsev"
-    }
+    {"row": 1, "col": 1, "personCode": "klinnik"},
+    {"row": 1, "col": 2, "personCode": "aarhipov"},
+    {"row": 1, "col": 3, "personCode": "astalnuhhin"},
+    {"row": 2, "col": 1, "personCode": "sgorski"},
+    {"row": 2, "col": 2, "personCode": "ijaama"},"personCode": ""},
+    {"row": 2, "col": 3, "personCode": "gbeskin"},
+    {"row": 2, "col": 4, "personCode": "tgordejeva"},
+    {"row": 2, "col": 5, "personCode": "jgoloborodko"},
+    {"row": 3, "col": 1, "personCode": "asviridenko"},
+    {"row": 3, "col": 2, "personCode": "agritsevski"},
+    {"row": 3, "col": 3, "personCode": "eweber"},
+    {"row": 3, "col": 4, "personCode": "jtimosin"},
+    {"row": 3, "col": 5, "personCode": "asolntsev"}
   ],
   "thanks": ["jmulenko", "amotsenov", "jholodkov", "zkirillov", "agrigorjev", "kbuhhalko"],
   "persons": {
