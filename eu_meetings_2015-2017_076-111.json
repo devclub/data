@@ -1696,8 +1696,8 @@
       "addr": "Sadama 11a, 10111 Tallinn", "url": "https://www.tallinkhotels.com/tallink-spa-conference-hotel"
     },
     "num": 86,
-    "org": {"mod": ["klinnik"], "photo": ""},
-    "photo": ["https://plus.google.com/photos/105266766340206558621/albums/6210823207533670865"],
+    "org": {"mod": ["klinnik"], "photo": ["klinnik"]},
+    "photo": ["https://photos.app.goo.gl/NQfQpArhWu7WaS9U9"],
     "speeches": [
       {
         "org": {"cam": ["astalnuhhin"], "edit": ["astalnuhhin"]},
