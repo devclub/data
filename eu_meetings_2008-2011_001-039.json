@@ -361,7 +361,7 @@
       "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
     "num": 35,
-    "org": {"mod": ["klinnik"], "photo": ["amotsjonov"]},
+    "org": {"mod": ["klinnik"], "photo": ["amotsenov"]},
     "photo": ["https://photos.app.goo.gl/HGLPPxobSsXUe3ah9"],
     "speeches": [
       {
@@ -607,7 +607,7 @@
       "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
     "num": 33,
-    "org": {"mod": ["aarhipov"], "photo": ["amotsjonov", "atkachev"]},
+    "org": {"mod": ["aarhipov"], "photo": ["amotsenov", "atkachev"]},
     "photo": ["https://photos.app.goo.gl/YDmU9eqrzYpKjxLq5"],
     "speeches": [
       {
@@ -683,7 +683,7 @@
       "addr": "Peterburi tee 48, 11415 Tallinn", "url": "http://www.susihotel.ee"
     },
     "num": 32,
-    "org": {"mod": ["amotsjonov"], "photo": ["amotsjonov"]},
+    "org": {"mod": ["amotsenov"], "photo": ["amotsenov"]},
     "photo": ["https://photos.app.goo.gl/QMM6MEQKBo9SgBUv9"],
     "speeches": [
       {
@@ -1234,7 +1234,7 @@
       "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
     "num": 24,
-    "org": {"mod": ["asolntsev"], "photo": ["klinnik", "amotsjonov"]},
+    "org": {"mod": ["asolntsev"], "photo": ["klinnik", "amotsenov"]},
     "photo": ["https://photos.app.goo.gl/C75ERmA6a9uMUJsp7"],
     "speeches": [
       {
@@ -1806,7 +1806,7 @@
       "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
     "num": 16,
-    "org": {"mod": ["amotsjonov"], "photo": [""]},
+    "org": {"mod": ["amotsenov"], "photo": [""]},
     "photo": ["https://picasaweb.google.com/112734643471916024675/DevclubEu20091222"],
     "speeches": [
       {
@@ -1984,7 +1984,7 @@
       "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
     "num": 14,
-    "org": {"mod": ["zkirillov"], "photo": ["aarhipov", "amotsjonov"]},
+    "org": {"mod": ["zkirillov"], "photo": ["aarhipov", "amotsenov"]},
     "photo": ["https://photos.app.goo.gl/XkXyVHDbHc1Jh5Ki7"],
     "speeches": [
       {
