@@ -8,11 +8,11 @@
       "addr": "Toompuiestee 27/Paldiski mnt 4, 10149 Tallinn", "url": "https://www.parkinn.com/hotel-meriton-tallinn"
     },
     "org": {"mod": ["tgordejeva"], "photo": ["klinnik"]},
-    "photo": [],
+    "photo": ["https://photos.app.goo.gl/vBZNLCNyZDgsH87q6"],
     "event": "https://www.eventbrite.com/e/devclubeu-133-tickets-73089762447",
     "speeches": [
       {
-        "org": {"cam": "jtimoshin", "edit": ""},
+        "org": {"cam": ["gbeskin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": ["open source", "project", "marketing"],
         "youtube": [""],
@@ -33,7 +33,7 @@
         }
       },
       {
-        "org": {"cam": "jtimoshin", "edit": ""},
+        "org": {"cam": ["gbeskin", "astalnuhhin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": ["tests"],
         "youtube": [""],
@@ -56,7 +56,7 @@
         }
       },
       {
-        "org": {"cam": "jtimoshin", "edit": ""},
+        "org": {"cam": ["astalnuhhin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": ["testing"],
         "youtube": [""],
