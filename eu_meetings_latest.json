@@ -53,7 +53,8 @@
           "ru": [
             "Люди часто спрашивают, почему я ненавижу age Objects, TestNG, ReportPortal, try/catch, loops, ifs, implicit waitings, explicit waitings, Dependency injection, Spring и прочее в тестах. Коротенечко, по 5 минут на тему, поясню."
           ]
-        }
+        },
+        "presentations": ["20190924_asolntsev_hating.pdf"]
       },
       {
         "org": {"cam": ["astalnuhhin"], "edit": ["astalnuhhin"]},
@@ -73,7 +74,8 @@
           "ru": [
             "Изменение менталитита в отношении инженеров по обеспечению качества."
           ]
-        }
+        },
+        "presentations": ["20190924_agritsevski_qa.pdf"]
       }
     ]
   }
