@@ -35,8 +35,8 @@
       {
         "org": {"cam": ["gbeskin", "astalnuhhin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
-        "labels": ["tests"],
-        "youtube": [""],
+        "labels": ["tests", "hating", "testng", "junit"],
+        "youtube": ["U6z2dK7MwmI"],
         "speakers": [
           {
             "names": {"*": "Andrei Solntsev", "ru": "Андрей Солнцев"},
