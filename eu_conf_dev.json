@@ -6,6 +6,7 @@
   "devclubText": "DEVCLUB.EU",
   "devclubMenuUrl": "https://devclub.ee",
   "devclubMenuText": "DEVCLUB.EE",
+  "googleApiKey": "AIzaSyD6g6WMBNy17joDrDQNn7B36mbOGgwWmjE",
   "personUrlPrefix": "https://devclub.github.io/data/persons",
   "personDefaultImage": "nophoto.png",
   "fileUrlPrefix": "https://devclub.github.io/fileserver/files",
