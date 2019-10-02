@@ -6,6 +6,7 @@
   "devclubText": "DEVCLUB.EE",
   "devclubMenuUrl": "https://devclub.eu",
   "devclubMenuText": "DEVCLUB.EU",
+  "speakerTalkFormUrl": "https://docs.google.com/forms/d/1xdBXhnLIIpP3ll-1zWIHtOStGG8XH2M65TApPn77JK4/viewform",
   "personUrlPrefix": "https://devclub.github.io/data/persons",
   "personDefaultImage": "nophoto.png",
   "fileUrlPrefix": "https://devclub.github.io/fileserver/files",
