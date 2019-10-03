@@ -1106,38 +1106,38 @@
   {
     "num": 6,
     "season": 2011,
-    "datetime": "2011-08-23T19:00:00",
+    "datetime": "2011-08-23T19:00:00+03:00",
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2",
       "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
-    "org": {"mod": [], "photo": ["klinnik", "atkachev"]},
+    "org": {"mod": ["hrikk"], "photo": ["klinnik", "atkachev"]},
     "photo": ["https://photos.app.goo.gl/rqdjgKP43ef42epe9"],
     "speeches": [
       {
+        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/28099011"], "origViews": 881},
         "youtube": ["QR1pteRgXT8"],
-        "origVid": ["https://vimeo.com/28099011"],
         "speakers": [{"names": {"*": "Anton Keks"}}],
         "titles": {"en": "Plain Simple Java"},
         "lang": "et"
       },
       {
+        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/28097031"], "origViews": 242},
         "youtube": ["tFnfzBMPfko"],
-        "origVid": ["https://vimeo.com/28097031"],
         "speakers": [{"names": {"*": "Erik Jõgi"}}],
         "titles": {"en": "Real-World Scala"},
         "lang": "et"
       },
       {
+        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/28096809"], "origViews": 478},
         "youtube": ["CXV4P4Vz3dY"],
-        "origVid": ["https://vimeo.com/28096809"],
         "speakers": [{"names": {"*": "Andri Möll"}}],
         "titles": {"en": "Backbone"},
         "lang": "et"
       },
       {
+        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/28330135"], "origViews": 133},
         "youtube": ["Vt1x13gqnO4"],
-        "origVid": ["https://vimeo.com/28330135"],
         "speakers": [{"names": {"*": "Anton Narusberg"}}],
         "titles": {"en": "Ruby Singleton Class"},
         "lang": "et"
@@ -1147,31 +1147,31 @@
   {
     "num": 5,
     "season": 2011,
-    "datetime": "2011-07-05T19:00:00",
+    "datetime": "2011-07-05T19:00:00+03:00",
     "place": {
-      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", "addr": "Narva mnt 120, 10127 Tallinn",
-      "url": "http://www.oruhotel.ee"
+      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2",
+      "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
-    "org": {"mod": [], "photo": ["klinnik"]},
+    "org": {"mod": ["hrikk"], "photo": ["klinnik"]},
     "photo": ["https://photos.app.goo.gl/JLat3cnVKgbnfmMG6"],
     "speeches": [
       {
+        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/26551584"], "origViews": 205},
         "youtube": ["sJKODBYZDQA"],
-        "origVid": ["https://vimeo.com/26551584"],
         "speakers": [{"names": {"*": "Henri Muurimaa"}}],
         "titles": {"en": "Vaadin + Scala"},
         "lang": "en"
       },
       {
+        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/26033277"], "origViews": 190},
         "youtube": ["hmRNR_Hc3oc"],
-        "origVid": ["https://vimeo.com/26033277"],
         "speakers": [{"names": {"*": "Anton Shishkov"}}],
         "titles": {"en": "Automated Testing praktikas"},
         "lang": "en"
       },
       {
+        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/26050864"], "origViews": 164},
         "youtube": ["jdtZlMPmQsY"],
-        "origVid": ["https://vimeo.com/26050864"],
         "speakers": [{"names": {"*": "Anton Narusberg"}}, {"names": {"*": "Andri Möll"}}],
         "titles": {"en": "Starting with Rails"},
         "lang": "et"
@@ -1181,7 +1181,7 @@
   {
     "num": 4,
     "season": 2011,
-    "datetime": "2011-05-24T19:00:00",
+    "datetime": "2011-05-24T19:00:00+03:00",
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2",
       "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
@@ -1190,15 +1190,15 @@
     "photo": ["https://photos.app.goo.gl/rskobJastZP3CQkA8"],
     "speeches": [
       {
+        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/24199053"], "origViews": 161},
         "youtube": ["saVbHZKRjyA"],
-        "origVid": ["https://vimeo.com/24199053"],
         "speakers": [{"names": {"*": "Henn Sarv"}}],
         "titles": {"en": "LINQ .NET-võhikutele"},
         "lang": "et"
       },
       {
+        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/24192853"], "origViews": 83},
         "youtube": ["9kMs9lZOD3Y"],
-        "origVid": ["https://vimeo.com/24192853"],
         "speakers": [{"names": {"*": "Mark Kofman"}}],
         "titles": {"en": "Meetrikad, milleks ja kuidas & Programeter"},
         "lang": "et"
@@ -1208,7 +1208,7 @@
   {
     "num": 3,
     "season": 2011,
-    "datetime": "2011-04-07T19:00:00",
+    "datetime": "2011-04-07T19:00:00+03:00",
     "place": {
       "name": "Hotell Susi", "loc": "https://goo.gl/maps/55CMMhKW67K2",
       "addr": "Peterburi tee 48, 11415 Tallinn", "url": "http://www.susihotel.ee"
@@ -1217,22 +1217,22 @@
     "photo": ["https://photos.app.goo.gl/eaJhBC6b23361Kxx7"],
     "speeches": [
       {
+        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/22266026"], "origViews": 327},
         "youtube": ["IO2JLUVtZCo"],
-        "origVid": ["https://vimeo.com/22266026"],
         "speakers": [{"names": {"*": "Jaan Pillesaar"}}],
         "titles": {"en": "Helmes 20"},
         "lang": "et"
       },
       {
+        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/22111173"], "origViews": 212},
         "youtube": ["DvLjJcc08E0"],
-        "origVid": ["https://vimeo.com/22111173"],
         "speakers": [{"names": {"*": "Toomas Römer"}}],
         "titles": {"en": "LiveRebeli hingeelu"},
         "lang": "et"
       },
       {
+        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/22107350"], "origViews": 321},
         "youtube": ["d46b1erZT5s"],
-        "origVid": ["https://vimeo.com/22107350"],
         "speakers": [{"names": {"*": "Anton Keks"}}],
         "titles": {"en": "Database Refactoring"},
         "lang": "et"
@@ -1242,31 +1242,31 @@
   {
     "num": 2,
     "season": 2011,
-    "datetime": "2011-03-03T19:00:00",
+    "datetime": "2011-03-03T19:00:00+03:00",
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2",
       "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
-    "org": {"mod": [], "photo": ["klinnik"]},
+    "org": {"mod": ["alumberg"], "photo": ["klinnik"]},
     "photo": ["https://photos.app.goo.gl/HEgmB2MTpEWtVLRs7"],
     "speeches": [
       {
+        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/20640834"], "origViews": 320},
         "youtube": ["WMY2xrnJ9XU"],
-        "origVid": ["https://vimeo.com/20640834"],
         "speakers": [{"names": {"*": "Meelis Lang"}}],
         "titles": {"en": "Kvaliteetne projekt"},
         "lang": "et"
       },
       {
+        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/20639182"], "origViews": 127},
         "youtube": ["dXR2jQg6tNE"],
-        "origVid": ["https://vimeo.com/20639182"],
         "speakers": [{"names": {"*": "Erik Jõgi"}}],
         "titles": {"en": "Java Puzzlers"},
         "lang": "et"
       },
       {
+        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/20624252"], "origViews": 280},
         "youtube": ["TwbC-VkETQ4"],
-        "origVid": ["https://vimeo.com/20624252"],
         "speakers": [{"names": {"*": "Tarvi Martens"}}],
         "titles": {"en": "ID-kaardi tagatuba, argipäev ja e-hääletamine"},
         "lang": "et"
@@ -1276,31 +1276,31 @@
   {
     "num": 1,
     "season": 2011,
-    "datetime": "2011-02-03T19:00:00",
+    "datetime": "2011-02-03T19:00:00+02:00",
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2",
       "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
-    "org": {"mod": ["alumberg"], "photo": ["alumberg"]},
+    "org": {"mod": ["alumberg"], "photo": ["klinnik"]},
     "photo": ["https://photos.app.goo.gl/eFR7srbixnoR68W56"],
     "speeches": [
       {
+        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/19541023"], "origViews": 148},
         "youtube": ["0L_4I-11Dfw"],
-        "origVid": ["https://vimeo.com/19541023"],
         "speakers": [{"names": {"*": "Anton Arhipov"}}],
         "titles": {"en": "Binary patching of Java classes for fun (and profit)"},
         "lang": "et"
       },
       {
+        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/19541064"], "origViews": 101},
         "youtube": ["AoiiJMt536U"],
-        "origVid": ["https://vimeo.com/19541064"],
         "speakers": [{"names": {"*": "Margus Freudenthal"}}],
         "titles": {"en": "Valdkonnaspetsiifilised keeled"},
         "lang": "et"
       },
       {
+        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/19556012"], "origViews": 4214},
         "youtube": ["ng2SMKOfoCk"],
-        "origVid": ["https://vimeo.com/19556012"],
         "speakers": [{"names": {"*": "Revo Sirel"}}],
         "titles": {"en": "javax.smartcardio ja EstEID"},
         "lang": "et"
