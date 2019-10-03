@@ -908,26 +908,26 @@
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2",
       "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
-    "org": {"mod": [], "photo": ["klinnik"]},
+    "org": {"mod": ["hrikk"], "photo": ["klinnik"]},
     "photo": ["https://photos.app.goo.gl/83jLFVw3aJrcSaV5A"],
     "speeches": [
       {
+        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/40120635"], "origViews": 93},
         "youtube": ["ME_aF14G-fM"],
-        "origVid": ["https://vimeo.com/43631906"],
         "speakers": [{"names": {"*": "Henn Sarv"}}],
         "titles": {"en": "Windows Azure - mis ta on ja kuidas teda süüa"},
         "lang": "et"
       },
       {
+        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/43631904"], "origViews": 283},
         "youtube": ["5948p7IfHF0"],
-        "origVid": ["https://vimeo.com/43631904"],
         "speakers": [{"names": {"*": "Tan Silliksaar"}}],
         "titles": {"en": "Windows Phone ja Windows 8 arendus"},
         "lang": "et"
       },
       {
+        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/43631905"], "origViews": 213},
         "youtube": ["ZMLSt7kv31g"],
-        "origVid": ["https://vimeo.com/43631905"],
         "speakers": [{"names": {"*": "Tero Hurskainen"}}],
         "titles": {"en": "Kuidas lihtsamini Apple’i App Store’i jõuda"},
         "lang": "et"
@@ -937,38 +937,39 @@
   {
     "num": 12,
     "season": 2012,
-    "datetime": "2012-04-10T19:00:00",
+    "datetime": "2012-04-10T19:00:00+03:00",
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2",
       "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
+    "org": {"mod": ["hrikk"], "photo": ["???"]},
     "photo": ["https://picasaweb.google.com/data/feed/api/user/101124267861537730212/albumid/5731239719471383649?alt=rss&kind=photo&hl=en_US"],
     "speeches": [
       {
+        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/40120635"], "origViews": 178},
         "youtube": ["CpZwieFr7jA"],
-        "origVid": ["https://vimeo.com/40120635"],
         "speakers": [{"names": {"*": "Kairi Kallas"}}, {"names": {"*": "Allan Randlepp"}}],
         "titles": {"en": "Rahva ja eluruumide loendus 2011"},
         "lang": "et"
       },
       {
+        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/40120636"], "origViews": 482},
         "youtube": ["lhbCnTU_vbU"],
-        "origVid": ["https://vimeo.com/40120636"],
         "speakers": [{"names": {"*": "Taavi Talvik"}}],
         "titles": {"en": "Erlang"},
         "lang": "et"
       },
       {
+        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/40120633"], "origViews": 197},
         "youtube": ["HPNsy78fICo"],
-        "origVid": ["https://vimeo.com/40120633"],
         "speakers": [{"names": {"*": "David Liik"}}],
         "titles": {"en": "Skype"},
         "lang": "et"
       },
       {
+        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/40120634"], "origViews": 297},
         "youtube": ["xrK4BJMkVJ4"],
-        "origVid": ["https://vimeo.com/40120634"],
-        "speakers": [{"names": {"*": "Anton Keks"}}, {"names": {"*": "Anton Keks"}}],
+        "speakers": [{"names": {"*": "Anton Keks"}}, {"names": {"*": "Andrei Solntsev"}}],
         "titles": {"en": "Open-source Codeborne"},
         "lang": "et"
       }
@@ -977,31 +978,31 @@
   {
     "num": 11,
     "season": 2012,
-    "datetime": "2012-03-01T19:00:00",
+    "datetime": "2012-03-01T19:00:00+02:00",
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2",
       "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
-    "org": {"mod": [], "photo": ["klinnik"]},
+    "org": {"mod": ["hrikk"], "photo": ["klinnik"]},
     "photo": ["https://photos.app.goo.gl/VzUu81zR13vm46qEA"],
     "speeches": [
       {
+        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/37941406"], "origViews": 530},
         "youtube": ["IxtV4brxQhI"],
-        "origVid": ["https://vimeo.com/37941406"],
         "speakers": [{"names": {"*": "Gojko Adzic"}}],
         "titles": {"en": "Visualising Quality"},
         "lang": "en"
       },
       {
+        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/37796688"], "origViews": 226},
         "youtube": ["nGbd_i958LY"],
-        "origVid": ["https://vimeo.com/37796688"],
         "speakers": [{"names": {"*": "Andri Möll"}}],
         "titles": {"en": "Unusability"},
         "lang": "en"
       },
       {
+        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/37796051"], "origViews": 284},
         "youtube": ["Bmd7g19IYdU"],
-        "origVid": ["https://vimeo.com/37796051"],
         "speakers": [{"names": {"*": "Anton Keks"}}],
         "titles": {"en": "Asünkroonne programmeerimine Node.js-iga"},
         "lang": "et"
@@ -1011,17 +1012,17 @@
   {
     "num": 10,
     "season": 2012,
-    "datetime": "2012-01-24T19:00:00",
+    "datetime": "2012-01-24T19:00:00+02:00",
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2",
       "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
-    "org": {"mod": [], "photo": ["klinnik"]},
+    "org": {"mod": ["hrikk"], "photo": ["klinnik"]},
     "photo": ["https://photos.app.goo.gl/C1SsEZP9NRAUW7C3A"],
     "speeches": [
       {
+        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/37026071"], "origViews": 606},
         "youtube": ["-oAfUygsE4A"],
-        "origVid": ["https://vimeo.com/37026071"],
         "speakers": [{"names": {"*": "J.B. Rainsberger"}}],
         "titles": {"en": "Product Sashimi"},
         "lang": "en"
@@ -1041,24 +1042,24 @@
   {
     "num": 9,
     "season": 2012,
-    "datetime": "2011-12-01T19:00:00",
+    "datetime": "2011-12-01T19:00:00+02:00",
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2",
       "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
-    "org": {"mod": [], "photo": ["klinnik"]},
+    "org": {"mod": ["hrikk"], "photo": ["klinnik"]},
     "photo": ["https://photos.app.goo.gl/mg8L3AR5nGwaDsGv8"],
     "speeches": [
       {
+        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/33073401"], "origViews": 436},
         "youtube": ["QYNwDKiI4fo"],
-        "origVid": ["https://vimeo.com/33073401"],
         "speakers": [{"names": {"*": "Jaanus Lang"}}],
         "titles": {"en": "Kuidas Artify tegi MMO strateegiamängu?"},
         "lang": "et"
       },
       {
+        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/33074521"], "origViews": 893},
         "youtube": ["jtSmOoIUO58"],
-        "origVid": ["https://vimeo.com/33074521"],
         "speakers": [{"names": {"*": "Aleksandr Jastremski"}}],
         "titles": {"en": "BOT’id ja protsesside automatiseerimine"},
         "lang": "et"
@@ -1068,24 +1069,24 @@
   {
     "num": 8,
     "season": 2011,
-    "datetime": "2011-11-01T19:00:00",
+    "datetime": "2011-11-01T19:00:00+02:00",
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2",
       "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
-    "org": {"mod": [], "photo": ["klinnik"]},
+    "org": {"mod": ["hrikk"], "photo": ["klinnik"]},
     "photo": ["https://photos.app.goo.gl/YLxB1LdpzD3ZzBL18"],
     "speeches": [
       {
+        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/31716760"], "origViews": 209},
         "youtube": ["yaRtem01bdk"],
-        "origVid": ["https://vimeo.com/31716760"],
         "speakers": [{"names": {"*": "Filipp Keks"}}],
         "titles": {"en": "Mobile Multiplatform Development"},
         "lang": "et"
       },
       {
+        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/31716868"], "origViews": 322},
         "youtube": ["mp28Q-_T1t4"],
-        "origVid": ["https://vimeo.com/31716868"],
         "speakers": [{"names": {"*": "Ixonos Estonia OÜ"}}],
         "titles": {"en": "Android/MeeGo/Tizan sisikonna kiirülevaade"},
         "lang": "et"
@@ -1095,13 +1096,35 @@
   {
     "num": 7,
     "season": 2011,
-    "datetime": "2011-09-27T19:00:00",
+    "datetime": "2011-09-27T19:00:00+03:00",
     "place": {
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2",
       "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
-    "org": {"mod": [], "photo": ["klinnik"]},
-    "photo": ["https://photos.app.goo.gl/3t5ahsLi2y8Z2zFR8"]
+    "org": {"mod": ["hrikk"], "photo": ["klinnik"]},
+    "photo": ["https://photos.app.goo.gl/3t5ahsLi2y8Z2zFR8"],
+    "speeches": [
+      {
+        "speakers": [{"names": {"*": "J.B. Rainsberger"}}],
+        "titles": {"en": "TDD"},
+        "lang": "en",
+        "info": {
+          "ru": "Встреча не снималась на камеру. Видео нет.",
+          "en": "No meeting recording on camera. No video.",
+          "et": "Kohtumise salvestamine kaamerasse ei toimunud. Videot pole."
+        }
+      },
+      {
+        "speakers": [{"names": {"*": "Andrei Solntsev"}}],
+        "titles": {"en": "Extreme Startup workshop"},
+        "lang": "en",
+        "info": {
+          "ru": "Встреча не снималась на камеру. Видео нет.",
+          "en": "No meeting recording on camera. No video.",
+          "et": "Kohtumise salvestamine kaamerasse ei toimunud. Videot pole."
+        }
+      }
+    ]
   },
   {
     "num": 6,
