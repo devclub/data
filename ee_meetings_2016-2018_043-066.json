@@ -866,17 +866,18 @@
       "name": "Pipedrive OÜ", "loc": "https://goo.gl/maps/squwGHdRPMB2",
       "addr": "Paldiski mnt 80, Tallinn 10617", "url": "https://www.pipedrive.com"
     },
-    "org": {"mod": ["sgorski"]},
+    "org": {"mod": ["sgorski"], "photo": ["klinnik"]},
+    "photo": ["https://photos.app.goo.gl/a8cs6YuJznD6eAKYA"],
     "speeches": [
       {
-        "org": {"cam": ["ijaama", "akozlov"], "orig": ["https://www.youtube.com/watch?v=jJ3Q5DSGMFI"], "origViews": 73},
+        "org": {"cam": ["ijaama", "vsiilbek"], "orig": ["https://www.youtube.com/watch?v=jJ3Q5DSGMFI"], "origViews": 73},
         "youtube": ["jJ3Q5DSGMFI"],
         "speakers": [{"names": {"*": "Kristo Kaiv"}}],
         "titles": {"en": "Pains & Gains of microservices"},
         "lang": "en"
       },
       {
-        "org": {"cam": ["ijaama", "akozlov"], "orig": ["https://www.youtube.com/watch?v=nlEnnddGIc0"], "origViews": 43},
+        "org": {"cam": ["ijaama", "vsiilbek"], "orig": ["https://www.youtube.com/watch?v=nlEnnddGIc0"], "origViews": 43},
         "youtube": ["nlEnnddGIc0"],
         "speakers": [{"names": {"*": "Konstantin Root"}}],
         "titles": {"en": "How to start running: myths and data science"},
@@ -892,17 +893,18 @@
       "name": "Transferwise Ltd Estonia", "loc": "https://goo.gl/maps/fXmz146K1SD2",
       "addr": "Veerenni 24, 10135 Tallinn", "url": "https://transferwise.com"
     },
-    "org": {"mod": ["sgorski"]},
+    "org": {"photo": ["klinnik"]},
+    "photo": ["https://photos.app.goo.gl/vwB7WWbc3j5CsXDWA"],
     "speeches": [
       {
-        "org": {"cam": ["ijaama", "akozlov"], "orig": ["https://www.youtube.com/watch?v=ziQZD-wehPE"], "origViews": 174},
+        "org": {"cam": ["ijaama", "vsiilbek"], "orig": ["https://www.youtube.com/watch?v=ziQZD-wehPE"], "origViews": 174},
         "youtube": ["NjefBzv9L50"],
         "speakers": [{"names": {"*": "Anton Arhipov"}}],
         "titles": {"en": "Inadequate Java interview"},
         "lang": "en"
       },
       {
-        "org": {"cam": ["ijaama", "akozlov"], "orig": ["https://www.youtube.com/watch?v=hTCt1Pyh9ic"], "origViews": 317},
+        "org": {"cam": ["ijaama", "vsiilbek"], "orig": ["https://www.youtube.com/watch?v=hTCt1Pyh9ic"], "origViews": 317},
         "youtube": ["SxRfRi8Xs90"],
         "speakers": [{"names": {"*": "Erik Kaju"}}],
         "titles": {"en": "Cards & payment methods lead @ TransferWise"},
@@ -918,10 +920,11 @@
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
       "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
     },
-    "org": {"mod": ["sgorski"]},
+    "org": {"mod": ["sgorski"], "photo": ["klinnik"]},
+    "photo": ["https://photos.app.goo.gl/MkQY1faaSohkzZ118"],
     "speeches": [
       {
-        "org": {"cam": ["ijaama", "akozlov"], "orig": ["https://www.youtube.com/watch?v=44EO0ICnw9Q"], "origViews": 50},
+        "org": {"cam": ["ijaama"], "orig": ["https://www.youtube.com/watch?v=44EO0ICnw9Q"], "origViews": 50},
         "youtube": ["1oTgz-1kx4A"],
         "speakers": [{"names": {"*": "Artur Schaback"}}],
         "titles": {"en": "Development Security for Peer to Peer Marketplaces"},
@@ -947,17 +950,18 @@
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
       "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
     },
-    "org": {"mod": ["mruut"]},
+    "org": {"mod": ["sgorski"], "photo": ["klinnik"]},
+    "photo": ["https://photos.app.goo.gl/zFbZmbTXY4AphJnVA"],
     "speeches": [
       {
-        "org": {"cam": ["ijaama", "akozlov"], "orig": ["https://www.youtube.com/watch?v=wi1d1YgSAcE"], "origViews": 192},
+        "org": {"cam": ["ijaama"], "orig": ["https://www.youtube.com/watch?v=wi1d1YgSAcE"], "origViews": 192},
         "youtube": ["2Ov5yehFuOc"],
         "speakers": [{"names": {"*": "Matti Jagula"}}, {"names": {"*": "Raido Kaldma"}}],
         "titles": {"en": "Developing a desktop application in Javascript"},
         "lang": "en"
       },
       {
-        "org": {"cam": ["ijaama", "akozlov"], "orig": ["https://www.youtube.com/watch?v=MANmZ1ZwCfI"], "origViews": 180},
+        "org": {"cam": ["ijaama"], "orig": ["https://www.youtube.com/watch?v=MANmZ1ZwCfI"], "origViews": 180},
         "youtube": ["Jwy5_98Z-QI"],
         "speakers": [{"names": {"*": "Konstantin Root"}}],
         "titles": {"en": "Securing website with HTTP headers"},
@@ -973,17 +977,18 @@
       "name": "Playtech Estonia OÜ", "loc": "https://goo.gl/maps/VKtUZz2biJ32",
       "addr": "Lõõtsa 5, 11415 Tallinn", "url": "http://www.playtech.ee"
     },
-    "org": {"mod": ["mruut"]},
+    "org": {"mod": ["sgorski"], "photo": ["klinnik"]},
+    "photo": ["https://photos.app.goo.gl/wbSaSM6NXafyfkp38"],
     "speeches": [
       {
-        "org": {"cam": ["ijaama", "akozlov"], "orig": ["https://www.youtube.com/watch?v=F9kTzGaTmok"], "origViews": 143},
+        "org": {"cam": ["ijaama"], "orig": ["https://www.youtube.com/watch?v=F9kTzGaTmok"], "origViews": 143},
         "youtube": ["opwxpjbLXXg"],
         "speakers": [{"names": {"*": "Tõnis Pihlakas"}}],
         "titles": {"en": "Weaving Web Applications with Apache Tapestry"},
         "lang": "en"
       },
       {
-        "org": {"cam": ["ijaama", "akozlov"], "orig": ["https://www.youtube.com/watch?v=jk_uvt9zP7g"], "origViews": 82},
+        "org": {"cam": ["ijaama"], "orig": ["https://www.youtube.com/watch?v=jk_uvt9zP7g"], "origViews": 82},
         "youtube": ["xxkab1PSNUc"],
         "speakers": [{"names": {"*": "Villu Vaimets"}}],
         "titles": {"en": "Implementing an intelligent form engine"},
@@ -999,24 +1004,24 @@
       "name": "Transferwise Ltd Estonia", "loc": "https://goo.gl/maps/fXmz146K1SD2",
       "addr": "Veerenni 24, 10135 Tallinn", "url": "https://transferwise.com"
     },
-    "org": {"mod": ["mruut"]},
+    "org": {"mod": ["sgorski"]},
     "speeches": [
       {
-        "org": {"cam": ["ijaama", "akozlov"], "orig": ["https://www.youtube.com/watch?v=9mXO6-nN4sU"], "origViews": 423},
+        "org": {"cam": ["ijaama"], "orig": ["https://www.youtube.com/watch?v=9mXO6-nN4sU"], "origViews": 423},
         "youtube": ["TPdlULD-DCo"],
         "speakers": [{"names": {"*": "Erko Risthein"}}],
         "titles": {"en": "Risk@TransferWise"},
         "lang": "en"
       },
       {
-        "org": {"cam": ["ijaama", "akozlov"], "orig": ["https://www.youtube.com/watch?v=x6MUptcLB7g"], "origViews": 696},
+        "org": {"cam": ["ijaama"], "orig": ["https://www.youtube.com/watch?v=x6MUptcLB7g"], "origViews": 696},
         "youtube": ["AN1kbLAnOyQ"],
         "speakers": [{"names": {"*": "Dmitry Zhukov"}}, {"names": {"*": "Maksims Juvcenko"}}],
         "titles": {"en": "Fraud Detection in PHP: Ascending from Hell"},
         "lang": "en"
       },
       {
-        "org": {"cam": ["ijaama", "akozlov"], "orig": ["https://www.youtube.com/watch?v=9hz2HlClZaw"], "origViews": 160},
+        "org": {"cam": ["ijaama"], "orig": ["https://www.youtube.com/watch?v=9hz2HlClZaw"], "origViews": 160},
         "youtube": ["Pii2EHcmsHI"],
         "speakers": [{"names": {"*": "Stanislav Gorski"}}],
         "titles": {"en": "AWS Lambda in Your Stack"},
@@ -1032,17 +1037,18 @@
       "name": "Pipedrive OÜ", "loc": "https://goo.gl/maps/squwGHdRPMB2",
       "addr": "Paldiski mnt 80, Tallinn 10617", "url": "https://www.pipedrive.com"
     },
-    "org": {"mod": ["mruut"]},
+    "org": {"mod": ["sgorski"], "photo": ["klinnik"]},
+    "photo": ["https://photos.app.goo.gl/acfDVkXzsgnFx2Vn8"],
     "speeches": [
       {
-        "org": {"cam": ["ijaama", "akozlov"], "orig": ["https://www.youtube.com/watch?v=jHpnU8eDH9o"], "origViews": 2693},
+        "org": {"cam": ["ijaama"], "orig": ["https://www.youtube.com/watch?v=jHpnU8eDH9o"], "origViews": 2693},
         "youtube": ["y2Dpj4QElv4"],
         "speakers": [{"names": {"*": "Martin Tajur"}}],
         "titles": {"en": "Queues, queues, queues. How RabbitMQ enables reactive architectures"},
         "lang": "en"
       },
       {
-        "org": {"cam": ["ijaama", "akozlov"], "orig": ["https://www.youtube.com/watch?v=BcnnOfpPiN0"], "origViews": 390},
+        "org": {"cam": ["ijaama"], "orig": ["https://www.youtube.com/watch?v=BcnnOfpPiN0"], "origViews": 390},
         "youtube": ["wlOcp_-4280"],
         "speakers": [{"names": {"*": "Anton Keks"}}],
         "titles": {"en": "Digital Signatures: Estonia vs The World"},
