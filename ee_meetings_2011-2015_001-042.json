@@ -44,7 +44,8 @@
       "name": "Tallink Spa & Conference Hotel", "loc": "https://goo.gl/maps/EC38ZYDt8CQ2",
       "addr": "Sadama 11a, 10111 Tallinn", "url": "https://www.tallinkhotels.com/tallink-spa-conference-hotel"
     },
-    "org": {"mod": ["mruut"]},
+    "org": {"mod": ["sgorski"], "photo": ["klinnik"]},
+    "photo": ["https://photos.app.goo.gl/C4bki4mNcTTJ2gVe6"],
     "speeches": [
       {
         "info": {
@@ -76,7 +77,8 @@
       "name": "Tallink Spa & Conference Hotel", "loc": "https://goo.gl/maps/EC38ZYDt8CQ2",
       "addr": "Sadama 11a, 10111 Tallinn", "url": "https://www.tallinkhotels.com/tallink-spa-conference-hotel"
     },
-    "org": {"mod": ["mruut"]},
+    "org": {"mod": ["sgorski"], "photo": ["klinnik"]},
+    "photo": ["https://photos.app.goo.gl/2wbuRDNdorJMHZAB9"],
     "speeches": [
       {
         "info": {
@@ -195,6 +197,7 @@
       "addr": "Paadi 5, 10151 Tallinn", "url": "http://www.euroopa.ee"
     },
     "org": {"mod": ["mruut"]},
+    "photo": ["https://picasaweb.google.com/data/feed/api/user/101124267861537730212/albumid/6128747380707662193?alt=rss&kind=photo&hl=en_US"]
     "speeches": [
       {
         "org": {"cam": ["ijaama", "akozlov"], "orig": ["https://www.youtube.com/watch?v=G-zy4i6F0lI"], "origViews": 6636},
@@ -471,6 +474,7 @@
       "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
     "org": {"mod": ["mruut"]},
+    "photo": ["https://picasaweb.google.com/data/feed/api/user/117914486418507679216/albumid/6005007831429008481?alt=rss&kind=photo&hl=en_US"],
     "speeches": [
       {
         "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/91657625"], "origViews": 194},
