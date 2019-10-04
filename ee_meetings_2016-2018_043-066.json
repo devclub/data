@@ -2,15 +2,17 @@
   {
     "num": 66,
     "season": 2018,
-    "datetime": "2018-11-22T19:00:00",
+    "datetime": "2018-11-22T19:00:00+02:00",
     "place": {
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
       "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
     },
+    "org": {"mod": ["sgorski"], "photo": ["klinnik"]},
     "photo": ["https://photos.app.goo.gl/k9dDDESnDY9hNHg8A"],
     "speeches": [
       {
         "lang": "en",
+        "org": {"cam": ["astalnuhhin"], "edit": ["klinnik"]},
         "youtube": ["78NkIgTN1NI"],
         "speakers": [
           {
@@ -29,6 +31,7 @@
       },
       {
         "lang": "en",
+        "org": {"cam": ["astalnuhhin"], "edit": ["klinnik"]},
         "youtube": ["PkWRwG6ZTTo"],
         "speakers": [
           {
@@ -52,15 +55,17 @@
   {
     "num": 65,
     "season": 2018,
-    "datetime": "2018-10-31T19:00:00",
+    "datetime": "2018-10-31T19:00:00+02:00",
     "place": {
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
       "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
     },
+    "org": {"mod": ["sgorski"], "photo": ["klinnik"]},
     "photo": ["https://photos.app.goo.gl/jk8eUGuXSTtV5CbT7"],
     "speeches": [
       {
         "lang": "en",
+        "org": {"cam": ["gbeskin"], "edit": ["klinnik"]},
         "youtube": ["DiRul-yHI3Y"],
         "speakers": [
           {
@@ -85,6 +90,7 @@
       },
       {
         "lang": "en",
+        "org": {"cam": ["gbeskin"], "edit": ["klinnik"]},
         "youtube": ["p-W8W0B_oVM"],
         "speakers": [
           {
@@ -112,15 +118,17 @@
   {
     "num": 64,
     "season": 2018,
-    "datetime": "2018-09-20T19:00:00",
+    "datetime": "2018-09-20T19:00:00+03:00",
     "place": {
       "name": "Codebourne office", "loc": "https://goo.gl/maps/hRdFRaurnmrGuAgW6",
       "addr": "Sepise 8, 11415 Tallinn, Estonia", "url": "https://codeborne.com/#contact"
     },
+    "org": {"mod": ["sgorski"], "photo": ["klinnik"]},
     "photo": ["https://photos.app.goo.gl/aaoijLNdh6kE517i9"],
     "speeches": [
       {
         "lang": "en",
+        "org": {"cam": ["ijaama"]},
         "youtube": ["gZet0weosq4"],
         "speakers": [
           {
@@ -139,6 +147,7 @@
       },
       {
         "lang": "en",
+        "org": {"cam": ["ijaama"]},
         "youtube": ["HQDiP8Ef8QQ"],
         "speakers": [
           {
@@ -157,6 +166,7 @@
       },
       {
         "lang": "en",
+        "org": {"cam": ["ijaama"]},
         "youtube": ["5lNjDdGKEAY"],
         "speakers": [
           {
@@ -185,15 +195,17 @@
   {
     "num": 63,
     "season": 2018,
-    "datetime": "2018-08-23T19:00:00",
+    "datetime": "2018-08-23T19:00:00+03:00",
     "place": {
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
       "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
     },
+    "org": {"mod": ["sgorski"], "photo": ["klinnik"]},
     "photo": ["https://photos.app.goo.gl/bERpLsXDRmb6YrkS8"],
     "speeches": [
       {
         "lang": "en",
+        "org": {"cam": ["astalnuhhin"], "edit": ["astalnuhhin"]},
         "youtube": ["VPyZomjVqcs"],
         "speakers": [
           {
@@ -212,6 +224,7 @@
       },
       {
         "lang": "en",
+        "org": {"cam": ["astalnuhhin"], "edit": ["astalnuhhin"]},
         "youtube": ["AtfoXYi9h88"],
         "speakers": [
           {
@@ -233,15 +246,17 @@
   {
     "num": 62,
     "season": 2018,
-    "datetime": "2018-07-10T19:00:00",
+    "datetime": "2018-07-10T19:00:00+03:00",
     "place": {
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
       "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
     },
+    "org": {"mod": ["sgorski"], "photo": ["klinnik"]},
     "photo": ["https://photos.app.goo.gl/cQUfgMcTWA5SeCFs5"],
     "speeches": [
       {
         "lang": "en",
+        "org": {"cam": ["astalnuhhin"], "edit": ["klinnik"]},
         "youtube": ["OD9AtWk6SnE"],
         "speakers": [
           {
@@ -260,6 +275,7 @@
       },
       {
         "lang": "en",
+        "org": {"cam": ["astalnuhhin"], "edit": ["klinnik"]},
         "youtube": ["wkOt9PX4FE0"],
         "speakers": [
           {
@@ -281,15 +297,17 @@
   {
     "num": 61,
     "season": 2018,
-    "datetime": "2018-06-05T19:00:00",
+    "datetime": "2018-06-05T19:00:00+03:00",
     "place": {
       "name": "Topia office", "loc": "https://goo.gl/maps/xRxZ8CFDwhY8mskc7",
       "addr": "Lõõtsa 12, 11415, Tallinn, Estonia", "url": "https://www.topia.com/contact-us"
     },
+    "org": {"mod": ["sgorski"], "photo": ["klinnik"]},
     "photo": ["https://photos.app.goo.gl/MdeQ3jsLYl2pMlod2"],
     "speeches": [
       {
         "lang": "en",
+        "org": {"cam": ["ijaama", "vsiilbek"]},
         "youtube": ["QUguetwm9YU"],
         "speakers": [
           {
@@ -308,6 +326,7 @@
       },
       {
         "lang": "en",
+        "org": {"cam": ["ijaama", "vsiilbek"]},
         "youtube": ["Dezr4FL_K04"],
         "speakers": [
           {
@@ -329,15 +348,17 @@
   {
     "num": 60,
     "season": 2018,
-    "datetime": "2018-05-15T19:00:00",
+    "datetime": "2018-05-15T19:00:00+03:00",
     "place": {
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
       "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
     },
+    "org": {"mod": ["sgorski"], "photo": ["klinnik"]},
     "photo": ["https://photos.app.goo.gl/73bf4lgiutq5vZl63"],
     "speeches": [
       {
         "lang": "en",
+        "org": {"cam": ["ijaama"]},
         "youtube": ["phG-X-vGOHw"],
         "speakers": [
           {
@@ -356,6 +377,7 @@
       },
       {
         "lang": "en",
+        "org": {"cam": ["ijaama"]},
         "youtube": ["yPetzD32fCQ"],
         "speakers": [
           {
@@ -377,15 +399,16 @@
   {
     "num": 59,
     "season": 2018,
-    "datetime": "2018-04-26T19:00:00",
+    "datetime": "2018-04-26T19:00:00+03:00",
     "place": {
-      "name": "Vaimo office", "loc": "",
-      "addr": "Tartu maantee 13, Tallinn", "url": ""
+      "name": "Vaimo office", "addr": "Tartu maantee 13, Tallinn"
     },
+    "org": {"mod": ["sgorski"], "photo": ["klinnik"]},
     "photo": ["https://photos.app.goo.gl/OkJT8LElt1b1mcij1"],
     "speeches": [
       {
         "lang": "en",
+        "org": {"cam": ["ijaama"]},
         "youtube": ["yqesH8ymE1s"],
         "speakers": [
           {
@@ -404,6 +427,7 @@
       },
       {
         "lang": "en",
+        "org": {"cam": ["ijaama"]},
         "youtube": ["Gmzga4BeHRI"],
         "speakers": [
           {
@@ -425,15 +449,17 @@
   {
     "num": 58,
     "season": 2018,
-    "datetime": "2018-03-20T19:00:00",
+    "datetime": "2018-03-20T19:00:00+02:00",
     "place": {
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
       "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
     },
+    "org": {"mod": ["agritsevski"], "photo": ["klinnik"]},
     "photo": ["https://photos.app.goo.gl/ISoCVswSPl58XgS23"],
     "speeches": [
       {
         "lang": "en",
+        "org": {"cam": ["ijaama", "vsiilbek"]},
         "youtube": ["mKuecb_ggtI"],
         "speakers": [
           {
@@ -458,6 +484,7 @@
       },
       {
         "lang": "en",
+        "org": {"cam": ["ijaama", "vsiilbek"]},
         "youtube": ["RkLvg8wF1FQ"],
         "speakers": [
           {
@@ -480,14 +507,15 @@
   {
     "num": 57,
     "season": 2018,
-    "datetime": "2018-02-27T19:00:00",
+    "datetime": "2018-02-27T19:00:00+02:00",
     "place": {
       "name": "Adcash office", "addr": "Kentmanni 4 (6th floor), Tallinn"
     },
-    "photo": [""],
+    "org": {"mod": ["sgorski"]},
     "speeches": [
       {
         "lang": "en",
+        "org": {"cam": ["ijaama", "vsiilbek"]},
         "youtube": ["anu4CZL4CrI"],
         "speakers": [
           {
@@ -512,6 +540,7 @@
       },
       {
         "lang": "en",
+        "org": {"cam": ["ijaama", "vsiilbek"]},
         "youtube": ["zi9_5-HkXeU"],
         "speakers": [
           {
@@ -533,14 +562,16 @@
   {
     "num": 56,
     "season": 2018,
-    "datetime": "2018-01-25T19:00:00",
+    "datetime": "2018-01-25T19:00:00+02:00",
     "place": {
       "name": "Taxify office", "addr": "Vana-Lõuna 39/1, Tallinn"
     },
+    "org": {"mod": ["sgorski"], "photo": ["klinnik"]},
     "photo": ["https://photos.app.goo.gl/JR2RNNGdxgvaLUOr2"],
     "speeches": [
       {
         "lang": "en",
+        "org": {"cam": ["ijaama", "vsiilbek"]},
         "youtube": ["48QYAX5qWmI"],
         "speakers": [
           {
@@ -554,6 +585,7 @@
       },
       {
         "lang": "en",
+        "org": {"cam": ["ijaama", "vsiilbek"]},
         "youtube": ["EAwC6dsSyJc"],
         "speakers": [
           {
@@ -570,15 +602,17 @@
   {
     "num": 55,
     "season": 2018,
-    "datetime": "2017-12-19T19:00:00",
+    "datetime": "2017-12-19T19:00:00+02:00",
     "place": {
       "name": "Park Inn by Radisson Meriton Conference & Spa Hotel Tallinn", "loc": "https://goo.gl/maps/AJbuvwDS7co",
       "addr": "Toompuiestee 27/Paldiski mnt 4, 10149 Tallinn", "url": "https://www.parkinn.com/hotel-meriton-tallinn"
     },
+    "org": {"mod": ["sgorski"], "photo": ["klinnik"]},
     "photo": ["https://photos.app.goo.gl/gjvhYwH6uDLMOwpu1"],
     "speeches": [
       {
         "lang": "en",
+        "org": {"cam": ["ijaama", "vsiilbek"]},
         "youtube": ["yRAocYnNQ54"],
         "speakers": [
           {
@@ -597,6 +631,7 @@
       },
       {
         "lang": "en",
+        "org": {"cam": ["ijaama", "vsiilbek"]},
         "youtube": ["oFbE2GH2NfU"],
         "speakers": [
           {
@@ -618,20 +653,23 @@
   {
     "num": 54,
     "season": 2017,
-    "datetime": "2017-11-21T19:00:00",
+    "datetime": "2017-11-21T19:00:00+02:00",
     "place": {
       "name": "Playtech Estonia OÜ", "loc": "https://goo.gl/maps/VKtUZz2biJ32",
       "addr": "Lõõtsa 5, 11415 Tallinn", "url": "http://www.playtech.ee"
     },
+    "org": {"mod": ["sgorski"], "photo": ["klinnik"]},
     "photo": ["https://photos.app.goo.gl/8imlUDi6GStjanui2"],
     "speeches": [
       {
+        "org": {"cam": ["ijaama", "vsiilbek"]},
         "youtube": ["pHPl6DTVTbs"],
         "speakers": [{"names": {"*": "Dmitri Dorofejev"}, "titles": {"*": "Java team lead @ Playtech"}}],
         "titles": {"en": "Cross-platform protocol design with Google Protocol Buffers"},
         "lang": "en"
       },
       {
+        "org": {"cam": ["ijaama", "vsiilbek"]},
         "youtube": ["w4z4uYmn688"],
         "speakers": [{"names": {"*": "Joonathan Mägi"}, "titles": {"*": "Technical Lead @ MOVE Guides"}}],
         "titles": {"en": "From 0 to 60 with Kubernetes and Istio"},
@@ -643,14 +681,16 @@
   {
     "num": 53,
     "season": 2017,
-    "datetime": "2017-10-12T19:00:00",
+    "datetime": "2017-10-12T19:00:00+03:00",
     "place": {
       "name": "Transferwise Ltd Estonia", "loc": "https://goo.gl/maps/fXmz146K1SD2",
       "addr": "Veerenni 24, 10135 Tallinn", "url": "https://transferwise.com"
     },
+    "org": {"mod": ["sgorski"], "photo": ["klinnik"]},
     "photo": ["https://photos.app.goo.gl/3QxhtVZ8AsBz5Pc42"],
     "speeches": [
       {
+        "org": {"cam": ["ijaama", "vsiilbek"]},
         "youtube": ["3I8kY-UfFDI"],
         "speakers": [{"names": {"*": "Dmitry Zhukov"}, "titles": {"*": "Product engineer @ TransferWise"}}],
         "titles": {"en": "Apache Spark 1.6-2.2: Testing in Production"},
@@ -662,6 +702,7 @@
         "lang": "en"
       },
       {
+        "org": {"cam": ["ijaama", "vsiilbek"]},
         "youtube": ["Z9qIDr8hVAE"],
         "speakers": [{"names": {"*": "Filipp Keks"}, "titles": {"*": "Software engineer @ Wolf3D"}}],
         "titles": {"en": "Horrors of mobile graphics"},
@@ -673,6 +714,7 @@
         "lang": "en"
       },
       {
+        "org": {"cam": ["ijaama", "vsiilbek"]},
         "youtube": ["XE5PPtrSNQ8"],
         "speakers": [{"names": {"*": "Erkki Alamäe"}, "titles": {"*": "Senior System analyst @ Nortal"}}],
         "titles": {"en": "What can you do with data?"},
@@ -688,14 +730,16 @@
   {
     "num": 52,
     "season": 2017,
-    "datetime": "2017-09-13T19:00:00",
+    "datetime": "2017-09-13T19:00:00+03:00",
     "place": {
       "name": "MOVE Guides", "loc": "https://goo.gl/maps/ajGHj3bWLRs",
       "addr": "Valukoja 8, 11415 Tallinn", "url": "https://www.moveguides.com"
     },
+    "org": {"mod": ["sgorski"], "photo": ["klinnik"]},
     "photo": ["https://photos.app.goo.gl/8w2AULJdPqpzQuqj2"],
     "speeches": [
       {
+        "org": {"cam": ["ijaama", "vsiilbek"]},
         "youtube": ["JhM2NvcfnVY"],
         "speakers": [{"names": {"*": "Steve Giles"}, "titles": {"*": "VP Engineering"}}],
         "titles": {"en": "Technical challenges of building SaaS software for Fortune 500 customers"},
@@ -707,6 +751,7 @@
         "lang": "en"
       },
       {
+        "org": {"cam": ["ijaama", "vsiilbek"]},
         "youtube": ["6KzMYkxTo20"],
         "speakers": [{"names": {"*": "Hendrik Kaju"}, "titles": {"*": "Front-end engineer"}}],
         "titles": {"en": "Componentized Frontend Architecture"},
@@ -718,6 +763,7 @@
         "lang": "en"
       },
       {
+        "org": {"cam": ["ijaama", "vsiilbek"]},
         "youtube": ["iz6MJ2QGBg0"],
         "speakers": [{"names": {"*": "Joonathan Mägi"}, "titles": {"*": "Tech Lead"}}],
         "titles": {"en": "Security in the Age of Containers"},
@@ -733,13 +779,15 @@
   {
     "num": 51,
     "season": 2017,
-    "datetime": "2017-08-30T19:00:00",
+    "datetime": "2017-08-30T19:00:00+03:00",
     "place": {
       "name": "Park Inn by Radisson Meriton Conference & Spa Hotel Tallinn", "loc": "https://goo.gl/maps/AJbuvwDS7co",
       "addr": "Toompuiestee 27/Paldiski mnt 4, 10149 Tallinn", "url": "https://www.parkinn.com/hotel-meriton-tallinn"
     },
+    "org": {"mod": ["sgorski"]},
     "speeches": [
       {
+        "org": {"cam": ["ijaama", "vsiilbek"]},
         "youtube": ["KDcEOhdGAF0"],
         "speakers": [
           {"names": {"*": "Kirill Slavetski"}, "titles": {"*": "Product designed and researcher @ Jobbatical"}}
@@ -753,6 +801,7 @@
         "lang": "en"
       },
       {
+        "org": {"cam": ["ijaama", "vsiilbek"]},
         "youtube": ["yHd06oUVXSg"],
         "speakers": [{"names": {"*": "Andres Ivanov"}, "titles": {"*": "Head of Infrastructure @ Inbank"}}],
         "titles": {"en": "Infrastructure as code with AWS CloudFormation"},
@@ -771,11 +820,12 @@
   {
     "num": 50,
     "season": 2017,
-    "datetime": "2017-07-04T19:00:00",
+    "datetime": "2017-07-04T19:00:00+03:00",
     "place": {
       "name": "Wabadus", "loc": "https://goo.gl/maps/7ya5Znk3Vv62",
       "addr": "Vabaduse väljak 10, 10146 Tallinn", "url": "http://www.wabadus.ee"
     },
+    "org": {"mod": ["sgorski"], "photo": ["klinnik"]},
     "photo": ["https://goo.gl/photos/9KqbKgNioXzCi8TBA"],
     "speeches": [
       {
@@ -811,22 +861,23 @@
   {
     "num": 49,
     "season": 2017,
-    "datetime": "2017-05-18T19:00:00",
+    "datetime": "2017-05-18T19:00:00+03:00",
     "place": {
-      "name": "Pipedrive OÜ", "loc": "https://goo.gl/maps/squwGHdRPMB2", "addr": "Paldiski mnt 80, Tallinn 10617",
-      "url": "https://www.pipedrive.com"
+      "name": "Pipedrive OÜ", "loc": "https://goo.gl/maps/squwGHdRPMB2",
+      "addr": "Paldiski mnt 80, Tallinn 10617", "url": "https://www.pipedrive.com"
     },
+    "org": {"mod": ["sgorski"]},
     "speeches": [
       {
+        "org": {"cam": ["ijaama", "akozlov"], "orig": ["https://www.youtube.com/watch?v=jJ3Q5DSGMFI"], "origViews": 73},
         "youtube": ["jJ3Q5DSGMFI"],
-        "origVid": ["https://www.youtube.com/watch?v=jJ3Q5DSGMFI"],
         "speakers": [{"names": {"*": "Kristo Kaiv"}}],
         "titles": {"en": "Pains & Gains of microservices"},
         "lang": "en"
       },
       {
+        "org": {"cam": ["ijaama", "akozlov"], "orig": ["https://www.youtube.com/watch?v=nlEnnddGIc0"], "origViews": 43},
         "youtube": ["nlEnnddGIc0"],
-        "origVid": ["https://www.youtube.com/watch?v=nlEnnddGIc0"],
         "speakers": [{"names": {"*": "Konstantin Root"}}],
         "titles": {"en": "How to start running: myths and data science"},
         "lang": "en"
@@ -836,22 +887,23 @@
   {
     "num": 48,
     "season": 2017,
-    "datetime": "2017-03-23T19:00:00",
+    "datetime": "2017-03-23T19:00:00+02:00",
     "place": {
       "name": "Transferwise Ltd Estonia", "loc": "https://goo.gl/maps/fXmz146K1SD2",
       "addr": "Veerenni 24, 10135 Tallinn", "url": "https://transferwise.com"
     },
+    "org": {"mod": ["sgorski"]},
     "speeches": [
       {
+        "org": {"cam": ["ijaama", "akozlov"], "orig": ["https://www.youtube.com/watch?v=ziQZD-wehPE"], "origViews": 174},
         "youtube": ["NjefBzv9L50"],
-        "origVid": ["https://www.youtube.com/watch?v=ziQZD-wehPE"],
         "speakers": [{"names": {"*": "Anton Arhipov"}}],
         "titles": {"en": "Inadequate Java interview"},
         "lang": "en"
       },
       {
+        "org": {"cam": ["ijaama", "akozlov"], "orig": ["https://www.youtube.com/watch?v=hTCt1Pyh9ic"], "origViews": 317},
         "youtube": ["SxRfRi8Xs90"],
-        "origVid": ["https://www.youtube.com/watch?v=hTCt1Pyh9ic"],
         "speakers": [{"names": {"*": "Erik Kaju"}}],
         "titles": {"en": "Cards & payment methods lead @ TransferWise"},
         "lang": "en"
@@ -861,15 +913,16 @@
   {
     "num": 47,
     "season": 2017,
-    "datetime": "2017-02-23T19:00:00",
+    "datetime": "2017-02-23T19:00:00+02:00",
     "place": {
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
       "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
     },
+    "org": {"mod": ["sgorski"]},
     "speeches": [
       {
+        "org": {"cam": ["ijaama", "akozlov"], "orig": ["https://www.youtube.com/watch?v=44EO0ICnw9Q"], "origViews": 50},
         "youtube": ["1oTgz-1kx4A"],
-        "origVid": ["https://www.youtube.com/watch?v=44EO0ICnw9Q"],
         "speakers": [{"names": {"*": "Artur Schaback"}}],
         "titles": {"en": "Development Security for Peer to Peer Marketplaces"},
         "lang": "en"
@@ -889,22 +942,23 @@
   {
     "num": 46,
     "season": 2016,
-    "datetime": "2016-10-27T19:00:00",
+    "datetime": "2016-10-27T19:00:00+02:00",
     "place": {
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
       "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
     },
+    "org": {"mod": ["mruut"]},
     "speeches": [
       {
+        "org": {"cam": ["ijaama", "akozlov"], "orig": ["https://www.youtube.com/watch?v=wi1d1YgSAcE"], "origViews": 192},
         "youtube": ["2Ov5yehFuOc"],
-        "origVid": ["https://www.youtube.com/watch?v=wi1d1YgSAcE"],
         "speakers": [{"names": {"*": "Matti Jagula"}}, {"names": {"*": "Raido Kaldma"}}],
         "titles": {"en": "Developing a desktop application in Javascript"},
         "lang": "en"
       },
       {
+        "org": {"cam": ["ijaama", "akozlov"], "orig": ["https://www.youtube.com/watch?v=MANmZ1ZwCfI"], "origViews": 180},
         "youtube": ["Jwy5_98Z-QI"],
-        "origVid": ["https://www.youtube.com/watch?v=MANmZ1ZwCfI"],
         "speakers": [{"names": {"*": "Konstantin Root"}}],
         "titles": {"en": "Securing website with HTTP headers"},
         "lang": "en"
@@ -914,22 +968,23 @@
   {
     "num": 45,
     "season": 2016,
-    "datetime": "2016-05-31T19:00:00",
+    "datetime": "2016-05-31T19:00:00+03:00",
     "place": {
-      "name": "Playtech Estonia OÜ", "loc": "https://goo.gl/maps/VKtUZz2biJ32", "addr": "Lõõtsa 5, 11415 Tallinn",
-      "url": "http://www.playtech.ee"
+      "name": "Playtech Estonia OÜ", "loc": "https://goo.gl/maps/VKtUZz2biJ32",
+      "addr": "Lõõtsa 5, 11415 Tallinn", "url": "http://www.playtech.ee"
     },
+    "org": {"mod": ["mruut"]},
     "speeches": [
       {
+        "org": {"cam": ["ijaama", "akozlov"], "orig": ["https://www.youtube.com/watch?v=F9kTzGaTmok"], "origViews": 143},
         "youtube": ["opwxpjbLXXg"],
-        "origVid": ["https://www.youtube.com/watch?v=F9kTzGaTmok"],
         "speakers": [{"names": {"*": "Tõnis Pihlakas"}}],
         "titles": {"en": "Weaving Web Applications with Apache Tapestry"},
         "lang": "en"
       },
       {
+        "org": {"cam": ["ijaama", "akozlov"], "orig": ["https://www.youtube.com/watch?v=jk_uvt9zP7g"], "origViews": 82},
         "youtube": ["xxkab1PSNUc"],
-        "origVid": ["https://www.youtube.com/watch?v=jk_uvt9zP7g"],
         "speakers": [{"names": {"*": "Villu Vaimets"}}],
         "titles": {"en": "Implementing an intelligent form engine"},
         "lang": "en"
@@ -939,29 +994,30 @@
   {
     "num": 44,
     "season": 2016,
-    "datetime": "2016-03-23T19:00:00",
+    "datetime": "2016-03-23T19:00:00+02:00",
     "place": {
       "name": "Transferwise Ltd Estonia", "loc": "https://goo.gl/maps/fXmz146K1SD2",
       "addr": "Veerenni 24, 10135 Tallinn", "url": "https://transferwise.com"
     },
+    "org": {"mod": ["mruut"]},
     "speeches": [
       {
+        "org": {"cam": ["ijaama", "akozlov"], "orig": ["https://www.youtube.com/watch?v=9mXO6-nN4sU"], "origViews": 423},
         "youtube": ["TPdlULD-DCo"],
-        "origVid": ["https://www.youtube.com/watch?v=9mXO6-nN4sU"],
         "speakers": [{"names": {"*": "Erko Risthein"}}],
         "titles": {"en": "Risk@TransferWise"},
         "lang": "en"
       },
       {
+        "org": {"cam": ["ijaama", "akozlov"], "orig": ["https://www.youtube.com/watch?v=x6MUptcLB7g"], "origViews": 696},
         "youtube": ["AN1kbLAnOyQ"],
-        "origVid": ["https://www.youtube.com/watch?v=x6MUptcLB7g"],
         "speakers": [{"names": {"*": "Dmitry Zhukov"}}, {"names": {"*": "Maksims Juvcenko"}}],
         "titles": {"en": "Fraud Detection in PHP: Ascending from Hell"},
         "lang": "en"
       },
       {
+        "org": {"cam": ["ijaama", "akozlov"], "orig": ["https://www.youtube.com/watch?v=9hz2HlClZaw"], "origViews": 160},
         "youtube": ["Pii2EHcmsHI"],
-        "origVid": ["https://www.youtube.com/watch?v=9hz2HlClZaw"],
         "speakers": [{"names": {"*": "Stanislav Gorski"}}],
         "titles": {"en": "AWS Lambda in Your Stack"},
         "lang": "en"
@@ -971,22 +1027,23 @@
   {
     "num": 43,
     "season": 2016,
-    "datetime": "2016-02-16T19:00:00",
+    "datetime": "2016-02-16T19:00:00+02:00",
     "place": {
-      "name": "Pipedrive OÜ", "loc": "https://goo.gl/maps/squwGHdRPMB2", "addr": "Paldiski mnt 80, Tallinn 10617",
-      "url": "https://www.pipedrive.com"
+      "name": "Pipedrive OÜ", "loc": "https://goo.gl/maps/squwGHdRPMB2",
+      "addr": "Paldiski mnt 80, Tallinn 10617", "url": "https://www.pipedrive.com"
     },
+    "org": {"mod": ["mruut"]},
     "speeches": [
       {
+        "org": {"cam": ["ijaama", "akozlov"], "orig": ["https://www.youtube.com/watch?v=jHpnU8eDH9o"], "origViews": 2693},
         "youtube": ["y2Dpj4QElv4"],
-        "origVid": ["https://www.youtube.com/watch?v=jHpnU8eDH9o"],
         "speakers": [{"names": {"*": "Martin Tajur"}}],
         "titles": {"en": "Queues, queues, queues. How RabbitMQ enables reactive architectures"},
         "lang": "en"
       },
       {
+        "org": {"cam": ["ijaama", "akozlov"], "orig": ["https://www.youtube.com/watch?v=BcnnOfpPiN0"], "origViews": 390},
         "youtube": ["wlOcp_-4280"],
-        "origVid": ["https://www.youtube.com/watch?v=BcnnOfpPiN0"],
         "speakers": [{"names": {"*": "Anton Keks"}}],
         "titles": {"en": "Digital Signatures: Estonia vs The World"},
         "lang": "en"
