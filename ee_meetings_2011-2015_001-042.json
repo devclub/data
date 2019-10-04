@@ -559,17 +559,18 @@
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2",
       "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
+    "org": {"mod": []},
     "speeches": [
       {
+        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/72930881"], "origViews": 0},
         "youtube": ["DfTyldNARVU"],
-        "origVid": ["https://vimeo.com/72930881"],
         "speakers": [{"names": {"*": "J.B. Rainsberger"}}],
         "titles": {"en": "How to adopt TDD safely?"},
         "lang": "en"
       },
       {
+        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/72931154"], "origViews": 0},
         "youtube": ["lqJ1CVQMCbw"],
-        "origVid": ["https://vimeo.com/72931154"],
         "speakers": [{"names": {"*": "Andres Jaan Tack"}}],
         "titles": {"en": "Consistency, Availability, and Time"},
         "lang": "en"
@@ -617,17 +618,18 @@
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2",
       "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
+    "org": {"mod": []},
     "speeches": [
       {
+        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/65033737"], "origViews": 0},
         "youtube": ["BpqfXGoMo80"],
-        "origVid": ["https://vimeo.com/65033737"],
         "speakers": [{"names": {"*": "Alvar Lumberg"}}],
         "titles": {"en": "Continuous Delivery in action (in Estonian)"},
         "lang": "et"
       },
       {
+        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/65033739"], "origViews": 0},
         "youtube": ["0qagBtii4QY"],
-        "origVid": ["https://vimeo.com/65033739"],
         "speakers": [{"names": {"*": "Mart Oruaas"}}, {"names": {"*": "Renno Paat"}}],
         "titles": {"en": "Continuous Integration and Continuous Delivery GrabCADi kogemus"},
         "lang": "et"
@@ -642,24 +644,25 @@
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2",
       "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
+    "org": {"mod": []},
     "speeches": [
       {
+        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/61307907"], "origViews": 0},
         "youtube": ["ymqTCmCANW0"],
-        "origVid": ["https://vimeo.com/61307907"],
         "speakers": [{"names": {"*": "Anton Arhipov"}}],
         "titles": {"en": "Tehnilise tootejuhi seiklused"},
         "lang": "et"
       },
       {
+        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/61308722"], "origViews": 0},
         "youtube": ["trD_kw-yhUA"],
-        "origVid": ["https://vimeo.com/61308722"],
         "speakers": [{"names": {"*": "Sergei Anikin"}}],
         "titles": {"en": "Windows 8 modernse arendusplatvormi tutvustus läbi Skype meeskonna kogemuste prizma"},
         "lang": "et"
       },
       {
+        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/61309614"], "origViews": 0},
         "youtube": ["90sE9nwBKM8"],
-        "origVid": ["https://vimeo.com/61309614"],
         "speakers": [{"names": {"*": "Priit Kaasik"}}],
         "titles": {"en": "Agile Technical Operations"},
         "lang": "et"
@@ -674,6 +677,7 @@
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2",
       "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
+    "org": {"mod": []},
     "speeches": [
       {
         "info": {
@@ -709,43 +713,43 @@
     "photo": ["https://photos.app.goo.gl/49YAxgWroaWm2M5F7"],
     "speeches": [
       {
+        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/55721899"], "origViews": 0},
         "youtube": ["7VJSBEPkDNI"],
-        "origVid": ["https://vimeo.com/55721899"],
         "speakers": [{"names": {"*": "Maarika Susi"}}, {"names": {"*": "Martin Grüner"}}],
         "titles": {"en": "Garage48"},
         "lang": "et"
       },
       {
+        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/55719753"], "origViews": 0},
         "youtube": ["BsxvQ2KKnDU"],
-        "origVid": ["https://vimeo.com/55719753"],
         "speakers": [{"names": {"*": "Alvar Lumberg"}}],
         "titles": {"en": "Sel sügisel San Franciscos toimunud QCon2012 konverentsist"},
         "lang": "et"
       },
       {
+        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/55719659"], "origViews": 0},
         "youtube": ["l6ufsPNE1wU"],
-        "origVid": ["https://vimeo.com/55719659"],
         "speakers": [{"names": {"*": "Hanno Jarvet"}}],
         "titles": {"en": "Otsuste langetamise kunst"},
         "lang": "et"
       },
       {
+        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/55719913"], "origViews": 0},
         "youtube": ["3MI6MbixtZs"],
-        "origVid": ["https://vimeo.com/55719913"],
         "speakers": [{"names": {"*": "Erik Jõgi"}}],
         "titles": {"en": "Töötades firmas 8th Light"},
         "lang": "et"
       },
       {
+        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/55720798"], "origViews": 0},
         "youtube": ["PaOFBpisSS8"],
-        "origVid": ["https://vimeo.com/55720798"],
         "speakers": [{"names": {"*": "Patrick Abner"}}],
         "titles": {"en": "Miks jooksmine on hea sport"},
         "lang": "et"
       },
       {
+        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/55721585"], "origViews": 0},
         "youtube": ["7YfgMTmyrYU"],
-        "origVid": ["https://vimeo.com/55721585"],
         "speakers": [{"names": {"*": "Daniel Anjos"}}],
         "titles": {"en": "Eestis töötamise plussidest ja miinustest välismaalase silmade läbi"},
         "lang": "en"
@@ -760,8 +764,20 @@
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2",
       "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
-    "org": {"mod": [], "photo": ["klinnik"]},
-    "photo": ["https://photos.app.goo.gl/zhjnDhRZmnNw8Y2C9"]
+    "org": {"mod": ["iurban"], "photo": ["klinnik"]},
+    "photo": ["https://photos.app.goo.gl/zhjnDhRZmnNw8Y2C9"],
+    "speeches": [
+      {
+        "speakers": [{"names": {"*": "Kevlin Henney"}}],
+        "titles": {"en": "Worse Is Better, for Better or for Worse"},
+        "lang": "en"
+      },
+      {
+        "speakers": [{"names": {"*": "Zuzana Sochova"}}],
+        "titles": {"*": "Mäng"},
+        "lang": "et"
+      }
+    ]
   },
   {
     "num": 16,
@@ -775,29 +791,29 @@
     "photo": ["https://photos.app.goo.gl/SkxfGmWpR3i41n4q6"],
     "speeches": [
       {
+        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/49722152"], "origViews": 0},
         "youtube": ["_OZ-fp2EB4k"],
-        "origVid": ["https://vimeo.com/49722152"],
         "speakers": [{"names": {"*": "Artjom Kurapov"}}],
         "titles": {"en": "backlog"},
         "lang": "et"
       },
       {
+        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/49718208"], "origViews": 0},
         "youtube": ["Y6sZBu0TkSs"],
-        "origVid": ["https://vimeo.com/49718208"],
         "speakers": [{"names": {"*": "Juri Timoshin"}}],
         "titles": {"en": "Jenkins"},
         "lang": "en"
       },
       {
+        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/50048553"], "origViews": 0},
         "youtube": ["EThwyVb_uZI"],
-        "origVid": ["https://vimeo.com/50048553"],
         "speakers": [{"names": {"*": "Anton Anisimov"}}],
         "titles": {"en": "KidsTable"},
         "lang": "en"
       },
       {
+        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/49839870"], "origViews": 0},
         "youtube": ["5MzO3JSJUqg"],
-        "origVid": ["https://vimeo.com/49839870"],
         "speakers": [{"names": {"*": "Mehis Hakkaja"}}],
         "titles": {"en": "Veebirakenduste turvatestimine ja Maarjamaa tüüpilised ämbrid"},
         "lang": "et"
@@ -816,22 +832,22 @@
     "photo": ["https://photos.app.goo.gl/TakHr74HJwbSQVVH9"],
     "speeches": [
       {
+        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/48646215"], "origViews": 0},
         "youtube": ["ZyLE35rNzjw"],
-        "origVid": ["https://vimeo.com/48646215"],
         "speakers": [{"names": {"*": "Erik Jõgi"}}],
         "titles": {"en": "Elektrituru avanemine"},
         "lang": "et"
       },
       {
+        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/48288805"], "origViews": 0},
         "youtube": ["bqlPBUupMUg"],
-        "origVid": ["https://vimeo.com/48288805"],
         "speakers": [{"names": {"*": "Peeter Marvet"}}],
         "titles": {"en": "Zurbi Foundation"},
         "lang": "et"
       },
       {
+        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/48288432"], "origViews": 0},
         "youtube": ["gsc4GKH5grg"],
-        "origVid": ["https://vimeo.com/48288432"],
         "speakers": [{"names": {"*": "Ahto Truu"}}],
         "titles": {"en": "GuardTime"},
         "lang": "et"
