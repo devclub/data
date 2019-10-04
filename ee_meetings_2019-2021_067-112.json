@@ -1,16 +1,26 @@
 [
   {
-    "datetime": "2019-09-10T19:00:00+03:00",
-    "event": "https://www.eventbrite.com/e/devclub-76-monese-tickets-71348012827",
     "num": 76,
-    "photo": ["https://photos.app.goo.gl/Dkcq5PKdEHc5TAhr7"],
+    "season": 2019,
+    "datetime": "2019-09-10T19:00:00+03:00",
     "place": {
       "addr": "Telliskivi 60/2i-hoone B korpus, II korrus, 10412 Tallinn", "loc": "https://goo.gl/maps/LKgtx8qtQ7Ao2WoP9",
       "name": "Monese", "url": "https://monese.com"
     },
-    "season": 2019,
+    "org": {"mod": ["sgorski"], "photo": ["klinnik"]},
+    "photo": ["https://photos.app.goo.gl/Dkcq5PKdEHc5TAhr7"],
+    "event": "https://www.eventbrite.com/e/devclub-76-monese-tickets-71348012827",
     "speeches": [
       {
+        "org": {"cam": ["ijaama"]},
+        "youtube": [""], "lang": "en",
+        "speakers": [{
+          "image": "jonas-kiiver.jpg",
+          "names": {"*": "Jonas Kiiver"},
+          "titles": {"*": "VP of Technology @ Monese"},
+          "url": "https://www.linkedin.com/in/jonaskiiver"
+        }],
+        "titles": {"*": "Exploring GraphQL-Braid: Leaving RESTish world and building a distributed GraphQL system"},
         "descr": {
           "en": [
             "Do you have 100 microservices on your backend all exposing an API? And Android and iOS apps trying to communicate with them?",
@@ -18,260 +28,150 @@
             "Then you wake up one day and see that you have an age-old endpoint which returns half of the database. You have to put an end to this mess! What options are there?",
             "In this session we will share the result of our GraphQL and Atlassian Braid exploration journey. We are building a new distributed services architecture which will combine GraphQL backends into one schema. The result should be a fast, safe and easily maintainable cluster of microservices."
           ]
-        },
-        "lang": "en",
-        "org": {
-          "cam": "ij",
-          "edit": "-"
-        },
-        "speakers": [
-          {
-            "image": "jonas-kiiver.jpg",
-            "names": {
-              "*": "Jonas Kiiver"
-            },
-            "titles": {
-              "*": "VP of Technology @ Monese"
-            },
-            "url": "https://www.linkedin.com/in/jonaskiiver"
-          }
-        ],
-        "titles": {
-          "*": "Exploring GraphQL-Braid: Leaving RESTish world and building a distributed GraphQL system"
-        },
-        "youtube": [
-          ""
-        ]
+        }
       },
       {
+        "org": {"cam": ["ijaama"]},
+        "youtube": [""], "lang": "en",
+        "speakers": [{
+          "image": "edgars-letinskis.jpg",
+          "names": {"*": "Edgars Letinskis"},
+          "titles": {"*": "The man behind DevClub.lv"},
+          "url": "https://www.linkedin.com/in/edgarsletinskis"
+        }],
+        "titles": {"*": "Burnout syndrome – why should you take it serious"},
         "descr": {
           "en": [
             "In this talk, I will share my experience with burnout syndrome – symptoms, how to avoid or cope with it and will use mega patented Chopstick method to explain why should you take it serious."
           ]
-        },
-        "lang": "en",
-        "org": {
-          "cam": "ij",
-          "edit": "-"
-        },
-        "speakers": [
-          {
-            "image": "edgars-letinskis.jpg",
-            "names": {
-              "*": "Edgars Letinskis"
-            },
-            "titles": {
-              "*": "The man behind DevClub.lv"
-            },
-            "url": "https://www.linkedin.com/in/edgarsletinskis"
-          }
-        ],
-        "titles": {
-          "*": "Burnout syndrome – why should you take it serious"
-        },
-        "youtube": [
-          ""
-        ]
+        }
       }
     ]
   },
   {
-    "datetime": "2019-08-27T19:00:00+03:00",
-    "event": "https://www.eventbrite.com/e/devclub-75-von-stackelberg-hotel-tickets-69837506863",
     "num": 75,
-    "photo": ["https://photos.app.goo.gl/FSdnywi7DCR6FnCD8"],
+    "season": 2019,
+    "datetime": "2019-08-27T19:00:00+03:00",
     "place": {
       "addr": "Toompuiestee 23, Tallinn 10137", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
       "name": "The von Stackelberg Hotel Tallinn", "url": "https://www.vonstackelberghotel.com"
     },
-    "season": 2019,
+    "org": {"mod": ["sgorski"], "photo": ["klinnik"]},
+    "photo": ["https://photos.app.goo.gl/FSdnywi7DCR6FnCD8"],
+    "event": "https://www.eventbrite.com/e/devclub-75-von-stackelberg-hotel-tickets-69837506863",
     "speeches": [
       {
+        "org": {"cam": ["timosin"], "edit": ["astalnuhhin"]},
+        "youtube": ["XrFEwjkLNqw"], "lang": "en",
+        "speakers": [{
+          "image": "sam-kruglov.jpg",
+          "names": {"*": "Sam Kruglov", "ru": "Сэм Круглов"},
+          "titles": {"*": "Java Developer @ Monese"},
+          "url": "https://www.linkedin.com/in/sam-kruglov"
+        }],
+        "titles": {"*": "Reactive is here to stay"},
         "descr": {
           "en": [
             "Being Reactive is the key to staying within the modern standards. We start with a simple MVC style application. First, we define a modern system. Then we introduce and solve the problems with the application. We will keep our REST API working the same way while utilizing Event Driven Architecture and many more!"
           ]
-        },
-        "lang": "en",
-        "org": {
-          "cam": "timo",
-          "edit": "stal"
-        },
-        "speakers": [
-          {
-            "image": "sam-kruglov.jpg",
-            "names": {
-              "*": "Sam Kruglov",
-              "ru": "Сэм Круглов"
-            },
-            "titles": {
-              "*": "Java Developer @ Monese"
-            },
-            "url": "https://www.linkedin.com/in/sam-kruglov"
-          }
-        ],
-        "titles": {
-          "*": "Reactive is here to stay"
-        },
-        "youtube": [
-          "XrFEwjkLNqw"
-        ]
+        }
       },
       {
-        "descr": {
-          "en": [
-            "TeamCity is a great tool for Continuous Integration with a lot of advanced features provided out-of-the-box. In this session, we will learn how TeamCity helps the software development in the daily routine; what was added to the product in the latest releases; what features are coming next."
-          ]
-        },
         "info": {
           "en": "Video is not recorded for technical reasons.",
           "et": "Video ei tule, pole salvestatud.",
           "ru": "Видео не записано по техническим причинам."
         },
         "lang": "en",
-        "org": {
-          "cam": "ij",
-          "edit": "-"
-        },
-        "speakers": [
-          {
-            "image": "aarhipov.jpg",
-            "names": {
-              "*": "Anton Arhipov",
-              "ru": "Антон Архипов"
-            },
-            "titles": {
-              "*": "Developer Advocate @ JetBrains"
-            },
-            "url": "https://www.linkedin.com/in/antonarhipov"
-          }
-        ],
-        "titles": {
-          "*": "TeamCity build pipelines"
-        },
-        "youtube": [
-          ""
-        ]
+        "speakers": [{
+          "image": "aarhipov.jpg",
+          "names": {"*": "Anton Arhipov", "ru": "Антон Архипов"},
+          "titles": {"*": "Developer Advocate @ JetBrains"},
+          "url": "https://www.linkedin.com/in/antonarhipov"
+        }],
+        "titles": {"*": "TeamCity build pipelines"},
+        "descr": {
+          "en": [
+            "TeamCity is a great tool for Continuous Integration with a lot of advanced features provided out-of-the-box. In this session, we will learn how TeamCity helps the software development in the daily routine; what was added to the product in the latest releases; what features are coming next."
+          ]
+        }
       }
     ]
   },
   {
-    "datetime": "2019-07-23T19:00:00+03:00",
-    "event": "",
     "num": 74,
-    "photo": [
-      "https://photos.app.goo.gl/8KKwx5fy9YraSnBc8"
-    ],
+    "season": 2019,
+    "datetime": "2019-07-23T19:00:00+03:00",
     "place": {
       "addr": "Toompuiestee 23, Tallinn 10137", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
       "name": "The von Stackelberg Hotel Tallinn", "url": "https://www.vonstackelberghotel.com"
     },
-    "season": 2019,
+    "org": {"mod": ["sgorski"], "photo": ["klinnik"]},
+    "photo": ["https://photos.app.goo.gl/8KKwx5fy9YraSnBc8"],
     "speeches": [
       {
+        "org": {"cam": ["ijaama"]},
+        "youtube": ["n2lLnibmkWo"], "lang": "en",
+        "speakers": [{
+          "image": "atavgen.jpg",
+          "names": {"*": "Aleksandr Tavgen", "ru": "Александр Тавген"},
+          "titles": {"*": "Technical architect @ Playtech"},
+          "url": "https://www.linkedin.com/in/aleksandr-tavgen-24431815b"
+        }],
+        "titles": {"*": "Observability - the good, the bad and the ugly"},
         "descr": {
           "en": [
             "It covers general problem of creating monitoring and observability without killing your Ops motivation team with False Positives and unexplained alerts. Problems on this side, pitfalls, anti-patterns, and how to make it right.",
             "How to manage a monitoring zoo. Spaghettification of dashboards. Why Uber needs 9 billion metrics and why this is antipattern. Metrics as a stream of data. We talk about new Flux language from InfluxDb. A bit of time series analysis and defining of pipelines in Flux for metrics data. Drunkyard walk on your metrics or why to measure a randomness."
           ]
-        },
-        "lang": "en",
-        "org": {
-          "cam": "ij",
-          "edit": "-"
-        },
-        "speakers": [
-          {
-            "image": "atavgen.jpg",
-            "names": {
-              "*": "Aleksandr Tavgen",
-              "ru": "Александр Тавген"
-            },
-            "titles": {
-              "*": "Technical architect @ Playtech"
-            },
-            "url": "https://www.linkedin.com/in/aleksandr-tavgen-24431815b"
-          }
-        ],
-        "titles": {
-          "*": "Observability - the good, the bad and the ugly"
-        },
-        "youtube": [
-          "n2lLnibmkWo"
-        ]
+        }
       },
       {
+        "org": {"cam": ["ijaama"]},
+        "youtube": ["dFQSOlOOoXE"], "lang": "en",
+        "speakers": [{
+          "image": "asolntsev_2018.jpg",
+          "names": {"*": "Andrei Solntsev", "ru": "Андрей Солнцев"},
+          "titles": {"*": "Software developer @ Codeborne"},
+          "url": "https://ee.linkedin.com/in/asolntsev"
+        }],
+        "titles": {"*": "Antistatic", "ru": "Антистатик"},
         "descr": {
           "en": [
             "What’s wrong with static methods (apart from them not being inline with OOP conventions)? Is dependency injection really that great? Is there life after Spring?",
             "These question have been causing a lot of flame for a long time now. Butts hurt bad, but the community haven’t reached the consensus yet. I will share how my own understanding of these things changed over time and where did I end up eventually."
           ]
-        },
-        "lang": "en",
-        "org": {
-          "cam": "ij",
-          "edit": "-"
-        },
-        "speakers": [
-          {
-            "image": "asolntsev_2018.jpg",
-            "names": {
-              "*": "Andrei Solntsev",
-              "ru": "Андрей Солнцев"
-            },
-            "titles": {
-              "*": "Software developer @ Codeborne"
-            },
-            "url": "https://ee.linkedin.com/in/asolntsev"
-          }
-        ],
-        "titles": {
-          "*": "Antistatic",
-          "ru": "Антистатик"
-        },
-        "youtube": [
-          "dFQSOlOOoXE"
-        ]
+        }
       }
     ]
   },
   {
-    "datetime": "2019-06-25T19:00:00+03:00",
-    "event": "https://www.eventbrite.com/e/devclub-73-von-stackelberg-hotel-tickets-63737236791",
     "num": 73,
-    "photo": ["https://photos.app.goo.gl/8NGJqYyihoDov7JM7"],
+    "season": 2019,
+    "datetime": "2019-06-25T19:00:00+03:00",
     "place": {
       "addr": "Toompuiestee 23, Tallinn 10137", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
       "name": "The von Stackelberg Hotel Tallinn", "url": "https://www.vonstackelberghotel.com"
     },
-    "season": 2019,
+    "org": {"mod": ["sgorski"], "photo": ["klinnik"]},
+    "photo": ["https://photos.app.goo.gl/8NGJqYyihoDov7JM7"],
+    "event": "https://www.eventbrite.com/e/devclub-73-von-stackelberg-hotel-tickets-63737236791",
     "speeches": [
       {
+        "org": {"cam": ["ijaama"]},
+        "youtube": ["UuBwSyEecQ8"], "lang": "en",
+        "speakers": [{
+          "image": "eweber.jpg",
+          "names": {"*": "Ervin Weber", "ru": "Эрвин Вебер"},
+          "titles": {"*": "Google Cloud Developer Community Tallinn"},
+          "url": "https://ee.linkedin.com/in/webervin"
+        }],
+        "titles": {"*": "No-magic behind 'Ok, Google'"},
         "descr": {
           "en": [
             "The talk about Ervin’s experiments with Google Assistant devices. Where it feels natural and where it comes short. Why as developer you should consider this platform for your products, and of course, some \"hello world\" demo."
           ]
-        },
-        "lang": "en",
-        "speakers": [
-          {
-            "image": "eweber.jpg",
-            "names": {
-              "*": "Ervin Weber",
-              "ru": "Эрвин Вебер"
-            },
-            "titles": {
-              "*": "Google Cloud Developer Community Tallinn"
-            },
-            "url": "https://ee.linkedin.com/in/webervin"
-          }
-        ],
-        "titles": {
-          "*": "No-magic behind 'Ok, Google'"
-        },
-        "youtube": [
-          "UuBwSyEecQ8"
-        ]
+        }
       },
       {
         "descr": {
@@ -307,16 +207,15 @@
     ]
   },
   {
-    "datetime": "2019-05-28T19:00:00+03:00",
     "num": 72,
-    "photo": [
-      "https://photos.app.goo.gl/Y9DwVwFpRpwzxUoS7"
-    ],
+    "season": 2019,
+    "datetime": "2019-05-28T19:00:00+03:00",
     "place": {
       "addr": "Lõõtsa 12, 11415, Tallinn, Estonia", "loc": "https://goo.gl/maps/xRxZ8CFDwhY8mskc7",
       "name": "Topia office", "url": "https://www.topia.com/contact-us"
     },
-    "season": 2019,
+    "org": {"mod": ["sgorski"], "photo": ["klinnik"]},
+    "photo": ["https://photos.app.goo.gl/Y9DwVwFpRpwzxUoS7"],
     "speeches": [
       {
         "descr": {
@@ -400,16 +299,15 @@
     ]
   },
   {
-    "datetime": "2019-04-09T19:00:00+03:00",
     "num": 71,
-    "photo": [
-      "https://photos.app.goo.gl/yNagW8BnaeuoGFXS7"
-    ],
+    "season": 2019,
+    "datetime": "2019-04-09T19:00:00+03:00",
     "place": {
       "addr": "Toompuiestee 27/Paldiski mnt 4, 10149 Tallinn", "loc": "https://goo.gl/maps/AJbuvwDS7co",
       "name": "Park Inn by Radisson Meriton Conference & Spa Hotel Tallinn", "url": "https://www.parkinn.com/hotel-meriton-tallinn"
     },
-    "season": 2019,
+    "org": {"mod": ["sgorski"], "photo": ["klinnik"]},
+    "photo": ["https://photos.app.goo.gl/yNagW8BnaeuoGFXS7"],
     "speeches": [
       {
         "descr": {
@@ -466,15 +364,14 @@
     ]
   },
   {
-    "datetime": "2019-03-28T19:00:00+03:00",
     "num": 70,
-    "photo": [
-      "https://photos.app.goo.gl/3bE5E6aU4wdtxHtD7"
-    ],
+    "season": 2019,
+    "datetime": "2019-03-28T19:00:00+03:00",
     "place": {
       "addr": "Teaduspargi 8, 12618, Tallinn", "name": "Starship office"
     },
-    "season": 2019,
+    "org": {"mod": ["sgorski"], "photo": ["klinnik"]},
+    "photo": ["https://photos.app.goo.gl/3bE5E6aU4wdtxHtD7"],
     "speeches": [
       {
         "descr": {
@@ -569,16 +466,15 @@
     ]
   },
   {
-    "datetime": "2019-02-21T19:00:00+03:00",
     "num": 69,
-    "photo": [
-      "https://photos.app.goo.gl/YHsGZm6tqP9Ac71H9"
-    ],
+    "season": 2019,
+    "datetime": "2019-02-21T19:00:00+03:00",
     "place": {
       "addr": "Paldiski mnt 80, Tallinn 10617", "loc": "https://goo.gl/maps/squwGHdRPMB2",
       "name": "Pipedrive OÜ", "url": "https://www.pipedrive.com"
     },
-    "season": 2019,
+    "org": {"mod": ["sgorski"], "photo": ["klinnik"]},
+    "photo": ["https://photos.app.goo.gl/YHsGZm6tqP9Ac71H9"],
     "speeches": [
       {
         "descr": {
