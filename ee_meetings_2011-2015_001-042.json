@@ -7,24 +7,24 @@
       "name": "Tallink Spa & Conference Hotel", "loc": "https://goo.gl/maps/EC38ZYDt8CQ2",
       "addr": "Sadama 11a, 10111 Tallinn", "url": "https://www.tallinkhotels.com/tallink-spa-conference-hotel"
     },
-    "org": {"mod": []},
+    "org": {"mod": ["hrikk"]},
     "speeches": [
       {
-        "org": {"cam": ["ijaama"], "orig": ["https://www.youtube.com/watch?v=D5g9i-ZjnNs"], "origViews": 0},
+        "org": {"cam": ["ijaama", "akozlov"], "orig": ["https://www.youtube.com/watch?v=D5g9i-ZjnNs"], "origViews": 120},
         "youtube": ["rkJUZ6gF92Q"],
         "speakers": [{"names": {"*": "Stanislav Gorski"}}],
         "titles": {"en": "Running Docker containers in Amazon AWS"},
         "lang": "en"
       },
       {
-        "org": {"cam": ["ijaama"], "orig": ["https://www.youtube.com/watch?v=wfjgzrJLOLM"], "origViews": 0},
+        "org": {"cam": ["ijaama", "akozlov"], "orig": ["https://www.youtube.com/watch?v=wfjgzrJLOLM"], "origViews": 169},
         "youtube": ["ubHkcdT3V5o"],
         "speakers": [{"names": {"*": "Martin Paroll"}}],
         "titles": {"en": "Birds and bees and everything I like. Intro to craft brewing"},
         "lang": "en"
       },
       {
-        "org": {"cam": ["ijaama"], "orig": ["https://www.youtube.com/watch?v=czrYu9kGZQc"], "origViews": 0},
+        "org": {"cam": ["ijaama", "akozlov"], "orig": ["https://www.youtube.com/watch?v=czrYu9kGZQc"], "origViews": 8},
         "info": {
           "ru": "По запросу CondeNast видео закрыто для просмотра.",
           "en": "Video is closed for viewing by CondeNast request.",
@@ -44,7 +44,7 @@
       "name": "Tallink Spa & Conference Hotel", "loc": "https://goo.gl/maps/EC38ZYDt8CQ2",
       "addr": "Sadama 11a, 10111 Tallinn", "url": "https://www.tallinkhotels.com/tallink-spa-conference-hotel"
     },
-    "org": {"mod": []},
+    "org": {"mod": ["mruut"]},
     "speeches": [
       {
         "info": {
@@ -76,7 +76,7 @@
       "name": "Tallink Spa & Conference Hotel", "loc": "https://goo.gl/maps/EC38ZYDt8CQ2",
       "addr": "Sadama 11a, 10111 Tallinn", "url": "https://www.tallinkhotels.com/tallink-spa-conference-hotel"
     },
-    "org": {"mod": []},
+    "org": {"mod": ["mruut"]},
     "speeches": [
       {
         "info": {
@@ -108,17 +108,17 @@
       "name": "Tallink Spa & Conference Hotel", "loc": "https://goo.gl/maps/EC38ZYDt8CQ2",
       "addr": "Sadama 11a, 10111 Tallinn", "url": "https://www.tallinkhotels.com/tallink-spa-conference-hotel"
     },
-    "org": {"mod": []},
+    "org": {"mod": ["mruut"]},
     "speeches": [
       {
-        "org": {"cam": ["ijaama"], "orig": ["https://www.youtube.com/watch?v=l6VegLWk6sg"], "origViews": 0},
+        "org": {"cam": ["ijaama", "akozlov"], "orig": ["https://www.youtube.com/watch?v=l6VegLWk6sg"], "origViews": 78},
         "youtube": ["tY8_ciWYrhc"],
         "speakers": [{"names": {"*": "Jaan Pullerits"}}],
         "titles": {"en": "How to Dramatically Increase The Delivery Speed of an IT Company?"},
         "lang": "en"
       },
       {
-        "org": {"cam": ["ijaama"], "orig": ["https://www.youtube.com/watch?v=IqYKSOycfm4"], "origViews": 0},
+        "org": {"cam": ["ijaama", "akozlov"], "orig": ["https://www.youtube.com/watch?v=IqYKSOycfm4"], "origViews": 388},
         "youtube": ["Igjckkq0EGo"],
         "speakers": [{"names": {"*": "Oleg Mürk"}}],
         "titles": {"en": "Big Data, Hadoop & Spark Intro"},
@@ -134,7 +134,7 @@
       "name": "Tallink Spa & Conference Hotel", "loc": "https://goo.gl/maps/EC38ZYDt8CQ2",
       "addr": "Sadama 11a, 10111 Tallinn", "url": "https://www.tallinkhotels.com/tallink-spa-conference-hotel"
     },
-    "org": {"mod": []},
+    "org": {"mod": ["mruut"]},
     "speeches": [
       {
         "info": {
@@ -167,18 +167,18 @@
       "addr": "Sadama 11a, 10111 Tallinn", "url": "https://www.tallinkhotels.com/tallink-spa-conference-hotel"
     },
     "titles": {"*": "Google party vol.2"},
-    "org": {"mod": [], "photo": ["klinnik"]},
+    "org": {"mod": ["mruut"], "photo": ["klinnik"]},
     "photo": ["https://photos.app.goo.gl/LjABq72RrKnnohKs6"],
     "speeches": [
       {
-        "org": {"cam": ["ijaama"], "orig": ["https://www.youtube.com/watch?v=P-41C-JsdF4"], "origViews": 0},
+        "org": {"cam": ["ijaama", "akozlov"], "orig": ["https://www.youtube.com/watch?v=P-41C-JsdF4"], "origViews": 3627},
         "youtube": ["QW3xOzXMy_0"],
         "speakers": [{"names": {"*": "Matthew Feigal"}}],
         "titles": {"en": "Kubernetes, Google Container Engine, and the Compute Continuum"},
         "lang": "en"
       },
       {
-        "org": {"cam": ["ijaama"], "orig": ["https://www.youtube.com/watch?v=miSzpP3tdFU"], "origViews": 0},
+        "org": {"cam": ["ijaama", "akozlov"], "orig": ["https://www.youtube.com/watch?v=miSzpP3tdFU"], "origViews": 189},
         "youtube": ["D_nkUOkBbp8"],
         "speakers": [{"names": {"*": "Jurģis Orups"}}],
         "titles": {"en": "What it takes to become a database in the Cloud - NoSQL database?"},
@@ -194,17 +194,17 @@
       "name": "Hotell Euroopa", "loc": "https://goo.gl/maps/bu6pbxbmCJS2",
       "addr": "Paadi 5, 10151 Tallinn", "url": "http://www.euroopa.ee"
     },
-    "org": {"mod": []},
+    "org": {"mod": ["mruut"]},
     "speeches": [
       {
-        "org": {"cam": ["ijaama"], "orig": ["https://www.youtube.com/watch?v=G-zy4i6F0lI"], "origViews": 0},
+        "org": {"cam": ["ijaama", "akozlov"], "orig": ["https://www.youtube.com/watch?v=G-zy4i6F0lI"], "origViews": 6636},
         "youtube": ["KBhhmoCqIJ4"],
         "speakers": [{"names": {"*": "Vasco Duarte"}}],
         "titles": {"en": "No estimates: how you can predict the release date of your project without estimating"},
         "lang": "en"
       },
       {
-        "org": {"cam": ["ijaama"], "orig": ["https://www.youtube.com/watch?v=6-rZCC8BL_k"], "origViews": 0},
+        "org": {"cam": ["ijaama", "akozlov"], "orig": ["https://www.youtube.com/watch?v=6-rZCC8BL_k"], "origViews": 939},
         "youtube": ["7OPXYnUIbyk"],
         "speakers": [{"names": {"*": "Konstantin Root"}}],
         "titles": {"en": "Using Docker in development and production, is it as useful as the hype claims?"},
@@ -220,17 +220,17 @@
       "name": "Hotell Euroopa", "loc": "https://goo.gl/maps/bu6pbxbmCJS2",
       "addr": "Paadi 5, 10151 Tallinn", "url": "http://www.euroopa.ee"
     },
-    "org": {"mod": []},
+    "org": {"mod": ["mruut"]},
     "speeches": [
       {
-        "org": {"cam": ["ijaama"], "orig": ["https://www.youtube.com/watch?v=ZsMzaiwcJLg"], "origViews": 0},
+        "org": {"cam": ["ijaama", "akozlov"], "orig": ["https://www.youtube.com/watch?v=ZsMzaiwcJLg"], "origViews": 285},
         "youtube": ["g0Jbh8fddao"],
         "speakers": [{"names": {"*": "Märt Kalmo"}}],
         "titles": {"en": "TDD for developers in non TDD software company"},
         "lang": "en"
       },
       {
-        "org": {"cam": ["ijaama"], "orig": ["https://www.youtube.com/watch?v=L0plJK-5INo"], "origViews": 0},
+        "org": {"cam": ["ijaama", "akozlov"], "orig": ["https://www.youtube.com/watch?v=L0plJK-5INo"], "origViews": 1656},
         "youtube": ["HkXQr33k_SE"],
         "speakers": [{"names": {"*": "Stanislav Gorski"}}],
         "titles": {"en": "Prototyping with Ruby on Rails"},
@@ -246,17 +246,17 @@
       "name": "Hotell Euroopa", "loc": "https://goo.gl/maps/bu6pbxbmCJS2",
       "addr": "Paadi 5, 10151 Tallinn", "url": "http://www.euroopa.ee"
     },
-    "org": {"mod": []},
+    "org": {"mod": ["mruut"]},
     "speeches": [
       {
-        "org": {"cam": ["ijaama"], "orig": ["https://www.youtube.com/watch?v=iz6xOnJgQn8"], "origViews": 0},
+        "org": {"cam": ["ijaama", "akozlov"], "orig": ["https://www.youtube.com/watch?v=iz6xOnJgQn8"], "origViews": 843},
         "youtube": ["Xr84WH6DX3Q"],
         "speakers": [{"names": {"*": "Rain Johanson"}}],
         "titles": {"en": "A peek to Taxify engineering - behind the scenes"},
         "lang": "en"
       },
       {
-        "org": {"cam": ["ijaama"], "orig": ["https://www.youtube.com/watch?v=lDv9lYCAniE"], "origViews": 0},
+        "org": {"cam": ["ijaama", "akozlov"], "orig": ["https://www.youtube.com/watch?v=lDv9lYCAniE"], "origViews": 2046},
         "youtube": ["O9LqnyzzH6I"],
         "speakers": [{"names": {"*": "Maria Pääsuke"}}, {"names": {"*": "Maroš Kotula"}}],
         "titles": {"en": "Internet of things meets blockchain"},
@@ -272,17 +272,17 @@
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2",
       "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
-    "org": {"mod": []},
+    "org": {"mod": ["mruut"]},
     "speeches": [
       {
-        "org": {"cam": ["ijaama"], "orig": ["https://www.youtube.com/watch?v=9_722LCX15w"], "origViews": 0},
+        "org": {"cam": ["ijaama", "akozlov"], "orig": ["https://www.youtube.com/watch?v=9_722LCX15w"], "origViews": 314},
         "youtube": ["mlSJvHDBNLU"],
         "speakers": [{"names": {"*": "Mait Peekma"}}],
         "titles": {"en": "Do you think you can trust your logs?"},
         "lang": "en"
       },
       {
-        "org": {"cam": ["ijaama"], "orig": ["https://www.youtube.com/watch?v=L_Y0rZxLsdk"], "origViews": 0},
+        "org": {"cam": ["ijaama", "akozlov"], "orig": ["https://www.youtube.com/watch?v=L_Y0rZxLsdk"], "origViews": 222},
         "youtube": ["k2LSbcRkuiQ"],
         "speakers": [{"names": {"*": "Sven Varkel"}}],
         "titles": {"en": "Can script save the world? Devops, data migration"},
@@ -298,25 +298,25 @@
       "name": "Hotell Euroopa", "loc": "https://goo.gl/maps/bu6pbxbmCJS2",
       "addr": "Paadi 5, 10151 Tallinn", "url": "http://www.euroopa.ee"
     },
-    "org": {"mod": [], "photo": ["klinnik"]},
+    "org": {"mod": ["mruut"], "photo": ["klinnik"]},
     "photo": ["https://photos.app.goo.gl/TLwRDB9fgNQDiXhH7"],
     "speeches": [
       {
-        "org": {"cam": ["ijaama"], "orig": ["https://www.youtube.com/watch?v=4ti7bOO2YCw"], "origViews": 0},
+        "org": {"cam": ["ijaama", "akozlov"], "orig": ["https://www.youtube.com/watch?v=4ti7bOO2YCw"], "origViews": 145},
         "youtube": ["-X9tdApx0pI"],
         "speakers": [{"names": {"*": "Asse Sauga"}}],
         "titles": {"en": "Bitcoin and Ethereum - software development opportunities and potential"},
         "lang": "en"
       },
       {
-        "org": {"cam": ["ijaama"], "orig": ["https://www.youtube.com/watch?v=tis1bvAnLFc"], "origViews": 0},
+        "org": {"cam": ["ijaama", "akozlov"], "orig": ["https://www.youtube.com/watch?v=tis1bvAnLFc"], "origViews": 127},
         "youtube": ["wA-cwoK1Gwg"],
         "speakers": [{"names": {"*": "Erik Jõgi"}}],
         "titles": {"en": "One more way to deliver better software: Sports"},
         "lang": "en"
       },
       {
-        "org": {"cam": ["ijaama"], "orig": ["https://www.youtube.com/watch?v=i3IIr6Xcr54"], "origViews": 0},
+        "org": {"cam": ["ijaama", "akozlov"], "orig": ["https://www.youtube.com/watch?v=i3IIr6Xcr54"], "origViews": 199},
         "youtube": ["9C2mgMlrjEw"],
         "speakers": [{"names": {"*": "Matti Jagula"}}, {"names": {"*": "Taavi Tuisk"}}],
         "titles": {"en": "Auto-scaling a Rails application on AWS"},
@@ -332,18 +332,18 @@
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2",
       "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
-    "org": {"mod": [], "photo": ["klinnik"]},
+    "org": {"mod": ["mruut"], "photo": ["klinnik"]},
     "photo": ["https://photos.app.goo.gl/72asJd9xovpHDi4x9"],
     "speeches": [
       {
-        "org": {"cam": ["ijaama"], "orig": ["https://www.youtube.com/watch?v=pm5QzhPj0dY"], "origViews": 0},
+        "org": {"cam": ["akozlov"], "orig": ["https://www.youtube.com/watch?v=pm5QzhPj0dY"], "origViews": 271},
         "youtube": ["1Rn5lJxuRtI"],
         "speakers": [{"names": {"*": "Asko Oja"}}],
         "titles": {"en": "Making Fleep"},
         "lang": "en"
       },
       {
-        "org": {"cam": ["ijaama"], "orig": ["https://www.youtube.com/watch?v=XyV7WNbM-rU"], "origViews": 0},
+        "org": {"cam": ["akozlov"], "orig": ["https://www.youtube.com/watch?v=XyV7WNbM-rU"], "origViews": 199},
         "youtube": ["pLgQbhelS6U"],
         "speakers": [{"names": {"*": "Wilko Nienhaus"}}],
         "titles": {"en": "Continuous Delivery"},
@@ -359,18 +359,18 @@
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2",
       "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
-    "org": {"mod": [], "photo": ["klinnik"]},
+    "org": {"mod": ["mruut"], "photo": ["klinnik"]},
     "photo": ["https://photos.app.goo.gl/7MU8QJ9RoGwpSAvE8"],
     "speeches": [
       {
-        "org": {"cam": ["ijaama"], "orig": ["https://www.youtube.com/watch?v=uSFlpQ56meI"], "origViews": 0},
+        "org": {"cam": ["ijaama", "akozlov"], "orig": ["https://www.youtube.com/watch?v=uSFlpQ56meI"], "origViews": 578},
         "youtube": ["H3H1Omkf43o"],
         "speakers": [{"names": {"*": "Jens Bussmann"}}, {"names": {"*": "Jens Kuehlers"}}],
         "titles": {"en": "Big Data Analysis with the Google Cloud Platform"},
         "lang": "en"
       },
       {
-        "org": {"cam": ["ijaama"], "orig": ["https://www.youtube.com/watch?v=rwxaoF3nAwM"], "origViews": 0},
+        "org": {"cam": ["ijaama", "akozlov"], "orig": ["https://www.youtube.com/watch?v=rwxaoF3nAwM"]},
         "youtube": ["30tNpeBVFeM"],
         "speakers": [{"names": {"*": "Jens Kuehlers"}}],
         "titles": {"en": "Growth through innovation"},
@@ -386,11 +386,11 @@
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2",
       "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
-    "org": {"mod": [], "photo": ["klinnik"]},
+    "org": {"mod": ["mruut"], "photo": ["klinnik"]},
     "photo": ["https://photos.app.goo.gl/yjgDmpCdeSpgzrbA8"],
     "speeches": [
       {
-        "org": {"cam": ["ijaama"], "orig": ["https://www.youtube.com/watch?v=IokUNUEkkeY"], "origViews": 0},
+        "org": {"cam": ["akozlov"], "orig": ["https://www.youtube.com/watch?v=IokUNUEkkeY"], "origViews": 347},
         "youtube": ["ZAcLZd7I_m8"],
         "speakers": [{"names": {"*": "Anton Arhipov"}}],
         "titles": {"en": "Rebel Agents"},
@@ -416,18 +416,18 @@
       "name": "Transferwise Ltd Estonia", "loc": "https://goo.gl/maps/fXmz146K1SD2",
       "addr": "Veerenni 24, 10135 Tallinn", "url": "https://transferwise.com"
     },
-    "org": {"mod": [], "photo": ["klinnik"]},
+    "org": {"mod": ["mruut"], "photo": ["klinnik"]},
     "photo": ["https://photos.app.goo.gl/CqejKqhsZNt2EbPm8"],
     "speeches": [
       {
-        "org": {"cam": ["ijaama"], "orig": ["https://www.youtube.com/watch?v=0VgtM3xIfVs"], "origViews": 0},
+        "org": {"cam": ["ijaama", "akozlov"], "orig": ["https://www.youtube.com/watch?v=0VgtM3xIfVs"]},
         "youtube": ["S_PzxK-1TRg"],
         "speakers": [{"names": {"*": "Nikita Salnikov-Tarnovski"}}],
         "titles": {"en": "How Plumbr drips and flows"},
         "lang": "en"
       },
       {
-        "org": {"cam": ["ijaama"], "orig": ["https://www.youtube.com/watch?v=Qobu6lAPc7U"], "origViews": 0},
+        "org": {"cam": ["ijaama", "akozlov"], "orig": ["https://www.youtube.com/watch?v=Qobu6lAPc7U"]},
         "youtube": ["lfTMLCf3Ak8"],
         "speakers": [{"names": {"*": "TransferWise"}}],
         "titles": {"en": "Building an international payment engine - the good,the bad and the ugly"},
@@ -443,18 +443,18 @@
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2",
       "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
-    "org": {"mod": [], "photo": ["aarhipov"]},
+    "org": {"mod": ["mruut"], "photo": ["aarhipov"]},
     "photo": ["https://photos.app.goo.gl/TMJGwKK8fAKHNuf66"],
     "speeches": [
       {
-        "org": {"cam": ["ijaama"]},
+        "org": {"cam": ["akozlov"]},
         "youtube": ["fo3Y6L8CUv4"],
         "speakers": [{"names": {"*": "Filipp Keks"}}],
         "titles": {"en": "Unity3D - explosion of indie game development"},
         "lang": "en"
       },
       {
-        "org": {"cam": ["ijaama"]},
+        "org": {"cam": ["akozlov"]},
         "youtube": ["qh3P7T3nP0g"],
         "speakers": [{"names": {"*": "Kristo Iila"}}],
         "titles": {"en": "Marinexplore - The Ocean's Big Data Platform"},
@@ -470,10 +470,10 @@
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2",
       "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
-    "org": {"mod": []},
+    "org": {"mod": ["mruut"]},
     "speeches": [
       {
-        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/91657625"], "origViews": 0},
+        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/91657625"], "origViews": 194},
         "youtube": ["uYvnyF_4eO0"],
         "speakers": [{"names": {"*": "Anton Keks"}}],
         "titles": {"en": "Apache Cordova"},
@@ -485,7 +485,7 @@
           "en": "Video is closed for viewing by speaker request.",
           "et": "Video on kinni kõneleja soovil."
         },
-        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/92818092"], "origViews": 0},
+        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/92818092"]},
         "speakers": [{"names": {"*": "Pärtel Tomberg"}}],
         "titles": {"en": "About isePankur"},
         "lang": "en"
@@ -500,38 +500,38 @@
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2",
       "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
-    "org": {"mod": []},
+    "org": {"mod": ["mruut"]},
     "speeches": [
       {
-        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/85442022"], "origViews": 0},
+        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/85442022"], "origViews": 224},
         "youtube": ["1i4xq6uIZ1M"],
         "speakers": [{"names": {"*": "Rain Johanson"}}],
         "titles": {"en": "TransferWise"},
         "lang": "et"
       },
       {
-        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/85442023"], "origViews": 0},
+        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/85442023"], "origViews": 172},
         "youtube": ["VkTqC1OupAA"],
         "speakers": [{"names": {"*": "Ethel Voites"}}],
         "titles": {"en": "Go Work A Bit"},
         "lang": "et"
       },
       {
-        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/82581295"], "origViews": 0},
+        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/82581295"], "origViews": 122},
         "youtube": ["QNVzOPfPkwc"],
         "speakers": [{"names": {"*": "Heldin Rikk"}}],
         "titles": {"en": "Icebreaker cards - kick-starter teie retrospektiivi jaoks"},
         "lang": "et"
       },
       {
-        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/82581296"], "origViews": 0},
+        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/82581296"], "origViews": 372},
         "youtube": ["3TVsBGYAnrU"],
         "speakers": [{"names": {"*": "Jaan Pullerits"}}],
         "titles": {"en": "MYJAR"},
         "lang": "et"
       },
       {
-        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/82604791"], "origViews": 0},
+        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/82604791"], "origViews": 202},
         "youtube": ["sWdHFOAEEag"],
         "speakers": [{"names": {"*": "Alek Kozlov"}}],
         "titles": {"en": "Õppimiskõverast - meie oskused ja väärtuse loomine"},
@@ -547,17 +547,17 @@
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2",
       "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
-    "org": {"mod": []},
+    "org": {"mod": ["hrikk"]},
     "speeches": [
       {
-        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/75342143"], "origViews": 0},
+        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/75342143"], "origViews": 131},
         "youtube": ["3HuaRClMlmA"],
         "speakers": [{"names": {"*": "Jason Bloomberg"}}],
         "titles": {"en": "The Brave New World of IT"},
         "lang": "en"
       },
       {
-        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/75344223"], "origViews": 0},
+        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/75344223"], "origViews": 294},
         "youtube": ["ez1j3OA1FE0"],
         "speakers": [{"names": {"*": "Taavi Lindmaa"}}],
         "titles": {"en": "Lean Startup machine and validation board"},
@@ -573,17 +573,17 @@
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2",
       "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
-    "org": {"mod": []},
+    "org": {"mod": ["hrikk"]},
     "speeches": [
       {
-        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/72930881"], "origViews": 0},
+        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/72930881"], "origViews": 671},
         "youtube": ["DfTyldNARVU"],
         "speakers": [{"names": {"*": "J.B. Rainsberger"}}],
         "titles": {"en": "How to adopt TDD safely?"},
         "lang": "en"
       },
       {
-        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/72931154"], "origViews": 0},
+        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/72931154"], "origViews": 203},
         "youtube": ["lqJ1CVQMCbw"],
         "speakers": [{"names": {"*": "Andres Jaan Tack"}}],
         "titles": {"en": "Consistency, Availability, and Time"},
@@ -599,7 +599,7 @@
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2",
       "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
-    "org": {"mod": [], "photo": ["klinnik"]},
+    "org": {"mod": ["hrikk", "akozlov"], "photo": ["klinnik"]},
     "photo": ["https://photos.app.goo.gl/NDcFh7gg4YhVVKUB6"],
     "speeches": [
       {
@@ -632,17 +632,17 @@
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2",
       "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
-    "org": {"mod": []},
+    "org": {"mod": ["hrikk"]},
     "speeches": [
       {
-        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/65033737"], "origViews": 0},
+        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/65033737"], "origViews": 119},
         "youtube": ["BpqfXGoMo80"],
         "speakers": [{"names": {"*": "Alvar Lumberg"}}],
         "titles": {"en": "Continuous Delivery in action (in Estonian)"},
         "lang": "et"
       },
       {
-        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/65033739"], "origViews": 0},
+        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/65033739"], "origViews": 205},
         "youtube": ["0qagBtii4QY"],
         "speakers": [{"names": {"*": "Mart Oruaas"}}, {"names": {"*": "Renno Paat"}}],
         "titles": {"en": "Continuous Integration and Continuous Delivery GrabCADi kogemus"},
@@ -658,24 +658,24 @@
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2",
       "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
-    "org": {"mod": []},
+    "org": {"mod": ["hrikk"]},
     "speeches": [
       {
-        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/61307907"], "origViews": 0},
+        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/61307907"], "origViews": 138},
         "youtube": ["ymqTCmCANW0"],
         "speakers": [{"names": {"*": "Anton Arhipov"}}],
         "titles": {"en": "Tehnilise tootejuhi seiklused"},
         "lang": "et"
       },
       {
-        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/61308722"], "origViews": 0},
+        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/61308722"], "origViews": 182},
         "youtube": ["trD_kw-yhUA"],
         "speakers": [{"names": {"*": "Sergei Anikin"}}],
         "titles": {"en": "Windows 8 modernse arendusplatvormi tutvustus läbi Skype meeskonna kogemuste prizma"},
         "lang": "et"
       },
       {
-        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/61309614"], "origViews": 0},
+        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/61309614"], "origViews": 186},
         "youtube": ["90sE9nwBKM8"],
         "speakers": [{"names": {"*": "Priit Kaasik"}}],
         "titles": {"en": "Agile Technical Operations"},
@@ -691,7 +691,7 @@
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2",
       "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
-    "org": {"mod": []},
+    "org": {"mod": ["hrikk"]},
     "speeches": [
       {
         "info": {
@@ -723,46 +723,46 @@
       "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2",
       "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
-    "org": {"mod": [], "photo": ["klinnik"]},
+    "org": {"mod": ["iurban"], "photo": ["klinnik"]},
     "photo": ["https://photos.app.goo.gl/49YAxgWroaWm2M5F7"],
     "speeches": [
       {
-        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/55721899"], "origViews": 0},
+        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/55721899"], "origViews": 186},
         "youtube": ["7VJSBEPkDNI"],
         "speakers": [{"names": {"*": "Maarika Susi"}}, {"names": {"*": "Martin Grüner"}}],
         "titles": {"en": "Garage48"},
         "lang": "et"
       },
       {
-        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/55719753"], "origViews": 0},
+        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/55719753"], "origViews": 78},
         "youtube": ["BsxvQ2KKnDU"],
         "speakers": [{"names": {"*": "Alvar Lumberg"}}],
         "titles": {"en": "Sel sügisel San Franciscos toimunud QCon2012 konverentsist"},
         "lang": "et"
       },
       {
-        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/55719659"], "origViews": 0},
+        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/55719659"], "origViews": 115},
         "youtube": ["l6ufsPNE1wU"],
         "speakers": [{"names": {"*": "Hanno Jarvet"}}],
         "titles": {"en": "Otsuste langetamise kunst"},
         "lang": "et"
       },
       {
-        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/55719913"], "origViews": 0},
+        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/55719913"], "origViews": 159},
         "youtube": ["3MI6MbixtZs"],
         "speakers": [{"names": {"*": "Erik Jõgi"}}],
         "titles": {"en": "Töötades firmas 8th Light"},
         "lang": "et"
       },
       {
-        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/55720798"], "origViews": 0},
+        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/55720798"], "origViews": 164},
         "youtube": ["PaOFBpisSS8"],
         "speakers": [{"names": {"*": "Patrick Abner"}}],
         "titles": {"en": "Miks jooksmine on hea sport"},
         "lang": "et"
       },
       {
-        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/55721585"], "origViews": 0},
+        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/55721585"], "origViews": 188},
         "youtube": ["7YfgMTmyrYU"],
         "speakers": [{"names": {"*": "Daniel Anjos"}}],
         "titles": {"en": "Eestis töötamise plussidest ja miinustest välismaalase silmade läbi"},
