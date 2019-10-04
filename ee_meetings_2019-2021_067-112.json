@@ -725,7 +725,7 @@
       },
       {
         "org": {"cam": ["ijaama"]},
-        "youtube": ["Q-tkHJYY09U"], "lang": "en"
+        "youtube": ["Q-tkHJYY09U"], "lang": "en",
         "speakers": [{
             "names": {"*": "Dmitry Buzdin"}
           }],
