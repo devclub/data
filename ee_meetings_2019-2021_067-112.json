@@ -174,6 +174,15 @@
         }
       },
       {
+        "org": {"cam": ["ijaama"]},
+        "youtube": ["VUKi8sxKVsE"], "lang": "en",
+        "speakers": [{
+          "image": "agritsevski.jpg",
+          "names": {"*": "Aleksandr Gritsevski", "ru": "Александр Грицевский"},
+          "titles": {"*": "Lead Quality Manager @ Kuehne + Nagel"},
+          "url": "https://www.linkedin.com/in/leadqualitymanager"
+        }],
+        "titles": {"*": "Changing mindset regarding Quality Assurance Engineers. Software testing is harder than development."},
         "descr": {
           "en": [
             "Two decades ago when modern technologies were emerging, the idea that software should be tested before getting released was meaning only that someone has to act as a future user of the software what led to the concept of Manual Testing.",
@@ -182,27 +191,7 @@
             "At the same time, having this idea HR officers are hiring people who are unable to bring QA forward in order to achieve better quality of the product. Ideally, the person who is the one responsible for quality should be involved in the process of development and not just having to assess what has been already done as well as to be able not only to test the product, but to be able to understand why the mistake has occurred what is possible only in case if QA specialist has sufficient programming background.",
             "The speaker will tell how to change the mindset regarding Quality Assurance Engineers based on his own experience in the field as well as is about to give some pieces of advice that will help both the ones responsible for hiring QA specialists to recruit the most competent people and the ones pursuing careers in the industry to know what is expected from them."
           ]
-        },
-        "lang": "en",
-        "speakers": [
-          {
-            "image": "agritsevski.jpg",
-            "names": {
-              "*": "Aleksandr Gritsevski",
-              "ru": "Александр Грицевский"
-            },
-            "titles": {
-              "*": "Lead Quality Manager @ Kuehne + Nagel"
-            },
-            "url": "https://www.linkedin.com/in/leadqualitymanager"
-          }
-        ],
-        "titles": {
-          "*": "Changing mindset regarding Quality Assurance Engineers. Software testing is harder than development."
-        },
-        "youtube": [
-          "VUKi8sxKVsE"
-        ]
+        }
       }
     ]
   },
@@ -218,83 +207,38 @@
     "photo": ["https://photos.app.goo.gl/Y9DwVwFpRpwzxUoS7"],
     "speeches": [
       {
-        "descr": {
-          "en": [
-            ""
-          ]
-        },
-        "lang": "en",
-        "speakers": [
-          {
-            "image": "",
-            "names": {
-              "*": "Mervi Sepp"
-            },
-            "titles": {
-              "*": "@ Topia"
-            },
-            "url": ""
-          }
-        ],
-        "titles": {
-          "*": "Dividing up Metropolises - Modelling Rent prices across the globe"
-        },
-        "youtube": [
-          "LEyn2r1JwSY"
-        ]
+        "org": {"cam": ["ijaama"]},
+        "youtube": ["LEyn2r1JwSY"], "lang": "en",
+        "speakers": [{
+          "names": {"*": "Mervi Sepp"},
+          "titles": {"*": "Worker @ Topia"}
+        }],
+        "titles": {"*": "Dividing up Metropolises - Modelling Rent prices across the globe"}
       },
       {
+        "org": {"cam": ["ijaama"]},
+        "youtube": ["15u57Z8Go7U"], "lang": "en",
+        "speakers": [{
+          "image": "atavgen.jpg",
+          "names": {"*": "Aleksandr Tavgen", "ru": "Александр Тавген"},
+          "titles": {"*": "Software Architect with Data Science and Financial Background"},
+          "url": "https://www.linkedin.com/in/aleksandr-tavgen-24431815b"
+        }],
+        "titles": {"*": "Reactive and functional approaches"},
         "descr": {
-          "*": [
+          "en": [
             "Сoncurrency and Parallelism. Context switch pain. Functional approach. Java Reactive Revolution. Blocking vs NonBlocking execution. Functional Architecture."
           ]
-        },
-        "lang": "en",
-        "speakers": [
-          {
-            "image": "atavgen.jpg",
-            "names": {
-              "*": "Aleksandr Tavgen",
-              "ru": "Александр Тавген"
-            },
-            "titles": {
-              "*": "Software Architect with Data Science and Financial Background"
-            },
-            "url": "https://www.linkedin.com/in/aleksandr-tavgen-24431815b"
-          }
-        ],
-        "titles": {
-          "*": "Reactive and functional approaches"
-        },
-        "youtube": [
-          "15u57Z8Go7U"
-        ]
+        }
       },
       {
-        "descr": {
-          "en": [
-            ""
-          ]
-        },
-        "lang": "en",
-        "speakers": [
-          {
-            "image": "",
-            "names": {
-              "*": "Kirils Solovjovs"
-            },
-            "titles": {
-              "*": "@ Possible Security (Latvia)"
-            },
-            "url": ""
-          }
-        ],
-        "titles": {
-          "*": "Toll of personal privacy in 2018"
-        },
-        "youtube": [
-          "CVVUeAAlGNE"
-        ]
+        "org": {"cam": ["ijaama"]},
+        "youtube": ["CVVUeAAlGNE"], "lang": "en",
+        "speakers": [{
+          "names": {"*": "Kirils Solovjovs"},
+          "titles": {"*": "Worker @ Possible Security (Latvia)"}
+        }],
+        "titles": {"*": "Toll of personal privacy in 2018"}
       }
     ]
   },
@@ -310,56 +254,32 @@
     "photo": ["https://photos.app.goo.gl/yNagW8BnaeuoGFXS7"],
     "speeches": [
       {
+        "org": {"cam": ["ijaama"]},
+        "youtube": ["4oPKVuO-Lnw"], "lang": "en",
+        "speakers": [{
+          "names": {"*": "Doug Sillars"},
+          "titles": {"*": "Web Google Developer Expert, author of O’Reilly’s “High Performance Android Apps”"}
+        }],
+        "titles": {"*": "Fast and Beautiful Images"},
         "descr": {
-          "en": [
+          "en":  [
             "“Fast and Beautiful Images” - the best ways to build images for all of the screens/devices that are out there."
           ]
-        },
-        "lang": "en",
-        "speakers": [
-          {
-            "image": "",
-            "names": {
-              "*": "Doug Sillars"
-            },
-            "titles": {
-              "*": "Web Google Developer Expert, author of O’Reilly’s “High Performance Android Apps”"
-            },
-            "url": ""
-          }
-        ],
-        "titles": {
-          "*": "Fast and Beautiful Images"
-        },
-        "youtube": [
-          "4oPKVuO-Lnw"
-        ]
+        }
       },
       {
+        "org": {"cam": ["ijaama"]},
+        "youtube": ["SZLuf5IKp7k"], "lang": "en",
+        "speakers": [{
+          "names": {"*": "Lauri Koobas"},
+          "titles": {"*": "Data Warehouse Engineer @ Starship Technologies"}
+        }],
+        "titles": {"*": "Differences between software (engineering) and data engineering"},
         "descr": {
           "en": [
             "A brief introduction to what it takes an experienced software engineer to enter the data engineering world."
           ]
-        },
-        "lang": "en",
-        "speakers": [
-          {
-            "image": "",
-            "names": {
-              "*": "Lauri Koobas"
-            },
-            "titles": {
-              "*": "Data Warehouse Engineer @ Starship Technologies"
-            },
-            "url": ""
-          }
-        ],
-        "titles": {
-          "*": "Differences between software (engineering) and data engineering"
-        },
-        "youtube": [
-          "SZLuf5IKp7k"
-        ]
+        }
       }
     ]
   },
@@ -374,94 +294,48 @@
     "photo": ["https://photos.app.goo.gl/3bE5E6aU4wdtxHtD7"],
     "speeches": [
       {
+        "org": {"cam": ["ijaama"]},
+        "youtube": ["GQUtbBl2dIs"], "lang": "en",
+        "speakers": [{
+          "names": {"*": "Pavel Varyukhichev"}
+        }],
+        "titles": {"*": "Achieving low latency communication between services and robots"},
         "descr": {
           "en": [
             "How we brought a solution of handling robots online from several robots to thousands of robots? The future is here."
           ]
-        },
-        "lang": "en",
-        "speakers": [
-          {
-            "image": "",
-            "names": {
-              "*": "Pavel Varyukhichev"
-            },
-            "titles": {
-              "*": ""
-            },
-            "url": ""
-          }
-        ],
-        "titles": {
-          "*": "Achieving low latency communication between services and robots"
-        },
-        "youtube": [
-          "GQUtbBl2dIs"
-        ]
+        }
       },
       {
+        "org": {"cam": ["ijaama"]},
+        "youtube": ["OJGG6CvIUQc"], "lang": "en",
+        "speakers": [{
+            "names": {"*": "Jaanus Soots"}
+          },
+          {
+            "names": {"*": "Vitalii Lakusta"}
+        }],
+        "titles": {"*": "Robot scheduling challenges compare to taxi orchestration"},
         "descr": {
           "en": [
             "Is delivery robot logistics easy as package courier milk-run or complicated as taxi orchestration? What we are facing now, how that is solved and what will wait for us ahead?"
           ]
-        },
-        "lang": "en",
-        "speakers": [
-          {
-            "image": "",
-            "names": {
-              "*": "Jaanus Soots"
-            },
-            "titles": {
-              "*": ""
-            },
-            "url": ""
-          },
-          {
-            "image": "",
-            "names": {
-              "*": "Vitalii Lakusta"
-            },
-            "titles": {
-              "*": ""
-            },
-            "url": ""
-          }
-        ],
-        "titles": {
-          "*": "Robot scheduling challenges compare to taxi orchestration"
-        },
-        "youtube": [
-          "OJGG6CvIUQc"
-        ]
+        }
       },
       {
+        "org": {"cam": ["ijaama"]},
+        "youtube": ["6lh8oIDGmgE"], "lang": "en",
+        "speakers": [{
+          "names": {"*": "Indrek Ots"}
+        }],
+        "titles": {"*": "Consumer Driven Contract Testing"},
         "descr": {
           "en": [
             "Consumer driven contract testing is a method of verifying that services (e.g. API consumer and an API provider) speak the same language. By providing examples, API consumers set expectations on providers on how they should behave on specific inputs.",
             "A set of expectations forms a contract that's produced by consumers and is shared with providers. Contract obligations are verified by providers with tests that can be run in isolation, without having to set up integration testing environments.",
             "That lets them evolve independently and get immediate feedback when they've broken any of their API consumers. Contract testing can be used anywhere where you have two services that need to communicate with each other but becomes especially useful in environments with many services (e.g. microservice architecture)."
           ]
-        },
-        "lang": "en",
-        "speakers": [
-          {
-            "image": "",
-            "names": {
-              "*": "Indrek Ots"
-            },
-            "titles": {
-              "*": ""
-            },
-            "url": ""
-          }
-        ],
-        "titles": {
-          "*": "Consumer Driven Contract Testing"
-        },
-        "youtube": [
-          "6lh8oIDGmgE"
-        ]
+        }
       }
     ]
   },
@@ -477,82 +351,31 @@
     "photo": ["https://photos.app.goo.gl/YHsGZm6tqP9Ac71H9"],
     "speeches": [
       {
-        "descr": {
-          "en": [
-            ""
-          ]
-        },
-        "lang": "en",
-        "speakers": [
-          {
-            "image": "",
-            "names": {
-              "*": "Nikita Salnikov-Tarnovski"
-            },
-            "titles": {
-              "*": "CTO @ Plumbr"
-            },
-            "url": ""
-          }
-        ],
-        "titles": {
-          "*": "Project clarity - Random rant from an old engineer"
-        },
-        "youtube": [
-          "ESLF8sl86L4"
-        ]
+        "org": {"cam": ["ijaama"]},
+        "youtube": ["ESLF8sl86L4"], "lang": "en",
+        "speakers": [{
+          "names": {"*": "Nikita Salnikov-Tarnovski"},
+          "titles": {"*": "CTO @ Plumbr"}
+        }],
+        "titles": {"*": "Project clarity - Random rant from an old engineer"}
       },
       {
-        "descr": {
-          "en": [
-            ""
-          ]
-        },
-        "lang": "en",
-        "speakers": [
-          {
-            "image": "",
-            "names": {
-              "*": "Martti Kuldma"
-            },
-            "titles": {
-              "*": "Head of Software Development"
-            },
-            "url": ""
-          }
-        ],
-        "titles": {
-          "*": "What is Tribes & Missions and how did Pipedrive get there?"
-        },
-        "youtube": [
-          "M6-2XSPSy5Y"
-        ]
+        "org": {"cam": ["ijaama"]},
+        "youtube": ["M6-2XSPSy5Y"], "lang": "en",
+        "speakers": [{
+          "names": {"*": "Martti Kuldma"},
+          "titles": {"*": "Head of Software Development"}
+        }],
+        "titles": {"*": "What is Tribes & Missions and how did Pipedrive get there?"}
       },
       {
-        "descr": {
-          "en": [
-            ""
-          ]
-        },
-        "lang": "en",
-        "speakers": [
-          {
-            "image": "",
-            "names": {
-              "*": "Vinay Ramani"
-            },
-            "titles": {
-              "*": "Chief Product Officer @ Pipedrive"
-            },
-            "url": ""
-          }
-        ],
-        "titles": {
-          "*": "How do you align the Product organization around a highly agile team setup such as Tribes & Missions?"
-        },
-        "youtube": [
-          "ro4F57ReTyo"
-        ]
+        "org": {"cam": ["ijaama"]},
+        "youtube": ["ro4F57ReTyo"], "lang": "en",
+        "speakers": [{
+          "names": {"*": "Vinay Ramani"},
+          "titles": {"*": "Chief Product Officer @ Pipedrive"}
+        }],
+        "titles": {"*": "How do you align the Product organization around a highly agile team setup such as Tribes & Missions?"}
       }
     ]
   },
