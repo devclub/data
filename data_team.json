@@ -38,9 +38,11 @@
     "jtimosin": {"names": {"*": "Juri Timošin", "ru": "Юрий Тимошин"}, "image": "jtimosin_team.jpg", "url": "https://ee.linkedin.com/in/juritimoshin"},
     "kbuhhalko": {"names": {"*": "Kirill Buhhalko", "ru": "Кирилл Бухалко"}, "image": "kbuhhalko_team.jpg", "url": "https://ee.linkedin.com/pub/kirill-buhhalko/2/584/7b6"},
     "klinnik": {"names": {"*": "Kirill Linnik", "ru": "Кирилл Линник"}, "image": "klinnik_team.jpg", "url": "https://ee.linkedin.com/pub/kirill-linnik/50/a65/976"},
+    "mruut": {"names": {"*": "Marko Ruut", "ru": "Марко Руут"}},
     "rperegontsev": {"names": {"*": "Roman Peregontsev", "ru": "Роман Перегонцев"}},
     "sgorski": {"names": {"*": "Stanislav Gorski", "ru": "Станислав Горский"}, "image": "sgorski_team.jpg", "url": "https://www.linkedin.com/in/stanislav-gorski-1b5b5b55"},
     "tgordejeva": {"names": {"*": "Tatjana Gordejeva", "ru": "Татьяна Гордеева"}, "image": "tgordejeva_team.jpg", "url": "https://www.facebook.com/tanya.hrc"},
+    "vsiilbek": {"names": {"*": "Väino Siilbek", "ru": "Вяйно Сиилбек"}},
     "zkirillov": {"names": {"*": "Zahhar Kirillov", "ru": "Захар Кириллов"}, "image": "zkirillov_team.jpg", "url": "https://ee.linkedin.com/in/zahhar"}
   }
 }
