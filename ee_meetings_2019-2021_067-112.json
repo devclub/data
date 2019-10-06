@@ -61,7 +61,7 @@
     "event": "https://www.eventbrite.com/e/devclub-75-von-stackelberg-hotel-tickets-69837506863",
     "speeches": [
       {
-        "org": {"cam": ["timosin"], "edit": ["astalnuhhin"]},
+        "org": {"cam": ["jtimosin"], "edit": ["astalnuhhin"]},
         "youtube": ["XrFEwjkLNqw"], "lang": "en",
         "speakers": [{
           "image": "sam-kruglov.jpg",
