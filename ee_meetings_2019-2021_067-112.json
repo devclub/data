@@ -14,6 +14,7 @@
       {
         "org": {"cam": ["ijaama"]},
         "youtube": [""], "lang": "en",
+        "labels": ["microservice", "GraphQL"],
         "speakers": [{
           "image": "jonas-kiiver.jpg",
           "names": {"*": "Jonas Kiiver"},
@@ -33,6 +34,7 @@
       {
         "org": {"cam": ["ijaama"]},
         "youtube": [""], "lang": "en",
+        "labels": ["self-improvement"],
         "speakers": [{
           "image": "edgars-letinskis.jpg",
           "names": {"*": "Edgars Letinskis"},
@@ -63,6 +65,7 @@
       {
         "org": {"cam": ["jtimosin"], "edit": ["astalnuhhin"]},
         "youtube": ["XrFEwjkLNqw"], "lang": "en",
+        "labels": ["reactive", "event-driven"],
         "speakers": [{
           "image": "sam-kruglov.jpg",
           "names": {"*": "Sam Kruglov", "ru": "Сэм Круглов"},
@@ -83,6 +86,7 @@
           "ru": "Видео не записано по техническим причинам."
         },
         "lang": "en",
+        "labels": ["TeamCity", "pipeline", "ci"],
         "speakers": [{
           "image": "aarhipov.jpg",
           "names": {"*": "Anton Arhipov", "ru": "Антон Архипов"},
@@ -112,6 +116,7 @@
       {
         "org": {"cam": ["ijaama"]},
         "youtube": ["n2lLnibmkWo"], "lang": "en",
+        "labels": ["observability"],
         "speakers": [{
           "image": "atavgen.jpg",
           "names": {"*": "Aleksandr Tavgen", "ru": "Александр Тавген"},
@@ -129,6 +134,7 @@
       {
         "org": {"cam": ["ijaama"]},
         "youtube": ["dFQSOlOOoXE"], "lang": "en",
+        "labels": ["java", "static"],
         "speakers": [{
           "image": "asolntsev_2018.jpg",
           "names": {"*": "Andrei Solntsev", "ru": "Андрей Солнцев"},
@@ -160,6 +166,7 @@
       {
         "org": {"cam": ["ijaama"]},
         "youtube": ["UuBwSyEecQ8"], "lang": "en",
+        "labels": ["Google", "assistant"],
         "speakers": [{
           "image": "eweber.jpg",
           "names": {"*": "Ervin Weber", "ru": "Эрвин Вебер"},
@@ -176,6 +183,7 @@
       {
         "org": {"cam": ["ijaama"]},
         "youtube": ["VUKi8sxKVsE"], "lang": "en",
+        "labels": ["quality", "quality assurance"],
         "speakers": [{
           "image": "agritsevski.jpg",
           "names": {"*": "Aleksandr Gritsevski", "ru": "Александр Грицевский"},
@@ -209,15 +217,23 @@
       {
         "org": {"cam": ["gbeskin"], "edit": ["klinnik"]},
         "youtube": ["LEyn2r1JwSY"], "lang": "en",
+        "labels": ["project"],
         "speakers": [{
+          "image": "msepp.jpg",
           "names": {"*": "Mervi Sepp"},
           "titles": {"*": "Worker @ Topia"}
         }],
-        "titles": {"*": "Dividing up Metropolises - Modelling Rent prices across the globe"}
+        "titles": {"*": "Dividing up Metropolises - Modelling Rent prices across the globe"},
+        "descr": {
+          "en": [
+            "Moving to a new city with your two poodles and a pianist grandma- what is the best neighbourhood for renting a place? While moving with your grandma might not be really relatable for many - we all have some very specific requirements when selecting a place to live. How to solve the nested comparison problem apartments - neighbourhoods - cities that matches your specific requirements? In the devclub we’ll tell you about the data and the science that went into creating an off the shelf solution for finding optimal place that matches your budget."
+          ]
+        }
       },
       {
         "org": {"cam": ["gbeskin"], "edit": ["klinnik"]},
         "youtube": ["15u57Z8Go7U"], "lang": "en",
+        "labels": ["reactive", "functional", "concurrency", "parallelism"],
         "speakers": [{
           "image": "atavgen.jpg",
           "names": {"*": "Aleksandr Tavgen", "ru": "Александр Тавген"},
@@ -234,11 +250,18 @@
       {
         "org": {"cam": ["gbeskin"], "edit": ["klinnik"]},
         "youtube": ["CVVUeAAlGNE"], "lang": "en",
+        "labels": ["privacy", "gdpr"],
         "speakers": [{
+          "image": "ksolovjovs.jpg",
           "names": {"*": "Kirils Solovjovs"},
           "titles": {"*": "Worker @ Possible Security (Latvia)"}
         }],
-        "titles": {"*": "Toll of personal privacy in 2018"}
+        "titles": {"*": "Toll of personal privacy in 2018"},
+        "descr": {
+          "en": [
+            "What doesn't mean (and cost) to have a personal privacy? Why anyone would ever need that? What are consequences of stealing your digital persona? Is GDPR here for good or not? There are more and more questions raising and Kirils will try to answer all of them based on personal experience."
+          ]
+        }
       }
     ]
   },
@@ -256,7 +279,9 @@
       {
         "org": {"cam": ["gbeskin"], "edit": ["klinnik"]},
         "youtube": ["4oPKVuO-Lnw"], "lang": "en",
+        "labels": ["image", "optimization"],
         "speakers": [{
+          "image": "dsillars.jpg",
           "names": {"*": "Doug Sillars"},
           "titles": {"*": "Web Google Developer Expert, author of O’Reilly’s “High Performance Android Apps”"}
         }],
@@ -270,7 +295,9 @@
       {
         "org": {"cam": ["gbeskin"], "edit": ["klinnik"]},
         "youtube": ["SZLuf5IKp7k"], "lang": "en",
+        "labels": ["engineering", "data"],
         "speakers": [{
+          "image": "lkoobas.jpg",
           "names": {"*": "Lauri Koobas"},
           "titles": {"*": "Data Warehouse Engineer @ Starship Technologies"}
         }],
@@ -297,6 +324,7 @@
         "org": {"cam": ["jgoloborodko"], "edit": ["jgoloborodko"]},
         "youtube": ["GQUtbBl2dIs"], "lang": "en",
         "speakers": [{
+          "image": "pvaryukhichev.jpg",
           "names": {"*": "Pavel Varyukhichev"}
         }],
         "titles": {"*": "Achieving low latency communication between services and robots"},
@@ -310,10 +338,12 @@
         "org": {"cam": ["jgoloborodko"], "edit": ["klinnik"]},
         "youtube": ["OJGG6CvIUQc"], "lang": "en",
         "speakers": [{
-            "names": {"*": "Jaanus Soots"}
-          },
-          {
-            "names": {"*": "Vitalii Lakusta"}
+          "image": "jsoots.jpg",
+          "names": {"*": "Jaanus Soots"}
+        },
+        {
+          "image": "vlakusta.jpg",
+          "names": {"*": "Vitalii Lakusta"}
         }],
         "titles": {"*": "Robot scheduling challenges compare to taxi orchestration"},
         "descr": {
@@ -326,6 +356,7 @@
         "org": {"cam": ["jgoloborodko"], "edit": ["klinnik"]},
         "youtube": ["6lh8oIDGmgE"], "lang": "en",
         "speakers": [{
+          "image": "iots.jpg",
           "names": {"*": "Indrek Ots"}
         }],
         "titles": {"*": "Consumer Driven Contract Testing"},
@@ -354,6 +385,7 @@
         "org": {"cam": ["ijaama"]},
         "youtube": ["ESLF8sl86L4"], "lang": "en",
         "speakers": [{
+          "image": "nsalnikov.jpg",
           "names": {"*": "Nikita Salnikov-Tarnovski"},
           "titles": {"*": "CTO @ Plumbr"}
         }],
@@ -363,6 +395,7 @@
         "org": {"cam": ["ijaama"]},
         "youtube": ["M6-2XSPSy5Y"], "lang": "en",
         "speakers": [{
+          "image": "mkuldma.jpg",
           "names": {"*": "Martti Kuldma"},
           "titles": {"*": "Head of Software Development"}
         }],
@@ -372,6 +405,7 @@
         "org": {"cam": ["ijaama"]},
         "youtube": ["ro4F57ReTyo"], "lang": "en",
         "speakers": [{
+          "image": "vramani.jpg",
           "names": {"*": "Vinay Ramani"},
           "titles": {"*": "Chief Product Officer @ Pipedrive"}
         }],
@@ -394,8 +428,9 @@
         "org": {"cam": ["gbeskin"], "edit": ["aarhipov"]},
         "youtube": ["1eU5YX7Xer8"], "lang": "en",
         "speakers": [{
-            "names": {"*": "Anton Arhipov"}
-          }],
+          "image": "aarhipov.jpg",
+          "names": {"*": "Anton Arhipov"}
+        }],
         "titles": {"*": "IntelliJ IDEA Tips & Tricks"},
         "descr": {
           "en": [
@@ -407,8 +442,9 @@
         "org": {"cam": ["gbeskin"], "edit": ["astalnuhhin"]},
         "youtube": ["TDbPuqCRGqc"], "lang": "en",
         "speakers": [{
-            "names": {"*": "Valeri Tverdohleb"}
-          }],
+          "image": "vtverdohleb.jpg",
+          "names": {"*": "Valeri Tverdohleb"}
+        }],
         "titles": {"*": "Technical who?"},
         "descr": {
           "en": [
@@ -433,8 +469,9 @@
         "org": {"cam": ["ijaama"]},
         "youtube": ["Yp514DrnX-c"], "lang": "en",
         "speakers": [{
-            "names": {"*": "Erik Kaju"}
-          }],
+          "image": "ekaju.jpg",
+          "names": {"*": "Erik Kaju"}
+        }],
         "titles": {"*": "How to build a payment card product"},
         "descr": {
           "en": [
@@ -446,8 +483,9 @@
         "org": {"cam": ["ijaama"]},
         "youtube": ["Q-tkHJYY09U"], "lang": "en",
         "speakers": [{
-            "names": {"*": "Dmitry Buzdin"}
-          }],
+          "image": "dbuzdin.jpg",
+          "names": {"*": "Dmitry Buzdin"}
+        }],
         "titles": {"*": "How payment cards really work"},
         "descr": {
           "en": [
@@ -459,8 +497,9 @@
         "org": {"cam": ["ijaama"]},
         "youtube": ["Zm02wrli6uc"], "lang": "en",
         "speakers": [{
-            "names": {"*": "Anton Arhipov"}
-          }],
+          "image": "aarhipov.jpg",
+          "names": {"*": "Anton Arhipov"}
+        }],
         "titles": {"*": "Kotlin DSL in under an hour"},
         "descr": {
           "en": [
