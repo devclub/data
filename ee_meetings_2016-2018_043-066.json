@@ -18,8 +18,7 @@
           {
             "names": {"*": "Jouni Huttunen"},
             "titles": {"*": "@ Solita"},
-            "url": "",
-            "image": ""
+            "image": "jhuttunen.jpg"
           }
         ],
         "titles": {"*": "Hardening web app security, or how to pass security audits with flying colors"},
@@ -37,8 +36,7 @@
           {
             "names": {"*": "Ali Baloi"},
             "titles": {"*": "@ Mindworks Industries"},
-            "url": "",
-            "image": ""
+            "image": "abaloi.jpg"
           }
         ],
         "titles": {"*": "What helps developer on the way of becoming a project manager"},
@@ -71,14 +69,12 @@
           {
             "names": {"*": "Megha Bangalore"},
             "titles": {"*": "Firebase Technical Lead @ Google"},
-            "url": "",
-            "image": ""
+            "image": "mbangalore.jpg"
           },
           {
             "names": {"*": "Shannon McCabe"},
             "titles": {"*": "Firebase Developer @ Google"},
-            "url": "",
-            "image": ""
+            "image": "smccabe.jpg"
           }
         ],
         "titles": {"*": "Introduction to Firebase"},
@@ -96,14 +92,12 @@
           {
             "names": {"*": "Megha Bangalore"},
             "titles": {"*": "Firebase Technical Lead @ Google"},
-            "url": "",
-            "image": ""
+            "image": "mbangalore.jpg"
           },
           {
             "names": {"*": "Shannon McCabe"},
             "titles": {"*": "Firebase Developer @ Google"},
-            "url": "",
-            "image": ""
+            "image": "smccabe.jpg"
           }
         ],
         "titles": {"*": "Firebase Machine Learning Tutorial"},
@@ -134,8 +128,7 @@
           {
             "names": {"*": "Erik Jõgi"},
             "titles": {"*": "@ Codeborne"},
-            "url": "",
-            "image": ""
+            "image": "ejogi.jpg"
           }
         ],
         "titles": {"*": "Messaging. A different perspective"},
@@ -153,8 +146,7 @@
           {
             "names": {"*": "Anton Keks"},
             "titles": {"*": "@ Codeborne"},
-            "url": "",
-            "image": ""
+            "image": "akeks.jpg"
           }
         ],
         "titles": {"*": "Kotlin puzzlers"},
@@ -172,14 +164,12 @@
           {
             "names": {"*": "Anton Keks"},
             "titles": {"*": "@ Codeborne"},
-            "url": "",
-            "image": ""
+            "image": "akeks.jpg"
           },
           {
             "names": {"*": "Andrei Solntsev"},
             "titles": {"*": "@ Codeborne"},
-            "url": "",
-            "image": ""
+            "image": "asolntsev.jpg"
           }
         ],
         "titles": {"*": "Pair-programming demo"},
@@ -211,8 +201,7 @@
           {
             "names": {"*": "Peeter Marvet"},
             "titles": {"*": "Data Protection Officer @ zone.ee"},
-            "url": "",
-            "image": ""
+            "image": "pmarvet.jpg"
           }
         ],
         "titles": {"*": "Chiropraxis PHP - let me feel the stress of your application and make it perform again"},
@@ -230,8 +219,7 @@
           {
             "names": {"*": "Ervin Weber"},
             "titles": {"*": ""},
-            "url": "",
-            "image": ""
+            "image": "eweber.jpg"
           }
         ],
         "titles": {"*": "Hacking on emails"},
@@ -262,8 +250,7 @@
           {
             "names": {"*": "Kirils Solovjovs"},
             "titles": {"*": "IT security expert @ Possible Security (Latvia)"},
-            "url": "",
-            "image": ""
+            "image": "ksolovjovs.jpg"
           }
         ],
         "titles": {"*": "Reverse engineering basics"},
@@ -281,8 +268,7 @@
           {
             "names": {"*": "Misha Beshkin"},
             "titles": {"*": "Founder @ KosherDev"},
-            "url": "",
-            "image": ""
+            "image": "mbeshkin.jpg"
           }
         ],
         "titles": {"*": "Mobile text recognition from image"},
@@ -314,7 +300,7 @@
             "names": {"*": "Sara Robinson"},
             "titles": {"*": "Developer Advocate @ Google’s Cloud Platform team"},
             "url": "https://2018.geekout.ee/sara-robinson/",
-            "image": ""
+            "image": "srobinson.jpg"
           }
         ],
         "titles": {"*": "Text analysis: from pre-trained APIs to custom models"},
@@ -333,7 +319,7 @@
             "names": {"*": "Chris Thalinger"},
             "titles": {"*": "Software engineer"},
             "url": "https://2018.geekout.ee/chris-thalinger/",
-            "image": ""
+            "image": "cthalinger.jpg"
           }
         ],
         "titles": {"*": "Twitter's quest for wholly Graal"},
@@ -364,8 +350,7 @@
           {
             "names": {"*": "Miguel Caron"},
             "titles": {"*": "Head of Baltic Studios @ Gamesys"},
-            "url": "",
-            "image": ""
+            "image": "mcaron.jpg"
           }
         ],
         "titles": {"*": "Building a culture that can survive any obstacle"},
@@ -383,8 +368,7 @@
           {
             "names": {"*": "Peeter Marvet"},
             "titles": {"*": "Data Protection Officer @ zone.ee"},
-            "url": "",
-            "image": ""
+            "image": "pmarvet.jpg"
           }
         ],
         "titles": {"*": "I checked your code and you not gonna believe what I found there"},
@@ -414,8 +398,7 @@
           {
             "names": {"*": "Aleksandr Panshin"},
             "titles": {"*": "Backend Developer @ Vaimo"},
-            "url": "",
-            "image": ""
+            "image": "apanshin.jpg"
           }
         ],
         "titles": {"*": "Being framework agnostic"},
@@ -433,8 +416,7 @@
           {
             "names": {"*": "Kirill Linnik"},
             "titles": {"*": "Senior Software Architect @ Topia"},
-            "url": "",
-            "image": ""
+            "image": "klinnik.jpg"
           }
         ],
         "titles": {"*": "GDPR and kittens"},
@@ -664,14 +646,22 @@
       {
         "org": {"cam": ["ijaama", "vsiilbek"]},
         "youtube": ["pHPl6DTVTbs"],
-        "speakers": [{"names": {"*": "Dmitri Dorofejev"}, "titles": {"*": "Java team lead @ Playtech"}}],
+        "speakers": [{
+          "names": {"*": "Dmitri Dorofejev"}, 
+          "titles": {"*": "Java team lead @ Playtech"},
+          "image": "ddorofejev.jpg"
+        }],
         "titles": {"en": "Cross-platform protocol design with Google Protocol Buffers"},
         "lang": "en"
       },
       {
         "org": {"cam": ["ijaama", "vsiilbek"]},
         "youtube": ["w4z4uYmn688"],
-        "speakers": [{"names": {"*": "Joonathan Mägi"}, "titles": {"*": "Technical Lead @ MOVE Guides"}}],
+        "speakers": [{
+          "names": {"*": "Joonathan Mägi"}, 
+          "titles": {"*": "Technical Lead @ MOVE Guides"},
+          "image": "jmagi.jpg"
+        }],
         "titles": {"en": "From 0 to 60 with Kubernetes and Istio"},
         "descr": {"en": ["Setting up a cluster and running your first micro-services on Kubernetes and Istio."]},
         "lang": "en"
@@ -692,7 +682,11 @@
       {
         "org": {"cam": ["ijaama", "vsiilbek"]},
         "youtube": ["3I8kY-UfFDI"],
-        "speakers": [{"names": {"*": "Dmitry Zhukov"}, "titles": {"*": "Product engineer @ TransferWise"}}],
+        "speakers": [{
+          "names": {"*": "Dmitry Zhukov"}, 
+          "titles": {"*": "Product engineer @ TransferWise"},
+          "image": "dzhukov.jpg"
+        }],
         "titles": {"en": "Apache Spark 1.6-2.2: Testing in Production"},
         "descr": {
           "en": [
@@ -704,7 +698,11 @@
       {
         "org": {"cam": ["ijaama", "vsiilbek"]},
         "youtube": ["Z9qIDr8hVAE"],
-        "speakers": [{"names": {"*": "Filipp Keks"}, "titles": {"*": "Software engineer @ Wolf3D"}}],
+        "speakers": [{
+          "names": {"*": "Filipp Keks"}, 
+          "titles": {"*": "Software engineer @ Wolf3D"},
+          "image": "fkeks.jpg"
+        }],
         "titles": {"en": "Horrors of mobile graphics"},
         "descr": {
           "en": [
@@ -716,7 +714,11 @@
       {
         "org": {"cam": ["ijaama", "vsiilbek"]},
         "youtube": ["XE5PPtrSNQ8"],
-        "speakers": [{"names": {"*": "Erkki Alamäe"}, "titles": {"*": "Senior System analyst @ Nortal"}}],
+        "speakers": [{
+          "names": {"*": "Erkki Alamäe"},
+          "titles": {"*": "Senior System analyst @ Nortal"},
+          "image": "ealamae.jpg"
+        }],
         "titles": {"en": "What can you do with data?"},
         "descr": {
           "en": [
@@ -741,7 +743,11 @@
       {
         "org": {"cam": ["ijaama", "vsiilbek"]},
         "youtube": ["JhM2NvcfnVY"],
-        "speakers": [{"names": {"*": "Steve Giles"}, "titles": {"*": "VP Engineering"}}],
+        "speakers": [{
+          "names": {"*": "Steve Giles"}, 
+          "titles": {"*": "VP Engineering"},
+          "image": "sgiles.jpg"
+        }],
         "titles": {"en": "Technical challenges of building SaaS software for Fortune 500 customers"},
         "descr": {
           "en": [
@@ -753,7 +759,11 @@
       {
         "org": {"cam": ["ijaama", "vsiilbek"]},
         "youtube": ["6KzMYkxTo20"],
-        "speakers": [{"names": {"*": "Hendrik Kaju"}, "titles": {"*": "Front-end engineer"}}],
+        "speakers": [{
+          "names": {"*": "Hendrik Kaju"}, 
+          "titles": {"*": "Front-end engineer"},
+          "image": "hkaju.jpg"
+        }],
         "titles": {"en": "Componentized Frontend Architecture"},
         "descr": {
           "en": [
@@ -765,7 +775,11 @@
       {
         "org": {"cam": ["ijaama", "vsiilbek"]},
         "youtube": ["iz6MJ2QGBg0"],
-        "speakers": [{"names": {"*": "Joonathan Mägi"}, "titles": {"*": "Tech Lead"}}],
+        "speakers": [{
+          "names": {"*": "Joonathan Mägi"}, 
+          "titles": {"*": "Tech Lead"},
+          "image": "jmagi.jpg"
+        }],
         "titles": {"en": "Security in the Age of Containers"},
         "descr": {
           "en": [
@@ -789,9 +803,11 @@
       {
         "org": {"cam": ["ijaama", "vsiilbek"]},
         "youtube": ["KDcEOhdGAF0"],
-        "speakers": [
-          {"names": {"*": "Kirill Slavetski"}, "titles": {"*": "Product designed and researcher @ Jobbatical"}}
-        ],
+        "speakers": [{
+          "names": {"*": "Kirill Slavetski"}, 
+          "titles": {"*": "Product designed and researcher @ Jobbatical"},
+          "image": "kslavetski.jpg"
+        }],
         "titles": {"en": "Using design sprint method in a product company"},
         "descr": {
           "en": [
@@ -803,7 +819,11 @@
       {
         "org": {"cam": ["ijaama", "vsiilbek"]},
         "youtube": ["yHd06oUVXSg"],
-        "speakers": [{"names": {"*": "Andres Ivanov"}, "titles": {"*": "Head of Infrastructure @ Inbank"}}],
+        "speakers": [{
+          "names": {"*": "Andres Ivanov"}, 
+          "titles": {"*": "Head of Infrastructure @ Inbank"},
+          "image": "aivanov.jpg"
+        }],
         "titles": {"en": "Infrastructure as code with AWS CloudFormation"},
         "descr": {
           "en": [
@@ -834,7 +854,11 @@
           "en": "No meeting recording on camera. No video.",
           "et": "Kohtumise salvestamine kaamerasse ei toimunud. Videot pole."
         },
-        "speakers": [{"names": {"*": "Martin Kiuru"}, "titles": {"*": "CTO @ Make IT Work"}}],
+        "speakers": [{
+          "names": {"*": "Martin Kiuru"}, 
+          "titles": {"*": "CTO @ Make IT Work"},
+          "image": "mkiuru.jpg"
+        }],
         "titles": {"en": "How to become an entrepreneur: the story of a software developer"},
         "descr": {"en": ["About choices, opportunities, obstacles and dangers on a way to own company."]},
         "lang": "en"
@@ -845,9 +869,11 @@
           "en": "No meeting recording on camera. No video.",
           "et": "Kohtumise salvestamine kaamerasse ei toimunud. Videot pole."
         },
-        "speakers": [
-          {"names": {"*": "Kalle Volkov"}, "titles": {"*": "Head of Server Services @ Starship Technologies"}}
-        ],
+        "speakers": [{
+          "names": {"*": "Kalle Volkov"}, 
+          "titles": {"*": "Head of Server Services @ Starship Technologies"},
+          "image": "kvolkov.jpg"
+        }],
         "titles": {"en": "From 3000 to 500 (ms) - nature to action"},
         "descr": {
           "en": [
@@ -872,14 +898,20 @@
       {
         "org": {"cam": ["ijaama", "vsiilbek"], "orig": ["https://www.youtube.com/watch?v=jJ3Q5DSGMFI"], "origViews": 73},
         "youtube": ["jJ3Q5DSGMFI"],
-        "speakers": [{"names": {"*": "Kristo Kaiv"}}],
+        "speakers": [{
+          "names": {"*": "Kristo Kaiv"},
+          "image": "kkaiv.jpg"
+        }],
         "titles": {"en": "Pains & Gains of microservices"},
         "lang": "en"
       },
       {
         "org": {"cam": ["ijaama", "vsiilbek"], "orig": ["https://www.youtube.com/watch?v=nlEnnddGIc0"], "origViews": 43},
         "youtube": ["nlEnnddGIc0"],
-        "speakers": [{"names": {"*": "Konstantin Root"}}],
+        "speakers": [{
+          "names": {"*": "Konstantin Root"},
+          "image": "kroot.jpg"
+        }],
         "titles": {"en": "How to start running: myths and data science"},
         "lang": "en"
       }
@@ -899,14 +931,20 @@
       {
         "org": {"cam": ["ijaama", "vsiilbek"], "orig": ["https://www.youtube.com/watch?v=ziQZD-wehPE"], "origViews": 174},
         "youtube": ["NjefBzv9L50"],
-        "speakers": [{"names": {"*": "Anton Arhipov"}}],
+        "speakers": [{
+          "names": {"*": "Anton Arhipov"},
+          "image": "aarhipov.jpg"
+        }],
         "titles": {"en": "Inadequate Java interview"},
         "lang": "en"
       },
       {
         "org": {"cam": ["ijaama", "vsiilbek"], "orig": ["https://www.youtube.com/watch?v=hTCt1Pyh9ic"], "origViews": 317},
         "youtube": ["SxRfRi8Xs90"],
-        "speakers": [{"names": {"*": "Erik Kaju"}}],
+        "speakers": [{
+          "names": {"*": "Erik Kaju"},
+          "image": "ekaju.jpg"
+        }],
         "titles": {"en": "Cards & payment methods lead @ TransferWise"},
         "lang": "en"
       }
@@ -926,7 +964,10 @@
       {
         "org": {"cam": ["ijaama"], "orig": ["https://www.youtube.com/watch?v=44EO0ICnw9Q"], "origViews": 50},
         "youtube": ["1oTgz-1kx4A"],
-        "speakers": [{"names": {"*": "Artur Schaback"}}],
+        "speakers": [{
+          "names": {"*": "Artur Schaback"},
+          "image": "aschaback.jpg"
+        }],
         "titles": {"en": "Development Security for Peer to Peer Marketplaces"},
         "lang": "en"
       },
@@ -936,7 +977,10 @@
           "en": "No video by speaker request.",
           "et": "Video puudub kõneleja soovil."
         },
-        "speakers": [{"names": {"*": "Benjamin André Micolon"}}],
+        "speakers": [{
+          "names": {"*": "Benjamin André Micolon"},
+          "image": "bamicolon.jpg"
+        }],
         "titles": {"en": "GraphQL: what it is, why use it and how it helps us at Palleter"},
         "lang": "en"
       }
@@ -956,14 +1000,23 @@
       {
         "org": {"cam": ["ijaama"], "orig": ["https://www.youtube.com/watch?v=wi1d1YgSAcE"], "origViews": 192},
         "youtube": ["2Ov5yehFuOc"],
-        "speakers": [{"names": {"*": "Matti Jagula"}}, {"names": {"*": "Raido Kaldma"}}],
+        "speakers": [{
+          "names": {"*": "Matti Jagula"},
+          "image": "mjagula.jpg"
+        }, {
+          "names": {"*": "Raido Kaldma"},
+          "image": "rkaldma.jpg"
+        }],
         "titles": {"en": "Developing a desktop application in Javascript"},
         "lang": "en"
       },
       {
         "org": {"cam": ["ijaama"], "orig": ["https://www.youtube.com/watch?v=MANmZ1ZwCfI"], "origViews": 180},
         "youtube": ["Jwy5_98Z-QI"],
-        "speakers": [{"names": {"*": "Konstantin Root"}}],
+        "speakers": [{
+          "names": {"*": "Konstantin Root"},
+          "image": "kroot.jpg"
+        }],
         "titles": {"en": "Securing website with HTTP headers"},
         "lang": "en"
       }
@@ -983,14 +1036,20 @@
       {
         "org": {"cam": ["ijaama"], "orig": ["https://www.youtube.com/watch?v=F9kTzGaTmok"], "origViews": 143},
         "youtube": ["opwxpjbLXXg"],
-        "speakers": [{"names": {"*": "Tõnis Pihlakas"}}],
+        "speakers": [{
+          "names": {"*": "Tõnis Pihlakas"},
+          "image": "tpihlakas.jpg"
+        }],
         "titles": {"en": "Weaving Web Applications with Apache Tapestry"},
         "lang": "en"
       },
       {
         "org": {"cam": ["ijaama"], "orig": ["https://www.youtube.com/watch?v=jk_uvt9zP7g"], "origViews": 82},
         "youtube": ["xxkab1PSNUc"],
-        "speakers": [{"names": {"*": "Villu Vaimets"}}],
+        "speakers": [{
+          "names": {"*": "Villu Vaimets"},
+          "image": "vvaimets.jpg"
+        }],
         "titles": {"en": "Implementing an intelligent form engine"},
         "lang": "en"
       }
@@ -1009,21 +1068,33 @@
       {
         "org": {"cam": ["ijaama"], "orig": ["https://www.youtube.com/watch?v=9mXO6-nN4sU"], "origViews": 423},
         "youtube": ["TPdlULD-DCo"],
-        "speakers": [{"names": {"*": "Erko Risthein"}}],
+        "speakers": [{
+          "names": {"*": "Erko Risthein"},
+          "image": "eristhein.jpg"
+        }],
         "titles": {"en": "Risk@TransferWise"},
         "lang": "en"
       },
       {
         "org": {"cam": ["ijaama"], "orig": ["https://www.youtube.com/watch?v=x6MUptcLB7g"], "origViews": 696},
         "youtube": ["AN1kbLAnOyQ"],
-        "speakers": [{"names": {"*": "Dmitry Zhukov"}}, {"names": {"*": "Maksims Juvcenko"}}],
+        "speakers": [{
+          "names": {"*": "Dmitry Zhukov"},
+          "image": "dzhukov.jpg"
+        }, {
+          "names": {"*": "Maksims Juvcenko"},
+          "image": "mjuvcenko.jpg"
+        }],
         "titles": {"en": "Fraud Detection in PHP: Ascending from Hell"},
         "lang": "en"
       },
       {
         "org": {"cam": ["ijaama"], "orig": ["https://www.youtube.com/watch?v=9hz2HlClZaw"], "origViews": 160},
         "youtube": ["Pii2EHcmsHI"],
-        "speakers": [{"names": {"*": "Stanislav Gorski"}}],
+        "speakers": [{
+          "names": {"*": "Stanislav Gorski"},
+          "image": "sgorski.jpg"
+        }],
         "titles": {"en": "AWS Lambda in Your Stack"},
         "lang": "en"
       }
@@ -1043,14 +1114,20 @@
       {
         "org": {"cam": ["ijaama"], "orig": ["https://www.youtube.com/watch?v=jHpnU8eDH9o"], "origViews": 2693},
         "youtube": ["y2Dpj4QElv4"],
-        "speakers": [{"names": {"*": "Martin Tajur"}}],
+        "speakers": [{
+          "names": {"*": "Martin Tajur"},
+          "image": "mtajur.jpg"
+        }],
         "titles": {"en": "Queues, queues, queues. How RabbitMQ enables reactive architectures"},
         "lang": "en"
       },
       {
         "org": {"cam": ["ijaama"], "orig": ["https://www.youtube.com/watch?v=BcnnOfpPiN0"], "origViews": 390},
         "youtube": ["wlOcp_-4280"],
-        "speakers": [{"names": {"*": "Anton Keks"}}],
+        "speakers": [{
+          "names": {"*": "Anton Keks"},
+          "image": "akeks.jpg"
+        }],
         "titles": {"en": "Digital Signatures: Estonia vs The World"},
         "lang": "en"
       }
