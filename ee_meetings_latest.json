@@ -14,6 +14,7 @@
       {
         "org": {"cam": ["ijaama"]},
         "youtube": [""], "lang": "en",
+        "labels": ["security"],
         "speakers": [{
             "image": "margus-ernits.jpeg",
             "names": {"*": "Margus Ernits"},
@@ -30,6 +31,7 @@
       {
         "org": {"cam": ["ijaama"]},
         "youtube": [""], "lang": "en",
+        "labels": ["management"],
         "speakers": [{
             "image": "miguel.jpeg",
             "names": {"*": "Miguel Caron"},
