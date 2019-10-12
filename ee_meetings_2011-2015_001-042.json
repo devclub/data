@@ -12,14 +12,20 @@
       {
         "org": {"cam": ["ijaama", "akozlov"], "orig": ["https://www.youtube.com/watch?v=D5g9i-ZjnNs"], "origViews": 120},
         "youtube": ["rkJUZ6gF92Q"],
-        "speakers": [{"names": {"*": "Stanislav Gorski"}}],
+        "speakers": [{
+          "names": {"*": "Stanislav Gorski"},
+          "image": "sgorski.jpg"
+        }],
         "titles": {"en": "Running Docker containers in Amazon AWS"},
         "lang": "en"
       },
       {
         "org": {"cam": ["ijaama", "akozlov"], "orig": ["https://www.youtube.com/watch?v=wfjgzrJLOLM"], "origViews": 169},
         "youtube": ["ubHkcdT3V5o"],
-        "speakers": [{"names": {"*": "Martin Paroll"}}],
+        "speakers": [{
+          "names": {"*": "Martin Paroll"},
+          "image": "mparoll.jpg"
+        }],
         "titles": {"en": "Birds and bees and everything I like. Intro to craft brewing"},
         "lang": "en"
       },
@@ -30,7 +36,10 @@
           "en": "Video is closed for viewing by CondeNast request.",
           "et": "Video on kinni CondeNast soovil."
         },
-        "speakers": [{"names": {"*": "Kaido Koort"}}],
+        "speakers": [{
+          "names": {"*": "Kaido Koort"},
+          "image": "kkoort.jpg"
+        }],
         "titles": {"en": "Securing SWD"},
         "lang": "en"
       }
@@ -53,7 +62,13 @@
           "en": "No meeting recording on camera. No video.",
           "et": "Kohtumise salvestamine kaamerasse ei toimunud. Videot pole."
         },
-        "speakers": [{"names": {"*": "Taivo Tender"}}, {"names": {"*": "Risto Reinpõld"}}],
+        "speakers": [{
+          "names": {"*": "Taivo Tender"},
+          "image": "ttender.jpg"
+        }, {
+          "names": {"*": "Risto Reinpõld"},
+          "image": "rreinpold.jpg"
+        }],
         "titles": {"en": "How we use the Big Data to evaluate, fund and trade startup investments"},
         "lang": "en"
       },
@@ -63,7 +78,10 @@
           "en": "No meeting recording on camera. No video.",
           "et": "Kohtumise salvestamine kaamerasse ei toimunud. Videot pole."
         },
-        "speakers": [{"names": {"*": "Asko Tiidumaa"}}],
+        "speakers": [{
+          "names": {"*": "Asko Tiidumaa"},
+          "image": "atiidumaa.jpg"
+        }],
         "titles": {"en": "That's lovely. Now scale it up!"},
         "lang": "en"
       }
@@ -86,7 +104,10 @@
           "en": "No meeting recording on camera. No video.",
           "et": "Kohtumise salvestamine kaamerasse ei toimunud. Videot pole."
         },
-        "speakers": [{"names": {"*": "Wilko Nienhaus"}}],
+        "speakers": [{
+          "names": {"*": "Wilko Nienhaus"},
+          "image": "wnienhaus.jpg"
+        }],
         "titles": {"en": "High Availability with Pacemaker"},
         "lang": "en"
       },
@@ -96,7 +117,10 @@
           "en": "No meeting recording on camera. No video.",
           "et": "Kohtumise salvestamine kaamerasse ei toimunud. Videot pole."
         },
-        "speakers": [{"names": {"*": "Martin Kiuru"}}],
+        "speakers": [{
+          "names": {"*": "Martin Kiuru"},
+          "image": "mkiuru.jpg"
+        }],
         "titles": {"en": "HFT or How deep the rabbit hole goes?"},
         "lang": "en"
       }
@@ -115,14 +139,20 @@
       {
         "org": {"cam": ["ijaama", "akozlov"], "orig": ["https://www.youtube.com/watch?v=l6VegLWk6sg"], "origViews": 78},
         "youtube": ["tY8_ciWYrhc"],
-        "speakers": [{"names": {"*": "Jaan Pullerits"}}],
+        "speakers": [{
+          "names": {"*": "Jaan Pullerits"},
+          "image": "jpullerits.jpg"
+        }],
         "titles": {"en": "How to Dramatically Increase The Delivery Speed of an IT Company?"},
         "lang": "en"
       },
       {
         "org": {"cam": ["ijaama", "akozlov"], "orig": ["https://www.youtube.com/watch?v=IqYKSOycfm4"], "origViews": 388},
         "youtube": ["Igjckkq0EGo"],
-        "speakers": [{"names": {"*": "Oleg Mürk"}}],
+        "speakers": [{
+          "names": {"*": "Oleg Mürk"},
+          "image": "omurk.jpg"
+        }],
         "titles": {"en": "Big Data, Hadoop & Spark Intro"},
         "lang": "en"
       }
@@ -144,7 +174,10 @@
           "en": "No meeting recording on camera. No video.",
           "et": "Kohtumise salvestamine kaamerasse ei toimunud. Videot pole."
         },
-        "speakers": [{"names": {"*": "Dr. Venkat Subramaniam"}}],
+        "speakers": [{
+          "names": {"*": "Dr. Venkat Subramaniam"},
+          "image": "vsubramaniam.jpg"
+        }],
         "titles": {"en": "Being Lazy—Lazy Evaluations and how it impacts Efficiency"},
         "lang": "en"
       },
@@ -154,7 +187,10 @@
           "en": "No meeting recording on camera. No video.",
           "et": "Kohtumise salvestamine kaamerasse ei toimunud. Videot pole."
         },
-        "speakers": [{"names": {"*": "Evelin Andrespok"}}],
+        "speakers": [{
+          "names": {"*": "Evelin Andrespok"},
+          "image": "eandrespok.jpg"
+        }],
         "titles": {"en": "How to Make Remote Teams Work?"},
         "lang": "en"
       }
@@ -175,14 +211,20 @@
       {
         "org": {"cam": ["ijaama", "akozlov"], "orig": ["https://www.youtube.com/watch?v=P-41C-JsdF4"], "origViews": 3627},
         "youtube": ["QW3xOzXMy_0"],
-        "speakers": [{"names": {"*": "Matthew Feigal"}}],
+        "speakers": [{
+          "names": {"*": "Matthew Feigal"},
+          "image": "mfeigal.jpg"
+        }],
         "titles": {"en": "Kubernetes, Google Container Engine, and the Compute Continuum"},
         "lang": "en"
       },
       {
         "org": {"cam": ["ijaama", "akozlov"], "orig": ["https://www.youtube.com/watch?v=miSzpP3tdFU"], "origViews": 189},
         "youtube": ["D_nkUOkBbp8"],
-        "speakers": [{"names": {"*": "Jurģis Orups"}}],
+        "speakers": [{
+          "names": {"*": "Jurģis Orups"},
+          "image": "jorups.jpg"
+        }],
         "titles": {"en": "What it takes to become a database in the Cloud - NoSQL database?"},
         "lang": "en"
       }
@@ -202,14 +244,20 @@
       {
         "org": {"cam": ["ijaama", "akozlov"], "orig": ["https://www.youtube.com/watch?v=G-zy4i6F0lI"], "origViews": 6636},
         "youtube": ["KBhhmoCqIJ4"],
-        "speakers": [{"names": {"*": "Vasco Duarte"}}],
+        "speakers": [{
+          "names": {"*": "Vasco Duarte"},
+          "image": "vduarte.jpg"
+        }],
         "titles": {"en": "No estimates: how you can predict the release date of your project without estimating"},
         "lang": "en"
       },
       {
         "org": {"cam": ["ijaama", "akozlov"], "orig": ["https://www.youtube.com/watch?v=6-rZCC8BL_k"], "origViews": 939},
         "youtube": ["7OPXYnUIbyk"],
-        "speakers": [{"names": {"*": "Konstantin Root"}}],
+        "speakers": [{
+          "names": {"*": "Konstantin Root"},
+          "image": "kroot.jpg"
+        }],
         "titles": {"en": "Using Docker in development and production, is it as useful as the hype claims?"},
         "lang": "en"
       }
@@ -228,14 +276,20 @@
       {
         "org": {"cam": ["ijaama", "akozlov"], "orig": ["https://www.youtube.com/watch?v=ZsMzaiwcJLg"], "origViews": 285},
         "youtube": ["g0Jbh8fddao"],
-        "speakers": [{"names": {"*": "Märt Kalmo"}}],
+        "speakers": [{
+          "names": {"*": "Märt Kalmo"},
+          "image": "mkalmo.jpg"
+        }],
         "titles": {"en": "TDD for developers in non TDD software company"},
         "lang": "en"
       },
       {
         "org": {"cam": ["ijaama", "akozlov"], "orig": ["https://www.youtube.com/watch?v=L0plJK-5INo"], "origViews": 1656},
         "youtube": ["HkXQr33k_SE"],
-        "speakers": [{"names": {"*": "Stanislav Gorski"}}],
+        "speakers": [{
+          "names": {"*": "Stanislav Gorski"},
+          "image": "sgorski.jpg"
+        }],
         "titles": {"en": "Prototyping with Ruby on Rails"},
         "lang": "en"
       }
@@ -254,14 +308,23 @@
       {
         "org": {"cam": ["ijaama", "akozlov"], "orig": ["https://www.youtube.com/watch?v=iz6xOnJgQn8"], "origViews": 843},
         "youtube": ["Xr84WH6DX3Q"],
-        "speakers": [{"names": {"*": "Rain Johanson"}}],
+        "speakers": [{
+          "names": {"*": "Rain Johanson"},
+          "image": "rjohanson.jpg"
+        }],
         "titles": {"en": "A peek to Taxify engineering - behind the scenes"},
         "lang": "en"
       },
       {
         "org": {"cam": ["ijaama", "akozlov"], "orig": ["https://www.youtube.com/watch?v=lDv9lYCAniE"], "origViews": 2046},
         "youtube": ["O9LqnyzzH6I"],
-        "speakers": [{"names": {"*": "Maria Pääsuke"}}, {"names": {"*": "Maroš Kotula"}}],
+        "speakers": [{
+          "names": {"*": "Maria Pääsuke"},
+          "image": "mpaasuke.jpg"
+        }, {
+          "names": {"*": "Maroš Kotula"},
+          "image": "mkotula.jpg"
+        }],
         "titles": {"en": "Internet of things meets blockchain"},
         "lang": "en"
       }
@@ -280,14 +343,20 @@
       {
         "org": {"cam": ["ijaama", "akozlov"], "orig": ["https://www.youtube.com/watch?v=9_722LCX15w"], "origViews": 314},
         "youtube": ["mlSJvHDBNLU"],
-        "speakers": [{"names": {"*": "Mait Peekma"}}],
+        "speakers": [{
+          "names": {"*": "Mait Peekma"},
+          "image": "mpeekma.jpg"
+        }],
         "titles": {"en": "Do you think you can trust your logs?"},
         "lang": "en"
       },
       {
         "org": {"cam": ["ijaama", "akozlov"], "orig": ["https://www.youtube.com/watch?v=L_Y0rZxLsdk"], "origViews": 222},
         "youtube": ["k2LSbcRkuiQ"],
-        "speakers": [{"names": {"*": "Sven Varkel"}}],
+        "speakers": [{
+          "names": {"*": "Sven Varkel"},
+          "image": "svarkel.jpg"
+        }],
         "titles": {"en": "Can script save the world? Devops, data migration"},
         "lang": "et"
       }
@@ -307,21 +376,33 @@
       {
         "org": {"cam": ["ijaama", "akozlov"], "orig": ["https://www.youtube.com/watch?v=4ti7bOO2YCw"], "origViews": 145},
         "youtube": ["-X9tdApx0pI"],
-        "speakers": [{"names": {"*": "Asse Sauga"}}],
+        "speakers": [{
+          "names": {"*": "Asse Sauga"},
+          "image": "asauga.jpg"
+        }],
         "titles": {"en": "Bitcoin and Ethereum - software development opportunities and potential"},
         "lang": "en"
       },
       {
         "org": {"cam": ["ijaama", "akozlov"], "orig": ["https://www.youtube.com/watch?v=tis1bvAnLFc"], "origViews": 127},
         "youtube": ["wA-cwoK1Gwg"],
-        "speakers": [{"names": {"*": "Erik Jõgi"}}],
+        "speakers": [{
+          "names": {"*": "Erik Jõgi"},
+          "image": "ejogi.jpg"
+        }],
         "titles": {"en": "One more way to deliver better software: Sports"},
         "lang": "en"
       },
       {
         "org": {"cam": ["ijaama", "akozlov"], "orig": ["https://www.youtube.com/watch?v=i3IIr6Xcr54"], "origViews": 199},
         "youtube": ["9C2mgMlrjEw"],
-        "speakers": [{"names": {"*": "Matti Jagula"}}, {"names": {"*": "Taavi Tuisk"}}],
+        "speakers": [{
+          "names": {"*": "Matti Jagula"},
+          "image": "mjagula.jpg"
+        }, {
+          "names": {"*": "Taavi Tuisk"},
+          "image": "ttuisk.jpg"
+        }],
         "titles": {"en": "Auto-scaling a Rails application on AWS"},
         "lang": "en"
       }
@@ -341,14 +422,20 @@
       {
         "org": {"cam": ["akozlov"], "orig": ["https://www.youtube.com/watch?v=pm5QzhPj0dY"], "origViews": 271},
         "youtube": ["1Rn5lJxuRtI"],
-        "speakers": [{"names": {"*": "Asko Oja"}}],
+        "speakers": [{
+          "names": {"*": "Asko Oja"},
+          "image": "aoja.jpg"
+        }],
         "titles": {"en": "Making Fleep"},
         "lang": "en"
       },
       {
         "org": {"cam": ["akozlov"], "orig": ["https://www.youtube.com/watch?v=XyV7WNbM-rU"], "origViews": 199},
         "youtube": ["pLgQbhelS6U"],
-        "speakers": [{"names": {"*": "Wilko Nienhaus"}}],
+        "speakers": [{
+          "names": {"*": "Wilko Nienhaus"},
+          "image": "wnienhaus.jpg"
+        }],
         "titles": {"en": "Continuous Delivery"},
         "lang": "en"
       }
@@ -368,14 +455,23 @@
       {
         "org": {"cam": ["ijaama", "akozlov"], "orig": ["https://www.youtube.com/watch?v=uSFlpQ56meI"], "origViews": 578},
         "youtube": ["H3H1Omkf43o"],
-        "speakers": [{"names": {"*": "Jens Bussmann"}}, {"names": {"*": "Jens Kuehlers"}}],
+        "speakers": [{
+          "names": {"*": "Jens Bussmann"},
+          "image": "jbussmann.jpg"
+        }, {
+          "names": {"*": "Jens Kuehlers"},
+          "image": "jkuehlers.jpg"
+        }],
         "titles": {"en": "Big Data Analysis with the Google Cloud Platform"},
         "lang": "en"
       },
       {
         "org": {"cam": ["ijaama", "akozlov"], "orig": ["https://www.youtube.com/watch?v=rwxaoF3nAwM"]},
         "youtube": ["30tNpeBVFeM"],
-        "speakers": [{"names": {"*": "Jens Kuehlers"}}],
+        "speakers": [{
+          "names": {"*": "Jens Kuehlers"},
+          "image": "jkuehlers.jpg"
+        }],
         "titles": {"en": "Growth through innovation"},
         "lang": "en"
       }
@@ -395,7 +491,10 @@
       {
         "org": {"cam": ["akozlov"], "orig": ["https://www.youtube.com/watch?v=IokUNUEkkeY"], "origViews": 347},
         "youtube": ["ZAcLZd7I_m8"],
-        "speakers": [{"names": {"*": "Anton Arhipov"}}],
+        "speakers": [{
+          "names": {"*": "Anton Arhipov"},
+          "image": "aarhipov.jpg"
+        }],
         "titles": {"en": "Rebel Agents"},
         "lang": "en"
       },
@@ -405,7 +504,10 @@
           "en": "No video by speaker request.",
           "et": "Video puudub kõneleja soovil."
         },
-        "speakers": [{"names": {"*": "Stanislav Gorski"}}],
+        "speakers": [{
+          "names": {"*": "Stanislav Gorski"},
+          "image": "sgorski.jpg"
+        }],
         "titles": {"en": "Development process in Desk Rock. Why we don’t have any project managers"},
         "lang": "en"
       }
@@ -425,14 +527,19 @@
       {
         "org": {"cam": ["ijaama", "akozlov"], "orig": ["https://www.youtube.com/watch?v=0VgtM3xIfVs"]},
         "youtube": ["S_PzxK-1TRg"],
-        "speakers": [{"names": {"*": "Nikita Salnikov-Tarnovski"}}],
+        "speakers": [{
+          "names": {"*": "Nikita Salnikov-Tarnovski"},
+          "image": "nsalnikov.jpg"
+        }],
         "titles": {"en": "How Plumbr drips and flows"},
         "lang": "en"
       },
       {
         "org": {"cam": ["ijaama", "akozlov"], "orig": ["https://www.youtube.com/watch?v=Qobu6lAPc7U"]},
         "youtube": ["lfTMLCf3Ak8"],
-        "speakers": [{"names": {"*": "TransferWise"}}],
+        "speakers": [{
+          "names": {"*": "TransferWise"}
+        }],
         "titles": {"en": "Building an international payment engine - the good,the bad and the ugly"},
         "lang": "en"
       }
@@ -452,14 +559,20 @@
       {
         "org": {"cam": ["akozlov"]},
         "youtube": ["fo3Y6L8CUv4"],
-        "speakers": [{"names": {"*": "Filipp Keks"}}],
+        "speakers": [{
+          "names": {"*": "Filipp Keks"},
+          "image": "fkeks.jpg"
+        }],
         "titles": {"en": "Unity3D - explosion of indie game development"},
         "lang": "en"
       },
       {
         "org": {"cam": ["akozlov"]},
         "youtube": ["qh3P7T3nP0g"],
-        "speakers": [{"names": {"*": "Kristo Iila"}}],
+        "speakers": [{
+          "names": {"*": "Kristo Iila"},
+          "image": "kiila.jpg"
+        }],
         "titles": {"en": "Marinexplore - The Ocean's Big Data Platform"},
         "lang": "en"
       }
@@ -479,7 +592,10 @@
       {
         "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/91657625"], "origViews": 194},
         "youtube": ["uYvnyF_4eO0"],
-        "speakers": [{"names": {"*": "Anton Keks"}}],
+        "speakers": [{
+          "names": {"*": "Anton Keks"},
+          "image": "akeks.jpg"
+        }],
         "titles": {"en": "Apache Cordova"},
         "lang": "en"
       },
@@ -490,7 +606,10 @@
           "et": "Video on kinni kõneleja soovil."
         },
         "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/92818092"]},
-        "speakers": [{"names": {"*": "Pärtel Tomberg"}}],
+        "speakers": [{
+          "names": {"*": "Pärtel Tomberg"},
+          "image": "ptomberg.jpg"
+        }],
         "titles": {"en": "About isePankur"},
         "lang": "en"
       }
@@ -509,35 +628,50 @@
       {
         "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/85442022"], "origViews": 224},
         "youtube": ["1i4xq6uIZ1M"],
-        "speakers": [{"names": {"*": "Rain Johanson"}}],
+        "speakers": [{
+          "names": {"*": "Rain Johanson"},
+          "image": "rjohanson.jpg"
+        }],
         "titles": {"en": "TransferWise"},
         "lang": "et"
       },
       {
         "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/85442023"], "origViews": 172},
         "youtube": ["VkTqC1OupAA"],
-        "speakers": [{"names": {"*": "Ethel Voites"}}],
+        "speakers": [{
+          "names": {"*": "Ethel Voites"},
+          "image": "evoites.jpg"
+        }],
         "titles": {"en": "Go Work A Bit"},
         "lang": "et"
       },
       {
         "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/82581295"], "origViews": 122},
         "youtube": ["QNVzOPfPkwc"],
-        "speakers": [{"names": {"*": "Heldin Rikk"}}],
+        "speakers": [{
+          "names": {"*": "Heldin Rikk"},
+          "image": "hrikk.jpg"
+        }],
         "titles": {"en": "Icebreaker cards - kick-starter teie retrospektiivi jaoks"},
         "lang": "et"
       },
       {
         "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/82581296"], "origViews": 372},
         "youtube": ["3TVsBGYAnrU"],
-        "speakers": [{"names": {"*": "Jaan Pullerits"}}],
+        "speakers": [{
+          "names": {"*": "Jaan Pullerits"},
+          "image": "jpullerits.jpg"
+        }],
         "titles": {"en": "MYJAR"},
         "lang": "et"
       },
       {
         "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/82604791"], "origViews": 202},
         "youtube": ["sWdHFOAEEag"],
-        "speakers": [{"names": {"*": "Alek Kozlov"}}],
+        "speakers": [{
+          "names": {"*": "Alek Kozlov"},
+          "image": "akozlov.jpg"
+        }],
         "titles": {"en": "Õppimiskõverast - meie oskused ja väärtuse loomine"},
         "lang": "et"
       }
@@ -556,14 +690,20 @@
       {
         "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/75342143"], "origViews": 131},
         "youtube": ["3HuaRClMlmA"],
-        "speakers": [{"names": {"*": "Jason Bloomberg"}}],
+        "speakers": [{
+          "names": {"*": "Jason Bloomberg"},
+          "image": "jbloomberg.jpg"
+        }],
         "titles": {"en": "The Brave New World of IT"},
         "lang": "en"
       },
       {
         "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/75344223"], "origViews": 294},
         "youtube": ["ez1j3OA1FE0"],
-        "speakers": [{"names": {"*": "Taavi Lindmaa"}}],
+        "speakers": [{
+          "names": {"*": "Taavi Lindmaa"},
+          "image": "tlindmaa.jpg"
+        }],
         "titles": {"en": "Lean Startup machine and validation board"},
         "lang": "en"
       }
@@ -582,14 +722,20 @@
       {
         "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/72930881"], "origViews": 671},
         "youtube": ["DfTyldNARVU"],
-        "speakers": [{"names": {"*": "J.B. Rainsberger"}}],
+        "speakers": [{
+          "names": {"*": "J.B. Rainsberger"},
+          "image": "jrainsberger.jpg"
+        }],
         "titles": {"en": "How to adopt TDD safely?"},
         "lang": "en"
       },
       {
         "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/72931154"], "origViews": 203},
         "youtube": ["lqJ1CVQMCbw"],
-        "speakers": [{"names": {"*": "Andres Jaan Tack"}}],
+        "speakers": [{
+          "names": {"*": "Andres Jaan Tack"},
+          "image": "ajtack.jpg"
+        }],
         "titles": {"en": "Consistency, Availability, and Time"},
         "lang": "en"
       }
@@ -612,7 +758,10 @@
           "en": "No meeting recording on camera. No video.",
           "et": "Kohtumise salvestamine kaamerasse ei toimunud. Videot pole."
         },
-        "speakers": [{"names": {"*": "Andrei Solntsev"}}],
+        "speakers": [{
+          "names": {"*": "Andrei Solntsev"},
+          "image": "asolntsev.jpg"
+        }],
         "titles": {"en": "UI-TDD Workshop"},
         "lang": "et"
       },
@@ -622,7 +771,10 @@
           "en": "No meeting recording on camera. No video.",
           "et": "Kohtumise salvestamine kaamerasse ei toimunud. Videot pole."
         },
-        "speakers": [{"names": {"*": "Priit Tamboom"}}],
+        "speakers": [{
+          "names": {"*": "Priit Tamboom"},
+          "image": "ptamboom.jpg"
+        }],
         "titles": {"en": ""},
         "lang": "et"
       }
@@ -641,14 +793,23 @@
       {
         "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/65033737"], "origViews": 119},
         "youtube": ["BpqfXGoMo80"],
-        "speakers": [{"names": {"*": "Alvar Lumberg"}}],
+        "speakers": [{
+          "names": {"*": "Alvar Lumberg"},
+          "image": "alumberg.jpg"
+        }],
         "titles": {"en": "Continuous Delivery in action (in Estonian)"},
         "lang": "et"
       },
       {
         "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/65033739"], "origViews": 205},
         "youtube": ["0qagBtii4QY"],
-        "speakers": [{"names": {"*": "Mart Oruaas"}}, {"names": {"*": "Renno Paat"}}],
+        "speakers": [{
+          "names": {"*": "Mart Oruaas"},
+          "image": "moruaas.jpg"
+        }, {
+          "names": {"*": "Renno Paat"},
+          "image": "rpaat.jpg"
+        }],
         "titles": {"en": "Continuous Integration and Continuous Delivery GrabCADi kogemus"},
         "lang": "et"
       }
@@ -667,21 +828,30 @@
       {
         "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/61307907"], "origViews": 138},
         "youtube": ["ymqTCmCANW0"],
-        "speakers": [{"names": {"*": "Anton Arhipov"}}],
+        "speakers": [{
+          "names": {"*": "Anton Arhipov"},
+          "image": "aarhipov.jpg"
+        }],
         "titles": {"en": "Tehnilise tootejuhi seiklused"},
         "lang": "et"
       },
       {
         "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/61308722"], "origViews": 182},
         "youtube": ["trD_kw-yhUA"],
-        "speakers": [{"names": {"*": "Sergei Anikin"}}],
+        "speakers": [{
+          "names": {"*": "Sergei Anikin"},
+          "image": "sanikin.jpg"
+        }],
         "titles": {"en": "Windows 8 modernse arendusplatvormi tutvustus läbi Skype meeskonna kogemuste prizma"},
         "lang": "et"
       },
       {
         "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/61309614"], "origViews": 186},
         "youtube": ["90sE9nwBKM8"],
-        "speakers": [{"names": {"*": "Priit Kaasik"}}],
+        "speakers": [{
+          "names": {"*": "Priit Kaasik"},
+          "image": "pkaasik.jpg"
+        }],
         "titles": {"en": "Agile Technical Operations"},
         "lang": "et"
       }
@@ -703,7 +873,10 @@
           "en": "No meeting recording on camera. No video.",
           "et": "Kohtumise salvestamine kaamerasse ei toimunud. Videot pole."
         },
-        "speakers": [{"names": {"*": "Viljo Marrandi"}}],
+        "speakers": [{
+          "names": {"*": "Viljo Marrandi"},
+          "image": "vmarrandi.jpg"
+        }],
         "titles": {"en": ""},
         "lang": "et"
       },
@@ -713,7 +886,10 @@
           "en": "No meeting recording on camera. No video.",
           "et": "Kohtumise salvestamine kaamerasse ei toimunud. Videot pole."
         },
-        "speakers": [{"names": {"*": "Erik Jõgi"}}],
+        "speakers": [{
+          "names": {"*": "Erik Jõgi"},
+          "image": "ejogi.jpg"
+        }],
         "titles": {"en": "Õpituba - Code Kata"},
         "lang": "et"
       }
@@ -733,42 +909,63 @@
       {
         "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/55721899"], "origViews": 186},
         "youtube": ["7VJSBEPkDNI"],
-        "speakers": [{"names": {"*": "Maarika Susi"}}, {"names": {"*": "Martin Grüner"}}],
+        "speakers": [{
+          "names": {"*": "Maarika Susi"},
+          "image": "msusi.jpg"
+        }, {
+          "names": {"*": "Martin Grüner"},
+          "image": "mgruner.jpg"
+        }],
         "titles": {"en": "Garage48"},
         "lang": "et"
       },
       {
         "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/55719753"], "origViews": 78},
         "youtube": ["BsxvQ2KKnDU"],
-        "speakers": [{"names": {"*": "Alvar Lumberg"}}],
+        "speakers": [{
+          "names": {"*": "Alvar Lumberg"},
+          "image": "alumberg.jpg"
+        }],
         "titles": {"en": "Sel sügisel San Franciscos toimunud QCon2012 konverentsist"},
         "lang": "et"
       },
       {
         "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/55719659"], "origViews": 115},
         "youtube": ["l6ufsPNE1wU"],
-        "speakers": [{"names": {"*": "Hanno Jarvet"}}],
+        "speakers": [{
+          "names": {"*": "Hanno Jarvet"},
+          "image": "hjarvet.jpg"
+        }],
         "titles": {"en": "Otsuste langetamise kunst"},
         "lang": "et"
       },
       {
         "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/55719913"], "origViews": 159},
         "youtube": ["3MI6MbixtZs"],
-        "speakers": [{"names": {"*": "Erik Jõgi"}}],
+        "speakers": [{
+          "names": {"*": "Erik Jõgi"},
+          "image": "ejogi.jpg"
+        }],
         "titles": {"en": "Töötades firmas 8th Light"},
         "lang": "et"
       },
       {
         "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/55720798"], "origViews": 164},
         "youtube": ["PaOFBpisSS8"],
-        "speakers": [{"names": {"*": "Patrick Abner"}}],
+        "speakers": [{
+          "names": {"*": "Patrick Abner"},
+          "image": "pabner.jpg"
+        }],
         "titles": {"en": "Miks jooksmine on hea sport"},
         "lang": "et"
       },
       {
         "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/55721585"], "origViews": 188},
         "youtube": ["7YfgMTmyrYU"],
-        "speakers": [{"names": {"*": "Daniel Anjos"}}],
+        "speakers": [{
+          "names": {"*": "Daniel Anjos"},
+          "image": "danjos.jpg"
+        }],
         "titles": {"en": "Eestis töötamise plussidest ja miinustest välismaalase silmade läbi"},
         "lang": "en"
       }
@@ -786,12 +983,18 @@
     "photo": ["https://photos.app.goo.gl/zhjnDhRZmnNw8Y2C9"],
     "speeches": [
       {
-        "speakers": [{"names": {"*": "Kevlin Henney"}}],
+        "speakers": [{
+          "names": {"*": "Kevlin Henney"},
+          "image": "khenney.jpg"
+        }],
         "titles": {"en": "Worse Is Better, for Better or for Worse"},
         "lang": "en"
       },
       {
-        "speakers": [{"names": {"*": "Zuzana Sochova"}}],
+        "speakers": [{
+          "names": {"*": "Zuzana Sochova"},
+          "image": "zsochova.jpg"
+        }],
         "titles": {"*": "Mäng"},
         "lang": "et"
       }
@@ -811,28 +1014,40 @@
       {
         "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/49722152"], "origViews": 0},
         "youtube": ["_OZ-fp2EB4k"],
-        "speakers": [{"names": {"*": "Artjom Kurapov"}}],
+        "speakers": [{
+          "names": {"*": "Artjom Kurapov"},
+          "image": "akurapov.jpg"
+        }],
         "titles": {"en": "backlog"},
         "lang": "et"
       },
       {
         "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/49718208"], "origViews": 0},
         "youtube": ["Y6sZBu0TkSs"],
-        "speakers": [{"names": {"*": "Juri Timoshin"}}],
+        "speakers": [{
+          "names": {"*": "Juri Timoshin"},
+          "image": "jtimosin.jpg"
+        }],
         "titles": {"en": "Jenkins"},
         "lang": "en"
       },
       {
         "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/50048553"], "origViews": 0},
         "youtube": ["EThwyVb_uZI"],
-        "speakers": [{"names": {"*": "Anton Anisimov"}}],
+        "speakers": [{
+          "names": {"*": "Anton Anisimov"},
+          "image": "aanisimov.jpg"
+        }],
         "titles": {"en": "KidsTable"},
         "lang": "en"
       },
       {
         "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/49839870"], "origViews": 0},
         "youtube": ["5MzO3JSJUqg"],
-        "speakers": [{"names": {"*": "Mehis Hakkaja"}}],
+        "speakers": [{
+          "names": {"*": "Mehis Hakkaja"},
+          "image": "mhakkaja.jpg"
+        }],
         "titles": {"en": "Veebirakenduste turvatestimine ja Maarjamaa tüüpilised ämbrid"},
         "lang": "et"
       }
@@ -852,21 +1067,30 @@
       {
         "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/48646215"], "origViews": 0},
         "youtube": ["ZyLE35rNzjw"],
-        "speakers": [{"names": {"*": "Erik Jõgi"}}],
+        "speakers": [{
+          "names": {"*": "Erik Jõgi"},
+          "image": "ejogi.jpg"
+        }],
         "titles": {"en": "Elektrituru avanemine"},
         "lang": "et"
       },
       {
         "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/48288805"], "origViews": 0},
         "youtube": ["bqlPBUupMUg"],
-        "speakers": [{"names": {"*": "Peeter Marvet"}}],
+        "speakers": [{
+          "names": {"*": "Peeter Marvet"},
+          "image": "pmarvet.jpg"
+        }],
         "titles": {"en": "Zurbi Foundation"},
         "lang": "et"
       },
       {
         "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/48288432"], "origViews": 0},
         "youtube": ["gsc4GKH5grg"],
-        "speakers": [{"names": {"*": "Ahto Truu"}}],
+        "speakers": [{
+          "names": {"*": "Ahto Truu"},
+          "image": "atruu.jpg"
+        }],
         "titles": {"en": "GuardTime"},
         "lang": "et"
       }
@@ -886,49 +1110,72 @@
       {
         "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/45164539"], "origViews": 142},
         "youtube": ["fctqmPjI6GI"],
-        "speakers": [{"names": {"*": "Siim Tuisk"}}],
+        "speakers": [{
+          "names": {"*": "Siim Tuisk"},
+          "image": "stuisk.jpg"
+        }],
         "titles": {"en": "ACTA: esimene lahing kodanike õiguste pärast"},
         "lang": "et"
       },
       {
         "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/45161927"], "origViews": 126},
         "youtube": ["-R7oSVPwgNw"],
-        "speakers": [{"names": {"*": "Henri Veidenbaum"}}],
+        "speakers": [{
+          "names": {"*": "Henri Veidenbaum"},
+          "image": "hveidenbaum.jpg"
+        }],
         "titles": {"en": "NFC? Yep!"},
         "lang": "et"
       },
       {
         "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/45161929"], "origViews": 154},
         "youtube": ["R11LLosHmkY"],
-        "speakers": [{"names": {"*": "Taavi Talvik"}}],
+        "speakers": [{
+          "names": {"*": "Taavi Talvik"},
+          "image": "ttalvik.jpg"
+        }],
         "titles": {"en": "Pistikarvutid"},
         "lang": "et"
       },
       {
         "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/45161930"], "origViews": 219},
         "youtube": ["LvNU02lqt8A"],
-        "speakers": [{"names": {"*": "Mart Stöör"}}],
+        "speakers": [{
+          "names": {"*": "Mart Stöör"},
+          "image": "mstoor.jpg"
+        }],
         "titles": {"en": "Crowdsourcing ja kuidas seda Eestis lakkamatu ressursipuuduse kontekstis teha"},
         "lang": "et"
       },
       {
         "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/45161931"], "origViews": 248},
         "youtube": ["6RNhCCuD93E"],
-        "speakers": [{"names": {"*": "Team Artify"}}],
+        "speakers": [{
+          "names": {"*": "Team Artify"}
+        }],
         "titles": {"en": "How to choose a framework"},
         "lang": "et"
       },
       {
         "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/45164538"], "origViews": 66},
         "youtube": ["PLEwOHZENy4"],
-        "speakers": [{"names": {"*": "Hanno Jarvet"}}],
+        "speakers": [{
+          "names": {"*": "Hanno Jarvet"},
+          "image": "hjarvet.jpg"
+        }],
         "titles": {"en": "Ühise visiooni loomine"},
         "lang": "et"
       },
       {
         "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/45164540"], "origViews": 55},
         "youtube": ["UFZHaf7zdz4"],
-        "speakers": [{"names": {"*": "Ita"}}, {"names": {"*": "Heldin Rikk"}}],
+        "speakers": [{
+          "names": {"*": "Ita Urban"},
+          "image": "iurban.jpg"
+        }, {
+          "names": {"*": "Heldin Rikk"},
+          "image": "hrikk.jpg"
+        }],
         "titles": {"en": "devclub.ee XIV"},
         "lang": "et"
       }
@@ -948,21 +1195,30 @@
       {
         "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/40120635"], "origViews": 93},
         "youtube": ["ME_aF14G-fM"],
-        "speakers": [{"names": {"*": "Henn Sarv"}}],
+        "speakers": [{
+          "names": {"*": "Henn Sarv"},
+          "image": "hsarv.jpg"
+        }],
         "titles": {"en": "Windows Azure - mis ta on ja kuidas teda süüa"},
         "lang": "et"
       },
       {
         "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/43631904"], "origViews": 283},
         "youtube": ["5948p7IfHF0"],
-        "speakers": [{"names": {"*": "Tan Silliksaar"}}],
+        "speakers": [{
+          "names": {"*": "Tan Silliksaar"},
+          "image": "tsilliksaar.jpg"
+        }],
         "titles": {"en": "Windows Phone ja Windows 8 arendus"},
         "lang": "et"
       },
       {
         "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/43631905"], "origViews": 213},
         "youtube": ["ZMLSt7kv31g"],
-        "speakers": [{"names": {"*": "Tero Hurskainen"}}],
+        "speakers": [{
+          "names": {"*": "Tero Hurskainen"},
+          "image": "thurskainen.jpg"
+        }],
         "titles": {"en": "Kuidas lihtsamini Apple’i App Store’i jõuda"},
         "lang": "et"
       }
@@ -982,28 +1238,46 @@
       {
         "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/40120635"], "origViews": 178},
         "youtube": ["CpZwieFr7jA"],
-        "speakers": [{"names": {"*": "Kairi Kallas"}}, {"names": {"*": "Allan Randlepp"}}],
+        "speakers": [{
+          "names": {"*": "Kairi Kallas"},
+          "image": "kkallas.jpg"
+        }, {
+          "names": {"*": "Allan Randlepp"},
+          "image": "arandlepp.jpg"
+        }],
         "titles": {"en": "Rahva ja eluruumide loendus 2011"},
         "lang": "et"
       },
       {
         "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/40120636"], "origViews": 482},
         "youtube": ["lhbCnTU_vbU"],
-        "speakers": [{"names": {"*": "Taavi Talvik"}}],
+        "speakers": [{
+          "names": {"*": "Taavi Talvik"},
+          "image": "ttalvik.jpg"
+        }],
         "titles": {"en": "Erlang"},
         "lang": "et"
       },
       {
         "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/40120633"], "origViews": 197},
         "youtube": ["HPNsy78fICo"],
-        "speakers": [{"names": {"*": "David Liik"}}],
+        "speakers": [{
+          "names": {"*": "David Liik"},
+          "image": "dliik.jpg"
+        }],
         "titles": {"en": "Skype"},
         "lang": "et"
       },
       {
         "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/40120634"], "origViews": 297},
         "youtube": ["xrK4BJMkVJ4"],
-        "speakers": [{"names": {"*": "Anton Keks"}}, {"names": {"*": "Andrei Solntsev"}}],
+        "speakers": [{
+          "names": {"*": "Anton Keks"},
+          "image": "akeks.jpg"
+        }, {
+          "names": {"*": "Andrei Solntsev"},
+          "image": "asolntsev.jpg"
+        }],
         "titles": {"en": "Open-source Codeborne"},
         "lang": "et"
       }
@@ -1023,21 +1297,30 @@
       {
         "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/37941406"], "origViews": 530},
         "youtube": ["IxtV4brxQhI"],
-        "speakers": [{"names": {"*": "Gojko Adzic"}}],
+        "speakers": [{
+          "names": {"*": "Gojko Adzic"},
+          "image": "gadzic.jpg"
+        }],
         "titles": {"en": "Visualising Quality"},
         "lang": "en"
       },
       {
         "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/37796688"], "origViews": 226},
         "youtube": ["nGbd_i958LY"],
-        "speakers": [{"names": {"*": "Andri Möll"}}],
+        "speakers": [{
+          "names": {"*": "Andri Möll"},
+          "image": "amoll.jpg"
+        }],
         "titles": {"en": "Unusability"},
         "lang": "en"
       },
       {
         "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/37796051"], "origViews": 284},
         "youtube": ["Bmd7g19IYdU"],
-        "speakers": [{"names": {"*": "Anton Keks"}}],
+        "speakers": [{
+          "names": {"*": "Anton Keks"},
+          "image": "akeks.jpg"
+        }],
         "titles": {"en": "Asünkroonne programmeerimine Node.js-iga"},
         "lang": "et"
       }
@@ -1057,7 +1340,10 @@
       {
         "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/37026071"], "origViews": 606},
         "youtube": ["-oAfUygsE4A"],
-        "speakers": [{"names": {"*": "J.B. Rainsberger"}}],
+        "speakers": [{
+          "names": {"*": "J.B. Rainsberger"},
+          "image": "jrainsberger.jpg"
+        }],
         "titles": {"en": "Product Sashimi"},
         "lang": "en"
       },
@@ -1067,7 +1353,10 @@
           "en": "No video by speaker request.",
           "et": "Video puudub kõneleja soovil."
         },
-        "speakers": [{"names": {"*": "Andrei Solntsev"}}],
+        "speakers": [{
+          "names": {"*": "Andrei Solntsev"},
+          "image": "asolntsev.jpg"
+        }],
         "titles": {"en": "Keep It Simple, Stupid - praaktika"},
         "lang": "et"
       }
@@ -1087,14 +1376,20 @@
       {
         "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/33073401"], "origViews": 436},
         "youtube": ["QYNwDKiI4fo"],
-        "speakers": [{"names": {"*": "Jaanus Lang"}}],
+        "speakers": [{
+          "names": {"*": "Jaanus Lang"},
+          "image": "jlang.jpg"
+        }],
         "titles": {"en": "Kuidas Artify tegi MMO strateegiamängu?"},
         "lang": "et"
       },
       {
         "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/33074521"], "origViews": 893},
         "youtube": ["jtSmOoIUO58"],
-        "speakers": [{"names": {"*": "Aleksandr Jastremski"}}],
+        "speakers": [{
+          "names": {"*": "Aleksandr Jastremski"},
+          "image": "ajastremski.jpg"
+        }],
         "titles": {"en": "BOT’id ja protsesside automatiseerimine"},
         "lang": "et"
       }
@@ -1114,14 +1409,19 @@
       {
         "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/31716760"], "origViews": 209},
         "youtube": ["yaRtem01bdk"],
-        "speakers": [{"names": {"*": "Filipp Keks"}}],
+        "speakers": [{
+          "names": {"*": "Filipp Keks"},
+          "image": "fkeks.jpg"
+        }],
         "titles": {"en": "Mobile Multiplatform Development"},
         "lang": "et"
       },
       {
         "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/31716868"], "origViews": 322},
         "youtube": ["mp28Q-_T1t4"],
-        "speakers": [{"names": {"*": "Ixonos Estonia OÜ"}}],
+        "speakers": [{
+          "names": {"*": "Ixonos Estonia OÜ"}
+        }],
         "titles": {"en": "Android/MeeGo/Tizan sisikonna kiirülevaade"},
         "lang": "et"
       }
@@ -1139,7 +1439,10 @@
     "photo": ["https://photos.app.goo.gl/3t5ahsLi2y8Z2zFR8"],
     "speeches": [
       {
-        "speakers": [{"names": {"*": "J.B. Rainsberger"}}],
+        "speakers": [{
+          "names": {"*": "J.B. Rainsberger"},
+          "image": "jrainsberger.jpg"
+        }],
         "titles": {"en": "TDD"},
         "lang": "en",
         "info": {
@@ -1149,7 +1452,10 @@
         }
       },
       {
-        "speakers": [{"names": {"*": "Andrei Solntsev"}}],
+        "speakers": [{
+          "names": {"*": "Andrei Solntsev"},
+          "image": "asolntsev.jpg"
+        }],
         "titles": {"en": "Extreme Startup workshop"},
         "lang": "en",
         "info": {
@@ -1174,28 +1480,40 @@
       {
         "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/28099011"], "origViews": 881},
         "youtube": ["QR1pteRgXT8"],
-        "speakers": [{"names": {"*": "Anton Keks"}}],
+        "speakers": [{
+          "names": {"*": "Anton Keks"},
+          "image": "akeks.jpg"
+        }],
         "titles": {"en": "Plain Simple Java"},
         "lang": "et"
       },
       {
         "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/28097031"], "origViews": 242},
         "youtube": ["tFnfzBMPfko"],
-        "speakers": [{"names": {"*": "Erik Jõgi"}}],
+        "speakers": [{
+          "names": {"*": "Erik Jõgi"},
+          "image": "ejogi.jpg"
+        }],
         "titles": {"en": "Real-World Scala"},
         "lang": "et"
       },
       {
         "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/28096809"], "origViews": 478},
         "youtube": ["CXV4P4Vz3dY"],
-        "speakers": [{"names": {"*": "Andri Möll"}}],
+        "speakers": [{
+          "names": {"*": "Andri Möll"},
+          "image": "amoll.jpg"
+        }],
         "titles": {"en": "Backbone"},
         "lang": "et"
       },
       {
         "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/28330135"], "origViews": 133},
         "youtube": ["Vt1x13gqnO4"],
-        "speakers": [{"names": {"*": "Anton Narusberg"}}],
+        "speakers": [{
+          "names": {"*": "Anton Narusberg"},
+          "image": "anarusberg.jpg"
+        }],
         "titles": {"en": "Ruby Singleton Class"},
         "lang": "et"
       }
@@ -1215,21 +1533,33 @@
       {
         "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/26551584"], "origViews": 205},
         "youtube": ["sJKODBYZDQA"],
-        "speakers": [{"names": {"*": "Henri Muurimaa"}}],
+        "speakers": [{
+          "names": {"*": "Henri Muurimaa"},
+          "image": "hmuurimaa.jpg"
+        }],
         "titles": {"en": "Vaadin + Scala"},
         "lang": "en"
       },
       {
         "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/26033277"], "origViews": 190},
         "youtube": ["hmRNR_Hc3oc"],
-        "speakers": [{"names": {"*": "Anton Shishkov"}}],
+        "speakers": [{
+          "names": {"*": "Anton Shishkov"},
+          "image": "ashishkov.jpg"
+        }],
         "titles": {"en": "Automated Testing praktikas"},
         "lang": "en"
       },
       {
         "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/26050864"], "origViews": 164},
         "youtube": ["jdtZlMPmQsY"],
-        "speakers": [{"names": {"*": "Anton Narusberg"}}, {"names": {"*": "Andri Möll"}}],
+        "speakers": [{
+          "names": {"*": "Anton Narusberg"},
+          "image": "anarusberg.jpg"
+        }, {
+          "names": {"*": "Andri Möll"},
+          "image": "amoll.jpg"
+        }],
         "titles": {"en": "Starting with Rails"},
         "lang": "et"
       }
@@ -1249,14 +1579,20 @@
       {
         "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/24199053"], "origViews": 161},
         "youtube": ["saVbHZKRjyA"],
-        "speakers": [{"names": {"*": "Henn Sarv"}}],
+        "speakers": [{
+          "names": {"*": "Henn Sarv"},
+          "image": "hsarv.jpg"
+        }],
         "titles": {"en": "LINQ .NET-võhikutele"},
         "lang": "et"
       },
       {
         "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/24192853"], "origViews": 83},
         "youtube": ["9kMs9lZOD3Y"],
-        "speakers": [{"names": {"*": "Mark Kofman"}}],
+        "speakers": [{
+          "names": {"*": "Mark Kofman"},
+          "image": "mkofman.jpg"
+        }],
         "titles": {"en": "Meetrikad, milleks ja kuidas & Programeter"},
         "lang": "et"
       }
@@ -1276,21 +1612,30 @@
       {
         "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/22266026"], "origViews": 327},
         "youtube": ["IO2JLUVtZCo"],
-        "speakers": [{"names": {"*": "Jaan Pillesaar"}}],
+        "speakers": [{
+          "names": {"*": "Jaan Pillesaar"},
+          "image": "jpillesaar.jpg"
+        }],
         "titles": {"en": "Helmes 20"},
         "lang": "et"
       },
       {
         "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/22111173"], "origViews": 212},
         "youtube": ["DvLjJcc08E0"],
-        "speakers": [{"names": {"*": "Toomas Römer"}}],
+        "speakers": [{
+          "names": {"*": "Toomas Römer"},
+          "image": "troomer.jpg"
+        }],
         "titles": {"en": "LiveRebeli hingeelu"},
         "lang": "et"
       },
       {
         "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/22107350"], "origViews": 321},
         "youtube": ["d46b1erZT5s"],
-        "speakers": [{"names": {"*": "Anton Keks"}}],
+        "speakers": [{
+          "names": {"*": "Anton Keks"},
+          "image": "akeks.jpg"
+        }],
         "titles": {"en": "Database Refactoring"},
         "lang": "et"
       }
@@ -1310,21 +1655,30 @@
       {
         "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/20640834"], "origViews": 320},
         "youtube": ["WMY2xrnJ9XU"],
-        "speakers": [{"names": {"*": "Meelis Lang"}}],
+        "speakers": [{
+          "names": {"*": "Meelis Lang"},
+          "image": "mlang.jpg"
+        }],
         "titles": {"en": "Kvaliteetne projekt"},
         "lang": "et"
       },
       {
         "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/20639182"], "origViews": 127},
         "youtube": ["dXR2jQg6tNE"],
-        "speakers": [{"names": {"*": "Erik Jõgi"}}],
+        "speakers": [{
+          "names": {"*": "Erik Jõgi"},
+          "image": "ejogi.jpg"
+        }],
         "titles": {"en": "Java Puzzlers"},
         "lang": "et"
       },
       {
         "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/20624252"], "origViews": 280},
         "youtube": ["TwbC-VkETQ4"],
-        "speakers": [{"names": {"*": "Tarvi Martens"}}],
+        "speakers": [{
+          "names": {"*": "Tarvi Martens"},
+          "image": "tmartens.jpg"
+        }],
         "titles": {"en": "ID-kaardi tagatuba, argipäev ja e-hääletamine"},
         "lang": "et"
       }
@@ -1344,21 +1698,30 @@
       {
         "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/19541023"], "origViews": 148},
         "youtube": ["0L_4I-11Dfw"],
-        "speakers": [{"names": {"*": "Anton Arhipov"}}],
+        "speakers": [{
+          "names": {"*": "Anton Arhipov"},
+          "image": "aarhipov.jpg"
+        }],
         "titles": {"en": "Binary patching of Java classes for fun (and profit)"},
         "lang": "et"
       },
       {
         "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/19541064"], "origViews": 101},
         "youtube": ["AoiiJMt536U"],
-        "speakers": [{"names": {"*": "Margus Freudenthal"}}],
+        "speakers": [{
+          "names": {"*": "Margus Freudenthal"},
+          "image": "mfreudenthal.jpg"
+        }],
         "titles": {"en": "Valdkonnaspetsiifilised keeled"},
         "lang": "et"
       },
       {
         "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/19556012"], "origViews": 4214},
         "youtube": ["ng2SMKOfoCk"],
-        "speakers": [{"names": {"*": "Revo Sirel"}}],
+        "speakers": [{
+          "names": {"*": "Revo Sirel"},
+          "image": "rsirel.jpg"
+        }],
         "titles": {"en": "javax.smartcardio ja EstEID"},
         "lang": "et"
       }
