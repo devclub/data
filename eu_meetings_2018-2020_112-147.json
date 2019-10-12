@@ -144,7 +144,7 @@
             "names": {"*": "Juri Timoshin", "ru": "Юрий Тимошин"},
             "titles": {"*": "Engineering Services and Operations @ Microsoft"},
             "url": "https://www.linkedin.com/in/juritimoshin",
-            "image": "jtimosin_2018.png"
+            "image": "jtimosin_2018.jpg"
           }
         ],
         "titles": {"*": "Vim. Часть 3."},
@@ -1208,7 +1208,7 @@
             "names": {"*": "Dmitri Tuchs", "ru": "Дмитрий Тучс"},
             "titles": {"ru": "Гуру автотестов @ Питерский R&D центр PropellerAds"},
             "url": "https://www.linkedin.com/in/dtuchs",
-            "image": "dtuchs.png"
+            "image": "dtuchs.jpg"
           }
         ],
         "titles": {"ru": "JUnit 5 + DDT: Что такое осень?"},
@@ -1363,7 +1363,7 @@
             "names": {"*": " Juri Timoshin", "ru": "Юрий Тимошин"},
             "titles": {"*": "Senior DevOps Engineer @ Malwarebytes"},
             "url": "https://www.linkedin.com/in/juritimoshin",
-            "image": "jtimosin_2018.png"
+            "image": "jtimosin_2018.jpg"
           }
         ],
         "titles": {"ru": "One CI To Rule Them All: автоматическая настройка"},
