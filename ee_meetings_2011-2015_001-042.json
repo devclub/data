@@ -1374,13 +1374,29 @@
     "photo": ["https://photos.app.goo.gl/mg8L3AR5nGwaDsGv8"],
     "speeches": [
       {
+        "info": {
+          "ru": "По просьбе докладчика видео не снималось.",
+          "en": "No video by speaker request.",
+          "et": "Video puudub kõneleja soovil."
+        },
+        "speakers": [{
+          "names": {"*": "Martine Devos"},
+          "image": "mdevos.jpg"
+        }],
+        "titles": {"*": "The Agile Metrics at banking"},
+        "lang": "en"
+      },
+      {
         "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/33073401"], "origViews": 436},
         "youtube": ["QYNwDKiI4fo"],
         "speakers": [{
           "names": {"*": "Jaanus Lang"},
           "image": "jlang.jpg"
+        }, {
+          "names": {"*": "Rain Allikvee"},
+          "image": "rallikvee.jpg"
         }],
-        "titles": {"en": "Kuidas Artify tegi MMO strateegiamängu?"},
+        "titles": {"et": "Kuidas Artify tegi MMO strateegiamängu?"},
         "lang": "et"
       },
       {
@@ -1390,7 +1406,7 @@
           "names": {"*": "Aleksandr Jastremski"},
           "image": "ajastremski.jpg"
         }],
-        "titles": {"en": "BOT’id ja protsesside automatiseerimine"},
+        "titles": {"et": "BOT’id ja protsesside automatiseerimine"},
         "lang": "et"
       }
     ]
