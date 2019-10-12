@@ -16,7 +16,7 @@
         "youtube": [""], "lang": "en",
         "labels": ["microservice", "GraphQL"],
         "speakers": [{
-          "image": "jonas-kiiver.jpg",
+          "image": "jkiiver.jpg",
           "names": {"*": "Jonas Kiiver"},
           "titles": {"*": "VP of Technology @ Monese"},
           "url": "https://www.linkedin.com/in/jonaskiiver"
@@ -36,7 +36,7 @@
         "youtube": [""], "lang": "en",
         "labels": ["self-improvement"],
         "speakers": [{
-          "image": "edgars-letinskis.jpg",
+          "image": "eletinskis.jpg",
           "names": {"*": "Edgars Letinskis"},
           "titles": {"*": "The man behind DevClub.lv"},
           "url": "https://www.linkedin.com/in/edgarsletinskis"
@@ -67,7 +67,7 @@
         "youtube": ["XrFEwjkLNqw"], "lang": "en",
         "labels": ["reactive", "event-driven"],
         "speakers": [{
-          "image": "sam-kruglov.jpg",
+          "image": "skruglov.jpg",
           "names": {"*": "Sam Kruglov", "ru": "Сэм Круглов"},
           "titles": {"*": "Java Developer @ Monese"},
           "url": "https://www.linkedin.com/in/sam-kruglov"

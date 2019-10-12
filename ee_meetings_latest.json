@@ -16,7 +16,7 @@
         "youtube": [""], "lang": "en",
         "labels": ["security"],
         "speakers": [{
-            "image": "margus-ernits.jpeg",
+            "image": "mernits.jpg",
             "names": {"*": "Margus Ernits"},
             "titles": {"*": "CTO @ RangeForce"},
             "url": "https://www.linkedin.com/in/margusernits"
@@ -33,7 +33,7 @@
         "youtube": [""], "lang": "en",
         "labels": ["management"],
         "speakers": [{
-            "image": "miguel.jpeg",
+            "image": "mcaron.jpg",
             "names": {"*": "Miguel Caron"},
             "titles": {"*": "Head of Baltic Studios @ GameSys"},
             "url": "https://www.linkedin.com/in/miguelcaronceo"

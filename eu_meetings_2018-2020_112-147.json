@@ -1111,7 +1111,7 @@
             "names": {"*": "Ervin Weber", "ru": "Эрвин Вебер "},
             "titles": {"*": "System Administrator @ Toggl"},
             "url": "https://ee.linkedin.com/in/webervin",
-            "image": "eweber_2018.jpeg"
+            "image": "eweber_2018.jpg"
           }
         ],
         "titles": {"ru": "Куда уходит почта…"},
@@ -1132,7 +1132,7 @@
             "names": {"*": "Artur Peka", "ru": "Артур Пека"},
             "titles": {"*": "Senior Web Developer"},
             "url": "https://www.linkedin.com/in/arthur-peka",
-            "image": "apeka.jpeg"
+            "image": "apeka.jpg"
           }
         ],
         "titles": {"ru": "Введение в Web Assembly"},
@@ -1152,7 +1152,7 @@
             "names": {"*": "Roman Ring", "ru": "Роман Ринг "},
             "titles": {"ru": "Бывший сеньор веб дев, сбежавший в мир академиков"},
             "url": "https://github.com/inoryy",
-            "image": "rring.jpeg"
+            "image": "rring.jpg"
           }
         ],
         "titles": {"ru": "Как я бота в StarСraft II играть учил..."},
@@ -1187,7 +1187,7 @@
             "names": {"*": "Aleksandr Rudakov", "ru": "Александр Рудаков"},
             "titles": {"*": "Developer @ Negative Space OÜ"},
             "url": "https://www.linkedin.com/in/aleksandr-rudakov",
-            "image": "arudakov.jpeg"
+            "image": "arudakov.jpg"
           }
         ],
         "titles": {"ru": "Кодогенерация в Python/Django приложениях"},
