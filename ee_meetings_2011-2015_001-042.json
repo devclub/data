@@ -1494,23 +1494,13 @@
     "photo": ["https://photos.app.goo.gl/rqdjgKP43ef42epe9"],
     "speeches": [
       {
-        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/28099011"], "origViews": 881},
-        "youtube": ["QR1pteRgXT8"],
+        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/28330135"], "origViews": 133},
+        "youtube": ["Vt1x13gqnO4"],
         "speakers": [{
-          "names": {"*": "Anton Keks"},
-          "image": "akeks.jpg"
+          "names": {"*": "Anton Narusberg"},
+          "image": "anarusberg.jpg"
         }],
-        "titles": {"en": "Plain Simple Java"},
-        "lang": "et"
-      },
-      {
-        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/28097031"], "origViews": 242},
-        "youtube": ["tFnfzBMPfko"],
-        "speakers": [{
-          "names": {"*": "Erik Jõgi"},
-          "image": "ejogi.jpg"
-        }],
-        "titles": {"en": "Real-World Scala"},
+        "titles": {"en": "Ruby Singleton Class"},
         "lang": "et"
       },
       {
@@ -1524,13 +1514,23 @@
         "lang": "et"
       },
       {
-        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/28330135"], "origViews": 133},
-        "youtube": ["Vt1x13gqnO4"],
+        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/28097031"], "origViews": 242},
+        "youtube": ["tFnfzBMPfko"],
         "speakers": [{
-          "names": {"*": "Anton Narusberg"},
-          "image": "anarusberg.jpg"
+          "names": {"*": "Erik Jõgi"},
+          "image": "ejogi.jpg"
         }],
-        "titles": {"en": "Ruby Singleton Class"},
+        "titles": {"en": "Real-World Scala"},
+        "lang": "et"
+      },
+      {
+        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/28099011"], "origViews": 881},
+        "youtube": ["QR1pteRgXT8"],
+        "speakers": [{
+          "names": {"*": "Anton Keks"},
+          "image": "akeks.jpg"
+        }],
+        "titles": {"en": "Plain Simple Java"},
         "lang": "et"
       }
     ]
@@ -1547,14 +1547,17 @@
     "photo": ["https://photos.app.goo.gl/JLat3cnVKgbnfmMG6"],
     "speeches": [
       {
-        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/26551584"], "origViews": 205},
-        "youtube": ["sJKODBYZDQA"],
+        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/26050864"], "origViews": 164},
+        "youtube": ["jdtZlMPmQsY"],
         "speakers": [{
-          "names": {"*": "Henri Muurimaa"},
-          "image": "hmuurimaa.jpg"
+          "names": {"*": "Anton Narusberg"},
+          "image": "anarusberg.jpg"
+        }, {
+          "names": {"*": "Andri Möll"},
+          "image": "amoll.jpg"
         }],
-        "titles": {"en": "Vaadin + Scala"},
-        "lang": "en"
+        "titles": {"en": "Starting with Rails"},
+        "lang": "et"
       },
       {
         "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/26033277"], "origViews": 190},
@@ -1567,17 +1570,14 @@
         "lang": "en"
       },
       {
-        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/26050864"], "origViews": 164},
-        "youtube": ["jdtZlMPmQsY"],
+        "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/26551584"], "origViews": 205},
+        "youtube": ["sJKODBYZDQA"],
         "speakers": [{
-          "names": {"*": "Anton Narusberg"},
-          "image": "anarusberg.jpg"
-        }, {
-          "names": {"*": "Andri Möll"},
-          "image": "amoll.jpg"
+          "names": {"*": "Henri Muurimaa"},
+          "image": "hmuurimaa.jpg"
         }],
-        "titles": {"en": "Starting with Rails"},
-        "lang": "et"
+        "titles": {"en": "Vaadin + Scala"},
+        "lang": "en"
       }
     ]
   },
