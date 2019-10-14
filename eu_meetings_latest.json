@@ -1,81 +1,74 @@
 [
   {
-    "num": 133,
-    "datetime": "2019-09-24T19:00:00+03:00",
+    "num": 134,
+    "datetime": "2019-10-24T19:00:00+03:00",
     "season": 2019,
     "place": {
       "name": "Park Inn by Radisson Meriton Conference & Spa Hotel Tallinn", "loc": "https://goo.gl/maps/AJbuvwDS7co",
       "addr": "Toompuiestee 27/Paldiski mnt 4, 10149 Tallinn", "url": "https://www.parkinn.com/hotel-meriton-tallinn"
     },
-    "org": {"mod": ["tgordejeva"], "photo": ["klinnik"]},
-    "photo": ["https://photos.app.goo.gl/vBZNLCNyZDgsH87q6"],
-    "event": "https://www.eventbrite.com/e/devclubeu-133-tickets-73089762447",
+    "org": {"mod": ["astalnuhhin"], "photo": ["klinnik"]},
+    "photo": [],
+    "event": "",
     "speeches": [
       {
-        "org": {"cam": ["gbeskin"], "edit": ["astalnuhhin"]},
+        "org": {"cam": ["astalnuhhin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
-        "labels": ["open source", "project", "marketing"],
-        "youtube": [""],
+        "labels": [],
+        "youtube": [],
         "speakers": [
           {
-            "names": {"*": "Sergei Jegorov", "ru": "Сергей Егоров"},
-            "url": "https://ee.linkedin.com/in/bsideup/en",
-            "image": "segorov.jpg"
+            "names": {"*": "Anton Keks", "ru": "Антон Кекс"},
+            "titles": {"*": "Developer @ Codeborne"},
+            "url": "https://www.linkedin.com/in/antonkeks",
+            "image": "akeks.jpg"
           }
         ],
-        "titles": {"*": "Как сделать OSS проект успешным... и даже не на JavaScript!"},
+        "titles": {"*": "???"},
         "descr": {
-          "ru": [
-            "Допустим Вы хотите сделать ваш OSS проект успешным. Какой план? Просто закинуть его на GitHub? Добро пожаловать в клуб '10 звёзд 1 форк'! Чтобы сделать OSS проект успешным, над этим придётся работать 'full-time'. Наблюдать за его первыми шагами, гордиться даже маленьким успехам... По сути дела - почувствовать себя родителем.",
-            "Но... Что ж такое 'успех' в данном вопросе? И как вести себя хорошо на пути к 'успеху'?",
-            "В данном докладе я хотел бы поговорить про основы (а так же некоторые продвинутые техники) того, как управлять такими проектами, как помочь им расти и что ожидать *после* того как Вы выложили его на GitHub. Ведь в мире столько отличных проектов с огромным потенциалом которые так и не достучались до своей аудитории!"
-          ]
+          "ru": []
         }
-      },
-      {
-        "org": {"cam": ["gbeskin", "astalnuhhin"], "edit": ["astalnuhhin"]},
-        "lang": "ru",
-        "labels": ["tests", "hating", "testng", "junit"],
-        "youtube": ["U6z2dK7MwmI"],
-        "speakers": [
-          {
-            "names": {"*": "Andrei Solntsev", "ru": "Андрей Солнцев"},
-            "titles": {"*": "Software developer @ Codeborne"},
-            "url": "https://ee.linkedin.com/in/asolntsev",
-            "image": "asolntsev_2018.jpg"
-          }
-        ],
-        "titles": {"*": "10 причин моей ненависти"},
-        "descr": {
-          "*": [
-            "People often ask why I hate Page Objects, TestNG, ReportPortal, try/catch, loops, ifs, implicit waitings, explicit waitings, Dependency injection, Spring, etc. in tests. I will talk briefly - 5 minutes for every topic."
-          ],
-          "ru": [
-            "Люди часто спрашивают, почему я ненавижу age Objects, TestNG, ReportPortal, try/catch, loops, ifs, implicit waitings, explicit waitings, Dependency injection, Spring и прочее в тестах. Коротенечко, по 5 минут на тему, поясню."
-          ]
-        },
-        "presentations": ["20190924_asolntsev_hating.pdf"]
       },
       {
         "org": {"cam": ["astalnuhhin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
-        "labels": ["testing"],
-        "youtube": [""],
+        "labels": [],
+        "youtube": [],
         "speakers": [
           {
-            "names": {"*": "Aleksandr Gritsevski", "ru": "Александр Грицевский"},
-            "titles": {"*": "Lead Quality Manager @ Kuehne + Nagel"},
-            "url": "https://www.linkedin.com/in/leadqualitymanager",
-            "image": "agritsevski.jpg"
+            "names": {"*": "Sam Kruglov", "ru": "Сэм Круглов"},
+            "titles": {"*": "Java Developer @ Monese"},
+            "url": "https://www.linkedin.com/in/sam-kruglov/",
+            "image": "skruglov.jpg"
           }
         ],
-        "titles": {"*": "Тестирование программного обеспечения сложнее, чем разработка."},
+        "titles": {"*": "Reactive никуда не денется"},
         "descr": {
           "ru": [
-            "Изменение менталитита в отношении инженеров по обеспечению качества."
+            "Использовать реактивный подход - это ключ к пребыванию на достойном уровне среди современных стандартов. В начале, у нас есть обычный MVC сервис.",
+            "Сначала, мы зададим определение современной системе и её основные проблемы. Затем, мы подправим наш сервис, чтобы решить эти проблемы. После всех изменений наш REST API продолжит функционировать как прежде, но при этом мы будем использовать Event Driven Architecture и получим множество преимуществ!"
           ]
-        },
-        "presentations": ["20190924_agritsevski_qa.pdf"]
+        }
+      },
+      {
+        "org": {"cam": ["astalnuhhin"], "edit": ["astalnuhhin"]},
+        "lang": "ru",
+        "labels": [],
+        "youtube": [],
+        "speakers": [
+          {
+            "names": {"ru": "Ивaн Beршинин"},
+            "titles": {"*": ""},
+            "url": "https://www.linkedin.com/in/ivanvershinin",
+            "image": ""
+          }
+        ],
+        "titles": {"*": "???"},
+        "descr": {
+          "ru": [
+            "???"
+          ]
+        }
       }
     ]
   }
