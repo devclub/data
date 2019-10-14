@@ -1953,13 +1953,14 @@
     "speeches": [
       {
         "lang": "ru",
+        "labels": ["testing", "web"],
         "speakers": [
           {
-            "names": {"*": "Anton Litvinenko", "ru": "Антон Литвиненко"},
-            "image": "alitvinenko.jpg"
+            "names": {"*": "Anton Shishkov", "ru": "Антон Шишков"},
+            "image": "ashishkov.jpg"
           }
         ],
-        "titles": {"ru": "Термометер для управления проектом"},
+        "titles": {"ru": "Суровые будни тестировщика"},
         "info": {
           "ru": "Встреча не снималась на камеру. Видео нет.",
           "en": "No meeting recording on camera. No video.",
@@ -2001,14 +2002,13 @@
       },
       {
         "lang": "ru",
-        "labels": ["testing", "web"],
         "speakers": [
           {
-            "names": {"*": "Sergei Sergejev", "ru": "Сергей Сергеев"},
-            "image": "ssergejev.jpg"
+            "names": {"*": "Anton Litvinenko", "ru": "Антон Литвиненко"},
+            "image": "alitvinenko.jpg"
           }
         ],
-        "titles": {"ru": "Что такое (web)тестирование и с чем его едят?"},
+        "titles": {"ru": "Термометер для управления проектом"},
         "info": {
           "ru": "Встреча не снималась на камеру. Видео нет.",
           "en": "No meeting recording on camera. No video.",
