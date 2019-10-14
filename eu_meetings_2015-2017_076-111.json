@@ -1816,16 +1816,14 @@
         "org": {"cam": ["astalnuhhin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": [],
-        "youtube": ["cGXorQkw3JE"],
+        "youtube": ["tf_7Drar-NU"],
         "speakers": [
           {
-            "names": {"*": "Anton Arhipov", "ru": "Антон Архипов"},
-            "url": "https://ee.linkedin.com/in/antonarhipov",
-            "image": "aarhipov.jpg"
+            "names": {"*": "Aleksei Barantsev", "ru": "Алексей Баранцев"},
+            "image": "abarantsev.jpg"
           }
         ],
-        "titles": {"ru": "Go!"},
-        "presentations": ["http://www.slideshare.net/arhan/something-about-golang"]
+        "titles": {"ru": "Aspiration Driven Development"}
       },
       {
         "org": {"cam": ["astalnuhhin"], "edit": ["astalnuhhin"]},
@@ -1849,14 +1847,16 @@
         "org": {"cam": ["astalnuhhin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": [],
-        "youtube": ["tf_7Drar-NU"],
+        "youtube": ["cGXorQkw3JE"],
         "speakers": [
           {
-            "names": {"*": "Aleksei Barantsev", "ru": "Алексей Баранцев"},
-            "image": "abarantsev.jpg"
+            "names": {"*": "Anton Arhipov", "ru": "Антон Архипов"},
+            "url": "https://ee.linkedin.com/in/antonarhipov",
+            "image": "aarhipov.jpg"
           }
         ],
-        "titles": {"ru": "Aspiration Driven Development"}
+        "titles": {"ru": "Go!"},
+        "presentations": ["http://www.slideshare.net/arhan/something-about-golang"]
       }
     ]
   },
@@ -1873,19 +1873,20 @@
     "speeches": [
       {
         "lang": "ru",
-        "labels": [],
+        "labels": ["offtopic", "physics", "math"],
         "speakers": [
           {
-            "names": {"*": "Alek Aldzhanov", "ru": "Алек Альджанов"},
-            "image": "aadzanov.jpg"
+            "names": {"*": "Anton Karputkin", "ru": "Антон Карпуткин"},
+            "image": "akarputkin.jpg"
           }
         ],
-        "titles": {"ru": "Про хранилище картинок"},
+        "titles": {"ru": "Квантовые компьютеры"},
         "info": {
           "ru": "Дефект флешки. Восстановить файлы видеозаписи не удалось.",
           "en": "Defective flash usb. Video files couldn't be recovered.",
           "et": "Defektne välkmälu. Videofailide taastamine ebaõnnestus."
-        }
+        },
+        "presentations": ["20150730_akarputkin_kvant.pdf"]
       },
       {
         "org": {"cam": ["astalnuhhin"], "edit": ["astalnuhhin"]},
@@ -1903,20 +1904,19 @@
       },
       {
         "lang": "ru",
-        "labels": ["offtopic", "physics", "math"],
+        "labels": [],
         "speakers": [
           {
-            "names": {"*": "Anton Karputkin", "ru": "Антон Карпуткин"},
-            "image": "akarputkin.jpg"
+            "names": {"*": "Alek Aldzhanov", "ru": "Алек Альджанов"},
+            "image": "aadzanov.jpg"
           }
         ],
-        "titles": {"ru": "Квантовые компьютеры"},
+        "titles": {"ru": "Про хранилище картинок"},
         "info": {
           "ru": "Дефект флешки. Восстановить файлы видеозаписи не удалось.",
           "en": "Defective flash usb. Video files couldn't be recovered.",
           "et": "Defektne välkmälu. Videofailide taastamine ebaõnnestus."
-        },
-        "presentations": ["20150730_akarputkin_kvant.pdf"]
+        }
       }
     ]
   },
@@ -1936,14 +1936,17 @@
         "org": {"cam": ["jtimosin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": [],
-        "youtube": ["8VZU5_Dsqyg"],
+        "youtube": ["5ZHSdwRnKvQ"],
         "speakers": [
           {
-            "names": {"*": "Sergei Kuksenko", "ru": "Сергей Куксенко"},
-            "image": "skuksenko.jpg"
+            "names": {"*": "Igor Bossenko", "ru": "Игорь Босенко"},
+            "url": "https://ee.linkedin.com/in/igor-bossenko-17b7822",
+            "image": "ibossenko.jpg"
           }
         ],
-        "titles": {"*": "Stream Style"}
+        "titles": {"ru": "Трансформация данных чайником"},
+        "presentations": ["20150702_ibosenko_kettle.pdf"],
+        "examples": ["20150702_ibossenko_kettle.zip"]
       },
       {
         "org": {"cam": ["jtimosin"], "edit": ["astalnuhhin"]},
@@ -1963,17 +1966,14 @@
         "org": {"cam": ["jtimosin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": [],
-        "youtube": ["5ZHSdwRnKvQ"],
+        "youtube": ["8VZU5_Dsqyg"],
         "speakers": [
           {
-            "names": {"*": "Igor Bossenko", "ru": "Игорь Босенко"},
-            "url": "https://ee.linkedin.com/in/igor-bossenko-17b7822",
-            "image": "ibossenko.jpg"
+            "names": {"*": "Sergei Kuksenko", "ru": "Сергей Куксенко"},
+            "image": "skuksenko.jpg"
           }
         ],
-        "titles": {"ru": "Трансформация данных чайником"},
-        "presentations": ["20150702_ibosenko_kettle.pdf"],
-        "examples": ["20150702_ibossenko_kettle.zip"]
+        "titles": {"*": "Stream Style"}
       }
     ]
   },
@@ -1992,16 +1992,15 @@
         "org": {"cam": ["jtimosin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": [],
-        "youtube": ["kZDa5hD-oQI"],
+        "youtube": ["05GZoxdSYfk"],
         "speakers": [
           {
-            "names": {"*": "Andrei Solntsev", "ru": "Андрей Солнцев"},
-            "url": "https://ee.linkedin.com/in/asolntsev",
-            "image": "asolntsev.jpg"
+            "names": {"*": "Grigori Beshkin", "ru": "Григорий Бешкин"},
+            "url": "https://ee.linkedin.com/in/grigorij-beshkin-50016b31",
+            "image": "gbeskin.jpg"
           }
         ],
-        "titles": {"ru": "50 оттенков Play!"},
-        "top": {"season": 2015, "place": 4}
+        "titles": {"ru": "MQL4, или играем в деньги"}
       },
       {
         "org": {"cam": ["jtimosin"], "edit": ["astalnuhhin"]},
@@ -2021,15 +2020,16 @@
         "org": {"cam": ["jtimosin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": [],
-        "youtube": ["05GZoxdSYfk"],
+        "youtube": ["kZDa5hD-oQI"],
         "speakers": [
           {
-            "names": {"*": "Grigori Beshkin", "ru": "Григорий Бешкин"},
-            "url": "https://ee.linkedin.com/in/grigorij-beshkin-50016b31",
-            "image": "gbeskin.jpg"
+            "names": {"*": "Andrei Solntsev", "ru": "Андрей Солнцев"},
+            "url": "https://ee.linkedin.com/in/asolntsev",
+            "image": "asolntsev.jpg"
           }
         ],
-        "titles": {"ru": "MQL4, или играем в деньги"}
+        "titles": {"ru": "50 оттенков Play!"},
+        "top": {"season": 2015, "place": 4}
       }
     ]
   },
@@ -2046,17 +2046,21 @@
     "speeches": [
       {
         "org": {"cam": ["jtimosin"], "edit": ["astalnuhhin"]},
-        "lang": "ru",
+        "lang": "en",
         "labels": [],
-        "youtube": ["pRpY-s6ivOc"],
+        "youtube": ["PzYGWCCDK7M"],
         "speakers": [
           {
-            "names": {"*": "Ilja Livenson", "ru": "Илья Ливенсон"},
-            "url": "https://ee.linkedin.com/in/ilja-livenson-8015674",
-            "image": "ilivenson.jpg"
+            "names": {"*": "Taavi Kotka", "ru": "Таави Котка"},
+            "url": "https://ee.linkedin.com/in/taavi-kotka-26335b33",
+            "image": "tkotka.jpg"
           }
         ],
-        "titles": {"ru": "Наши люди в Омане"}
+        "titles": {
+          "*": "All you wanted to know about IT in Estonia",
+          "ru": "Всё, что вы хотели знать об IT в Эстонии [eng]"
+        },
+        "top": {"season": 2015, "place": 2}
       },
       {
         "org": {"cam": ["jtimosin"], "edit": ["astalnuhhin"]},
@@ -2073,21 +2077,17 @@
       },
       {
         "org": {"cam": ["jtimosin"], "edit": ["astalnuhhin"]},
-        "lang": "en",
+        "lang": "ru",
         "labels": [],
-        "youtube": ["PzYGWCCDK7M"],
+        "youtube": ["pRpY-s6ivOc"],
         "speakers": [
           {
-            "names": {"*": "Taavi Kotka", "ru": "Таави Котка"},
-            "url": "https://ee.linkedin.com/in/taavi-kotka-26335b33",
-            "image": "tkotka.jpg"
+            "names": {"*": "Ilja Livenson", "ru": "Илья Ливенсон"},
+            "url": "https://ee.linkedin.com/in/ilja-livenson-8015674",
+            "image": "ilivenson.jpg"
           }
         ],
-        "titles": {
-          "*": "All you wanted to know about IT in Estonia", 
-          "ru": "Всё, что вы хотели знать об IT в Эстонии [eng]"
-        },
-        "top": {"season": 2015, "place": 2}
+        "titles": {"ru": "Наши люди в Омане"}
       }
     ]
   },
@@ -2106,15 +2106,15 @@
         "org": {"cam": ["astalnuhhin"]},
         "lang": "ru",
         "labels": [],
-        "youtube": ["lr0N5kyHny8"],
+        "youtube": ["54Og5qW_pu8"],
         "speakers": [
           {
-            "names": {"*": "Ilja Hämäläinen", "ru": "Илья Хямяляйнен"},
-            "url": "https://github.com/w32blaster",
-            "image": "ihamalainen.jpg"
+            "names": {"*": "Anton Keks", "ru": "Антон Кекс"},
+            "url": "https://www.linkedin.com/in/antonkeks",
+            "image": "akeks.jpg"
           }
         ],
-        "titles": {"ru": "Прекомпиляция на примере GWT"}
+        "titles": {"ru": "Chromecast, или почему это лучший способ потратить 30€"}
       },
       {
         "org": {"cam": ["astalnuhhin"]},
@@ -2134,15 +2134,15 @@
         "org": {"cam": ["astalnuhhin"]},
         "lang": "ru",
         "labels": [],
-        "youtube": ["54Og5qW_pu8"],
+        "youtube": ["lr0N5kyHny8"],
         "speakers": [
           {
-            "names": {"*": "Anton Keks", "ru": "Антон Кекс"},
-            "url": "https://www.linkedin.com/in/antonkeks",
-            "image": "akeks.jpg"
+            "names": {"*": "Ilja Hämäläinen", "ru": "Илья Хямяляйнен"},
+            "url": "https://github.com/w32blaster",
+            "image": "ihamalainen.jpg"
           }
         ],
-        "titles": {"ru": "Chromecast, или почему это лучший способ потратить 30€"}
+        "titles": {"ru": "Прекомпиляция на примере GWT"}
       }
     ]
   },
@@ -2161,16 +2161,15 @@
         "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
-        "youtube": ["SsrmLyVxnoE"],
-        "origVid": ["https://www.youtube.com/watch?v=6oqyFbopU6w"],
+        "youtube": ["Qlq3e7_EGeU"],
+        "origVid": ["https://www.youtube.com/watch?v=12kQ_-nDs7M"],
         "speakers": [
           {
-            "names": {"*": "Mihhail Beshkin", "ru": "Михаил Бешкин"},
-            "url": "https://ee.linkedin.com/in/mihailsb",
-            "image": "mbeskin.jpg"
+            "names": {"*": "Vladimir Funtikov", "ru": "Владимир Фунтиков"},
+            "image": "vfuntikov.jpg"
           }
         ],
-        "titles": {"ru": "Android, Black Jack и … тапёр"}
+        "titles": {"ru": "Как проиграть в игровой индустрии"}
       },
       {
         "org": {"cam": [""], "edit": [""]},
@@ -2190,15 +2189,16 @@
         "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
-        "youtube": ["Qlq3e7_EGeU"],
-        "origVid": ["https://www.youtube.com/watch?v=12kQ_-nDs7M"],
+        "youtube": ["SsrmLyVxnoE"],
+        "origVid": ["https://www.youtube.com/watch?v=6oqyFbopU6w"],
         "speakers": [
           {
-            "names": {"*": "Vladimir Funtikov", "ru": "Владимир Фунтиков"},
-            "image": "vfuntikov.jpg"
+            "names": {"*": "Mihhail Beshkin", "ru": "Михаил Бешкин"},
+            "url": "https://ee.linkedin.com/in/mihailsb",
+            "image": "mbeskin.jpg"
           }
         ],
-        "titles": {"ru": "Как проиграть в игровой индустрии"}
+        "titles": {"ru": "Android, Black Jack и … тапёр"}
       }
     ]
   },
@@ -2218,11 +2218,12 @@
         "labels": [],
         "speakers": [
           {
-            "names": {"*": "Irina Martsenjuk", "ru": "Ирина Марценюк"},
-            "image": "imartsenjuk.jpg"
+            "names": {"*": "Gleb Smirnov", "ru": "Глеб Смирнов"},
+            "url": "https://www.linkedin.com/in/gvsmirnov",
+            "image": "gsmirnov.jpg"
           }
         ],
-        "titles": {"ru": "Профессиональные проблемы IT-шника с точки зрения массажиста"},
+        "titles": {"ru": "Мутационный Анализ или О Чём Молчит Code Coverage"},
         "info": {
           "ru": "Встреча не снималась на камеру. Видео нет.",
           "en": "No meeting recording on camera. No video.",
@@ -2251,12 +2252,11 @@
         "labels": [],
         "speakers": [
           {
-            "names": {"*": "Gleb Smirnov", "ru": "Глеб Смирнов"},
-            "url": "https://www.linkedin.com/in/gvsmirnov",
-            "image": "gsmirnov.jpg"
+            "names": {"*": "Irina Martsenjuk", "ru": "Ирина Марценюк"},
+            "image": "imartsenjuk.jpg"
           }
         ],
-        "titles": {"ru": "Мутационный Анализ или О Чём Молчит Code Coverage"},
+        "titles": {"ru": "Профессиональные проблемы IT-шника с точки зрения массажиста"},
         "info": {
           "ru": "Встреча не снималась на камеру. Видео нет.",
           "en": "No meeting recording on camera. No video.",
@@ -2280,30 +2280,15 @@
         "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
-        "youtube": ["sjvUf3lWT7U"],
-        "origVid": ["https://www.youtube.com/watch?v=ypyAvJ4FHxk"],
+        "youtube": ["-ZZm6qO1CvY"],
+        "origVid": ["https://www.youtube.com/watch?v=HQvzPxHbJQQ"],
         "speakers": [
           {
-            "names": {"*": "Anton Litvinenko", "ru": "Антон Литвиненко"},
-            "image": "alitvinenko.jpg"
+            "names": {"*": "Daria Krushevskaya", "ru": "Дарья Крушевская"},
+            "image": "dkrusevskaya.jpg"
           }
         ],
-        "titles": {"ru": "Что делать программисту после 30?"}
-      },
-      {
-        "org": {"cam": [""], "edit": [""]},
-        "lang": "ru",
-        "labels": [],
-        "youtube": ["_0PsWV6nhmQ"],
-        "origVid": ["https://www.youtube.com/watch?v=LLhyrvckGqU"],
-        "speakers": [
-          {
-            "names": {"*": "Kirill Linnik", "ru": "Кирилл Линник"},
-            "url": "https://ee.linkedin.com/pub/kirill-linnik/50/a65/976",
-            "image": "klinnik.jpg"
-          }
-        ],
-        "titles": {"ru": "Почему логистической компании может понадобиться так много программистов"}
+        "titles": {"ru": "Как мы собрали всю рекламу в мире"}
       },
       {
         "org": {"cam": [""], "edit": [""]},
@@ -2324,15 +2309,30 @@
         "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
-        "youtube": ["-ZZm6qO1CvY"],
-        "origVid": ["https://www.youtube.com/watch?v=HQvzPxHbJQQ"],
+        "youtube": ["_0PsWV6nhmQ"],
+        "origVid": ["https://www.youtube.com/watch?v=LLhyrvckGqU"],
         "speakers": [
           {
-            "names": {"*": "Daria Krushevskaya", "ru": "Дарья Крушевская"},
-            "image": "dkrusevskaya.jpg"
+            "names": {"*": "Kirill Linnik", "ru": "Кирилл Линник"},
+            "url": "https://ee.linkedin.com/pub/kirill-linnik/50/a65/976",
+            "image": "klinnik.jpg"
           }
         ],
-        "titles": {"ru": "Как мы собрали всю рекламу в мире"}
+        "titles": {"ru": "Почему логистической компании может понадобиться так много программистов"}
+      },
+      {
+        "org": {"cam": [""], "edit": [""]},
+        "lang": "ru",
+        "labels": [],
+        "youtube": ["sjvUf3lWT7U"],
+        "origVid": ["https://www.youtube.com/watch?v=ypyAvJ4FHxk"],
+        "speakers": [
+          {
+            "names": {"*": "Anton Litvinenko", "ru": "Антон Литвиненко"},
+            "image": "alitvinenko.jpg"
+          }
+        ],
+        "titles": {"ru": "Что делать программисту после 30?"}
       }
     ]
   }
