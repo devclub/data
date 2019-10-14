@@ -532,7 +532,12 @@
           "image": "nsalnikov.jpg"
         }],
         "titles": {"en": "How Plumbr drips and flows"},
-        "lang": "en"
+        "lang": "en",
+        "desc": {
+          "en": [
+            "“I will give brief overview of the Plumbr product and the functionality that it offers. Next I will trace that back into various integration points and/or parts of the Java platform that provide us with the necessary data. And from that I will “build” the whole product back describing some technical decisions and paths chosen. During this process some obstacles that stood before us will be described and overcome. At the end I will describe our develop/build/test/release pipeline as well.”"
+          ]
+        }
       },
       {
         "org": {"cam": ["ijaama", "akozlov"], "orig": ["https://www.youtube.com/watch?v=Qobu6lAPc7U"]},
