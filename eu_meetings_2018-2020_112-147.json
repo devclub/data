@@ -20,7 +20,7 @@
           {
             "names": {"*": "Sergei Jegorov", "ru": "Сергей Егоров"},
             "url": "https://ee.linkedin.com/in/bsideup/en",
-            "image": "segorov.jpg"
+            "image": "sjegorov.jpg"
           }
         ],
         "titles": {"*": "Как сделать OSS проект успешным... и даже не на JavaScript!"},
@@ -298,7 +298,7 @@
         "speakers": [
           {
             "names": {"*": "Andrei Solntsev", "ru": "Андрей Солнцев"},
-            "titles": {"*": "Software developer @ Codeborne"},
+            "titles": {"*": "Software Developer @ Codeborne"},
             "url": "https://ee.linkedin.com/in/asolntsev",
             "image": "asolntsev_2018.jpg"
           }
@@ -406,7 +406,7 @@
         "youtube": ["Mh2-9je_N1Q"],
         "speakers": [
           {
-            "names": {"*": "Eugene Goloborodko", "ru": "Евгений Голобородько"},
+            "names": {"*": "Jevgeni Goloborodko", "ru": "Евгений Голобородько"},
             "titles": {"*": "Software Architect & Founder @ Digital Magic Ltd"},
             "url": "https://ee.linkedin.com/in/jevgeni-goloborodko-65a048a",
             "image": "jgoloborodko.jpg"
@@ -427,8 +427,7 @@
         "youtube": ["Qr-9Yqz9zlU"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Михаил Раер"},
-            "titles": {"*": ""},
+            "names": {"*": "Mihhail Raer", "ru": "Михаил Раер"},
             "url": "https://www.facebook.com/mraer",
             "image": "mraer.jpg"
           }
@@ -448,7 +447,7 @@
         "speakers": [
           {
             "names": {"*": "Andrei Solntsev", "ru": "Андрей Солнцев"},
-            "titles": {"*": ""},
+            "titles": {"*": "Software Developer @ Codeborne"},
             "url": "https://ee.linkedin.com/in/asolntsev",
             "image": "asolntsev_2018.jpg"
           }
@@ -483,8 +482,7 @@
         "youtube": ["wdbWn_2od8w"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Алексей Михайлов"},
-            "titles": {"*": ""},
+            "names": {"*": "Aleksei Mihhailov", "ru": "Алексей Михайлов"},
             "url": "https://www.linkedin.com/in/alexei-mikhaylov-33b282a6",
             "image": "amihailov.jpg"
           }
@@ -504,8 +502,7 @@
         "youtube": ["wCCR1Tkxc-s"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Никита Сальников-Тарновский"},
-            "titles": {"*": ""},
+            "names": {"*": "Nikita Salnikov-Tarnovski", "ru": "Никита Сальников-Тарновский"},
             "url": "https://ee.linkedin.com/in/nikem",
             "image": "nsalnikov.jpg"
           }
@@ -524,8 +521,7 @@
         "youtube": ["yYThXsYonTE"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Сергей Лабутин"},
-            "titles": {"*": ""},
+            "names": {"*": "Sergei Labutin", "ru": "Сергей Лабутин"},
             "url": "https://www.facebook.com/labutin.sergei",
             "image": "slabutin.jpg"
           }
@@ -558,8 +554,7 @@
         "youtube": ["ZJPFFjfZKDg"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Алексей Фёдоров"},
-            "titles": {"*": ""},
+            "names": {"*": "Aleksei Fjodorov", "ru": "Алексей Фёдоров"},
             "url": "https://vk.com/23derevo",
             "image": "afjodorov_2019.jpg"
           }
@@ -578,8 +573,7 @@
         "youtube": ["e7pBN15XmPk"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Руслан Ахметзянов"},
-            "titles": {"*": ""},
+            "names": {"*": "Ruslan Ahmetzyanov", "ru": "Руслан Ахметзянов"},
             "url": "https://www.linkedin.com/in/руслан-ахметзянов-5b6046114",
             "image": "rahmetzjanov.jpg"
           }
@@ -598,8 +592,7 @@
         "youtube": ["LuLBL-DHTAQ"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Дмитрий Тучс"},
-            "titles": {"*": ""},
+            "names": {"*": "Dmitri Tuchs", "ru": "Дмитрий Тучс"},
             "url": "https://www.linkedin.com/in/dtuchs",
             "image": "dtuchs_2019.jpg"
           }
@@ -632,8 +625,7 @@
         "youtube": ["hatWHIg_U2Q"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Роман Захаров"},
-            "titles": {"*": ""},
+            "names": {"*": "Roman Zahharov", "ru": "Роман Захаров"},
             "url": "https://www.facebook.com/roman.zahharov",
             "image": "rzahharov.jpg"
           }
@@ -652,8 +644,7 @@
         "youtube": ["fmEFNFMSYP4"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Дмитрий Коробцов"},
-            "titles": {"*": ""},
+            "names": {"*": "Dmitri Korobtsov", "ru": "Дмитрий Коробцов"},
             "url": "https://www.facebook.com/dkorobtsov",
             "image": "dkorobtsov.jpg"
           }
@@ -672,7 +663,7 @@
         "youtube": ["4bhB8A9Ln7E"],
         "speakers": [
           {
-            "names": {"*": "Eugene Goloborodko", "ru": "Евгений Голобородько"},
+            "names": {"*": "Jevgeni Goloborodko", "ru": "Евгений Голобородько"},
             "titles": {"*": "Software Architect & Founder @ Digital Magic Ltd"},
             "url": "https://ee.linkedin.com/in/jevgeni-goloborodko-65a048a",
             "image": "jgoloborodko.jpg"
@@ -706,8 +697,7 @@
         "youtube": ["TSPyp1zmLSo"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Андрей Скоморохов"},
-            "titles": {"*": ""},
+            "names": {"*": "Andrei Skomorohov", "ru": "Андрей Скоморохов"},
             "url": "https://www.linkedin.com/in/andrey-skomorokhov-a07094ab",
             "image": "askomorohov.jpg"
           }
@@ -751,8 +741,7 @@
         },
         "speakers": [
           {
-            "names": {"*": "", "ru": "Ольга Линник"},
-            "titles": {"*": ""},
+            "names": {"*": "Olga Linnik", "ru": "Ольга Линник"},
             "url": "https://www.facebook.com/linniklinnik",
             "image": "olinnik.jpg"
           }
@@ -772,7 +761,6 @@
         "speakers": [
           {
             "names": {"*": "Alex Inside"},
-            "titles": {"*": ""},
             "url": "https://www.facebook.com/alex.inside",
             "image": "ainside.jpg"
           }
@@ -805,8 +793,7 @@
         "youtube": ["UiP3ctCuS0U"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Константин Золотарев"},
-            "titles": {"*": ""},
+            "names": {"*": "Konstantin Zolotarjov", "ru": "Константин Золотарев"},
             "url": "https://www.linkedin.com/in/konstantin-zolotarev-36a8b545",
             "image": "kzolotarev.jpg"
           }
@@ -826,8 +813,7 @@
         "youtube": ["_WJjbmWqa38"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Илья Нафигин"},
-            "titles": {"*": ""},
+            "names": {"*": "Ilya Nafigin", "ru": "Илья Нафигин"},
             "url": "https://www.facebook.com/ilja.nafigin",
             "image": "inafigin.jpg"
           }
@@ -847,7 +833,7 @@
         "speakers": [
           {
             "names": {"*": "Andrei Solntsev", "ru": "Андрей Солнцев"},
-            "titles": {"*": ""},
+            "titles": {"*": "Software Developer @ Codeborne"},
             "url": "https://ee.linkedin.com/in/asolntsev",
             "image": "asolntsev_2018.jpg"
           }
@@ -881,8 +867,7 @@
         "youtube": ["1BkElnlTBb4"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Михаил Бараш"},
-            "titles": {"*": ""},
+            "names": {"*": "Mihhail Barash", "ru": "Михаил Бараш"},
             "url": "https://twitter.com/mikhail_barash",
             "image": "mbarash.jpg"
           }
@@ -901,9 +886,7 @@
         "youtube": ["WAByqnLFv2M"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Валерий Твердохлеб"},
-            "titles": {"*": ""},
-            "url": "",
+            "names": {"*": "Valeri Tverdohleb", "ru": "Валерий Твердохлеб"},
             "image": "vtverdohleb.jpg"
           }
         ],
@@ -921,7 +904,7 @@
         "youtube": ["d0-8K7QSuv4"],
         "speakers": [
           {
-            "names": {"*": "Eugene Goloborodko", "ru": "Евгений Голобородько"},
+            "names": {"*": "Jevgeni Goloborodko", "ru": "Евгений Голобородько"},
             "titles": {"*": "Software Architect & Founder @ Digital Magic Ltd"},
             "url": "https://ee.linkedin.com/in/jevgeni-goloborodko-65a048a",
             "image": "jgoloborodko.jpg"
@@ -956,8 +939,7 @@
         "youtube": ["R06QfCLrfXw"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Сергей Цимбалист"},
-            "titles": {"*": ""},
+            "names": {"*": "Sergei Tsimbalist", "ru": "Сергей Цимбалист"},
             "url": "https://www.linkedin.com/in/sergei-tsimbalist-248541155",
             "image": "stsimbalist.jpg"
           }
@@ -976,8 +958,7 @@
         "youtube": ["mCqjcPGQgAs"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Александр Тавген"},
-            "titles": {"*": ""},
+            "names": {"*": "Aleksandr Tavgen", "ru": "Александр Тавген"},
             "url": "https://www.linkedin.com/in/aleksandr-tavgen-24431815b",
             "image": "atavgen.jpg"
           }
@@ -996,8 +977,8 @@
         "youtube": ["xiBd5kTOoYo"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Андрей Солнцев"},
-            "titles": {"*": ""},
+            "names": {"*": "Andrei Solntsev", "ru": "Андрей Солнцев"},
+            "titles": {"*": "Software Developer @ Codeborne"},
             "url": "https://ee.linkedin.com/in/asolntsev",
             "image": "asolntsev_2018.jpg"
           }
@@ -1030,8 +1011,7 @@
         "youtube": ["HC8uoEX8B5A"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Олег Шелаев"},
-            "titles": {"*": ""},
+            "names": {"*": "Oleg Shelaev", "ru": "Олег Шелаев"},
             "url": "https://twitter.com/shelajev",
             "image": "oshelaev.jpg"
           }
@@ -1053,8 +1033,7 @@
         "youtube": ["-gWdbpQXmFo"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Вадим Герасимов"},
-            "titles": {"*": ""},
+            "names": {"*": "Vadim Gerassimov", "ru": "Вадим Герасимов"},
             "url": "https://www.linkedin.com/in/vadimgerassimov",
             "image": "vgerassimov.jpg"
           }
@@ -1073,14 +1052,12 @@
         "youtube": ["owhyY09iEk0"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Михаил Дунаев"},
-            "titles": {"*": ""},
+            "names": {"*": "Mihhail Dunajev", "ru": "Михаил Дунаев"},
             "url": "https://www.linkedin.com/in/mikhail-dunaev-ab6b6a68",
             "image": "mdunajev.jpg"
           },
           {
-            "names": {"*": "", "ru": "Павел Лаврешин"},
-            "titles": {"*": ""},
+            "names": {"*": "Pavel Lavreshin", "ru": "Павел Лаврешин"},
             "url": "https://www.linkedin.com/in/pavel-lavreshin-32525150",
             "image": "plavreshin.jpg"
           }

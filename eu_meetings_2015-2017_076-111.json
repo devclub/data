@@ -763,9 +763,9 @@
         "youtube": ["luKdI0MXJpQ"],
         "speakers": [
           {
-            "names": {"*": "DEVCLUB.EU"},
-            "url": "http://devclub.eu",
-            "image": "devclubeu.jpg"
+            "names": {"*": "Anton Stalnuhhin", "ru": "Антон Стальнухин"},
+            "url": "https://ee.linkedin.com/in/astalnuhhin",
+            "image": "astalnuhhin.jpg"
           }
         ],
         "titles": {"ru": "Небольшой сюрприз к 8-летию и 100-й встрече"}
@@ -1217,7 +1217,7 @@
           {
             "names": {"*": "Sergei Jegorov", "ru": "Сергей Егоров"},
             "url": "https://ee.linkedin.com/in/bsideup/en",
-            "image": "segorov.jpg"
+            "image": "sjegorov.jpg"
           }
         ],
         "titles": {"ru": "С нуля в Облака: ваши оценки времени не верны!"},
@@ -1722,8 +1722,7 @@
         "speakers": [
           {
             "names": {"*": "Artem Kurapov", "ru": "Артём Курапов"},
-            "url": "",
-            "image": ""
+            "image": "akurapov.jpg"
           }
         ],
         "titles": {"ru": "Многообразие автоматических тестов"},
@@ -1737,8 +1736,7 @@
         "speakers": [
           {
             "names": {"*": "Robert Kaev", "ru": "Роберт Каэв"},
-            "url": "",
-            "image": ""
+            "image": "rkaev.jpg"
           }
         ],
         "titles": {"ru": "Reactive Enterprise Architecture"}
@@ -1841,7 +1839,8 @@
             "image": "akeks.jpg"
           },
           {
-            "names": {"*": "Dmitri Ess", "ru": "Дмитрий Эсс"}
+            "names": {"*": "Dmitri Ess", "ru": "Дмитрий Эсс"},
+            "image": "dess.jpg"
           }
         ],
         "titles": {"ru": "Школа программирования Codeborne"}
@@ -1853,9 +1852,8 @@
         "youtube": ["tf_7Drar-NU"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Алексей Баранцев"},
-            "url": "",
-            "image": ""
+            "names": {"*": "Aleksei Barantsev", "ru": "Алексей Баранцев"},
+            "image": "abarantsev.jpg"
           }
         ],
         "titles": {"ru": "Aspiration Driven Development"}
@@ -1878,9 +1876,8 @@
         "labels": [],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Алек Альджанов"},
-            "url": "",
-            "image": ""
+            "names": {"*": "Alek Aldzhanov", "ru": "Алек Альджанов"},
+            "image": "aadzanov.jpg"
           }
         ],
         "titles": {"ru": "Про хранилище картинок"},
@@ -1897,9 +1894,8 @@
         "youtube": ["ME4HqzRjjJs"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Ирина Иванова"},
-            "url": "",
-            "image": ""
+            "names": {"*": "Irina Ivanova", "ru": "Ирина Иванова"},
+            "image": "iivanova.jpg"
           }
         ],
         "titles": {"ru": "Ловушки мышления в тестировании"},
@@ -1911,8 +1907,7 @@
         "speakers": [
           {
             "names": {"*": "Anton Karputkin", "ru": "Антон Карпуткин"},
-            "url": "",
-            "image": ""
+            "image": "akarputkin.jpg"
           }
         ],
         "titles": {"ru": "Квантовые компьютеры"},
@@ -1945,8 +1940,7 @@
         "speakers": [
           {
             "names": {"*": "Sergei Kuksenko", "ru": "Сергей Куксенко"},
-            "url": "",
-            "image": ""
+            "image": "skuksenko.jpg"
           }
         ],
         "titles": {"*": "Stream Style"}
@@ -2072,8 +2066,7 @@
         "speakers": [
           {
             "names": {"*": "Oleg Mürk", "ru": "Олег Мюрк"},
-            "url": "",
-            "image": ""
+            "image": "omurk.jpg"
           }
         ],
         "titles": {"*": "Big Data & Spark"}
@@ -2188,8 +2181,7 @@
         "speakers": [
           {
             "names": {"*": "Filipp Keks", "ru": "Филипп Кекс"},
-            "url": "",
-            "image": ""
+            "image": "fkeks.jpg"
           }
         ],
         "titles": {"ru": "Разработка как живопись"}
@@ -2203,8 +2195,7 @@
         "speakers": [
           {
             "names": {"*": "Vladimir Funtikov", "ru": "Владимир Фунтиков"},
-            "url": "",
-            "image": ""
+            "image": "vfuntikov.jpg"
           }
         ],
         "titles": {"ru": "Как проиграть в игровой индустрии"}
@@ -2227,9 +2218,8 @@
         "labels": [],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Ирина Марценюк"},
-            "url": "",
-            "image": ""
+            "names": {"*": "Irina Martsenjuk", "ru": "Ирина Марценюк"},
+            "image": "imartsenjuk.jpg"
           }
         ],
         "titles": {"ru": "Профессиональные проблемы IT-шника с точки зрения массажиста"},
@@ -2295,8 +2285,7 @@
         "speakers": [
           {
             "names": {"*": "Anton Litvinenko", "ru": "Антон Литвиненко"},
-            "url": "",
-            "image": ""
+            "image": "alitvinenko.jpg"
           }
         ],
         "titles": {"ru": "Что делать программисту после 30?"}
@@ -2339,9 +2328,8 @@
         "origVid": ["https://www.youtube.com/watch?v=HQvzPxHbJQQ"],
         "speakers": [
           {
-            "names": {"*": "Daria Krushevskaja", "ru": "Дарья Крушевская"},
-            "url": "",
-            "image": ""
+            "names": {"*": "Daria Krushevskaya", "ru": "Дарья Крушевская"},
+            "image": "dkrusevskaya.jpg"
           }
         ],
         "titles": {"ru": "Как мы собрали всю рекламу в мире"}

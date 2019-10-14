@@ -186,7 +186,7 @@
           {
             "names": {"*": "Sergei Jegorov", "ru": "Сергей Егоров"},
             "url": "https://ee.linkedin.com/in/bsideup/en",
-            "image": "segorov.jpg"
+            "image": "sjegorov.jpg"
           }
         ],
         "titles": {"ru": "Haxe – универсальный ОО язык программирования высокого уровня"},
@@ -228,9 +228,8 @@
         "origVid": ["https://www.youtube.com/watch?v=gqISlPaMjK8"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Дмитрий Трошков"},
-            "url": "",
-            "image": ""
+            "names": {"*": "Dmitri Troshkov", "ru": "Дмитрий Трошков"},
+            "image": "dtroskov.jpg"
           }
         ],
         "titles": {"ru": "TypeScript"}
@@ -245,7 +244,7 @@
           {
             "names": {"*": "Sergei Jegorov", "ru": "Сергей Егоров"},
             "url": "https://ee.linkedin.com/in/bsideup/en",
-            "image": "segorov.jpg"
+            "image": "sjegorov.jpg"
           }
         ],
         "titles": {"ru": "Groovy AST"}
@@ -268,9 +267,8 @@
         "labels": ["offtopic", "defence", "fight"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Марат Саддаров"},
-            "url": "",
-            "image": ""
+            "names": {"*": "Marat Saddarov", "ru": "Марат Саддаров"},
+            "image": "msaddarov.jpg"
           }
         ],
         "titles": {"ru": "На ножах"},
@@ -331,9 +329,8 @@
         "origVid": ["https://www.youtube.com/watch?v=esYhBcDxcqU"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Андрей Ткачёв"},
-            "url": "",
-            "image": ""
+            "names": {"*": "Andrei Tkachjov", "ru": "Андрей Ткачёв"},
+            "image": "atkachjov.jpg"
           }
         ],
         "titles": {"ru": "Путь от фотона до JPEG, или как получаются цифровые фотографии?"},
@@ -347,9 +344,8 @@
         "origVid": ["https://www.youtube.com/watch?v=LTVOqbph0T4"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Дима Нестерук"},
-            "url": "",
-            "image": ""
+            "names": {"*": "Dmitri Nesteruk", "ru": "Дмитрий Нестерук"},
+            "image": "dnesteruk.jpg"
           }
         ],
         "titles": {"ru": "Взгляд на современный С++"}
@@ -390,9 +386,8 @@
         "origVid": ["https://www.youtube.com/watch?v=xThdDI_CASA"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Максим Дорофеев"},
-            "url": "",
-            "image": ""
+            "names": {"*": "Maksim Dorofejev", "ru": "Максим Дорофеев"},
+            "image": "mdorofejev.jpg"
           }
         ],
         "titles": {"ru": "Эффективность нееффективности"},
@@ -464,9 +459,8 @@
         "origVid": ["https://vimeo.com/93601740"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Вадим Герасимов"},
-            "url": "",
-            "image": ""
+            "names": {"*": "Vadim Gerassimov", "ru": "Вадим Герасимов"},
+            "image": "vgerassimov.jpg"
           }
         ],
         "titles": {"ru": "Feature-driven development"}
@@ -529,8 +523,7 @@
         "speakers": [
           {
             "names": {"*": "Mihkel Salm"},
-            "url": "",
-            "image": ""
+            "image": "msalm.jpg"
           }
         ],
         "titles": {"ru": "Hacker-space"}
@@ -543,9 +536,8 @@
         "origVid": ["https://vimeo.com/90268465"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Иван Гайдамакин"},
-            "url": "",
-            "image": ""
+            "names": {"*": "Ivan Gaidamakin", "ru": "Иван Гайдамакин"},
+            "image": "igaidamakin.jpg"
           }
         ],
         "titles": {"ru": "3D принтеры"}
@@ -682,9 +674,8 @@
         "origVid": ["https://vimeo.com/85480224"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Филипп Кекс"},
-            "url": "",
-            "image": ""
+            "names": {"*": "Fillip Keks", "ru": "Филипп Кекс"},
+            "image": "fkeks.jpg"
           }
         ],
         "titles": {"ru": "Unity3D – взрыв в сфере разработки игр"}
@@ -709,9 +700,8 @@
         "youtube": ["fhBye21QA94"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Сергей Моисеев"},
-            "url": "",
-            "image": ""
+            "names": {"*": "Sergei Moisejev", "ru": "Сергей Моисеев"},
+            "image": "smoisejev.jpg"
           }
         ],
         "titles": {"ru": "Уволь своего frontend разработчика"}
@@ -753,9 +743,8 @@
         "youtube": ["oAzLJyPUICA"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Евгений Чайкин"},
-            "url": "",
-            "image": ""
+            "names": {"*": "Eugene Tsaikin", "ru": "Евгений Чайкин"},
+            "image": "etsaikin.jpg"
           }
         ],
         "titles": {"ru": "Инструменты разработки для Windows Phone"}
@@ -780,9 +769,8 @@
         "youtube": ["DNfQHfD-gNg"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Сергей Куксенко"},
-            "url": "",
-            "image": ""
+            "names": {"*": "Sergei Kuksenko", "ru": "Сергей Куксенко"},
+            "image": "skuksenko.jpg"
           }
         ],
         "titles": {"ru": "Сессия вопросов-ответов о производительности Java"}
@@ -794,9 +782,8 @@
         "youtube": ["RGFJjQKChNQ"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Сергей Куксенко"},
-            "url": "",
-            "image": ""
+            "names": {"*": "Sergei Kuksenko", "ru": "Сергей Куксенко"},
+            "image": "skuksenko.jpg"
           }
         ],
         "titles": {"ru": "“Квантовые” эффекты производительности"},
@@ -833,9 +820,8 @@
         "labels": [],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Валерий Кузьмин"},
-            "url": "",
-            "image": ""
+            "names": {"*": "Valeri Kuzmin", "ru": "Валерий Кузьмин"},
+            "image": "vkuzmin.jpg"
           }
         ],
         "titles": {"ru": "3D принтеры"},
@@ -897,8 +883,7 @@
         "speakers": [
           {
             "names": {"*": "Ralf Morawietz"},
-            "url": "",
-            "image": ""
+            "image": "rmorawietz.jpg"
           }
         ],
         "titles": {"ru": "Почему мы круче китайцев"},
@@ -916,9 +901,8 @@
         "origVid": ["https://vimeo.com/76635435"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Юрий Худолеев"},
-            "url": "",
-            "image": ""
+            "names": {"*": "Juri Hudolejev", "ru": "Юрий Худолеев"},
+            "image": "jhudolejev.jpg"
           }
         ],
         "titles": {"ru": "Ansible"},
@@ -1023,8 +1007,7 @@
         "speakers": [
           {
             "names": {"*": "Martin Sokk"},
-            "url": "",
-            "image": ""
+            "image": "msokk.jpg"
           }
         ],
         "titles": {"ru": "TransferWise"},
@@ -1056,8 +1039,7 @@
         "speakers": [
           {
             "names": {"*": "Sergei Tsarik", "ru": "Сергей Царик"},
-            "url": "",
-            "image": ""
+            "image": "stsarik.jpg"
           }
         ],
         "titles": {"ru": "StaffLogic"}
@@ -1086,8 +1068,7 @@
         "speakers": [
           {
             "names": {"*": "Lisa Toompuu", "ru": "Лиза Тоомпуу"},
-            "url": "",
-            "image": ""
+            "image": "ltoompuu.jpg"
           }
         ],
         "titles": {"ru": "Toggl"}
@@ -1101,8 +1082,7 @@
         "speakers": [
           {
             "names": {"*": "Martin Rand", "ru": "Мартин Ранд"},
-            "url": "",
-            "image": ""
+            "image": "mrand.jpg"
           }
         ],
         "titles": {"ru": "VitalFields"}
@@ -1163,9 +1143,8 @@
         "origVid": ["https://vimeo.com/68755357"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Александр Ястремский"},
-            "url": "",
-            "image": ""
+            "names": {"*": "Aleksandr Jastremski", "ru": "Александр Ястремский"},
+            "image": "ajastremski.jpg"
           }
         ],
         "titles": {"ru": "Сказка про .NET"}
@@ -1207,9 +1186,8 @@
         "origVid": ["https://vimeo.com/67039658"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Филипп Торчинский"},
-            "url": "",
-            "image": ""
+            "names": {"*": "Fillip Torchinski", "ru": "Филипп Торчинский"},
+            "image": "ftochinski.jpg"
           }
         ],
         "titles": {"ru": "Разработка веб-приложений на node.js при помощи WebStorm"}
@@ -1237,9 +1215,8 @@
         "origVid": ["https://vimeo.com/67039659"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Филипп Торчинский"},
-            "url": "",
-            "image": ""
+            "names": {"*": "Fillip Torchinski", "ru": "Филипп Торчинский"},
+            "image": "ftochinski.jpg"
           }
         ],
         "titles": {"ru": "YouTrack"}
@@ -1362,9 +1339,8 @@
         "origVid": ["https://vimeo.com/62849105"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Алек Козлов"},
-            "url": "",
-            "image": ""
+            "names": {"*": "Alek Kozlov", "ru": "Алек Козлов"},
+            "image": "akozlov.jpg"
           }
         ],
         "titles": {"ru": "Как проходят изменения в команде, и как кто на них реагирует."}
@@ -1393,8 +1369,7 @@
         "speakers": [
           {
             "names": {"*": "Igor Menkov", "ru": "Игорь Меньков"},
-            "url": "",
-            "image": ""
+            "image": "imenkov.jpg"
           }
         ],
         "titles": {"*": "Windows Store Apps"}
@@ -1420,9 +1395,8 @@
         "origVid": ["https://www.youtube.com/watch?v=QYGq3JREVBY"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Станислав Васильев"},
-            "url": "",
-            "image": ""
+            "names": {"*": "Stanislav Vassiljev", "ru": "Станислав Васильев"},
+            "image": "svassiljev.jpg"
           }
         ],
         "titles": {"ru": "Смотрим в будущее"}
@@ -1440,9 +1414,8 @@
             "image": "asolntsev.jpg"
           },
           {
-            "names": {"*": "", "ru": "Вадим Герасимов"},
-            "url": "",
-            "image": ""
+            "names": {"*": "Vadim Gereassimov", "ru": "Вадим Герасимов"},
+            "image": "vgerassimov.jpg"
           }
         ],
         "titles": {"ru": "Selenide: тестирование по-пацански"}
@@ -1455,9 +1428,8 @@
         "origVid": ["https://www.youtube.com/watch?v=96rV5Z7Yyrc"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Сергей Моисеев"},
-            "url": "",
-            "image": ""
+            "names": {"*": "Sergei Moisejev", "ru": "Сергей Моисеев"},
+            "image": "smoisejev.jpg"
           }
         ],
         "titles": {"ru": "Впадая в крайности: решаем проблемы с Ruby on Rails"}
@@ -1483,9 +1455,8 @@
         "origVid": ["https://vimeo.com/58581465"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Михаил Вайсман"},
-            "url": "",
-            "image": ""
+            "names": {"*": "Mihhail Vaisman", "ru": "Михаил Вайсман"},
+            "image": "mvaisman.jpg"
           }
         ],
         "titles": {"ru": "Ruby-ть или не Ruby-ть"}
@@ -1514,9 +1485,8 @@
         "origVid": ["https://vimeo.com/58580972"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Роман Маринченко"},
-            "url": "",
-            "image": ""
+            "names": {"*": "Roman Marinchenko", "ru": "Роман Маринченко"},
+            "image": "rmarinchenko.jpg"
           }
         ],
         "titles": {"ru": "BDD на PHP с помощью Behat + Mink."}
@@ -1554,9 +1524,8 @@
         "labels": [],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Александра Трахачёва"},
-            "url": "",
-            "image": ""
+            "names": {"*": "Aleksandra Trahacheva", "ru": "Александра Трахачёва"},
+            "image": "atrahacheva.jpg"
           }
         ],
         "titles": {
@@ -1592,9 +1561,8 @@
         "origVid": ["https://vimeo.com/56422715"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Антон Литвиненко"},
-            "url": "",
-            "image": ""
+            "names": {"*": "Anton Litvinenko", "ru": "Антон Литвиненко"},
+            "image": "alitvinenko.jpg"
           }
         ],
         "titles": {"ru": "Грабли миграций на нашем опыте из import2"}
@@ -1709,8 +1677,7 @@
         "speakers": [
           {
             "names": {"*": "Anton Karputkin", "ru": "Антон Карпуткин"},
-            "url": "",
-            "image": ""
+            "image": "akarputkin.jpg"
           }
         ],
         "titles": {"ru": "NP Проблемы"}
@@ -1736,9 +1703,8 @@
         "origVid": ["https://vimeo.com/50212957"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Евгений Шатохин"},
-            "url": "",
-            "image": ""
+            "names": {"*": "Eugene Shatohin", "ru": "Евгений Шатохин"},
+            "image": "esatohin.jpg"
           }
         ],
         "titles": {"ru": "Демонстрация Raspberry Pi "},
@@ -1784,8 +1750,7 @@
         "speakers": [
           {
             "names": {"*": "Artem Kurapov", "ru": "Артём Курапов"},
-            "url": "",
-            "image": ""
+            "image": "akurapov.jpg"
           }
         ],
         "titles": {"ru": "В облаке AWS"}
@@ -1811,9 +1776,8 @@
         "origVid": ["https://vimeo.com/48646216"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Вадим Герасимов"},
-            "url": "",
-            "image": ""
+            "names": {"*": "Vadim Gerassimov", "ru": "Вадим Герасимов"},
+            "image": "vgerassimov.jpg"
           }
         ],
         "titles": {"*": "Play Framework"}
@@ -1823,9 +1787,8 @@
         "labels": [],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Александра Трахачёва"},
-            "url": "",
-            "image": ""
+            "names": {"*": "Aleksandra Trahacheva", "ru": "Александра Трахачёва"},
+            "image": "atrahacheva.jpg"
           }
         ],
         "titles": {"ru": "RSI или Туннельный Синдром"},
@@ -1843,9 +1806,8 @@
         "origVid": ["https://vimeo.com/49070254"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Борис Розенблит"},
-            "url": "",
-            "image": ""
+            "names": {"*": "Boriss Rozenblit", "ru": "Борис Розенблит"},
+            "image": "brozenblit.jpg"
           }
         ],
         "titles": {"ru": "Hiring – взгляд с другой стороны стола"},
@@ -1859,9 +1821,8 @@
         "origVid": ["https://vimeo.com/48646217"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Кирилл Шустов"},
-            "url": "",
-            "image": ""
+            "names": {"*": "Kirill Shutov", "ru": "Кирилл Шустов"},
+            "image": "ksustov.jpg"
           }
         ],
         "titles": {"ru": "Модернизация телескопа в Тыравере"}
@@ -1887,9 +1848,8 @@
         "origVid": ["https://vimeo.com/46532948"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Андрей Ткачёв"},
-            "url": "",
-            "image": ""
+            "names": {"*": "Andrei Tkachjov", "ru": "Андрей Ткачёв"},
+            "image": "atkachjov.jpg"
           }
         ],
         "titles": {"ru": "Информатика в автогонках"},
@@ -1919,8 +1879,7 @@
         "speakers": [
           {
             "names": {"*": "Artem Kurapov", "ru": "Артём Курапов"},
-            "url": "",
-            "image": ""
+            "image": "akurapov.jpg"
           }
         ],
         "titles": {"ru": "Про новую голосовалку для докладов в девклубе"}
@@ -1985,9 +1944,8 @@
         "origVid": ["https://vimeo.com/46455292"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Анна Храповицкая"},
-            "url": "",
-            "image": ""
+            "names": {"*": "Anna Hrapovitskaya", "ru": "Анна Храповицкая"},
+            "image": "ahrapovitskaya.jpg"
           }
         ],
         "titles": {"*": "Demo Keskus"}
@@ -2029,9 +1987,8 @@
         "origVid": ["https://vimeo.com/44342552"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Павел Певницкий"},
-            "url": "",
-            "image": ""
+            "names": {"*": "Pavel Pevnitski", "ru": "Павел Певницкий"},
+            "image": "ppevnitski.jpg"
           }
         ],
         "titles": {"ru": "О распознавании мульти-тач жестов"}
@@ -2104,8 +2061,7 @@
         "speakers": [
           {
             "names": {"*": "Mark Kofman", "ru": "Марк Кофман"},
-            "url": "",
-            "image": ""
+            "image": "mkofman.jpg"
           }
         ],
         "titles": {"*": "Power Games and Projects"}
@@ -2148,9 +2104,8 @@
         "origVid": ["https://vimeo.com/41040729"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Павел Григоренко"},
-            "url": "",
-            "image": ""
+            "names": {"*": "Pavel Grigorenko", "ru": "Павел Григоренко"},
+            "image": "pgrigorenko.jpg"
           }
         ],
         "titles": {"ru": "CoCoViLa: визуальные ДСЛы и автоматический синтез программ"},
@@ -2179,9 +2134,8 @@
         "origVid": ["https://vimeo.com/41040730"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Евгений Кабанов"},
-            "url": "",
-            "image": ""
+            "names": {"*": "Eugene Kabanov", "ru": "Евгений Кабанов"},
+            "image": "ekabanov.jpg"
           }
         ],
         "titles": {"ru": "Чем занимаются инженеры в ИТ продукт-компаниях"}
@@ -2208,8 +2162,7 @@
         "speakers": [
           {
             "names": {"*": "Anton Litvinenko", "ru": "Антон Литвиненко"},
-            "url": "",
-            "image": ""
+            "image": "alitvinenko.jpg"
           }
         ],
         "titles": {"*": "300mg"},
@@ -2223,9 +2176,8 @@
         "origVid": ["https://vimeo.com/39404345"],
         "speakers": [
           {
-            "names": {"*": "Daria Krushevskaja", "ru": "Дарья Крушевская"},
-            "url": "",
-            "image": ""
+            "names": {"*": "Daria Krushevskaya", "ru": "Дарья Крушевская"},
+            "image": "dkrusevskaya.jpg"
           }
         ],
         "titles": {"ru": "Продать за 200мс"},
@@ -2257,8 +2209,7 @@
         "speakers": [
           {
             "names": {"*": "Nikolai Pavlov", "ru": "Николай Павлов"},
-            "url": "",
-            "image": ""
+            "image": "npavlov.jpg"
           }
         ],
         "titles": {"*": "Introduction to Skype"}
@@ -2281,9 +2232,8 @@
         "labels": [],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Елена Мельникова-Григорьева"},
-            "url": "",
-            "image": ""
+            "names": {"*": "Jelena Melnikova-Grigorjeva", "ru": "Елена Мельникова-Григорьева"},
+            "image": "jmelnikovagrigorjeva.jpg"
           }
         ],
         "titles": {"ru": "Ближайшее будущее в эволюции искусственного интеллекта"},
@@ -2317,8 +2267,7 @@
         "speakers": [
           {
             "names": {"*": "J.B.Rainsberger"},
-            "url": "",
-            "image": ""
+            "image": "jrainsberger.jpg"
           }
         ],
         "titles": {"*": "TDD"}
@@ -2479,9 +2428,8 @@
         "origVid": ["https://vimeo.com/34176209"],
         "speakers": [
           {
-            "names": {"*": "", "ru": "Андрей Бреслав"},
-            "url": "",
-            "image": ""
+            "names": {"*": "Andrei Breslav", "ru": "Андрей Бреслав"},
+            "image": "abreslav.jpg"
           }
         ],
         "titles": {"ru": "Язык программирования Kotlin"}
