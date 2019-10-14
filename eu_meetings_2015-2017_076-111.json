@@ -1672,18 +1672,18 @@
         "examples": ["https://github.com/mihhail-lapushkin/devclub_nov2015"]
       },
       {
-        "org": {"cam": ["astalnuhhin"], "edit": ["astalnuhhin"]},
+        "org": {"cam": ["jtimosin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": [],
-        "youtube": ["xBYkGBqFPeI"],
+        "youtube": ["qKTREnERaec"],
         "speakers": [
           {
-            "names": {"*": "Nikita Salnikov-Tarnovski", "ru": "Никита Сальников-Тарновский"},
-            "url": "https://ee.linkedin.com/in/nikem",
-            "image": "nsalnikov.jpg"
+            "names": {"*": "Aleksei Fjodorov", "ru": "Алексей Фёдоров"},
+            "image": "afjodorov.jpg"
           }
         ],
-        "titles": {"ru": "Как изобретение велосипедов спасло компанию Plumbr"},
+        "titles": {"ru": "Синхронизация без блокировок и СМС"},
+        "presentations": ["http://www.slideshare.net/23derevo/ss-55524945"],
         "top": {"season": 2015, "place": 4}
       }
     ]
@@ -1703,16 +1703,14 @@
         "org": {"cam": ["astalnuhhin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": [],
-        "youtube": ["OdbXwQPV3dw"],
+        "youtube": ["GMK_0b6Wgjw"],
         "speakers": [
           {
-            "names": {"*": "Dmitri Nesteruk", "ru": "Дмитрий Нестерук"},
-            "url": "https://www.linkedin.com/in/dmitri-nesteruk-87b069aa/",
-            "image": "dnesteruk.jpg"
+            "names": {"*": "Robert Kaev", "ru": "Роберт Каэв"},
+            "image": "rkaev.jpg"
           }
         ],
-        "titles": {"ru": "Обзор технологий высокопроизводительных вычислений (HPC)"},
-        "top": {"season": 2015, "place": 7}
+        "titles": {"ru": "Reactive Enterprise Architecture"}
       },
       {
         "org": {"cam": ["astalnuhhin"], "edit": ["astalnuhhin"]},
@@ -1732,14 +1730,16 @@
         "org": {"cam": ["astalnuhhin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": [],
-        "youtube": ["GMK_0b6Wgjw"],
+        "youtube": ["OdbXwQPV3dw"],
         "speakers": [
           {
-            "names": {"*": "Robert Kaev", "ru": "Роберт Каэв"},
-            "image": "rkaev.jpg"
+            "names": {"*": "Dmitri Nesteruk", "ru": "Дмитрий Нестерук"},
+            "url": "https://www.linkedin.com/in/dmitri-nesteruk-87b069aa/",
+            "image": "dnesteruk.jpg"
           }
         ],
-        "titles": {"ru": "Reactive Enterprise Architecture"}
+        "titles": {"ru": "Обзор технологий высокопроизводительных вычислений (HPC)"},
+        "top": {"season": 2015, "place": 7}
       }
     ]
   },
