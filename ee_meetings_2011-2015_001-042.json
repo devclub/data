@@ -538,7 +538,17 @@
         "org": {"cam": ["ijaama", "akozlov"], "orig": ["https://www.youtube.com/watch?v=Qobu6lAPc7U"]},
         "youtube": ["lfTMLCf3Ak8"],
         "speakers": [{
-          "names": {"*": "TransferWise"}
+          "names": {"*": "Alvar Lumberg"},
+          "image": "alumberg.jpg"
+        }, {
+          "names": {"*": "Peep Pullerits"},
+          "image": "ppullerits.jpg"
+        }, {
+          "names": {"*": "Sergei Müttü"},
+          "image": "smuttu.jpg"
+        }, {
+          "names": {"*": "Martin McGloin "},
+          "image": "mmcgloin.jpg"
         }],
         "titles": {"en": "Building an international payment engine - the good,the bad and the ugly"},
         "lang": "en"
@@ -1151,7 +1161,8 @@
         "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/45161931"], "origViews": 248},
         "youtube": ["6RNhCCuD93E"],
         "speakers": [{
-          "names": {"*": "Team Artify"}
+          "names": {"*": "Jaanus Lang"},
+          "image": "jlang.jpg"
         }],
         "titles": {"en": "How to choose a framework"},
         "lang": "et"
@@ -1436,7 +1447,11 @@
         "org": {"cam": ["ijaama"], "orig": ["https://vimeo.com/31716868"], "origViews": 322},
         "youtube": ["mp28Q-_T1t4"],
         "speakers": [{
-          "names": {"*": "Ixonos Estonia OÜ"}
+          "names": {"*": "Margus Mihhailov"},
+          "image": "mmihhailov.jpg"
+        }, {
+          "names": {"*": "Maidu Üle"},
+          "image": "mule.jpg"
         }],
         "titles": {"en": "Android/MeeGo/Tizan sisikonna kiirülevaade"},
         "lang": "et"
