@@ -733,12 +733,7 @@
         "org": {"cam": ["astalnuhhin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": ["tinder", "dating", "experience"],
-        "youtube": [],
-        "info": {
-          "ru": "Всё ещё в монтажной по техническим проблемам.",
-          "en": "Editing video (technical problems).",
-          "et": "Video tehakse (tehnilised probleemid)."
-        },
+        "youtube": ["NY9hvrU0F2U"],
         "speakers": [
           {
             "names": {"*": "Olga Linnik", "ru": "Ольга Линник"},
