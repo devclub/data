@@ -12,8 +12,8 @@
     "event": "https://www.eventbrite.com/e/devclub-76-monese-tickets-71348012827",
     "speeches": [
       {
-        "org": {"cam": ["ijaama"]},
-        "youtube": [""], "lang": "en",
+        "org": {"cam": ["ijaama"], "edit": ["ijaama"]},
+        "youtube": ["UiZaG1F1Vxc"], "lang": "en",
         "labels": ["microservice", "GraphQL"],
         "speakers": [{
           "image": "jkiiver.jpg",
@@ -32,8 +32,8 @@
         }
       },
       {
-        "org": {"cam": ["ijaama"]},
-        "youtube": [""], "lang": "en",
+        "org": {"cam": ["ijaama"], "edit": ["ijaama"]},
+        "youtube": ["PdKlWMt-xs4"], "lang": "en",
         "labels": ["self-improvement"],
         "speakers": [{
           "image": "eletinskis.jpg",
