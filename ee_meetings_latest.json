@@ -12,8 +12,8 @@
     "event": "https://www.eventbrite.com/e/devclub-77-rangeforce-october-9-tickets-75026166283",
     "speeches": [
       {
-        "org": {"cam": ["ijaama"]},
-        "youtube": [""], "lang": "en",
+        "org": {"cam": ["ijaama"], "edit": ["ijaama"]},
+        "youtube": ["ZW37by0hoPw"], "lang": "en",
         "labels": ["security"],
         "speakers": [{
             "image": "mernits.jpg",
@@ -29,8 +29,8 @@
         }
       },
       {
-        "org": {"cam": ["ijaama"]},
-        "youtube": [""], "lang": "en",
+        "org": {"cam": ["ijaama"], "edit": ["ijaama"]},
+        "youtube": ["oN140QZEXhM"], "lang": "en",
         "labels": ["management"],
         "speakers": [{
             "image": "mcaron.jpg",
