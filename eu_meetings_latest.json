@@ -38,7 +38,7 @@
           {
             "names": {"*": "?", "ru": "?"},
             "titles": {"*": "? @ ?"},
-            "image": "noname.jpg"
+            "image": "nophoto.png"
           }
         ],
         "titles": {"*": "???"},
@@ -56,7 +56,7 @@
         "speakers": [
           {
             "names": {"*": "Tatjana Gordejeva", "ru": "Татьяна Гордеева"},
-            "titles": {"*": "Тренер-инструктор группового тренинга UYO"},
+            "titles": {"*": "???"},
             "url": "https://www.facebook.com/tanya.hrc",
             "image": "tgordejeva.jpg"
           }
