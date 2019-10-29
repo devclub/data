@@ -1,4 +1,82 @@
 [
+    {
+    "num": 134,
+    "datetime": "2019-10-24T19:00:00+03:00",
+    "season": 2019,
+    "place": {
+      "name": "Park Inn by Radisson Meriton Conference & Spa Hotel Tallinn", "loc": "https://goo.gl/maps/AJbuvwDS7co",
+      "addr": "Toompuiestee 27/Paldiski mnt 4, 10149 Tallinn", "url": "https://www.parkinn.com/hotel-meriton-tallinn"
+    },
+    "org": {"mod": ["astalnuhhin"], "photo": ["gbeskin"]},
+    "photo": ["https://photos.app.goo.gl/BsaXg6fUuia6VK4RA"],
+    "event": "https://www.eventbrite.com/e/devclubeu-134-tickets-77265995673",
+    "speeches": [
+      {
+        "org": {"cam": ["jtimosin"], "edit": ["astalnuhhin"]},
+        "lang": "ru",
+        "labels": ["management", "selfimprovement"],
+        "youtube": ["SgE7DwR90Z4"],
+        "speakers": [
+          {
+            "names": {"*": "Anton Keks", "ru": "Антон Кекс"},
+            "titles": {"*": "Software Craftsman @ Codeborne"},
+            "url": "https://www.linkedin.com/in/antonkeks",
+            "image": "akeks.jpg"
+          }
+        ],
+        "titles": {"*": "The World needs Full-stack Craftsmen"},
+        "descr": {
+          "ru": [
+            "Разработчики и ИТ-специалисты в целом, как правило, становятся узкоквалифицированными. В прошлом часто возникали конфликты между разработчиками БД, разработчиками приложений, тестировщиками. Сегодня разработчики продолжают делиться на фронтэнд / бэкэнд / Android / iOS / и ещё что угодно. А это приводит к раздутым командам, неэффективному взаимодействию, отсутствию ответственности каждого конкретного разработчика, низкому коэффициенту командного коллектива и неспособности раз и навсегда решить производственные проблемы. Термин «Full-Stack» часто применяется к разработчикам, отвечающим за все аспекты их работы, но практика XP / Craftsmanship идет дальше - мы также должны взять под контроль нашу коммуникацию, требования, операции, тестирование и всё остальное.",
+            "Истинные мастера могут быть на порядок эффективнее, чем узкоквалифицированные разработчики. Они не только пишут код, но и решают проблемы. Конечно же, вы хотите быть одним из них!"
+          ]
+        },
+        "presentations": ["20191024_akeks_craftsmen.pdf"]
+      },
+      {
+        "org": {"cam": ["jtimosin"], "edit": ["astalnuhhin"]},
+        "lang": "ru",
+        "labels": ["reactive", "source"],
+        "youtube": [],
+        "speakers": [
+          {
+            "names": {"*": "Sam Kruglov", "ru": "Сэм Круглов"},
+            "titles": {"*": "Java Developer @ Monese"},
+            "url": "https://www.linkedin.com/in/sam-kruglov/",
+            "image": "skruglov.jpg"
+          }
+        ],
+        "titles": {"*": "Reactive никуда не денется"},
+        "descr": {
+          "ru": [
+            "Использовать реактивный подход - это ключ к пребыванию на достойном уровне среди современных стандартов. В начале, у нас есть обычный MVC сервис.",
+            "Сначала, мы зададим определение современной системе и её основные проблемы. Затем, мы подправим наш сервис, чтобы решить эти проблемы. После всех изменений наш REST API продолжит функционировать как прежде, но при этом мы будем использовать Event Driven Architecture и получим множество преимуществ!"
+          ]
+        }
+      },
+      {
+        "org": {"cam": ["jtimosin"], "edit": ["astalnuhhin"]},
+        "lang": "ru",
+        "labels": ["management", "trade union"],
+        "youtube": [],
+        "speakers": [
+          {
+            "names": {"ru": "Ивaн Beршинин"},
+            "titles": {"*": "EMO врач @ Järvamaa Haigla"},
+            "url": "https://www.linkedin.com/in/ivanvershinin",
+            "image": "iversinin.jpg"
+          }
+        ],
+        "titles": {"*": "Профсоюзы и IT"},
+        "descr": {
+          "ru": [
+            "Инфотехнологии, программисты, профсоюзы… Казалось бы, это очень далёкие друг от друга вещи... Однако, это совершенно не так! Приходите, поговорим с вами о том, что представляют из себя профсоюзы; почему их нет в сфере инфотехнологий сейчас, и именно сейчас они очень нужны. Посмотрим, какие возможности для отстаивания своих интересов нам даёт законодательство, какие были прецеденты профсоюзной борьбы в Эстонии. А также обсудим вопрос, хотим ли мы создать свой IT профсоюз, и как это сделать."
+          ]
+        },
+        "presentations": ["20191024_ivershinin_ittradeunion.odp"]
+      }
+    ]
+  },
   {
     "num": 133,
     "datetime": "2019-09-24T19:00:00+03:00",
