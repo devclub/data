@@ -26,7 +26,9 @@
         ],
         "titles": {"*": "Kotlin Puzzlers"},
         "descr": {
-          "ru": []
+          "ru": [
+            "Антон продолжит загадывать загадки в Kotlin. В прошлый раз это было так: https://www.youtube.com/watch?v=IsjeD6PFzZw"
+          ]
         }
       },
       {
