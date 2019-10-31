@@ -24,10 +24,10 @@
             "image": "akeks.jpg"
           }
         ],
-        "titles": {"*": "Kotlin Puzzlers"},
+        "titles": {"*": "Kotlin Puzzlers (2019)"},
         "descr": {
           "ru": [
-            "Антон продолжит загадывать загадки в Kotlin. В прошлый раз это было так: https://www.youtube.com/watch?v=IsjeD6PFzZw"
+            "Антон продолжит загадывать загадки в Kotlin. В прошлый раз прошло вот так: https://www.youtube.com/watch?v=IsjeD6PFzZw"
           ]
         }
       },
