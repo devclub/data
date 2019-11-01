@@ -14,6 +14,26 @@
       {
         "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
+        "labels": [],
+        "youtube": [],
+        "speakers": [
+          {
+            "names": {"*": "Tatjana Gordejeva", "ru": "Татьяна Гордеева"},
+            "titles": {"*": "???"},
+            "url": "https://www.facebook.com/tanya.hrc",
+            "image": "tgordejeva.jpg"
+          }
+        ],
+        "titles": {"*": "???"},
+        "descr": {
+          "ru": [
+            "???"
+          ]
+        }
+      },
+      {
+        "org": {"cam": [""], "edit": [""]},
+        "lang": "ru",
         "labels": ["kotlin", "puzzlers"],
         "youtube": [""],
         "speakers": [
@@ -41,26 +61,6 @@
             "names": {"*": "?", "ru": "?"},
             "titles": {"*": "? @ ?"},
             "image": "nophoto.png"
-          }
-        ],
-        "titles": {"*": "???"},
-        "descr": {
-          "ru": [
-            "???"
-          ]
-        }
-      },
-      {
-        "org": {"cam": [""], "edit": [""]},
-        "lang": "ru",
-        "labels": [],
-        "youtube": [],
-        "speakers": [
-          {
-            "names": {"*": "Tatjana Gordejeva", "ru": "Татьяна Гордеева"},
-            "titles": {"*": "???"},
-            "url": "https://www.facebook.com/tanya.hrc",
-            "image": "tgordejeva.jpg"
           }
         ],
         "titles": {"*": "???"},
