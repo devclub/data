@@ -19,15 +19,15 @@
         "speakers": [
           {
             "names": {"*": "Tatjana Gordejeva", "ru": "Татьяна Гордеева"},
-            "titles": {"*": "???"},
+            "titles": {"*": "Юрист (стаж более 20 лет)"},
             "url": "https://www.facebook.com/tanya.hrc",
             "image": "tgordejeva.jpg"
           }
         ],
-        "titles": {"*": "???"},
+        "titles": {"*": "Трудовое право Эстонии: кто, что, где и как"},
         "descr": {
           "ru": [
-            "???"
+            ""
           ]
         }
       },
