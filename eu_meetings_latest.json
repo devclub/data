@@ -34,6 +34,26 @@
       {
         "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
+        "labels": [],
+        "youtube": [],
+        "speakers": [
+          {
+            "names": {"*": "Jevgeni Goloborodko", "ru": "Евгений Голобородько"},
+            "titles": {"*": "Software Architect & Founder @ Digital Magic Ltd"},
+            "url": "https://ee.linkedin.com/in/jevgeni-goloborodko-65a048a",
+            "image": "jgoloborodko.jpg"
+          }
+        ],
+        "titles": {"*": "???"},
+        "descr": {
+          "ru": [
+            "???"
+          ]
+        }
+      },
+      {
+        "org": {"cam": [""], "edit": [""]},
+        "lang": "ru",
         "labels": ["kotlin", "puzzlers"],
         "youtube": [""],
         "speakers": [
@@ -48,25 +68,6 @@
         "descr": {
           "ru": [
             "Антон продолжит загадывать загадки в Kotlin. В прошлый раз прошло вот так: https://www.youtube.com/watch?v=IsjeD6PFzZw"
-          ]
-        }
-      },
-      {
-        "org": {"cam": [""], "edit": [""]},
-        "lang": "ru",
-        "labels": [],
-        "youtube": [],
-        "speakers": [
-          {
-            "names": {"*": "?", "ru": "?"},
-            "titles": {"*": "? @ ?"},
-            "image": "nophoto.png"
-          }
-        ],
-        "titles": {"*": "???"},
-        "descr": {
-          "ru": [
-            "???"
           ]
         }
       }
