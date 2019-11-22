@@ -7,9 +7,9 @@
       "addr": "Lõõtsa 12, 11415 Tallinn", "loc": "https://goo.gl/maps/Uzyab9Uj1pJEodeo9",
       "name": "Topia", "url": "https://www.topia.com"
     },
-    "org": {"mod": [""], "photo": [""]},
+    "org": {"mod": ["sgorski"], "photo": [""]},
     "photo": [""],
-    "event": "",
+    "event": "https://www.eventbrite.com/e/devclub-78-topia-november-28-tickets-83309812893",
     "speeches": [
       {
         "org": {"cam": ["ijaama"], "edit": ["ijaama"]},
