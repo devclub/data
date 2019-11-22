@@ -1,5 +1,54 @@
 [
   {
+    "num": 78,
+    "season": 2019,
+    "datetime": "2019-11-28T19:00:00+02:00",
+    "place": {
+      "addr": "Lõõtsa 12, 11415 Tallinn", "loc": "https://goo.gl/maps/Uzyab9Uj1pJEodeo9",
+      "name": "Topia", "url": "https://www.topia.com"
+    },
+    "org": {"mod": [""], "photo": [""]},
+    "photo": [""],
+    "event": "",
+    "speeches": [
+      {
+        "org": {"cam": ["ijaama"], "edit": ["ijaama"]},
+        "youtube": [""], "lang": "en",
+        "labels": ["iac", "Infrastructure as code"],
+        "speakers": [{
+            "image": "margus-kerma.jpeg",
+            "names": {"*": "Margus Kerma"},
+            "titles": {"*": "Tech lead @ Topia"},
+            "url": "https://www.linkedin.com/in/kerma/"
+          }],
+        "titles": {"*": "Infrastructure as Code - we're doing it wrong"},
+        "descr": {
+          "en": [
+            "IaC has been around for a while now, but still creates a lot of debate. Is there a right and wrong approach to take? What can we learn from different tools out there and should you just use Terraform? Let's take a quick look into IaC history, drill into Terraform and figure out how developers can make ops life better."
+          ]
+        }
+      },
+      {
+        "org": {"cam": ["ijaama"], "edit": ["ijaama"]},
+        "youtube": [""], "lang": "en",
+        "labels": ["AI", "Machine learning"],
+        "speakers": [{
+            "image": "alexandr-korotkov.jpg",
+            "names": {"*": "Alexandr Korotkov"},
+            "titles": {"*": "AI Engineer @ Omniva"},
+            "url": "https://www.linkedin.com/in/krotix/"
+          }],
+        "titles": {"*": "Machine learning from scratch in 4 months"},
+        "descr": {
+          "en": [
+            "Everybody knows what is a post office, but how we can improve the work in it and make the process easier with ML.",
+            "In this presentation, we will consider the real problem from different sides, show how we tackled it and what we achieved."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "num": 77,
     "season": 2019,
     "datetime": "2019-10-09T19:00:00+03:00",
