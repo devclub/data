@@ -14,6 +14,26 @@
       {
         "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
+        "labels": ["kotlin", "puzzlers"],
+        "youtube": [""],
+        "speakers": [
+          {
+            "names": {"*": "Anton Keks", "ru": "Антон Кекс"},
+            "titles": {"*": "Software Craftsman @ Codeborne"},
+            "url": "https://www.linkedin.com/in/antonkeks",
+            "image": "akeks.jpg"
+          }
+        ],
+        "titles": {"*": "Kotlin Puzzlers (2019)"},
+        "descr": {
+          "ru": [
+            "Антон продолжит загадывать загадки в Kotlin. В прошлый раз прошло вот так: https://www.youtube.com/watch?v=IsjeD6PFzZw"
+          ]
+        }
+      },
+      {
+        "org": {"cam": [""], "edit": [""]},
+        "lang": "ru",
         "labels": [],
         "youtube": [],
         "speakers": [
@@ -48,26 +68,6 @@
         "descr": {
           "ru": [
             "Почему решения, которые состоят из виртуального материала, который ничего не стоит, в итоге оказывается дороже целого дворца, построенного из настоящих строй материалов. Евгений поделится наблюдениями о том, как все участники проекта негативно влияют на его сроки и стоимость. Так же обсудим рецепты, которые помогут снизить стоимость."
-          ]
-        }
-      },
-      {
-        "org": {"cam": [""], "edit": [""]},
-        "lang": "ru",
-        "labels": ["kotlin", "puzzlers"],
-        "youtube": [""],
-        "speakers": [
-          {
-            "names": {"*": "Anton Keks", "ru": "Антон Кекс"},
-            "titles": {"*": "Software Craftsman @ Codeborne"},
-            "url": "https://www.linkedin.com/in/antonkeks",
-            "image": "akeks.jpg"
-          }
-        ],
-        "titles": {"*": "Kotlin Puzzlers (2019)"},
-        "descr": {
-          "ru": [
-            "Антон продолжит загадывать загадки в Kotlin. В прошлый раз прошло вот так: https://www.youtube.com/watch?v=IsjeD6PFzZw"
           ]
         }
       }
