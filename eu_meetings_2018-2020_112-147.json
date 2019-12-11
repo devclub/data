@@ -1,5 +1,79 @@
 [
-    {
+  {
+    "num": 135,
+    "datetime": "2019-11-28T19:00:00+02:00",
+    "season": 2019,
+    "place": {
+      "name": "Park Inn by Radisson Meriton Conference & Spa Hotel Tallinn", "loc": "https://goo.gl/maps/AJbuvwDS7co",
+      "addr": "Toompuiestee 27/Paldiski mnt 4, 10149 Tallinn", "url": "https://www.parkinn.com/hotel-meriton-tallinn"
+    },
+    "org": {"mod": [""], "photo": [""]},
+    "photo": [""],
+    "event": "https://www.eventbrite.com/e/devclubeu-135-tickets-83125579847",
+    "speeches": [
+      {
+        "org": {"cam": [""], "edit": [""]},
+        "lang": "ru",
+        "labels": ["kotlin", "puzzlers"],
+        "youtube": [""],
+        "speakers": [
+          {
+            "names": {"*": "Anton Keks", "ru": "Антон Кекс"},
+            "titles": {"*": "Software Craftsman @ Codeborne"},
+            "url": "https://www.linkedin.com/in/antonkeks",
+            "image": "akeks.jpg"
+          }
+        ],
+        "titles": {"*": "Kotlin Puzzlers (2019)"},
+        "descr": {
+          "ru": [
+            "Антон продолжит загадывать загадки в Kotlin. В прошлый раз прошло вот так: https://www.youtube.com/watch?v=IsjeD6PFzZw"
+          ]
+        }
+      },
+      {
+        "org": {"cam": [""], "edit": [""]},
+        "lang": "ru",
+        "labels": [],
+        "youtube": [],
+        "speakers": [
+          {
+            "names": {"*": "Tatjana Gordejeva", "ru": "Татьяна Гордеева"},
+            "titles": {"*": "Юрист (стаж более 20 лет)"},
+            "url": "https://www.facebook.com/tanya.hrc",
+            "image": "tgordejeva.jpg"
+          }
+        ],
+        "titles": {"*": "Трудовое право Эстонии: кто, что, где и как"},
+        "descr": {
+          "ru": [
+            "Татьяна сделает общий обзор трудового права, расскажет об электронных ресурсах – тематических источниках информации, а также из чего должен состоять трудовой договор и его отличия от контракта. Уделит время понятиям о конфиденциальности, тайне и интеллектуальной собственности и другим актуальным вопросам."
+          ]
+        }
+      },
+      {
+        "org": {"cam": [""], "edit": [""]},
+        "lang": "ru",
+        "labels": [],
+        "youtube": [],
+        "speakers": [
+          {
+            "names": {"*": "Jevgeni Goloborodko", "ru": "Евгений Голобородько"},
+            "titles": {"*": "Software Architect & Founder @ Digital Magic Ltd"},
+            "url": "https://ee.linkedin.com/in/jevgeni-goloborodko-65a048a",
+            "image": "jgoloborodko.jpg"
+          }
+        ],
+        "titles": {"*": "Почему IT решения стоят так неприлично дорого?"},
+        "descr": {
+          "ru": [
+            "Почему решения, которые состоят из виртуального материала, который ничего не стоит, в итоге оказывается дороже целого дворца, построенного из настоящих строй материалов. Евгений поделится наблюдениями о том, как все участники проекта негативно влияют на его сроки и стоимость. Так же обсудим рецепты, которые помогут снизить стоимость."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "num": 134,
     "datetime": "2019-10-24T19:00:00+03:00",
     "season": 2019,
