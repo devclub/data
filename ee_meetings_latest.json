@@ -1,96 +1,44 @@
 [
-  {
-    "num": 78,
+{
+    "num": 79,
     "season": 2019,
-    "datetime": "2019-11-28T19:00:00+02:00",
+    "datetime": "2019-12-17T19:00:00+03:00",
     "place": {
-      "addr": "Lõõtsa 12, 11415 Tallinn", "loc": "https://goo.gl/maps/Uzyab9Uj1pJEodeo9",
-      "name": "Topia", "url": "https://www.topia.com"
+      "addr": "Liivalaia 33, 10118, Tallinn, Estonia", "loc": "https://goo.gl/maps/dW36V6WUFhnTdCw9A",
+      "name": "Olümpia hotell", "url": "https://www.radissonblu.com/en/olumpiahotel-tallinn"
     },
-    "org": {"mod": ["sgorski"], "photo": [""]},
+    "org": {"mod": ["sgorski"], "photo": ["gbeskin"]},
     "photo": [""],
-    "event": "https://www.eventbrite.com/e/devclub-78-topia-november-28-tickets-83309812893",
     "speeches": [
       {
-        "org": {"cam": ["ijaama"], "edit": ["ijaama"]},
+        "org": {"cam": ["ijaama"]},
         "youtube": [""], "lang": "en",
-        "labels": ["iac", "Infrastructure as code"],
         "speakers": [{
-            "image": "margus-kerma.jpeg",
-            "names": {"*": "Margus Kerma"},
-            "titles": {"*": "Tech lead @ Topia"},
-            "url": "https://www.linkedin.com/in/kerma/"
-          }],
-        "titles": {"*": "Infrastructure as Code - we're doing it wrong"},
+          "image": "nsvandrey.jpg",
+          "names": {"*": "Nicholas Shane Vandrey"},
+          "titles": {"*": "BI Team Lead @ Veriff"},
+          "url": "https://www.linkedin.com/in/nicholas-vandrey-97059865/"
+        }],
+        "titles": {"*": "Practical Guide to Going Data-Driven"},
         "descr": {
           "en": [
-            "IaC has been around for a while now, but still creates a lot of debate. Is there a right and wrong approach to take? What can we learn from different tools out there and should you just use Terraform? Let's take a quick look into IaC history, drill into Terraform and figure out how developers can make ops life better."
+            "Veriff was started in 2015, but the first BI analyst didn’t join until the end of 2018. Over the last year, we’ve taken huge strides in becoming more data-driven. Now we have a dedicated team of four analysts and data scientists working on empowering Veriff with data. Here’s how we did it, and some of the things we learned on the way."
           ]
         }
       },
       {
-        "org": {"cam": ["ijaama"], "edit": ["ijaama"]},
+        "org": {"cam": ["ijaama"]},
         "youtube": [""], "lang": "en",
-        "labels": ["AI", "Machine learning"],
         "speakers": [{
-            "image": "alexandr-korotkov.jpg",
-            "names": {"*": "Alexandr Korotkov"},
-            "titles": {"*": "AI Engineer @ Omniva"},
-            "url": "https://www.linkedin.com/in/krotix/"
-          }],
-        "titles": {"*": "Machine learning from scratch in 4 months"},
+          "image": "nantiferov.jpg",
+          "names": {"*": "Nicolai Antiferov"},
+          "titles": {"*": "Infrastructure Engineer @ Paxful"},
+          "url": "https://www.linkedin.com/in/nklya/"
+        }],
+        "titles": {"*": "IaC evolution (how to avoid 💩 in the end)"},
         "descr": {
           "en": [
-            "Everybody knows what is a post office, but how we can improve the work in it and make the process easier with ML.",
-            "In this presentation, we will consider the real problem from different sides, show how we tackled it and what we achieved."
-          ]
-        }
-      }
-    ]
-  },
-  {
-    "num": 77,
-    "season": 2019,
-    "datetime": "2019-10-09T19:00:00+03:00",
-    "place": {
-      "addr": "Vana-Lõuna 39/1, 10135, Tallinn", "loc": "https://goo.gl/maps/irQwdK6rqaDxMk819",
-      "name": "RangeForce", "url": "https://rangeforce.com"
-    },
-    "org": {"mod": ["agritsevski"], "photo": ["RangeForce"]},
-    "photo": ["https://photos.app.goo.gl/E1sEmppmaVovMbVJ9"],
-    "event": "https://www.eventbrite.com/e/devclub-77-rangeforce-october-9-tickets-75026166283",
-    "speeches": [
-      {
-        "org": {"cam": ["ijaama"], "edit": ["ijaama"]},
-        "youtube": ["ZW37by0hoPw"], "lang": "en",
-        "labels": ["security"],
-        "speakers": [{
-            "image": "mernits.jpg",
-            "names": {"*": "Margus Ernits"},
-            "titles": {"*": "CTO @ RangeForce"},
-            "url": "https://www.linkedin.com/in/margusernits"
-          }],
-        "titles": {"*": "Developers: To blame or not to blame?"},
-        "descr": {
-          "en": [
-            "While the cyber threat landscape keeps constantly evolving, security become more crucial for companies. We read daily about new data breaches tied to an application security vulnerability. What is behind all these vulnerabilities? Why do they keep happening? Margus Ernits will talk about building a security culture that is able to keep pace with the threat landscape. You will learn how to (not) build a security culture in your development team."
-          ]
-        }
-      },
-      {
-        "org": {"cam": ["ijaama"], "edit": ["ijaama"]},
-        "youtube": ["oN140QZEXhM"], "lang": "en",
-        "labels": ["management"],
-        "speakers": [{
-            "image": "mcaron.jpg",
-            "names": {"*": "Miguel Caron"},
-            "titles": {"*": "Head of Baltic Studios @ GameSys"},
-            "url": "https://www.linkedin.com/in/miguelcaronceo"
-          }],
-        "titles": {"*": "Shit, I got promoted and I'm now a leader... So what now"},
-        "descr": {
-          "en": [
-            "This one is a crash course for those who just got promoted into leadership and are struggling finding their ways around the new challenges they’re now facing. Miguel will share his best insights on being a genuine leader that people love to work with."
+            "It's 2019, and IaC is not a new term at all. But it's still not an easy thing. In this talk we will go through a couple of easy steps that can help in your DevOps journey 😉."
           ]
         }
       }
