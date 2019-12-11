@@ -14,7 +14,7 @@
       {
         "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
-        "labels": [""],
+        "labels": ["DataGrip", "JetBrains", "IDE", "sql"],
         "youtube": [""],
         "speakers": [
           {
@@ -35,7 +35,7 @@
       {
         "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
-        "labels": [""],
+        "labels": ["movie"],
         "youtube": [""],
         "speakers": [
           {
@@ -55,7 +55,7 @@
       {
         "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
-        "labels": [""],
+        "labels": ["offtopic", "standup"],
         "youtube": [""],
         "speakers": [
           {
@@ -76,7 +76,7 @@
       {
         "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
-        "labels": [""],
+        "labels": ["JetBrains", "Space", "IDE"],
         "youtube": [""],
         "speakers": [
           {
