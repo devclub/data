@@ -1,5 +1,100 @@
 [
   {
+    "num": 78,
+    "season": 2019,
+    "datetime": "2019-11-28T19:00:00+02:00",
+    "place": {
+      "addr": "Lõõtsa 12, 11415 Tallinn", "loc": "https://goo.gl/maps/Uzyab9Uj1pJEodeo9",
+      "name": "Topia", "url": "https://www.topia.com"
+    },
+    "org": {"mod": ["sgorski"], "photo": ["klinnik"]},
+    "photo": ["https://photos.app.goo.gl/rsHaMwQ2fJPmmnPWA"],
+    "event": "https://www.eventbrite.com/e/devclub-78-topia-november-28-tickets-83309812893",
+    "speeches": [
+      {
+        "youtube": [""], "lang": "en",
+        "labels": ["iac", "Infrastructure as code"],
+        "speakers": [{
+            "image": "mkerma.jpg",
+            "names": {"*": "Margus Kerma"},
+            "titles": {"*": "Tech lead @ Topia"},
+            "url": "https://www.linkedin.com/in/kerma/"
+          }],
+        "titles": {"*": "Infrastructure as Code - we're doing it wrong"},
+        "descr": {
+          "en": [
+            "IaC has been around for a while now, but still creates a lot of debate. Is there a right and wrong approach to take? What can we learn from different tools out there and should you just use Terraform? Let's take a quick look into IaC history, drill into Terraform and figure out how developers can make ops life better."
+          ]
+        }
+      },
+      {
+        "youtube": [""], "lang": "en",
+        "labels": ["AI", "Machine learning"],
+        "speakers": [{
+            "image": "akorotkov.jpg",
+            "names": {"*": "Alexandr Korotkov"},
+            "titles": {"*": "AI Engineer @ Omniva"},
+            "url": "https://www.linkedin.com/in/krotix/"
+          }],
+        "titles": {"*": "Machine learning from scratch in 4 months"},
+        "descr": {
+          "en": [
+            "Everybody knows what is a post office, but how we can improve the work in it and make the process easier with ML.",
+            "In this presentation, we will consider the real problem from different sides, show how we tackled it and what we achieved."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "num": 77,
+    "season": 2019,
+    "datetime": "2019-10-09T19:00:00+03:00",
+    "place": {
+      "addr": "Vana-Lõuna 39/1, 10135, Tallinn", "loc": "https://goo.gl/maps/irQwdK6rqaDxMk819",
+      "name": "RangeForce", "url": "https://rangeforce.com"
+    },
+    "org": {"mod": ["agritsevski"], "photo": ["RangeForce"]},
+    "photo": ["https://photos.app.goo.gl/E1sEmppmaVovMbVJ9"],
+    "event": "https://www.eventbrite.com/e/devclub-77-rangeforce-october-9-tickets-75026166283",
+    "speeches": [
+      {
+        "org": {"cam": ["ijaama"], "edit": ["ijaama"]},
+        "youtube": ["ZW37by0hoPw"], "lang": "en",
+        "labels": ["security"],
+        "speakers": [{
+            "image": "mernits.jpg",
+            "names": {"*": "Margus Ernits"},
+            "titles": {"*": "CTO @ RangeForce"},
+            "url": "https://www.linkedin.com/in/margusernits"
+          }],
+        "titles": {"*": "Developers: To blame or not to blame?"},
+        "descr": {
+          "en": [
+            "While the cyber threat landscape keeps constantly evolving, security become more crucial for companies. We read daily about new data breaches tied to an application security vulnerability. What is behind all these vulnerabilities? Why do they keep happening? Margus Ernits will talk about building a security culture that is able to keep pace with the threat landscape. You will learn how to (not) build a security culture in your development team."
+          ]
+        }
+      },
+      {
+        "org": {"cam": ["ijaama"], "edit": ["ijaama"]},
+        "youtube": ["oN140QZEXhM"], "lang": "en",
+        "labels": ["management"],
+        "speakers": [{
+            "image": "mcaron.jpg",
+            "names": {"*": "Miguel Caron"},
+            "titles": {"*": "Head of Baltic Studios @ GameSys"},
+            "url": "https://www.linkedin.com/in/miguelcaronceo"
+          }],
+        "titles": {"*": "Shit, I got promoted and I'm now a leader... So what now"},
+        "descr": {
+          "en": [
+            "This one is a crash course for those who just got promoted into leadership and are struggling finding their ways around the new challenges they’re now facing. Miguel will share his best insights on being a genuine leader that people love to work with."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "num": 76,
     "season": 2019,
     "datetime": "2019-09-10T19:00:00+03:00",
