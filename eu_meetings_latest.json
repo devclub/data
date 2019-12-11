@@ -1,73 +1,94 @@
 [
   {
-    "num": 135,
-    "datetime": "2019-11-28T19:00:00+02:00",
-    "season": 2019,
+    "num": 136,
+    "datetime": "2019-12-17T19:00:00+02:00",
+    "season": 2020,
     "place": {
-      "name": "Park Inn by Radisson Meriton Conference & Spa Hotel Tallinn", "loc": "https://goo.gl/maps/AJbuvwDS7co",
-      "addr": "Toompuiestee 27/Paldiski mnt 4, 10149 Tallinn", "url": "https://www.parkinn.com/hotel-meriton-tallinn"
+      "name": "Olümpia hotell", "loc": "https://goo.gl/maps/dW36V6WUFhnTdCw9A",
+      "addr": "Liivalaia 33, 10118, Tallinn, Estonia", "url": "https://www.radissonblu.com/en/olumpiahotel-tallinn"
     },
-    "org": {"mod": [""], "photo": [""]},
+    "org": {"mod": ["jgoloborodko"], "photo": ["klinnik"]},
     "photo": [""],
-    "event": "https://www.eventbrite.com/e/devclubeu-135-tickets-83125579847",
+    "event": "",
     "speeches": [
       {
         "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
-        "labels": ["kotlin", "puzzlers"],
+        "labels": [""],
         "youtube": [""],
         "speakers": [
           {
-            "names": {"*": "Anton Keks", "ru": "Антон Кекс"},
-            "titles": {"*": "Software Craftsman @ Codeborne"},
-            "url": "https://www.linkedin.com/in/antonkeks",
-            "image": "akeks.jpg"
+            "names": {"*": "Maxim Sobolewski", "ru": "Максим Соболевский"},
+            "titles": {"*": "PMM @ JetBrains"},
+            "url": "https://www.linkedin.com/in/moscas/",
+            "image": "msobolewski.jpg"
           }
         ],
-        "titles": {"*": "Kotlin Puzzlers (2019)"},
+        "titles": {"*": "DataGrip — IDE для SQL от JetBrains"},
         "descr": {
           "ru": [
-            "Антон продолжит загадывать загадки в Kotlin. В прошлый раз прошло вот так: https://www.youtube.com/watch?v=IsjeD6PFzZw"
+            "Пять лет назад в JetBrains решили, что те возможности, которые предоставляют IDE на платформе IntelliJ для работы с базами данных, могут быть интересны не только разработчикам на java или php, но и тем, для кого работа с данными — основная деятельность. Так появился DataGrip —  продукт для SQL-разработчиков, который может подключиться к любой (почти) СУБД и обладает всеми преимуществами платформы IntelliJ. Работа с базами поддерживается во всех платных IDE от JetBrains, поэтому доклад будем интересен многим, кто их использует.",
+            "В докладе мы рассмотрим базовые примеры использования DataGrip, сделаем акцент на некоторых уникальных возможностях и покажем, как избежать рутины в работе с SQL."
           ]
         }
       },
       {
         "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
-        "labels": [],
-        "youtube": [],
+        "labels": [""],
+        "youtube": [""],
         "speakers": [
           {
-            "names": {"*": "Tatjana Gordejeva", "ru": "Татьяна Гордеева"},
-            "titles": {"*": "Юрист (стаж более 20 лет)"},
-            "url": "https://www.facebook.com/tanya.hrc",
-            "image": "tgordejeva.jpg"
+            "names": {"*": "Anton Stalnuhhin", "ru": "Антон Стальнухин"},
+            "titles": {"*": "Программист, который иногда смотрит кино"},
+            "url": "https://ee.linkedin.com/in/astalnuhhin",
+            "image": "astalnuhhin.jpg"
           }
         ],
-        "titles": {"*": "Трудовое право Эстонии: кто, что, где и как"},
+        "titles": {"*": "Код в кино #2: Иногда они возвращаются"},
         "descr": {
           "ru": [
-            "Татьяна сделает общий обзор трудового права, расскажет об электронных ресурсах – тематических источниках информации, а также из чего должен состоять трудовой договор и его отличия от контракта. Уделит время понятиям о конфиденциальности, тайне и интеллектуальной собственности и другим актуальным вопросам."
+            "Продолжим изучать, как в мире кино показывают программистов, и, особенно, их код. Рассмотрим ещё пару десятков примеров. Тем, кто пропустил первую часть, повторный показ здесь: https://www.youtube.com/watch?v=kPC043A0Op0"
           ]
         }
       },
       {
         "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
-        "labels": [],
-        "youtube": [],
+        "labels": [""],
+        "youtube": [""],
         "speakers": [
           {
-            "names": {"*": "Jevgeni Goloborodko", "ru": "Евгений Голобородько"},
-            "titles": {"*": "Software Architect & Founder @ Digital Magic Ltd"},
-            "url": "https://ee.linkedin.com/in/jevgeni-goloborodko-65a048a",
-            "image": "jgoloborodko.jpg"
+            "names": {"*": "Olga Linnik", "ru": "Ольга Линник"},
+            "titles": {"*": "Комедичка из Таллинна"},
+            "url": "https://www.facebook.com/linniklinnik",
+            "image": "olinnik.jpg"
           }
         ],
-        "titles": {"*": "Почему IT решения стоят так неприлично дорого?"},
+        "titles": {"*": "Как девклуб сделал из меня комедичку"},
         "descr": {
           "ru": [
-            "Почему решения, которые состоят из виртуального материала, который ничего не стоит, в итоге оказывается дороже целого дворца, построенного из настоящих строй материалов. Евгений поделится наблюдениями о том, как все участники проекта негативно влияют на его сроки и стоимость. Так же обсудим рецепты, которые помогут снизить стоимость."
+            "В прошлом году я выступила в девклубе, где рассказывала о своих знакомствах в тиндере, чем очень веселила публику. И мне так это понравилось, что я решила узнать, кого еще смогу рассмешить. А в процессе поиска понять, где проходит тонкая грань между комедичкой и клоунессой."
+          ]
+        }
+      },
+      {
+        "org": {"cam": [""], "edit": [""]},
+        "lang": "ru",
+        "labels": [""],
+        "youtube": [""],
+        "speakers": [
+          {
+            "names": {"*": "Anton Arhipov", "ru": "Антон Архипов"},
+            "titles": {"*": "Developer Advocate @ JetBrains"},
+            "url": "https://ee.linkedin.com/in/antonarhipov",
+            "image": "aarhipov.jpg"
+          }
+        ],
+        "titles": {"*": "JetBrains Space - ближе к звёздам!"},
+        "descr": {
+          "ru": [
+            "Неожиданно для многих, 5 декабря JetBrains анонсировали новый продукт, Space. Space - это интегрированная среда для командной работы. Основная функциональность включает в себя хостинг Git-репозиториев, код-ревью, автоматизацию, репозитории пакетов, трекер задач. Но есть и много дополнительных возможностей которые делают работу в командах лучше. В этом докладе Антон сделает обзор того, что уже возможно в Space."
           ]
         }
       }
