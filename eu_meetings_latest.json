@@ -8,11 +8,11 @@
       "addr": "Liivalaia 33, 10118, Tallinn, Estonia", "url": "https://www.radissonblu.com/en/olumpiahotel-tallinn"
     },
     "org": {"mod": ["jgoloborodko"], "photo": ["klinnik"]},
-    "photo": [""],
+    "photo": ["https://photos.app.goo.gl/1LbXDH3XD3VJ9iY69"],
     "event": "https://www.eventbrite.com/e/devclubeu-136-tickets-85939085117",
     "speeches": [
       {
-        "org": {"cam": [""], "edit": [""]},
+        "org": {"cam": ["jtimosin"], "edit": [""]},
         "lang": "ru",
         "labels": ["movie"],
         "youtube": [""],
@@ -32,7 +32,7 @@
         }
       },
       {
-        "org": {"cam": [""], "edit": [""]},
+        "org": {"cam": ["jtimosin"], "edit": [""]},
         "lang": "ru",
         "labels": ["DataGrip", "JetBrains", "IDE", "sql"],
         "youtube": [""],
@@ -53,10 +53,10 @@
         }
       },
       {
-        "org": {"cam": [""], "edit": [""]},
+        "org": {"cam": ["jtimosin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": ["offtopic", "standup"],
-        "youtube": [""],
+        "youtube": ["53k5UmFK55Y"],
         "speakers": [
           {
             "names": {"*": "Olga Linnik", "ru": "Ольга Линник"},
@@ -74,10 +74,14 @@
         }
       },
       {
-        "org": {"cam": [""], "edit": [""]},
+        "org": {"cam": ["jtimosin"]},
         "lang": "ru",
         "labels": ["JetBrains", "Space", "IDE"],
-        "youtube": [""],
+        "info": {
+          "ru": "По просьбе докладчика видео не будет выложено в публичный доступ.",
+          "en": "Video is not edited by speaker request",
+          "et": "Video on kõneleja soovil kinni pandud."
+        }
         "speakers": [
           {
             "names": {"*": "Anton Arhipov", "ru": "Антон Архипов"},
