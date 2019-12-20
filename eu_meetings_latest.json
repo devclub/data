@@ -81,7 +81,7 @@
           "ru": "По просьбе докладчика видео не будет выложено в публичный доступ.",
           "en": "Video is not edited by speaker request",
           "et": "Video on kõneleja soovil kinni pandud."
-        }
+        },
         "speakers": [
           {
             "names": {"*": "Anton Arhipov", "ru": "Антон Архипов"},
