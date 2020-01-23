@@ -1,47 +1,206 @@
 [
-{
-    "num": 79,
-    "season": 2020,
-    "datetime": "2019-12-17T19:00:00+02:00",
-    "place": {
-      "addr": "Liivalaia 33, 10118, Tallinn, Estonia", "loc": "https://goo.gl/maps/dW36V6WUFhnTdCw9A",
-      "name": "Olümpia hotell", "url": "https://www.radissonblu.com/en/olumpiahotel-tallinn"
+  {
+    "datetime": "2020-01-30T19:00:00+02:00",
+    "event": "",
+    "num": 80,
+    "org": {
+      "mod": [
+        "sgorski"
+      ],
+      "photo": [
+        "ijaama"
+      ]
     },
-    "org": {"mod": ["sgorski"], "photo": ["gbeskin"]},
-    "photo": [""],
-    "event": "https://www.eventbrite.com/e/devclub-79-christmas-special-hotel-olumpia-december-17-tickets-85946112135",
+    "photo": [
+      ""
+    ],
+    "place": {
+      "addr": "Niine 11, 10414 Tallinn",
+      "loc": "https://g.page/veriff-tallinn?share",
+      "name": "Veriff",
+      "url": "https://www.veriff.com"
+    },
+    "season": 2020,
     "speeches": [
       {
-        "org": {"cam": ["ijaama"]},
-        "youtube": [""], "lang": "en",
-        "speakers": [{
-          "image": "nsvandrey.jpg",
-          "names": {"*": "Nicholas Shane Vandrey"},
-          "titles": {"*": "BI Team Lead @ Veriff"},
-          "url": "https://www.linkedin.com/in/nicholas-vandrey-97059865/"
-        }],
-        "titles": {"*": "Practical Guide to Going Data-Driven"},
+        "descr": {
+          "en": [
+            "Tiit will look into evolution of testing as discipline and what might be there in future. Software testing has become integral part of development already long time ago but changes in approaches are becoming more frequent and involve growing need for technical skills and is moving towards production vs pre-release testing."
+          ]
+        },
+        "lang": "en",
+        "org": {
+          "cam": [
+            "ijaama"
+          ]
+        },
+        "speakers": [
+          {
+            "image": "tiit-paananen.jpg",
+            "names": {
+              "*": "Tiit Paananen"
+            },
+            "titles": {
+              "*": "VP of Engineering @ Veriff"
+            },
+            "url": "https://www.linkedin.com/in/tiitpaananen"
+          }
+        ],
+        "titles": {
+          "*": "Evolution of testing"
+        },
+        "youtube": [
+          ""
+        ]
+      },
+      {
+        "descr": {
+          "en": [
+            "Good application logs make debugging issues much easier, but they come with limitations. The usual human-readable prose is hard to parse, search, and correlate. We’ll look at how structured logs and JSON output make your life easier, get metrics straight out of the logs, and see how Veriff's automation team is using it all in practice."
+          ]
+        },
+        "lang": "en",
+        "org": {
+          "cam": [
+            "ijaama"
+          ]
+        },
+        "speakers": [
+          {
+            "image": "rivo-laks.jpeg",
+            "names": {
+              "*": "Rivo Laks"
+            },
+            "titles": {
+              "*": "Software Engineer @ Veriff"
+            },
+            "url": "https://www.linkedin.com/in/rivolaks"
+          }
+        ],
+        "titles": {
+          "*": "Veriff's Journey to Structured Logging"
+        },
+        "youtube": [
+          ""
+        ]
+      },
+      {
+        "descr": {
+          "en": [
+            "There is a wonder-drug, that makes you live longer, enhances your memory and creativity; makes you more attractive, slimmer and lowers food cravings. It also protects you from cancer and dementia, wards off colds, lowers your risk of strokes and heart disease. On top of that - this particular drug makes you more more happy, less depressed and less anxious. Want some?"
+          ]
+        },
+        "lang": "en",
+        "org": {
+          "cam": [
+            "ijaama"
+          ]
+        },
+        "speakers": [
+          {
+            "image": "martin-paroll.jpg",
+            "names": {
+              "*": "Martin Paroll"
+            },
+            "titles": {
+              "*": "IT Services Lead @ Bolt"
+            },
+            "url": "https://www.linkedin.com/in/martinparoll"
+          }
+        ],
+        "titles": {
+          "*": "Why we sleep"
+        },
+        "youtube": [
+          ""
+        ]
+      }
+    ]
+  },
+  {
+    "datetime": "2019-12-17T19:00:00+02:00",
+    "event": "https://www.eventbrite.com/e/devclub-79-christmas-special-hotel-olumpia-december-17-tickets-85946112135",
+    "num": 79,
+    "org": {
+      "mod": [
+        "sgorski"
+      ],
+      "photo": [
+        "gbeskin"
+      ]
+    },
+    "photo": [
+      ""
+    ],
+    "place": {
+      "addr": "Liivalaia 33, 10118, Tallinn, Estonia",
+      "loc": "https://goo.gl/maps/dW36V6WUFhnTdCw9A",
+      "name": "Olümpia hotell",
+      "url": "https://www.radissonblu.com/en/olumpiahotel-tallinn"
+    },
+    "season": 2020,
+    "speeches": [
+      {
         "descr": {
           "en": [
             "Veriff was started in 2015, but the first BI analyst didn’t join until the end of 2018. Over the last year, we’ve taken huge strides in becoming more data-driven. Now we have a dedicated team of four analysts and data scientists working on empowering Veriff with data. Here’s how we did it, and some of the things we learned on the way."
           ]
-        }
+        },
+        "lang": "en",
+        "org": {
+          "cam": [
+            "ijaama"
+          ]
+        },
+        "speakers": [
+          {
+            "image": "nsvandrey.jpg",
+            "names": {
+              "*": "Nicholas Shane Vandrey"
+            },
+            "titles": {
+              "*": "BI Team Lead @ Veriff"
+            },
+            "url": "https://www.linkedin.com/in/nicholas-vandrey-97059865/"
+          }
+        ],
+        "titles": {
+          "*": "Practical Guide to Going Data-Driven"
+        },
+        "youtube": [
+          ""
+        ]
       },
       {
-        "org": {"cam": ["ijaama"]},
-        "youtube": [""], "lang": "en",
-        "speakers": [{
-          "image": "nantiferov.jpg",
-          "names": {"*": "Nicolai Antiferov"},
-          "titles": {"*": "Infrastructure Engineer @ Paxful"},
-          "url": "https://www.linkedin.com/in/nklya/"
-        }],
-        "titles": {"*": "IaC evolution (how to avoid 💩 in the end)"},
         "descr": {
           "en": [
             "It's 2019, and IaC is not a new term at all. But it's still not an easy thing. In this talk we will go through a couple of easy steps that can help in your DevOps journey 😉."
           ]
-        }
+        },
+        "lang": "en",
+        "org": {
+          "cam": [
+            "ijaama"
+          ]
+        },
+        "speakers": [
+          {
+            "image": "nantiferov.jpg",
+            "names": {
+              "*": "Nicolai Antiferov"
+            },
+            "titles": {
+              "*": "Infrastructure Engineer @ Paxful"
+            },
+            "url": "https://www.linkedin.com/in/nklya/"
+          }
+        ],
+        "titles": {
+          "*": "IaC evolution (how to avoid 💩 in the end)"
+        },
+        "youtube": [
+          ""
+        ]
       }
     ]
   }
