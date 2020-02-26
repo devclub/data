@@ -18,26 +18,6 @@
         "youtube": [],
         "speakers": [
           {
-            "names": {"*": "Roman Ring", "ru": "Роман Ринг "},
-            "titles": {"ru": "Бывший сеньор веб дев, сбежавший в мир академиков"},
-            "url": "https://github.com/inoryy",
-            "image": "rring.jpg"
-          }
-        ],
-        "titles": {"ru": "OK Google, а придумай шутку?"},
-        "descr": {
-          "ru": [
-            "Проведём экскурсию по современным ИИ технологиям: с чем наш исскуственный собрат уже хорошо справляется сегодня, что можно ожидать в ближайшее время, и с чем у текущего ИИ будут проблемы в долгосрочной перспективе."
-          ]
-        }
-      },
-      {
-        "org": {"cam": [""], "edit": [""]},
-        "lang": "ru",
-        "labels": [],
-        "youtube": [],
-        "speakers": [
-          {
             "names": {"*": "Anton Keks", "ru": "Антон Кекс"},
             "titles": {"*": "Software Craftsman @ Codeborne"},
             "url": "https://www.linkedin.com/in/antonkeks",
