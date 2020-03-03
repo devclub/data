@@ -1,15 +1,15 @@
 [
   {
-    "num": 138,
-    "datetime": "2020-02-26T19:00:00+02:00",
+    "num": 139,
+    "datetime": "2020-03-26T19:00:00+02:00",
     "season": 2020,
     "place": {
-      "name": "Park Inn by Radisson Meriton Conference & Spa Hotel Tallinn", "loc": "https://goo.gl/maps/AJbuvwDS7co",
-      "addr": "Toompuiestee 27/Paldiski mnt 4, 10149 Tallinn", "url": "https://www.parkinn.com/hotel-meriton-tallinn"
+      "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
+      "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
     },
-    "org": {"mod": ["asviridenko"], "photo": ["klinnik"]},
+    "org": {"mod": [], "photo": ["klinnik"]},
     "photo": [],
-    "event": "https://www.eventbrite.com/e/95790242193",
+    "event": "",
     "speeches": [
       {
         "org": {"cam": [""], "edit": [""]},
@@ -18,18 +18,14 @@
         "youtube": [],
         "speakers": [
           {
-            "names": {"*": "Anton Keks", "ru": "Антон Кекс"},
-            "titles": {"*": "Software Craftsman @ Codeborne"},
-            "url": "https://www.linkedin.com/in/antonkeks",
-            "image": "akeks.jpg"
+            "names": {"*": "Ilja Livenson", "ru": "Илья Ливенсон"},
+            "url": "https://ee.linkedin.com/in/ilja-livenson-8015674",
+            "image": "ilivenson.jpg"
           }
         ],
-        "titles": {"ru": "Что такое Работающий Продукт и как его делать"},
+        "titles": {"ru": "Что нового с Гособлаком?"},
         "descr": {
           "ru": [
-            "В начале был Agile-манифест, провозгласивший, что Работающий Продукт важнее Исчерпывающей Документации. Потом был Манифест Программистского Мастерства (Software Craftsmanship), добавляющий, что Работающий Продукт нужно также Искусно Мастерить. Но что это все значит?",
-            "Мне кажется, что за 19 лет после публикации Agile-манифеста разработчики до сих пор недопонимают как сделать их продукты действительно работающими. У почти каждого проекта, с которым я сталкиваюсь, есть проблемы даже с элементарным запуском. Как я могу что-то улучшить в проекте, если он тупо не запускается?!",
-            "Будут обсуждаться такие темы как удобство использования для разработчика, юнит-тестирование и популярные анти-паттерны, чтобы привлечь ваше внимание к тому как сделать ваши продукты элементарно работающими и действительно поддерживаемыми как вами, так и другими."
           ]
         }
       },
@@ -40,16 +36,15 @@
         "youtube": [],
         "speakers": [
           {
-            "names": {"*": "Ervin Weber", "ru": "Эрвин Вебер"},
-            "titles": {"*": "System Administrator @ Toggl"},
-            "url": "https://ee.linkedin.com/in/webervin",
-            "image": "eweber.jpg"
+            "names": {"*": "Konstantin Klugman", "ru": "Константин Клугман"},
+            "titles": {"*": "Product Manager @ MRPeasy.com"},
+            "url": "https://www.linkedin.com/in/klugman",
+            "image": "kklugman.jpg"
           }
         ],
-        "titles": {"*": "Google SRE"},
+        "titles": {"*": "С нуля до 1'000'000 ARR за 5 лет"},
         "descr": {
           "ru": [
-            "Гугл замутил свое видение DevOps, с инженерами и практикой. Зачем были нужны SRE и CRE, и могут ли они понадобится лично тебе?"
           ]
         }
       }
