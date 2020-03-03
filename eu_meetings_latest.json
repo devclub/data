@@ -19,6 +19,7 @@
         "speakers": [
           {
             "names": {"*": "Ilja Livenson", "ru": "Илья Ливенсон"},
+            "titles": {"*": "Co-Founder & CEO @ OpenNode"},
             "url": "https://ee.linkedin.com/in/ilja-livenson-8015674",
             "image": "ilivenson.jpg"
           }
