@@ -1,5 +1,61 @@
 [
   {
+    "num": 138,
+    "datetime": "2020-02-26T19:00:00+02:00",
+    "season": 2020,
+    "place": {
+      "name": "Park Inn by Radisson Meriton Conference & Spa Hotel Tallinn", "loc": "https://goo.gl/maps/AJbuvwDS7co",
+      "addr": "Toompuiestee 27/Paldiski mnt 4, 10149 Tallinn", "url": "https://www.parkinn.com/hotel-meriton-tallinn"
+    },
+    "org": {"mod": ["asviridenko"], "photo": ["klinnik"]},
+    "photo": [],
+    "event": "https://www.eventbrite.com/e/95790242193",
+    "speeches": [
+      {
+        "org": {"cam": [""], "edit": [""]},
+        "lang": "ru",
+        "labels": [],
+        "youtube": [],
+        "speakers": [
+          {
+            "names": {"*": "Anton Keks", "ru": "Антон Кекс"},
+            "titles": {"*": "Software Craftsman @ Codeborne"},
+            "url": "https://www.linkedin.com/in/antonkeks",
+            "image": "akeks.jpg"
+          }
+        ],
+        "titles": {"ru": "Что такое Работающий Продукт и как его делать"},
+        "descr": {
+          "ru": [
+            "В начале был Agile-манифест, провозгласивший, что Работающий Продукт важнее Исчерпывающей Документации. Потом был Манифест Программистского Мастерства (Software Craftsmanship), добавляющий, что Работающий Продукт нужно также Искусно Мастерить. Но что это все значит?",
+            "Мне кажется, что за 19 лет после публикации Agile-манифеста разработчики до сих пор недопонимают как сделать их продукты действительно работающими. У почти каждого проекта, с которым я сталкиваюсь, есть проблемы даже с элементарным запуском. Как я могу что-то улучшить в проекте, если он тупо не запускается?!",
+            "Будут обсуждаться такие темы как удобство использования для разработчика, юнит-тестирование и популярные анти-паттерны, чтобы привлечь ваше внимание к тому как сделать ваши продукты элементарно работающими и действительно поддерживаемыми как вами, так и другими."
+          ]
+        }
+      },
+      {
+        "org": {"cam": [""], "edit": [""]},
+        "lang": "ru",
+        "labels": [],
+        "youtube": [],
+        "speakers": [
+          {
+            "names": {"*": "Ervin Weber", "ru": "Эрвин Вебер"},
+            "titles": {"*": "System Administrator @ Toggl"},
+            "url": "https://ee.linkedin.com/in/webervin",
+            "image": "eweber.jpg"
+          }
+        ],
+        "titles": {"*": "Google SRE"},
+        "descr": {
+          "ru": [
+            "Гугл замутил свое видение DevOps, с инженерами и практикой. Зачем были нужны SRE и CRE, и могут ли они понадобится лично тебе?"
+          ]
+        }
+      }
+    ]
+  },
+  {
     "num": 137,
     "datetime": "2020-01-29T19:00:00+02:00",
     "season": 2020,
