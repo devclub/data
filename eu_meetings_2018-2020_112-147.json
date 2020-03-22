@@ -12,10 +12,10 @@
     "event": "https://www.eventbrite.com/e/95790242193",
     "speeches": [
       {
-        "org": {"cam": [""], "edit": [""]},
+        "org": {"cam": ["astalnuhhin"], "edit": ["klinnik"]},
         "lang": "ru",
         "labels": [],
-        "youtube": [],
+        "youtube": ["1nRS6aLRhZs"],
         "speakers": [
           {
             "names": {"*": "Anton Keks", "ru": "Антон Кекс"},
@@ -34,7 +34,7 @@
         }
       },
       {
-        "org": {"cam": [""], "edit": [""]},
+        "org": {"cam": ["astalnuhhin"], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": [],
@@ -68,7 +68,7 @@
     "event": "https://www.eventbrite.com/e/devclubeu-137-registration-91024604041",
     "speeches": [
       {
-        "org": {"cam": [""], "edit": [""]},
+        "org": {"cam": ["astalnuhhin"], "edit": ["klinnik"]},
         "lang": "ru",
         "labels": [],
         "youtube": ["J7pWxAwL1Lw"],
@@ -88,10 +88,10 @@
         }
       },
       {
-        "org": {"cam": [""], "edit": [""]},
+        "org": {"cam": ["astalnuhhin"], "edit": ["klinnik"]},
         "lang": "ru",
         "labels": [],
-        "youtube": [],
+        "youtube": ["PLJygZnFxQA"],
         "speakers": [
           {
             "names": {"*": "", "ru": "Антон Бабенко"},
@@ -108,10 +108,10 @@
         }
       },
       {
-        "org": {"cam": [""], "edit": [""]},
+        "org": {"cam": ["astalnuhhin"], "edit": ["klinnik"]},
         "lang": "ru",
         "labels": [],
-        "youtube": [],
+        "youtube": ["4o9WWGpxIug"],
         "speakers": [
           {
             "names": {"*": "Sergei Chipiga", "ru": "Сергей Чипига"},
@@ -163,10 +163,10 @@
         }
       },
       {
-        "org": {"cam": ["jtimosin"], "edit": [""]},
+        "org": {"cam": ["jtimosin"], "edit": ["klinnik"]},
         "lang": "ru",
         "labels": ["DataGrip", "JetBrains", "IDE", "sql"],
-        "youtube": [""],
+        "youtube": ["I4Ifpg5_CIs"],
         "speakers": [
           {
             "names": {"*": "Maxim Sobolewski", "ru": "Максим Соболевский"},
