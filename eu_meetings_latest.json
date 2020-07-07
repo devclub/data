@@ -18,25 +18,6 @@
         "youtube": [],
         "speakers": [
           {
-            "names": {"*": "Ilja Livenson", "ru": "Илья Ливенсон"},
-            "titles": {"*": "Co-Founder & CEO @ OpenNode"},
-            "url": "https://ee.linkedin.com/in/ilja-livenson-8015674",
-            "image": "ilivenson.jpg"
-          }
-        ],
-        "titles": {"ru": "Что нового с Гособлаком?"},
-        "descr": {
-          "ru": [
-          ]
-        }
-      },
-      {
-        "org": {"cam": [""], "edit": [""]},
-        "lang": "ru",
-        "labels": [],
-        "youtube": [],
-        "speakers": [
-          {
             "names": {"*": "Konstantin Klugman", "ru": "Константин Клугман"},
             "titles": {"*": "Product Manager @ MRPeasy.com"},
             "url": "https://www.linkedin.com/in/klugman",
@@ -47,6 +28,25 @@
         "descr": {
           "ru": [
             "План выступления: 1. От идеи до фирмы; 2. Организационные и технические методы и решения; 3. Как ИТ фирма может работать без отдела продаж; 4. Ответы на вопросы."
+          ]
+        }
+      },
+      {
+        "org": {"cam": [""], "edit": [""]},
+        "lang": "ru",
+        "labels": [],
+        "youtube": [],
+        "speakers": [
+          {
+            "names": {"*": "Ilja Livenson", "ru": "Илья Ливенсон"},
+            "titles": {"*": "Co-Founder & CEO @ OpenNode"},
+            "url": "https://ee.linkedin.com/in/ilja-livenson-8015674",
+            "image": "ilivenson.jpg"
+          }
+        ],
+        "titles": {"ru": "Что нового с Гособлаком?"},
+        "descr": {
+          "ru": [
           ]
         }
       }
