@@ -1,7 +1,7 @@
 [
   {
-    "num": 139,
-    "datetime": "2020-07-30T19:00:00+03:00",
+    "num": 140,
+    "datetime": "2020-08-31T19:00:00+03:00",
     "season": 2020,
     "place": {
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
@@ -9,7 +9,7 @@
     },
     "org": {"mod": ["astalnuhhin"], "photo": ["gbeshkin"]},
     "photo": [],
-    "event": "https://www.eventbrite.com/e/devclubeu-139-tickets-114822230382",
+    "event": "",
     "speeches": [
       {
         "org": {"cam": [""], "edit": [""]},
@@ -18,16 +18,16 @@
         "youtube": [],
         "speakers": [
           {
-            "names": {"*": "Konstantin Klugman", "ru": "Константин Клугман"},
-            "titles": {"*": "Product Manager @ MRPeasy.com"},
-            "url": "https://www.linkedin.com/in/klugman",
-            "image": "kklugman.jpg"
+            "names": {"*": "Jevgeni Goloborodko", "ru": "Евгений Голобородько"},
+            "titles": {"*": "Software Architect & Founder @ Digital Magic Ltd"},
+            "url": "https://ee.linkedin.com/in/jevgeni-goloborodko-65a048a",
+            "image": "jgoloborodko.jpg"
           }
         ],
-        "titles": {"*": "От 0 до 1M ARR без инвестиций за 5 лет"},
+        "titles": {"*": "Черновик: FP на TypeScript"},
         "descr": {
           "ru": [
-            "План выступления: 1. От идеи до фирмы; 2. Организационные и технические методы и решения; 3. Как ИТ фирма может работать без отдела продаж; 4. Ответы на вопросы."
+            ""
           ]
         }
       },
@@ -38,16 +38,16 @@
         "youtube": [],
         "speakers": [
           {
-            "names": {"*": "Ilja Livenson", "ru": "Илья Ливенсон"},
-            "titles": {"*": "Co-Founder & CEO @ OpenNode"},
-            "url": "https://ee.linkedin.com/in/ilja-livenson-8015674",
-            "image": "ilivenson.jpg"
+            "names": {"*": "Andrei Solntsev", "ru": "Андрей Солнцев"},
+            "titles": {"*": "Software developer @ Codeborne"},
+            "url": "https://ee.linkedin.com/in/asolntsev",
+            "image": "asolntsev_2018.jpg"
           }
         ],
-        "titles": {"ru": "Что нового с Гособлаком?"},
+        "titles": {"ru": "Черновик: Flaky tests. Метод"},
         "descr": {
           "ru": [
-            "Илья расскажет, как продвигается проект Гособлако (riigipilv.ee), что получается, с чем есть проблемы. Ещё расскажет, какая польза от Гособлака людям, которые пишут софт для публичного сектора."
+            ""
           ]
         }
       }
