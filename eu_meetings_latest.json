@@ -7,32 +7,12 @@
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
       "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
     },
-    "org": {"mod": ["astalnuhhin"], "photo": ["gbeshkin"]},
+    "org": {"mod": ["astalnuhhin"], "photo": ["klinnik"]},
     "photo": [],
     "event": "",
     "speeches": [
       {
-        "org": {"cam": [""], "edit": [""]},
-        "lang": "ru",
-        "labels": [],
-        "youtube": [],
-        "speakers": [
-          {
-            "names": {"*": "Jevgeni Goloborodko", "ru": "Евгений Голобородько"},
-            "titles": {"*": "Software Architect & Founder @ Digital Magic Ltd"},
-            "url": "https://ee.linkedin.com/in/jevgeni-goloborodko-65a048a",
-            "image": "jgoloborodko.jpg"
-          }
-        ],
-        "titles": {"*": "Черновик: FP на TypeScript"},
-        "descr": {
-          "ru": [
-            ""
-          ]
-        }
-      },
-      {
-        "org": {"cam": [""], "edit": [""]},
+        "org": {"cam": ["gbeshkin"], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": [],
@@ -44,10 +24,31 @@
             "image": "asolntsev_2018.jpg"
           }
         ],
-        "titles": {"ru": "Черновик: Flaky tests. Метод"},
+        "titles": {"ru": "Flaky tests: Метод"},
         "descr": {
           "ru": [
-            ""
+            "Продолжение саги про моргающие тесты. На сей раз будет меньше видосиков и больше логики: в каком порядке вещи должны случаться и что бывает, когда порядок нарушается. На десерт расскажу про общий метод решения флейки тестов."
+          ]
+        }
+      },
+      {
+        "org": {"cam": ["gbeshkin"], "edit": [""]},
+        "lang": "ru",
+        "labels": [],
+        "youtube": [],
+        "speakers": [
+          {
+            "names": {"*": "Jevgeni Goloborodko", "ru": "Евгений Голобородько"},
+            "titles": {"*": "Software Architect & Founder @ Digital Magic Ltd"},
+            "url": "https://ee.linkedin.com/in/jevgeni-goloborodko-65a048a",
+            "image": "jgoloborodko.jpg"
+          }
+        ],
+        "titles": {"*": "Введение в Функциональное Программирование для фонтэндеров. Часть 1"},
+        "descr": {
+          "ru": [
+            "Не секрет, что функциональное программирование (FP) уже давно снова набирает обороты на бэкенде, чему способствуют развитие таких языков, как Scala и Kotlin, но почему-то в мире WEB-фреймворков эту тему стараются избегать, и зря! Я покажу основные принципы FP в сравнении с императивным стилем и покажу, что область применения этой парадигмы бесконечно большая и несёт в себе только Функциональное Добро, которое подчиняется в первую очередь математическим законам, многие из которых вы уже знаете, но просто, возможно, не в курсе.",
+            "Доклад будет интересен всем разработчикам (не только фронтендерам), так как, в основном, будут описываться принципы, которые не зависят от языка. Примеры на TypeScript достаточно просты, чтобы можно было их понять без знания синтаксиса."
           ]
         }
       }
