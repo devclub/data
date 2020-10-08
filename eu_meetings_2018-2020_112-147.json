@@ -1,5 +1,81 @@
 [
   {
+    "num": 141,
+    "datetime": "2020-09-29T19:00:00+03:00",
+    "season": 2020,
+    "place": {
+      "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
+      "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
+    },
+    "org": {"mod": ["klinnik"], "photo": ["gbeshkin"]},
+    "photo": [],
+    "event": "https://www.eventbrite.com/e/devclubeu-141-tickets-121265752129",
+    "speeches": [
+      {
+        "org": {"cam": ["jtimoshin"], "edit": [""]},
+        "lang": "ru",
+        "labels": [],
+        "youtube": ["0R-EHzLuPCQ"],
+        "speakers": [
+          {
+            "names": {"*": "Aleksei Bljahhin", "ru": "Алексей Бляхин"},
+            "titles": {"*": "Head of Open Banking / PSD2 @ IceFire"},
+            "url": "https://www.linkedin.com/in/aleksei-bljahhin-a426889",
+            "image": "abljahhin.jpg"
+          }
+        ],
+        "titles": {"ru": "HOIA - что это, и как это работает"},
+        "descr": {
+          "ru": [
+            "В связи с ситуацией в мире и непосредственно в Эстонии команда разработчиков создала приложение HOIA (https://hoia.me/ru). Через это мобильное приложение вы сможете быстро узнать о возможных близких контактах с больным COVID-19, что позволит вам предпринять шаги для защиты своего здоровья и здоровья других. На встречу придёт главный разработчик этого приложения, с которым мы можем обсудить наиболее интересные моменты."
+          ]
+        }
+      },
+      {
+        "org": {"cam": ["jtimoshin"], "edit": [""]},
+        "lang": "ru",
+        "labels": [],
+        "youtube": [],
+        "speakers": [
+          {
+            "names": {"*": "Igor Bossenko", "ru": "Игорь Босенко"},
+            "titles": {"*": "CEO & Solution Architect @ Kodality"},
+            "url": "https://www.linkedin.com/in/igor-bossenko",
+            "image": "ibossenko.jpg"
+          }
+        ],
+        "titles": {"ru": "Не Джирой единой"},
+        "descr": {
+          "ru": [
+            "Jira - неоспоримый лидер на рынке систем управления проектами и систем отслеживания ошибок. В докладе я расскажу, почему мы задумались о замене Джиры, о нашем процессе отбора и внедрения альтернативы. И, да, мы остались очень довольными. :)"
+          ]
+        }
+      },
+      {
+        "org": {"cam": ["astalnuhhin"], "edit": [""]},
+        "lang": "ru",
+        "labels": [],
+        "youtube": [],
+        "speakers": [
+          {
+            "names": {"*": "Jevgeni Goloborodko", "ru": "Евгений Голобородько"},
+            "titles": {"*": "Software Architect & Founder @ Digital Magic Ltd"},
+            "url": "https://ee.linkedin.com/in/jevgeni-goloborodko-65a048a",
+            "image": "jgoloborodko.jpg"
+          }
+        ],
+        "titles": {"*": "Введение в Функциональное Программирование для фронтэндеров. Часть 2"},
+        "descr": {
+          "ru": [
+            "В первой части мы познакомились с базовыми принципами FP: композиция, higher-order & first-class functions, чистые функции, карирование функций и полиморфные функции.",
+            "На этот раз мы познакомимся с наиболее популярными полиморфными типами, комбинаторами и начнем знакомиться с “Теорией Категорий” и узнаем как она нам помогает упрощать ежедневные задачи.",
+            "Интересно будет не только фронтендерам, т.к. синтаксис примеров на TypeScript достаточно прост для понимания даже для тех, кто его не знает."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "num": 140,
     "datetime": "2020-08-31T19:00:00+03:00",
     "season": 2020,
@@ -32,10 +108,10 @@
         }
       },
       {
-        "org": {"cam": ["gbeshkin"], "edit": [""]},
+        "org": {"cam": ["gbeshkin"], "edit": ["jgoloborodko"]},
         "lang": "ru",
         "labels": [],
-        "youtube": [],
+        "youtube": ["EaXoQlLsl4c"],
         "speakers": [
           {
             "names": {"*": "Jevgeni Goloborodko", "ru": "Евгений Голобородько"},
@@ -67,10 +143,10 @@
     "event": "https://www.eventbrite.com/e/devclubeu-139-tickets-114822230382",
     "speeches": [
       {
-        "org": {"cam": ["jgoloborodko"], "edit": [""]},
+        "org": {"cam": ["jgoloborodko"], "edit": ["klinnik"]},
         "lang": "ru",
         "labels": [],
-        "youtube": [],
+        "youtube": ["zChp-ba4N0Q"],
         "speakers": [
           {
             "names": {"*": "Konstantin Klugman", "ru": "Константин Клугман"},
