@@ -1,15 +1,15 @@
 [
-    {
-    "num": 141,
-    "datetime": "2020-09-29T19:00:00+03:00",
+  {
+    "num": 142,
+    "datetime": "2020-10-28T19:00:00+03:00",
     "season": 2020,
     "place": {
-      "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
-      "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
+      "name": "Hotel L'Embitu 4 Superior", "loc": "https://g.page/hotellembitutallinn",
+      "addr": "Lembitu 12, 10114 Tallinn", "url": "https://lembituhotel.ee"
     },
-    "org": {"mod": ["klinnik"], "photo": ["gbeshkin"]},
+    "org": {"mod": ["klinnik"], "photo": ["klinnik"]},
     "photo": [],
-    "event": "https://www.eventbrite.com/e/devclubeu-141-tickets-121265752129",
+    "event": "",
     "speeches": [
       {
         "org": {"cam": ["astalnuhhin"], "edit": [""]},
@@ -18,16 +18,14 @@
         "youtube": [],
         "speakers": [
           {
-            "names": {"*": "Aleksei Bljahhin", "ru": "Алексей Бляхин"},
-            "titles": {"*": "Head of Open Banking / PSD2 @ IceFire"},
-            "url": "https://www.linkedin.com/in/aleksei-bljahhin-a426889",
-            "image": "abljahhin.jpg"
+            "names": {"*": "Stanislav Katkov", "ru": "Станислав Катков"},
+            "url": "https://www.linkedin.com/in/stanislav-katkov-582b7832",
+            "image": "skatkov.jpg"
           }
         ],
-        "titles": {"ru": "HOIA - что это, и как это работает"},
+        "titles": {"ru": ""},
         "descr": {
           "ru": [
-            "В связи с ситуацией в мире и непосредственно в Эстонии команда разработчиков создала приложение HOIA (https://hoia.me/ru). Через это мобильное приложение вы сможете быстро узнать о возможных близких контактах с больным COVID-19, что позволит вам предпринять шаги для защиты своего здоровья и здоровья других. На встречу придёт главный разработчик этого приложения, с которым мы можем обсудить наиболее интересные моменты."
           ]
         }
       },
@@ -38,16 +36,21 @@
         "youtube": [],
         "speakers": [
           {
-            "names": {"*": "Igor Bossenko", "ru": "Игорь Босенко"},
-            "titles": {"*": "CEO & Solution Architect @ Kodality"},
-            "url": "https://www.linkedin.com/in/igor-bossenko",
-            "image": "ibossenko.jpg"
+            "names": {"*": "Anton Arhipov", "ru": "Антон Архипов"},
+            "titles": {"*": "Developer Advocate @ JetBrains"},
+            "url": "https://ee.linkedin.com/in/antonarhipov",
+            "image": "aarhipov.jpg"
+          },
+          {
+            "names": {"*": "Aleksandr Tavgen", "ru": "Александр Тавген"},
+            "titles": {"*": "Software Architect with Data Science and Financial Background"},
+            "url": "https://www.linkedin.com/in/aleksandr-tavgen-24431815b",
+            "image": "atavgen.jpg"
           }
         ],
-        "titles": {"ru": "Не Джирой единой"},
+        "titles": {"ru": ""},
         "descr": {
           "ru": [
-            "Jira - неоспоримый лидер на рынке систем управления проектами и систем отслеживания ошибок. В докладе я расскажу, почему мы задумались о замене Джиры, о нашем процессе отбора и внедрения альтернативы. И, да, мы остались очень довольными. :)"
           ]
         }
       },
@@ -64,13 +67,10 @@
             "image": "jgoloborodko.jpg"
           }
         ],
-        "titles": {"*": "Введение в Функциональное Программирование для фронтэндеров. Часть 2"},
+        "titles": {"*": ""},
         "descr": {
           "ru": [
-            "В первой части мы познакомились с базовыми принципами FP: композиция, higher-order & first-class functions, чистые функции, карирование функций и полиморфные функции.",
-            "На этот раз мы познакомимся с наиболее популярными полиморфными типами, комбинаторами и начнем знакомиться с “Теорией Категорий” и узнаем как она нам помогает упрощать ежедневные задачи.",
-            "Интересно будет не только фронтендерам, т.к. синтаксис примеров на TypeScript достаточно прост для понимания даже для тех, кто его не знает."
-          ]
+           ]
         }
       }
     ]
