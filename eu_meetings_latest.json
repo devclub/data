@@ -23,10 +23,34 @@
             "image": "skatkov.jpg"
           }
         ],
-        "titles": {"ru": ""},
+        "titles": {"*": "Bootstrapping side-projects"},
         "descr": {
           "ru": [
+            "Почему каждый IT'шник должен иметь сайд проект и как над ним работать, чтобы не было обидно за потраченые годы. Буду делиться опытом с личных баталий."
           ]
+        }
+      },
+      {
+        "org": {"cam": ["astalnuhhin"], "edit": [""]},
+        "lang": "ru",
+        "labels": [],
+        "youtube": [],
+        "speakers": [
+          {
+            "names": {"*": "Jevgeni Goloborodko", "ru": "Евгений Голобородько"},
+            "titles": {"*": "Software Architect & Founder @ Digital Magic Ltd"},
+            "url": "https://ee.linkedin.com/in/jevgeni-goloborodko-65a048a",
+            "image": "jgoloborodko.jpg"
+          }
+        ],
+        "titles": {"ru": "Введение в Функциональное Программирование для фронтэндеров. Часть 3"},
+        "descr": {
+          "ru": [
+            "Мы уже познакомились с базовыми принципами FP, разобрались с композицией и рассмотрели распространенные функциональные абстракции. Закончили тем, что начали изучать \"Теорию Категорий\".",
+            "Далее разберём Higher Kinded Types (упоминались в конце прошлого выступления) и попробуем понять значение фразы: \"Монада - это моноид в категории эндофункторов\".",
+            "Интересно будет не только фронтендерам: синтаксис примеров на TypeScript достаточно прост для понимания."
+            "Обязательно ознакомьтесь с первыми двумя частями: https://www.youtube.com/watch?v=EaXoQlLsl4c (1), https://www.youtube.com/watch?v=fd1H7L1DIpI (2)."
+           ]
         }
       },
       {
@@ -48,29 +72,11 @@
             "image": "atavgen.jpg"
           }
         ],
-        "titles": {"ru": ""},
+        "titles": {"ru": "Экспресс Интревью"},
         "descr": {
           "ru": [
+            "Антон Архипов подготовит вопросы на 3 большие темы. На каждый вопрос по 5-7 минут. Последние 10-15 минут посвятим вопросам из опросника при регистрации."
           ]
-        }
-      },
-      {
-        "org": {"cam": ["astalnuhhin"], "edit": [""]},
-        "lang": "ru",
-        "labels": [],
-        "youtube": [],
-        "speakers": [
-          {
-            "names": {"*": "Jevgeni Goloborodko", "ru": "Евгений Голобородько"},
-            "titles": {"*": "Software Architect & Founder @ Digital Magic Ltd"},
-            "url": "https://ee.linkedin.com/in/jevgeni-goloborodko-65a048a",
-            "image": "jgoloborodko.jpg"
-          }
-        ],
-        "titles": {"*": ""},
-        "descr": {
-          "ru": [
-           ]
         }
       }
     ]
