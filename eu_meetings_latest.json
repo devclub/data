@@ -19,7 +19,8 @@
         "speakers": [
           {
             "names": {"*": "Stanislav Katkov", "ru": "Станислав Катков"},
-            "url": "https://www.linkedin.com/in/stanislav-katkov-582b7832",
+            "titles": {"*": "Ronin Coder & Aspiring Internet Entrepreneur"},
+            "url": "https://www.facebook.com/5katkov",
             "image": "skatkov.jpg"
           }
         ],
