@@ -52,10 +52,10 @@
         }
       },
       {
-        "org": {"cam": ["astalnuhhin"], "edit": [""]},
+        "org": {"cam": ["astalnuhhin"], "edit": ["jgoloborodko"]},
         "lang": "ru",
         "labels": [],
-        "youtube": [],
+        "youtube": ["fd1H7L1DIpI"],
         "speakers": [
           {
             "names": {"*": "Jevgeni Goloborodko", "ru": "Евгений Голобородько"},
@@ -163,10 +163,10 @@
         }
       },
       {
-        "org": {"cam": ["jgoloborodko"], "edit": [""]},
+        "org": {"cam": ["jgoloborodko"], "edit": ["klinnik"]},
         "lang": "ru",
         "labels": [],
-        "youtube": [],
+        "youtube": ["4bChVlkHosM"],
         "speakers": [
           {
             "names": {"*": "Ilja Livenson", "ru": "Илья Ливенсон"},
