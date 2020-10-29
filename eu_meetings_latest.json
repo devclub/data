@@ -7,8 +7,8 @@
       "name": "Hotel L'Embitu 4 Superior", "loc": "https://g.page/hotellembitutallinn",
       "addr": "Lembitu 12, 10114 Tallinn", "url": "https://lembituhotel.ee"
     },
-    "org": {"mod": ["klinnik"], "photo": ["klinnik"]},
-    "photo": [],
+    "org": {"mod": ["asviridenko"], "photo": ["gbeskin"]},
+    "photo": ["https://photos.app.goo.gl/vNuj4iSx2kXZKwSEA"],
     "event": "https://www.eventbrite.com/e/devclubeu-142-tickets-126404582509",
     "speeches": [
       {
