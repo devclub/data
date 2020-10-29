@@ -12,7 +12,7 @@
     "event": "https://www.eventbrite.com/e/devclubeu-141-tickets-121265752129",
     "speeches": [
       {
-        "org": {"cam": ["jtimoshin"], "edit": [""]},
+        "org": {"cam": ["jtimosin"], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": ["0R-EHzLuPCQ"],
@@ -32,7 +32,7 @@
         }
       },
       {
-        "org": {"cam": ["jtimoshin"], "edit": [""]},
+        "org": {"cam": ["jtimosin"], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": [],
@@ -83,7 +83,7 @@
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
       "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
     },
-    "org": {"mod": ["jtimoshin"], "photo": ["klinnik"]},
+    "org": {"mod": ["jtimosin"], "photo": ["klinnik"]},
     "photo": ["https://photos.app.goo.gl/LsHBti7T5rqMHoSn8"],
     "event": "https://www.eventbrite.com/e/devclubeu-140-tickets-117958494031",
     "speeches": [
