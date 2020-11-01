@@ -88,10 +88,10 @@
     "event": "https://www.eventbrite.com/e/devclubeu-140-tickets-117958494031",
     "speeches": [
       {
-        "org": {"cam": ["gbeskin"], "edit": [""]},
+        "org": {"cam": ["gbeskin"], "edit": ["klinnik"]},
         "lang": "ru",
-        "labels": [],
-        "youtube": [],
+        "labels": ["tests"],
+        "youtube": ["SSglWLW40Ac"],
         "speakers": [
           {
             "names": {"*": "Andrei Solntsev", "ru": "Андрей Солнцев"},
