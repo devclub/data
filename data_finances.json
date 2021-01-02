@@ -9,12 +9,28 @@
     {"month": 6, "price": 250},
     {"month": 12, "price": 200}
   ],
+  "persons": [
+    "Kuznetsov Dmitri",
+    "Beshkins Grigorijs",
+    "Kirjanov Sergei",
+    "Belugin Aleksandr",
+    "Štšerbak Deniss",
+    "Tsirihhov Juri",
+    "Stalnuhhin Regina",
+    "Zhadan Denis",
+    "Rumjantsev Vladislav",
+    "Vesselov Anton",
+    "Troškov Dmitri",
+    "Samtšev Igor",
+    "Tshepurov Anton",
+    "Shubnikov Alexey",
+    "Razdolski Aleksandr",
+    "Prohhorov Dmitri",
+    "Chubarov Evgeny",
+    "Bogatõrjov Jevgeni",
+    "Velizhanin Aleksei"
+  ],
   "companies": [
-    {
-      "name": "MRPeasy",
-      "logo": "mrpeasy.png",
-      "url": "https://www.mrpeasy.com"
-    },
     {
       "name": "Playtech",
       "logo": "playtech.png",
@@ -34,11 +50,6 @@
       "name": "Bolt",
       "logo": "bolt.png",
       "url": "https://careers.bolt.eu"
-    },
-    {
-      "name": "MyJar",
-      "logo": "myjar.png",
-      "url": "https://www.myjar.com/news/myjar-jobs"
     },
     {
       "name": "Codeborne",
