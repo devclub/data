@@ -1,5 +1,89 @@
 [
   {
+    "num": 142,
+    "datetime": "2020-10-28T19:00:00+02:00",
+    "season": 2020,
+    "place": {
+      "name": "Hotel L'Embitu 4 Superior", "loc": "https://g.page/hotellembitutallinn",
+      "addr": "Lembitu 12, 10114 Tallinn", "url": "https://lembituhotel.ee"
+    },
+    "org": {"mod": ["asviridenko"], "photo": ["gbeskin"]},
+    "photo": ["https://photos.app.goo.gl/vNuj4iSx2kXZKwSEA"],
+    "event": "https://www.eventbrite.com/e/devclubeu-142-tickets-126404582509",
+    "speeches": [
+      {
+        "org": {"cam": ["astalnuhhin"], "edit": ["klinnik"]},
+        "lang": "ru",
+        "labels": [],
+        "youtube": ["k3izUh2KHe8"],
+        "speakers": [
+          {
+            "names": {"*": "Stanislav Katkov", "ru": "Станислав Катков"},
+            "titles": {"*": "Ronin Coder & Aspiring Internet Entrepreneur"},
+            "url": "https://www.facebook.com/5katkov",
+            "image": "skatkov.jpg"
+          }
+        ],
+        "titles": {"*": "Bootstrapping side-projects"},
+        "descr": {
+          "ru": [
+            "Почему каждый IT'шник должен иметь сайд проект и как над ним работать, чтобы не было обидно за потраченые годы. Буду делиться опытом с личных баталий."
+          ]
+        }
+      },
+      {
+        "org": {"cam": ["astalnuhhin"], "edit": [""]},
+        "lang": "ru",
+        "labels": [],
+        "youtube": [],
+        "speakers": [
+          {
+            "names": {"*": "Jevgeni Goloborodko", "ru": "Евгений Голобородько"},
+            "titles": {"*": "Software Architect & Founder @ Digital Magic Ltd"},
+            "url": "https://ee.linkedin.com/in/jevgeni-goloborodko-65a048a",
+            "image": "jgoloborodko.jpg"
+          }
+        ],
+        "titles": {"ru": "Введение в Функциональное Программирование для фронтэндеров. Часть 3"},
+        "descr": {
+          "ru": [
+            "Мы уже познакомились с базовыми принципами FP, разобрались с композицией и рассмотрели распространенные функциональные абстракции. Закончили тем, что начали изучать \"Теорию Категорий\".",
+            "Далее разберём Higher Kinded Types (упоминались в конце прошлого выступления) и попробуем понять значение фразы: \"Монада - это моноид в категории эндофункторов\".",
+            "Интересно будет не только фронтендерам: синтаксис примеров на TypeScript достаточно прост для понимания.",
+            "Обязательно ознакомьтесь с первыми двумя частями: https://www.youtube.com/watch?v=EaXoQlLsl4c (1), https://www.youtube.com/watch?v=fd1H7L1DIpI (2)."
+           ]
+        }
+      },
+      {
+        "org": {"cam": ["astalnuhhin"], "edit": ["klinnik"]},
+        "lang": "ru",
+        "labels": [],
+        "youtube": ["yBUvFJpKvsU"],
+        "speakers": [
+          {
+            "names": {"*": "Anton Arhipov", "ru": "Антон Архипов"},
+            "titles": {"*": "Developer Advocate @ JetBrains"},
+            "url": "https://ee.linkedin.com/in/antonarhipov",
+            "image": "aarhipov.jpg"
+          },
+          {
+            "names": {"*": "Aleksandr Tavgen", "ru": "Александр Тавген"},
+            "titles": {"*": "Software Architect with Data Science and Financial Background"},
+            "url": "https://www.linkedin.com/in/aleksandr-tavgen-24431815b",
+            "image": "atavgen.jpg"
+          }
+        ],
+        "titles": {"ru": "Экспресс Интервью"},
+        "descr": {
+          "ru": [
+            "Антон Архипов подготовит вопросы на 3 большие темы. На каждый вопрос по 5-7 минут.",
+            "Последние 10-15 минут посвятим вопросам из опросника при регистрации."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "num": 141,
     "datetime": "2020-09-29T19:00:00+03:00",
     "season": 2020,
@@ -12,7 +96,7 @@
     "event": "https://www.eventbrite.com/e/devclubeu-141-tickets-121265752129",
     "speeches": [
       {
-        "org": {"cam": ["jtimosin"], "edit": [""]},
+        "org": {"cam": ["jtimosin"], "edit": ["klinnik"]},
         "lang": "ru",
         "labels": [],
         "youtube": ["0R-EHzLuPCQ"],
@@ -32,10 +116,10 @@
         }
       },
       {
-        "org": {"cam": ["jtimosin"], "edit": [""]},
+        "org": {"cam": ["jtimosin"], "edit": ["klinnik"]},
         "lang": "ru",
         "labels": [],
-        "youtube": [],
+        "youtube": ["a6mjxnmODn8"],
         "speakers": [
           {
             "names": {"*": "Igor Bossenko", "ru": "Игорь Босенко"},
