@@ -1,83 +1,73 @@
 [
   {
-    "num": 142,
-    "datetime": "2020-10-28T19:00:00+02:00",
-    "season": 2020,
+    "num": 143,
+    "datetime": "2021-01-28T19:00:00+02:00",
+    "season": 2021,
     "place": {
-      "name": "Hotel L'Embitu 4 Superior", "loc": "https://g.page/hotellembitutallinn",
-      "addr": "Lembitu 12, 10114 Tallinn", "url": "https://lembituhotel.ee"
+      "name": "Põhja Öökull", "loc": "https://www.google.com/maps/@59.4455381,24.7192036,3a,37.3y,36.16h,87.97t/data=!3m7!1e1!3m5!1stKF8tAi0sdqNhMey-Yv6-g!2e0!6s%2F%2Fgeo3.ggpht.com%2Fcbk%3Fpanoid%3DtKF8tAi0sdqNhMey-Yv6-g%26output%3Dthumbnail%26cb_client%3Dmaps_sv.tactile.gps%26thumb%3D2%26w%3D203%26h%3D100%26yaw%3D328.5263%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656",
+      "addr": "Kopli 70a, 10411 Tallinn", "url": "https://www.facebook.com/P%C3%B5hja-%C3%96%C3%B6kull-109799177453157"
     },
-    "org": {"mod": ["asviridenko"], "photo": ["gbeskin"]},
-    "photo": ["https://photos.app.goo.gl/vNuj4iSx2kXZKwSEA"],
-    "event": "https://www.eventbrite.com/e/devclubeu-142-tickets-126404582509",
+    "org": {"mod": ["astalnuhhin"], "photo": ["klinnik"]},
+    "photo": [],
+    "event": "",
     "speeches": [
       {
-        "org": {"cam": ["astalnuhhin"], "edit": [""]},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": [],
         "speakers": [
           {
-            "names": {"*": "Stanislav Katkov", "ru": "Станислав Катков"},
-            "titles": {"*": "Ronin Coder & Aspiring Internet Entrepreneur"},
-            "url": "https://www.facebook.com/5katkov",
-            "image": "skatkov.jpg"
+            "names": {"*": "Anton Keks", "ru": "Антон Кекс"},
+            "titles": {"*": "Developer @ Codeborne"},
+            "url": "https://www.linkedin.com/in/antonkeks",
+            "image": "akeks.jpg"
           }
         ],
-        "titles": {"*": "Bootstrapping side-projects"},
+        "titles": {"*": "New age in web development: Svelte & Snowpack"},
         "descr": {
           "ru": [
-            "Почему каждый IT'шник должен иметь сайд проект и как над ним работать, чтобы не было обидно за потраченые годы. Буду делиться опытом с личных баталий."
+            "Несколько лет назад web разработка освоила компиляторы и бандлеры и стала реактивной. Но в наше время браузеры развиваются быстро и можно пересмотреть инструментарий, чтобы привести его ближе к тому, как устроен сам веб и сделать разработку проще и продуктивнее."
           ]
         }
       },
       {
-        "org": {"cam": ["astalnuhhin"], "edit": [""]},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": [],
         "speakers": [
           {
-            "names": {"*": "Jevgeni Goloborodko", "ru": "Евгений Голобородько"},
-            "titles": {"*": "Software Architect & Founder @ Digital Magic Ltd"},
-            "url": "https://ee.linkedin.com/in/jevgeni-goloborodko-65a048a",
-            "image": "jgoloborodko.jpg"
+            "names": {"*": "Kirill Linnik", "ru": "Кирилл Линник"},
+            "url": "https://ee.linkedin.com/pub/kirill-linnik/50/a65/976",
+            "image": "klinnik.jpg"
           }
         ],
-        "titles": {"ru": "Введение в Функциональное Программирование для фронтэндеров. Часть 3"},
+        "titles": {"ru": "Машинное обучение в картинках"},
         "descr": {
           "ru": [
-            "Мы уже познакомились с базовыми принципами FP, разобрались с композицией и рассмотрели распространенные функциональные абстракции. Закончили тем, что начали изучать \"Теорию Категорий\".",
-            "Далее разберём Higher Kinded Types (упоминались в конце прошлого выступления) и попробуем понять значение фразы: \"Монада - это моноид в категории эндофункторов\".",
-            "Интересно будет не только фронтендерам: синтаксис примеров на TypeScript достаточно прост для понимания.",
-            "Обязательно ознакомьтесь с первыми двумя частями: https://www.youtube.com/watch?v=EaXoQlLsl4c (1), https://www.youtube.com/watch?v=fd1H7L1DIpI (2)."
+            "Новый доклад от создателя «GDPR и котики»! Машинное обучение и AI уже давно не hype, но многие разработчики до сих считают всё это магией и не знают, с чего начать. Поэтому кто же, если не ДевКлуб расскажет про это всё именно с точки зрения разработчика, а не младшего научного сотрудника? Да ещё и в картинках!"
            ]
         }
       },
       {
-        "org": {"cam": ["astalnuhhin"], "edit": [""]},
+        "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": [],
         "speakers": [
           {
-            "names": {"*": "Anton Arhipov", "ru": "Антон Архипов"},
-            "titles": {"*": "Developer Advocate @ JetBrains"},
-            "url": "https://ee.linkedin.com/in/antonarhipov",
-            "image": "aarhipov.jpg"
-          },
-          {
-            "names": {"*": "Aleksandr Tavgen", "ru": "Александр Тавген"},
-            "titles": {"*": "Software Architect with Data Science and Financial Background"},
-            "url": "https://www.linkedin.com/in/aleksandr-tavgen-24431815b",
-            "image": "atavgen.jpg"
+            "names": {"*": "Julia Jolkin", "ru": "Юлия Ёлкин"},
+            "url": "https://www.linkedin.com/in/julia-jolkin-b5758645",
+            "image": "jjolkin.jpg"
           }
         ],
-        "titles": {"ru": "Экспресс Интервью"},
+        "titles": {"ru": "«Ретроградный Меркурий» эстонского рынка IT труда. Чему нас научил 2020 год?"},
         "descr": {
           "ru": [
-            "Антон Архипов подготовит вопросы на 3 большие темы. На каждый вопрос по 5-7 минут.",
-            "Последние 10-15 минут посвятим вопросам из опросника при регистрации."
+            "2020 год буквально заставил многих из нас поработать над ошибками. Перестроить, доработать, видоизменить, исправить свои ошибки в работе, в карьере, согласно новым требованиям времени. Давайте оглянемся назад, и обсудим, какие уроки мы из этого вынесли.",
+            "В этом году я про консультировала большое количество потерявших работу специалистов IT, с интересом анализируя, кто просел в карьере, по какой причине, каким специалистам стоит переквалифицироваться, а также, что стоит изучать, чтобы не отстать от поезда.",
+            "Я подготовила для вас обзор ситуации на рынке IT вакансий: востребованность, тренды, зарплаты. Подскажу, что стоит изучать и как максимально быстро найти работу мечты. До встречи в DevClub!"
           ]
         }
       }
