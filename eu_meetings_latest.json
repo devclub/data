@@ -58,7 +58,8 @@
         "speakers": [
           {
             "names": {"*": "Julia Jolkin", "ru": "Юлия Ёлкин"},
-            "url": "https://www.linkedin.com/in/julia-jolkin-b5758645",
+            "titles": {"*": "Fullstack IT Recruiter @ IT Talent"},
+            "url": "https://www.linkedin.com/in/juliajolkin",
             "image": "jjolkin.jpg"
           }
         ],
