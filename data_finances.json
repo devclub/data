@@ -32,6 +32,21 @@
   ],
   "companies": [
     {
+      "name": "Codeborne",
+      "logo": "codeborne.png",
+      "url": "https://codeborne.com/ru/"
+    },
+    {
+      "name": "Swedbank",
+      "logo": "swedbank.png",
+      "url": "https://www.swedbank.ee"
+    },
+    {
+      "name": "Wisercat",
+      "logo": "wisercat.png",
+      "url": "https://wisercat.eu/company/careers"
+    },
+    {
       "name": "Playtech",
       "logo": "playtech.png",
       "url": "http://www.playtech.ee/?nav=karjaar&lang=en"
@@ -47,24 +62,14 @@
       "url": "http://www.gamesyscorporate.com/jobs/"
     },
     {
+      "name": "Paxful",
+      "logo": "paxful.png",
+      "url": "https://paxful.com/"
+    },
+    {
       "name": "Bolt",
       "logo": "bolt.png",
       "url": "https://careers.bolt.eu"
-    },
-    {
-      "name": "Codeborne",
-      "logo": "codeborne.png",
-      "url": "https://codeborne.com/ru/"
-    },
-    {
-      "name": "Swedbank",
-      "logo": "swedbank.png",
-      "url": "https://www.swedbank.ee"
-    },
-    {
-      "name": "JetBrains",
-      "logo": "jetbrains.png",
-      "url": "https://www.jetbrains.com/"
     },
     {
       "name": "Transferwise",
@@ -72,9 +77,9 @@
       "url": "https://transferwise.com/"
     },
     {
-      "name": "Paxful",
-      "logo": "paxful.png",
-      "url": "https://paxful.com/"
+      "name": "JetBrains",
+      "logo": "jetbrains.png",
+      "url": "https://www.jetbrains.com/"
     }
   ]
 }
