@@ -92,6 +92,26 @@
         "youtube": [],
         "speakers": [
           {
+            "names": {"*": "Eugene Mirotin", "ru": "Евгений Миротин"},
+            "titles": {"*": "Software Engineer @ Play North OÜ"},
+            "url": "https://www.linkedin.com/in/guard",
+            "image": "emirotin.jpeg"
+          }
+        ],
+        "titles": {"ru": "Как работать с асинхронностью в JS, сохранять рассудок и влиять на людей"},
+        "descr": {
+          "ru": [
+            "Почему асинхронность — неизбежное зло, что с ним делать и каких ошибок стоит избегать. Рассмотрим темы: откуда берётся асинхронность и почему она так важна в JS; callbacks — единственный способ организации асинхронности; promises — как они устроены и почему полезны; ключевые слова async/await; типичные ошибки при работе с промисами."
+          ]
+        }
+      },
+      {
+        "org": {"cam": [""], "edit": [""]},
+        "lang": "ru",
+        "labels": [],
+        "youtube": [],
+        "speakers": [
+          {
             "names": {"*": "Julia Jolkin", "ru": "Юлия Ёлкин"},
             "titles": {"*": "Fullstack IT Recruiter @ IT Talent"},
             "url": "https://www.linkedin.com/in/juliajolkin",
