@@ -18,6 +18,26 @@
         "youtube": [],
         "speakers": [
           {
+            "names": {"*": "Anton Keks", "ru": "Антон Кекс"},
+            "titles": {"*": "Developer @ Codeborne"},
+            "url": "https://www.linkedin.com/in/antonkeks",
+            "image": "akeks.jpg"
+          }
+        ],
+        "titles": {"ru": "Про яхты"},
+        "descr": {
+          "ru": [
+            "Офтопик от Антона о его опыте хождения на яхте по морям."
+           ]
+        }
+      },
+      {
+        "org": {"cam": [""], "edit": [""]},
+        "lang": "ru",
+        "labels": [],
+        "youtube": [],
+        "speakers": [
+          {
             "names": {"*": "Artjom Vassiljev", "ru": "Артём Васильев"},
             "titles": {"*": "Co-founder @ getshipit.com"},
             "url": "https://linkedin.com/in/tjomk",
@@ -50,26 +70,6 @@
             "LJV — проект, созданный в 2004 году как инструмент для преподавания языка Java студентам. С помощью рефлексии он позволяет визуализировать внутреннее устройство структур данных.",
             "Мы запустим LJV на разных структурах (от String до ConcurrentHashMap и ConcurrentSkipListMap) в разных версиях Java и посмотрим, что там внутри, как оно менялось от версии к версии, и как это всё работает."
           ]
-        }
-      },
-      {
-        "org": {"cam": [""], "edit": [""]},
-        "lang": "ru",
-        "labels": [],
-        "youtube": [],
-        "speakers": [
-          {
-            "names": {"*": "Anton Keks", "ru": "Антон Кекс"},
-            "titles": {"*": "Developer @ Codeborne"},
-            "url": "https://www.linkedin.com/in/antonkeks",
-            "image": "akeks.jpg"
-          }
-        ],
-        "titles": {"ru": "Про яхты"},
-        "descr": {
-          "ru": [
-            "Офтопик от Антона о его опыте хождения на яхте по морям."
-           ]
         }
       }
     ]
