@@ -1,5 +1,82 @@
 [
   {
+    "num": 146,
+    "datetime": "2021-08-26T19:00:00+03:00",
+    "season": 2021,
+    "place": {
+      "name": "Põhja Öökull", "loc": "https://www.google.com/maps/@59.4455381,24.7192036,3a,37.3y,36.16h,87.97t/data=!3m7!1e1!3m5!1stKF8tAi0sdqNhMey-Yv6-g!2e0!6s%2F%2Fgeo3.ggpht.com%2Fcbk%3Fpanoid%3DtKF8tAi0sdqNhMey-Yv6-g%26output%3Dthumbnail%26cb_client%3Dmaps_sv.tactile.gps%26thumb%3D2%26w%3D203%26h%3D100%26yaw%3D328.5263%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656",
+      "addr": "Kopli 70a, 10411 Tallinn", "url": "https://www.facebook.com/P%C3%B5hja-%C3%96%C3%B6kull-109799177453157"
+    },
+    "org": {"mod": ["astalnuhhin"], "photo": ["astalnuhhin"]},
+    "photo": [],
+    "event": "",
+    "speeches": [
+      {
+        "org": {"cam": ["jgoloborodko"], "edit": [""]},
+        "lang": "ru",
+        "labels": [],
+        "youtube": [],
+        "speakers": [
+          {
+            "names": {"*": "Anton Keks", "ru": "Антон Кекс"},
+            "titles": {"*": "Developer @ Codeborne"},
+            "url": "https://www.linkedin.com/in/antonkeks",
+            "image": "akeks.jpg"
+          }
+        ],
+        "titles": {"ru": "Про яхты"},
+        "presentations": ["20210826_akeks_sailing.pdf"],
+        "descr": {
+          "ru": [
+            "Офтопик от Антона о его опыте хождения на яхте по морям."
+           ]
+        }
+      },
+      {
+        "org": {"cam": ["jgoloborodko"], "edit": [""]},
+        "lang": "ru",
+        "labels": [],
+        "youtube": [],
+        "speakers": [
+          {
+            "names": {"*": "Artjom Vassiljev", "ru": "Артём Васильев"},
+            "titles": {"*": "Co-founder @ getshipit.com"},
+            "url": "https://linkedin.com/in/tjomk",
+            "image": "avassiljev.jpg"
+          }
+        ],
+        "titles": {"ru": "Elm, или как писать frontend код без единой runtime exception"},
+        "presentations": ["20210826_avasiljev_elm.pdf"],
+        "descr": {
+          "ru": [
+            "История о том, как я открыл для себя функциональное программирование и познакомился с Elm, в чём он лучше других языков, что (не) так с сообществом разработки этого языка, и почему в итоге я не стал использовать его в своих проектах."
+          ]
+        }
+      },
+      {
+        "org": {"cam": ["jgoloborodko"], "edit": [""]},
+        "lang": "ru",
+        "labels": [],
+        "youtube": [],
+        "speakers": [
+          {
+            "names": {"*": "Ivan Ponomarjov", "ru": "Иван Пономарёв"},
+            "titles": {"*": "Техлид @ КУРС / Преподаватель @ МФТИ"},
+            "url": "https://inponomarev.ru",
+            "image": "iponomarjov.jpg"
+          }
+        ],
+        "titles": {"ru": "LJV: Чему нас может научить визуализация структур данных в Java"},
+        "descr": {
+          "ru": [
+            "LJV — проект, созданный в 2004 году как инструмент для преподавания языка Java студентам. С помощью рефлексии он позволяет визуализировать внутреннее устройство структур данных.",
+            "Мы запустим LJV на разных структурах (от String до ConcurrentHashMap и ConcurrentSkipListMap) в разных версиях Java и посмотрим, что там внутри, как оно менялось от версии к версии, и как это всё работает."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "num": 145,
     "datetime": "2021-07-29T19:00:00+03:00",
     "season": 2021,
@@ -12,7 +89,7 @@
     "event": "https://www.eventbrite.com/e/devclubeu-145-tickets-164470933991",
     "speeches": [
       {
-        "org": {"cam": [""], "edit": [""]},
+        "org": {"cam": ["astalnuhhin"], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": [],
@@ -30,7 +107,7 @@
         }
       },
       {
-        "org": {"cam": [""], "edit": [""]},
+        "org": {"cam": ["jgoloborodko"], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": [],
@@ -53,7 +130,7 @@
         }
       },
       {
-        "org": {"cam": [""], "edit": [""]},
+        "org": {"cam": ["jgoloborodko"], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": [],
@@ -87,7 +164,7 @@
     "event": "https://www.eventbrite.com/e/devclubeu-144-tickets-158918662999",
     "speeches": [
       {
-        "org": {"cam": [""], "edit": [""]},
+        "org": {"cam": ["jgoloborodko"], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": [],
@@ -107,7 +184,7 @@
         }
       },
       {
-        "org": {"cam": [""], "edit": [""]},
+        "org": {"cam": ["jgoloborodko"], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": [],
@@ -131,7 +208,7 @@
         }
       },
       {
-        "org": {"cam": [""], "edit": [""]},
+        "org": {"cam": ["jgoloborodko"], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": [],
@@ -258,7 +335,7 @@
         }
       },
       {
-        "org": {"cam": ["astalnuhhin"], "edit": [""]},
+        "org": {"cam": ["astalnuhhin"], "edit": ["jgoloborodko"]},
         "lang": "ru",
         "labels": [],
         "youtube": [],
