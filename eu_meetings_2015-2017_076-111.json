@@ -1020,7 +1020,7 @@
         "youtube": ["QyXkCCC2PKo"],
         "speakers": [
           {
-            "names": {"*": "Mihhail Beshkin", "ru": "Михаил Бешкин"},
+            "names": {"*": "Misha Beshkin", "ru": "Миша Бешкин"},
             "url": "https://ee.linkedin.com/in/mihailsb",
             "image": "mbeskin.jpg"
           }
@@ -2193,7 +2193,7 @@
         "origVid": ["https://www.youtube.com/watch?v=6oqyFbopU6w"],
         "speakers": [
           {
-            "names": {"*": "Mihhail Beshkin", "ru": "Михаил Бешкин"},
+            "names": {"*": "Misha Beshkin", "ru": "Миша Бешкин"},
             "url": "https://ee.linkedin.com/in/mihailsb",
             "image": "mbeskin.jpg"
           }

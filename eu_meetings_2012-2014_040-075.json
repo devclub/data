@@ -301,7 +301,7 @@
         "origVid": ["https://www.youtube.com/watch?v=0poNHrrbWKg"],
         "speakers": [
           {
-            "names": {"*": "Mihhail Beshkin", "ru": "Михаил Бешкин"},
+            "names": {"*": "Misha Beshkin", "ru": "Миша Бешкин"},
             "url": "https://ee.linkedin.com/in/mihailsb",
             "image": "mbeskin.jpg"
           }
@@ -1545,7 +1545,7 @@
         "origVid": ["https://vimeo.com/56422714"],
         "speakers": [
           {
-            "names": {"*": "Mihhail Beshkin", "ru": "Михаил Бешкин"},
+            "names": {"*": "Misha Beshkin", "ru": "Миша Бешкин"},
             "url": "https://ee.linkedin.com/in/mihailsb",
             "image": "mbeskin.jpg"
           }
@@ -2413,7 +2413,7 @@
         "origVid": ["https://vimeo.com/34184517"],
         "speakers": [
           {
-            "names": {"*": "Mihhail Beshkin", "ru": "Михаил Бешкин"},
+            "names": {"*": "Misha Beshkin", "ru": "Миша Бешкин"},
             "url": "https://ee.linkedin.com/in/mihailsb",
             "image": "mbeskin.jpg"
           }
