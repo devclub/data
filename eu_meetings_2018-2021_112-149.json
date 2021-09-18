@@ -8,7 +8,7 @@
       "addr": "Kopli 70a, 10411 Tallinn", "url": "https://www.facebook.com/P%C3%B5hja-%C3%96%C3%B6kull-109799177453157"
     },
     "org": {"mod": ["astalnuhhin"], "photo": ["astalnuhhin"]},
-    "photo": [],
+    "photo": ["https://photos.app.goo.gl/zopLar8Na98TrCPd9"],
     "event": "",
     "speeches": [
       {
@@ -85,7 +85,7 @@
       "addr": "Kopli 70a, 10411 Tallinn", "url": "https://www.facebook.com/P%C3%B5hja-%C3%96%C3%B6kull-109799177453157"
     },
     "org": {"mod": ["astalnuhhin"], "photo": ["gbeshkin"]},
-    "photo": [],
+    "photo": ["https://photos.app.goo.gl/nerKnaSQBGsdNTGQ7"],
     "event": "https://www.eventbrite.com/e/devclubeu-145-tickets-164470933991",
     "speeches": [
       {
@@ -164,10 +164,10 @@
     "event": "https://www.eventbrite.com/e/devclubeu-144-tickets-158918662999",
     "speeches": [
       {
-        "org": {"cam": ["jgoloborodko"], "edit": [""]},
+        "org": {"cam": ["jgoloborodko"], "edit": ["klinnik"]},
         "lang": "ru",
         "labels": [],
-        "youtube": [],
+        "youtube": ["tRnia7I1uA4"],
         "speakers": [
           {
             "names": {"*": "Eugene Mirotin", "ru": "Евгений Миротин"},
@@ -241,10 +241,10 @@
     "event": "https://www.eventbrite.com/e/devclubeu-143-tickets-156487746061",
     "speeches": [
       {
-        "org": {"cam": ["astalnuhhin"], "edit": [""]},
+        "org": {"cam": ["astalnuhhin"], "edit": ["klinnik"]},
         "lang": "ru",
         "labels": [],
-        "youtube": [],
+        "youtube": ["vybY32xaYWs"],
         "speakers": [
           {
             "names": {"*": "Anton Keks", "ru": "Антон Кекс"},
@@ -261,10 +261,10 @@
         }
       },
       {
-        "org": {"cam": ["astalnuhhin"], "edit": [""]},
+        "org": {"cam": ["astalnuhhin"], "edit": ["klinnik"]},
         "lang": "ru",
         "labels": [],
-        "youtube": [],
+        "youtube": ["uBhpBOX8VYg"],
         "speakers": [
           {
             "names": {"*": "Andrei Solntsev", "ru": "Андрей Солнцев"},
