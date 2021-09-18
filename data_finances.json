@@ -39,6 +39,11 @@
   ],
   "companies": [
     {
+      "name": "Põhja Öökull",
+      "logo": "pohjaookull.png",
+      "url": "https://www.facebook.com/pohjaookull"
+    },
+    {
       "name": "Codeborne",
       "logo": "codeborne.png",
       "url": "https://codeborne.com/ru/"
@@ -52,36 +57,6 @@
       "name": "Wisercat",
       "logo": "wisercat.png",
       "url": "https://wisercat.eu/company/careers"
-    },
-    {
-      "name": "Playtech",
-      "logo": "playtech.png",
-      "url": "http://www.playtech.ee/?nav=karjaar&lang=en"
-    },
-    {
-      "name": "Topia",
-      "logo": "topia.png",
-      "url": "https://www.topia.com/careers"
-    },
-    {
-      "name": "Gamesys",
-      "logo": "gamesys.png",
-      "url": "http://www.gamesyscorporate.com/jobs/"
-    },
-    {
-      "name": "Paxful",
-      "logo": "paxful.png",
-      "url": "https://paxful.com/"
-    },
-    {
-      "name": "Bolt",
-      "logo": "bolt.png",
-      "url": "https://careers.bolt.eu"
-    },
-    {
-      "name": "Transferwise",
-      "logo": "transferwise.png",
-      "url": "https://transferwise.com/"
     },
     {
       "name": "JetBrains",
