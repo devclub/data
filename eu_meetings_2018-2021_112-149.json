@@ -84,7 +84,7 @@
       "name": "Põhja Öökull", "loc": "https://www.google.com/maps/@59.4455381,24.7192036,3a,37.3y,36.16h,87.97t/data=!3m7!1e1!3m5!1stKF8tAi0sdqNhMey-Yv6-g!2e0!6s%2F%2Fgeo3.ggpht.com%2Fcbk%3Fpanoid%3DtKF8tAi0sdqNhMey-Yv6-g%26output%3Dthumbnail%26cb_client%3Dmaps_sv.tactile.gps%26thumb%3D2%26w%3D203%26h%3D100%26yaw%3D328.5263%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656",
       "addr": "Kopli 70a, 10411 Tallinn", "url": "https://www.facebook.com/P%C3%B5hja-%C3%96%C3%B6kull-109799177453157"
     },
-    "org": {"mod": ["astalnuhhin"], "photo": ["gbeshkin"]},
+    "org": {"mod": ["astalnuhhin"], "photo": ["gbeskin"]},
     "photo": ["https://photos.app.goo.gl/nerKnaSQBGsdNTGQ7"],
     "event": "https://www.eventbrite.com/e/devclubeu-145-tickets-164470933991",
     "speeches": [
@@ -166,7 +166,7 @@
       {
         "org": {"cam": ["jgoloborodko"], "edit": ["klinnik"]},
         "lang": "ru",
-        "labels": [],
+        "labels": ["асинхронность", "javascript", "js", "async", "await", "promise", "callback"],
         "youtube": ["tRnia7I1uA4"],
         "speakers": [
           {
@@ -184,10 +184,10 @@
         }
       },
       {
-        "org": {"cam": ["jgoloborodko"], "edit": [""]},
+        "org": {"cam": ["jgoloborodko"], "edit": ["klinnik"]},
         "lang": "ru",
-        "labels": [],
-        "youtube": [],
+        "labels": ["рынок труда", "эстония", "работа в эстонии", "рекрутер"],
+        "youtube": ["SjGTTp2a4Sc"],
         "speakers": [
           {
             "names": {"*": "Julia Jolkin", "ru": "Юлия Ёлкин"},
