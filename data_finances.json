@@ -39,14 +39,14 @@
   ],
   "companies": [
     {
+      "name": "Wrike",
+      "logo": "wrike.png",
+      "url": "https://www.wrike.com"
+    },
+    {
       "name": "Põhja Öökull",
       "logo": "pohjaookull.png",
       "url": "https://www.facebook.com/pohjaookull"
-    },
-    {
-      "name": "Wisercat",
-      "logo": "wisercat.png",
-      "url": "https://wisercat.eu/company/careers"
     },
     {
       "name": "JetBrains",
@@ -62,6 +62,11 @@
       "name": "Swedbank",
       "logo": "swedbank.png",
       "url": "https://www.swedbank.ee"
+    },
+    {
+      "name": "Wisercat",
+      "logo": "wisercat.png",
+      "url": "https://wisercat.eu/company/careers"
     }
   ]
 }
