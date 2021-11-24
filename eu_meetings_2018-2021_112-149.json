@@ -12,10 +12,10 @@
     "event": "https://www.eventbrite.com/e/devclubeu-148-tickets-195924374077",
     "speeches": [
       {
-        "org": {"cam": ["jgoloborodko"], "edit": [""]},
+        "org": {"cam": ["jgoloborodko"], "edit": ["klinnik"]},
         "lang": "ru",
         "labels": [],
-        "youtube": [],
+        "youtube": ["f0g7xYIu4F4"],
         "speakers": [
           {
             "names": {"*": "Pavel Gerasimov", "ru": "Павел Герасимов"},
@@ -34,7 +34,7 @@
         }
       },
       {
-        "org": {"cam": ["jgoloborodko"], "edit": [""]},
+        "org": {"cam": ["jgoloborodko"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": [],
         "youtube": [],
@@ -54,7 +54,7 @@
         }
       },
       {
-        "org": {"cam": ["jgoloborodko"], "edit": [""]},
+        "org": {"cam": ["jgoloborodko"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": [],
         "youtube": [],
@@ -88,10 +88,10 @@
     "event": "https://www.eventbrite.com/e/devclubeu-147-tickets-180343772077",
     "speeches": [
       {
-        "org": {"cam": [""], "edit": [""]},
+        "org": {"cam": [""], "edit": ["klinnik"]},
         "lang": "ru",
         "labels": [],
-        "youtube": [],
+        "youtube": ["wgRJnRUjUVg"],
         "speakers": [
           {
             "names": {"*": "Ilja Zverev", "ru": "Илья Зверев"},
@@ -109,10 +109,10 @@
         }
       },
       {
-        "org": {"cam": [""], "edit": [""]},
+        "org": {"cam": [""], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": [],
-        "youtube": [],
+        "youtube": ["ipXrXljgSFU"],
         "speakers": [
           {
             "names": {"*": "Misha Beshkin", "ru": "Миша Бешкин"},
@@ -130,10 +130,10 @@
         }
       },
       {
-        "org": {"cam": [""], "edit": [""]},
+        "org": {"cam": [""], "edit": ["jgoloborodko"]},
         "lang": "ru",
         "labels": [],
-        "youtube": [],
+        "youtube": ["N0tlJFn2WW8"],
         "speakers": [
           {
             "names": {"*": "Jevgeni Goloborodko", "ru": "Евгений Голобородько"},
@@ -164,7 +164,7 @@
     "event": "",
     "speeches": [
       {
-        "org": {"cam": ["jgoloborodko"], "edit": [""]},
+        "org": {"cam": ["jgoloborodko"], "edit": ["klinnik"]},
         "lang": "ru",
         "labels": [],
         "youtube": ["2nLGTDl8dpM"],
@@ -185,10 +185,10 @@
         }
       },
       {
-        "org": {"cam": ["jgoloborodko"], "edit": [""]},
+        "org": {"cam": ["jgoloborodko"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": [],
-        "youtube": [],
+        "youtube": ["6MUWa3K0_6Q"],
         "speakers": [
           {
             "names": {"*": "Artjom Vassiljev", "ru": "Артём Васильев"},
@@ -206,7 +206,7 @@
         }
       },
       {
-        "org": {"cam": ["jgoloborodko"], "edit": [""]},
+        "org": {"cam": ["jgoloborodko"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": [],
         "youtube": [],
@@ -259,10 +259,10 @@
         }
       },
       {
-        "org": {"cam": ["jgoloborodko"], "edit": [""]},
+        "org": {"cam": ["jgoloborodko"], "edit": ["klinnik"]},
         "lang": "ru",
         "labels": [],
-        "youtube": [],
+        "youtube": ["ISR6dawacHE"],
         "speakers": [
           {
             "names": {"*": "Anton Keks", "ru": "Антон Кекс"},
@@ -271,7 +271,7 @@
             "image": "akeks.jpg"
           }
         ],
-        "titles": {"ru": "Почему Kotlin нуждается в меньшем количестве фреймворков"},
+        "titles": {"ru": "Почему Котлину не нужно много фреймворков"},
         "presentations": ["20210729_akeks_kotlin.pdf"],
         "descr": {
           "ru": [
@@ -282,10 +282,10 @@
         }
       },
       {
-        "org": {"cam": ["jgoloborodko"], "edit": [""]},
+        "org": {"cam": ["jgoloborodko"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": [],
-        "youtube": [],
+        "youtube": ["vEReGpAeA60"],
         "speakers": [
           {
             "names": {"*": "Anton Arhipov", "ru": "Антон Архипов"},
@@ -433,10 +433,10 @@
         }
       },
       {
-        "org": {"cam": ["astalnuhhin"], "edit": [""]},
+        "org": {"cam": ["astalnuhhin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": [],
-        "youtube": [],
+        "youtube": ["h8o0J449spA"],
         "speakers": [
           {
             "names": {"*": "Anton Arhipov", "ru": "Антон Архипов"},
