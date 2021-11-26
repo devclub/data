@@ -7,9 +7,66 @@
       "name": "Põhja Öökull", "loc": "https://www.google.com/maps/@59.4455381,24.7192036,3a,37.3y,36.16h,87.97t/data=!3m7!1e1!3m5!1stKF8tAi0sdqNhMey-Yv6-g!2e0!6s%2F%2Fgeo3.ggpht.com%2Fcbk%3Fpanoid%3DtKF8tAi0sdqNhMey-Yv6-g%26output%3Dthumbnail%26cb_client%3Dmaps_sv.tactile.gps%26thumb%3D2%26w%3D203%26h%3D100%26yaw%3D328.5263%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656",
       "addr": "Kopli 70a, 10411 Tallinn", "url": "https://www.facebook.com/P%C3%B5hja-%C3%96%C3%B6kull-109799177453157"
     },
-    "org": {"mod": ["astalnuhhin"], "photo": ["astalnuhhin"]},
+    "org": {"mod": ["astalnuhhin"], "photo": ["gbeskin"]},
     "photo": [],
     "event": "",
-    "speeches": []
+    "speeches": [
+      {
+        "org": {"cam": [""], "edit": [""]},
+        "lang": "ru",
+        "labels": [],
+        "youtube": [""],
+        "speakers": [
+          {
+            "names": {"*": "Andrei Solntsev", "ru": "Андрей Солнцев"},
+            "titles": {"*": "Software developer @ Codeborne"},
+            "url": "https://ee.linkedin.com/in/asolntsev",
+            "image": "asolntsev_2018.jpg"
+          }
+        ],
+        "titles": {"ru": "10 лет Selenide"},
+        "descr": {
+          "ru": [
+          ]
+        }
+      },
+      {
+        "org": {"cam": [""], "edit": [""]},
+        "lang": "ru",
+        "labels": [""],
+        "youtube": [""],
+        "speakers": [
+          {
+            "names": {"*": "Mihhail Dunajev", "ru": "Михаил Дунаев"},
+            "url": "https://www.linkedin.com/in/mikhail-dunaev-ab6b6a68",
+            "image": "mdunajev.jpg"
+          }
+        ],
+        "titles": {"ru": "DeFi, NFT, CDBC, ERC20… Все блокчейн базворды 2021 в одной презентации"},
+        "descr": {
+          "ru": [
+          ]
+        }
+      },
+      {
+        "org": {"cam": [""], "edit": [""]},
+        "lang": "ru",
+        "labels": [],
+        "youtube": [],
+        "speakers": [
+          {
+            "names": {"*": "Jevgeni Goloborodko", "ru": "Евгений Голобородько"},
+            "titles": {"*": "Software Architect & Founder @ Digital Magic Ltd"},
+            "url": "https://ee.linkedin.com/in/jevgeni-goloborodko-65a048a",
+            "image": "jgoloborodko_2020.jpg"
+          }
+        ],
+        "titles": {"ru": "Понятный DSL в Kotlin тестах"},
+        "descr": {
+          "ru": [
+          ]
+        }
+      }
+    ]
   }
 ]
