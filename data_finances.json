@@ -39,11 +39,6 @@
   ],
   "companies": [
     {
-      "name": "Wrike",
-      "logo": "wrike.png",
-      "url": "https://engineering.wrike.tech"
-    },
-    {
       "name": "Põhja Öökull",
       "logo": "pohjaookull.png",
       "url": "https://www.facebook.com/pohjaookull"
