@@ -37,7 +37,7 @@
         "org": {"cam": ["jgoloborodko"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": [],
-        "youtube": [],
+        "youtube": ["ELIaPCAbUig"],
         "speakers": [
           {
             "names": {"*": "Aleksei Sharov", "ru": "Алексей Шаров"},
@@ -57,7 +57,7 @@
         "org": {"cam": ["jgoloborodko"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": [],
-        "youtube": [],
+        "youtube": ["R1vpVmpUlH0"],
         "speakers": [
           {
             "names": {"*": "Jevgeni Kot", "ru": "Евгений Кот"},
@@ -209,7 +209,7 @@
         "org": {"cam": ["jgoloborodko"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": [],
-        "youtube": [],
+        "youtube": ["Nu01peDzntg"],
         "speakers": [
           {
             "names": {"*": "Ivan Ponomarjov", "ru": "Иван Пономарёв"},
@@ -758,7 +758,7 @@
         }
       },
       {
-        "org": {"cam": ["astalnuhhin"], "edit": [""]},
+        "org": {"cam": ["astalnuhhin"], "edit": ["eweber"]},
         "lang": "ru",
         "labels": [],
         "youtube": ["suumsPE5twA"],
@@ -867,10 +867,10 @@
     "event": "https://www.eventbrite.com/e/devclubeu-136-tickets-85939085117",
     "speeches": [
       {
-        "org": {"cam": ["jtimosin"], "edit": [""]},
+        "org": {"cam": ["jtimosin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": ["movie"],
-        "youtube": [""],
+        "youtube": ["h5zTP4E0YT4"],
         "speakers": [
           {
             "names": {"*": "Anton Stalnuhhin", "ru": "Антон Стальнухин"},
@@ -1008,7 +1008,7 @@
         }
       },
       {
-        "org": {"cam": ["jtimosin"], "edit": [""]},
+        "org": {"cam": ["jtimosin"], "edit": ["jgoloborodko"]},
         "lang": "ru",
         "labels": [],
         "youtube": ["L_H4wPD73I0"],
