@@ -88,7 +88,7 @@
     "event": "https://www.eventbrite.com/e/devclubeu-147-tickets-180343772077",
     "speeches": [
       {
-        "org": {"cam": [""], "edit": ["klinnik"]},
+        "org": {"cam": ["eweber"], "edit": ["klinnik"]},
         "lang": "ru",
         "labels": [],
         "youtube": ["wgRJnRUjUVg"],
@@ -109,7 +109,7 @@
         }
       },
       {
-        "org": {"cam": [""], "edit": ["astalnuhhin"]},
+        "org": {"cam": ["eweber"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": [],
         "youtube": ["ipXrXljgSFU"],
@@ -130,7 +130,7 @@
         }
       },
       {
-        "org": {"cam": [""], "edit": ["jgoloborodko"]},
+        "org": {"cam": ["eweber"], "edit": ["jgoloborodko"]},
         "lang": "ru",
         "labels": [],
         "youtube": ["N0tlJFn2WW8"],
