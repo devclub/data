@@ -7,12 +7,12 @@
       "name": "Põhja Öökull", "loc": "https://www.google.com/maps/@59.4455381,24.7192036,3a,37.3y,36.16h,87.97t/data=!3m7!1e1!3m5!1stKF8tAi0sdqNhMey-Yv6-g!2e0!6s%2F%2Fgeo3.ggpht.com%2Fcbk%3Fpanoid%3DtKF8tAi0sdqNhMey-Yv6-g%26output%3Dthumbnail%26cb_client%3Dmaps_sv.tactile.gps%26thumb%3D2%26w%3D203%26h%3D100%26yaw%3D328.5263%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656",
       "addr": "Kopli 70a, 10411 Tallinn", "url": "https://www.facebook.com/P%C3%B5hja-%C3%96%C3%B6kull-109799177453157"
     },
-    "org": {"mod": ["astalnuhhin"], "photo": ["gbeskin"]},
+    "org": {"mod": ["astalnuhhin"], "photo": ["klinnik"]},
     "photo": [],
     "event": "",
     "speeches": [
       {
-        "org": {"cam": [""], "edit": [""]},
+        "org": {"cam": ["gbeskin"], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": [""],
@@ -24,14 +24,15 @@
             "image": "asolntsev_2018.jpg"
           }
         ],
-        "titles": {"ru": "10 лет Selenide"},
+        "titles": {"ru": "Селениду 10 лет"},
         "descr": {
           "ru": [
+            "Недавно библиотеке Selenide исполнилось 10 лет. Это сейчас она популярна и используется банками, платёжными провайдерами и другими компаниями во всём мире, а когда-то всё начиналось с крошечного проекта на гитхабе и доклада в девклубе. Посмотрим, как мы шли к успеху, как со временем менялся API и что будет дальше."
           ]
         }
       },
       {
-        "org": {"cam": [""], "edit": [""]},
+        "org": {"cam": ["gbeskin"], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": [""],
@@ -49,7 +50,7 @@
         }
       },
       {
-        "org": {"cam": [""], "edit": [""]},
+        "org": {"cam": ["gbeskin"], "edit": [""]},
         "lang": "ru",
         "labels": [],
         "youtube": [],
