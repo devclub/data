@@ -12,30 +12,28 @@
   "persons": [
     "Kuznetsov Dmitri",
     "Ljahhovets Vassili",
-    "Belugin Aleksandr",
-    "Beshkins Grigorijs",
-    "Bogatõrjov Jevgeni",
-    "Chubarov Evgeny",
-    "Filippov Alexey",
-    "Glavatski Stanislav",
-    "Kirjanov Sergei",
     "Klugman Konstantin",
-    "Košelev Nikita",
+    "Belugin Aleksandr",
     "Mikhaylov Alexey",
-    "Prohhorov Dmitri",
-    "Razdolski Aleksandr",
-    "Rumjantsev Vladislav",
-    "Salomatin Nikita",
-    "Samtšev Igor",
-    "Shubnikov Alexey",
-    "Stalnuhhin Regina",
-    "Štšerbak Deniss",
     "Troškov Dmitri",
+    "Filippov Alexey",
+    "Štšerbak Deniss",
     "Tshepurov Anton",
-    "Tsirihhov Juri",
-    "Velizhanin Aleksei",
+    "Zhadan Denis",
     "Vesselov Anton",
-    "Zhadan Denis"
+    "Stalnuhhin Regina",
+    "Samtšev Igor",
+    "Beshkins Grigorijs",
+    "Košelev Nikita",
+    "Tsirihhov Juri",
+    "Kirjanov Sergei",
+    "Salomatin Nikita",
+    "Chubarov Evgeny",
+    "АНОНИМ (NA)",
+    "Prohhorov Dmitri",
+    "Rumjantsev Vladislav",
+    "Shubnikov Alexey",
+    "Glavatski Stanislav"
   ],
   "companies": [
     {
@@ -44,19 +42,14 @@
       "url": "https://www.facebook.com/pohjaookull"
     },
     {
+      "name": "DPK-IT OÜ",
+      "logo": "dpkitoy.jpg",
+      "url": "http://www.dmitrik.com"
+    },
+    {
       "name": "JetBrains",
       "logo": "jetbrains.png",
-      "url": "https://www.jetbrains.com/"
-    },
-    {
-      "name": "Codeborne",
-      "logo": "codeborne.png",
-      "url": "https://codeborne.com/ru/"
-    },
-    {
-      "name": "Swedbank",
-      "logo": "swedbank.png",
-      "url": "https://www.swedbank.ee"
+      "url": "https://www.jetbrains.com"
     },
     {
       "name": "Wisercat",
