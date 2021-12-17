@@ -1,4 +1,77 @@
 [
+    {
+    "num": 149,
+    "datetime": "2021-12-16T19:00:00+02:00",
+    "season": 2022,
+    "place": {
+      "name": "Põhja Öökull", "loc": "https://www.google.com/maps/@59.4455381,24.7192036,3a,37.3y,36.16h,87.97t/data=!3m7!1e1!3m5!1stKF8tAi0sdqNhMey-Yv6-g!2e0!6s%2F%2Fgeo3.ggpht.com%2Fcbk%3Fpanoid%3DtKF8tAi0sdqNhMey-Yv6-g%26output%3Dthumbnail%26cb_client%3Dmaps_sv.tactile.gps%26thumb%3D2%26w%3D203%26h%3D100%26yaw%3D328.5263%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656",
+      "addr": "Kopli 70a, 10411 Tallinn", "url": "https://www.facebook.com/P%C3%B5hja-%C3%96%C3%B6kull-109799177453157"
+    },
+    "org": {"mod": ["astalnuhhin"], "photo": ["klinnik"]},
+    "photo": ["https://photos.app.goo.gl/kEn9wA5wbHbW3a2m9"],
+    "event": "https://www.eventbrite.com/e/devclubeu-149-tickets-224372392867",
+    "speeches": [
+      {
+        "org": {"cam": ["jgoloborodko"], "edit": ["astalnuhhin"]},
+        "lang": "ru",
+        "labels": [],
+        "youtube": [],
+        "speakers": [
+          {
+            "names": {"*": "Ilya Karpovs", "ru": "Илья Карповс"},
+            "titles": {"*": "Software Engineer @ Lokalise"},
+            "url": "https://www.linkedin.com/in/ilya-karpov-riga",
+            "image": "ikarpovs.jpg"
+          }
+        ],
+        "titles": {"ru": "Edutainment и программирование"},
+        "descr": {
+          "ru": [
+            "Какое-то время назад было сложно найти хорошие курсы программирования или материалы, чтобы дети могли изучить основы программирования самостоятельно. Времена изменились, и теперь существует множество интерактивных инструментов, игр и обучающих видео. Больше не нужно ждать первых курсов вуза, чтобы изучить основы. Илья расскажет о своём опыте обучения детей программированию на месте и удаленно, а также поделится ответами на главные вопросы по теме."
+          ]
+        }
+      },
+      {
+        "org": {"cam": ["jgoloborodko"], "edit": ["astalnuhhin"]},
+        "lang": "ru",
+        "labels": [],
+        "youtube": [""],
+        "speakers": [
+          {
+            "names": {"*": "Mihhail Dunajev", "ru": "Михаил Дунаев"},
+            "url": "https://www.linkedin.com/in/mikhail-dunaev-ab6b6a68",
+            "image": "mdunajev.jpg"
+          }
+        ],
+        "titles": {"ru": "DeFi, NFT, CDBC, ERC20… Все блокчейн базворды 2021 в одной презентации"},
+        "descr": {
+          "ru": [
+            "Новая волна популярности блокчейнов принесла с собой много новых технологий и терминов.  Из доклада простыми словами вы узнаете о отличиях алгоритма Proof-of-Work от Proof-of-Stake, что такое Умный Контракт, как создать свои токены и как стать экспертом в крипто индустрии за 20 минут."
+          ]
+        }
+      },
+      {
+        "org": {"cam": ["jgoloborodko"], "edit": ["astalnuhhin"]},
+        "lang": "ru",
+        "labels": [],
+        "youtube": [""],
+        "speakers": [
+          {
+            "names": {"*": "Andrei Solntsev", "ru": "Андрей Солнцев"},
+            "titles": {"*": "Software developer @ Codeborne"},
+            "url": "https://ee.linkedin.com/in/asolntsev",
+            "image": "asolntsev_2018.jpg"
+          }
+        ],
+        "titles": {"ru": "Селениду 10 лет"},
+        "descr": {
+          "ru": [
+            "Недавно библиотеке Selenide исполнилось 10 лет. Это сейчас она популярна и используется банками, платёжными провайдерами и другими компаниями во всём мире, а когда-то всё начиналось с крошечного проекта на гитхабе и доклада в девклубе. Посмотрим, как мы шли к успеху, как со временем менялся API и что будет дальше."
+          ]
+        }
+      }
+    ]
+  },
   {
     "num": 148,
     "datetime": "2021-10-28T19:00:00+03:00",
