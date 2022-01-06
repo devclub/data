@@ -18,6 +18,26 @@
         "youtube": [],
         "speakers": [
           {
+            "names": {"*": "Jelena Solomina", "ru": "Елена Соломина"},
+            "titles": {"*": "Тележурналист"},
+            "url": "https://spikernapike.ee",
+            "image": "jsolomina.jpg"
+          }
+        ],
+        "titles": {"ru": "Как выступать интроверту"},
+        "descr": {
+          "ru": [
+            "Разберемся в сути интровертности, найдем в этом плюсы, делающие выступление эффектным. Изучим и опробуем реальные техники для снятия чрезмерного волнения, разберемся со страхами. Получим инструменты для импровизации, попробуем заменить тремор и панику на кайф и удовольствие."
+          ]
+        }
+      },
+      {
+        "org": {"cam": [""], "edit": [""]},
+        "lang": "ru",
+        "labels": [],
+        "youtube": [],
+        "speakers": [
+          {
             "names": {"*": "Dmitry Balabka", "ru": "Дмитрий Балабка"},
             "titles": {"*": "Software Engineer @ Ecentria Group"},
             "url": "https://www.linkedin.com/in/dmitrybalabka",
