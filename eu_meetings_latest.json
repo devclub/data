@@ -125,6 +125,26 @@
         "youtube": [],
         "speakers": [
           {
+            "names": {"*": "Ilja Zverev", "ru": "Илья Зверев"},
+            "url": "http://ilya.zverev.info/",
+            "titles": {"ru": "Эксперт по открытой картографии"},
+            "image": "izverev.jpg"
+          }
+        ],
+        "titles": {"ru": "Основы OpenStreetMap"},
+        "descr": {
+          "ru": [
+            ""
+          ]
+        }
+      },
+      {
+        "org": {"cam": [""], "edit": [""]},
+        "lang": "ru",
+        "labels": [],
+        "youtube": [],
+        "speakers": [
+          {
             "names": {"*": "Jevgeni Goloborodko", "ru": "Евгений Голобородько"},
             "titles": {"*": "Software Architect & Founder @ Digital Magic Ltd"},
             "url": "https://ee.linkedin.com/in/jevgeni-goloborodko-65a048a",
