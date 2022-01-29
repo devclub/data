@@ -1,59 +1,5 @@
 [
   {
-    "num": 150,
-    "datetime": "2022-01-27T19:00:00+02:00",
-    "season": 2022,
-    "place": {
-      "name": "Põhja Öökull", "loc": "https://www.google.com/maps/@59.4348549,24.7420298,3a,19.2y,231.35h,86.23t/data=!3m7!1e1!3m5!1sk0QGDJlOEDHOfv3dHPKeKw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3Dk0QGDJlOEDHOfv3dHPKeKw%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D286.97736%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656",
-      "addr": "Rüütli 28, 10130 Tallinn", "url": "https://www.facebook.com/pohjaookull"
-    },
-    "org": {"mod": ["astalnuhhin"], "photo": [""]},
-    "photo": [],
-    "event": "",
-    "speeches": [
-      {
-        "org": {"cam": [""], "edit": [""]},
-        "lang": "ru",
-        "labels": [],
-        "youtube": [],
-        "speakers": [
-          {
-            "names": {"*": "Jelena Solomina", "ru": "Елена Соломина"},
-            "titles": {"*": "Тележурналист"},
-            "url": "https://spikernapike.ee",
-            "image": "jsolomina.jpg"
-          }
-        ],
-        "titles": {"ru": "Как выступать интроверту"},
-        "descr": {
-          "ru": [
-            "Разберемся в сути интровертности, найдем в этом плюсы, делающие выступление эффектным. Изучим и опробуем реальные техники для снятия чрезмерного волнения, разберемся со страхами. Получим инструменты для импровизации, попробуем заменить тремор и панику на кайф и удовольствие."
-          ]
-        }
-      },
-      {
-        "org": {"cam": [""], "edit": [""]},
-        "lang": "ru",
-        "labels": [],
-        "youtube": [],
-        "speakers": [
-          {
-            "names": {"*": "Dmitry Balabka", "ru": "Дмитрий Балабка"},
-            "titles": {"*": "Data Scientist & Software Architect @ Ecentria Group"},
-            "url": "https://www.linkedin.com/in/dmitrybalabka",
-            "image": "dbalabka.jpg"
-          }
-        ],
-        "titles": {"ru": "Практический обзор AutoML для табличных данных"},
-        "descr": {
-          "ru": [
-            "Автоматизированное машинное обучение (AutoML) стало популярным в последние годы, сфокусировавшись на снижении затрат при создании моделей машинного обучения. Многие повседневные задачи могут быть частично или полностью автоматизированы: подготовка данных, конструирование признаков, обучение и оценка моделей. Мы кратко рассмотрим существующие решения AutoML, а также практический пример, основанный на решении, победившем для Sussex-Huawei Locomotion Challenge 2021. В частности, мы обсудим, как эффективно и с минимальными усилиями обучить модель с помощью Google AutoML Tables."
-          ]
-        }
-      }
-    ]
-  },
-  {
     "num": 151,
     "datetime": "2022-02-28T19:00:00+02:00",
     "season": 2022,
@@ -72,6 +18,25 @@
         "youtube": [],
         "speakers": [
           {
+            "names": {"*": "Katariina Vainonen", "ru": "Катарина Вайнонен"},
+            "url": "https://www.facebook.com/katariina.vainonen",
+            "image": "kvainonen.jpg"
+          }
+        ],
+        "titles": {"ru": ""},
+        "descr": {
+          "ru": [
+            ""
+          ]
+        }
+      },
+      {
+        "org": {"cam": [""], "edit": [""]},
+        "lang": "ru",
+        "labels": [],
+        "youtube": [],
+        "speakers": [
+          {
             "names": {"*": "Misha Beshkin", "ru": "Миша Бешкин"},
             "url": "https://ee.linkedin.com/in/mihailsb",
             "image": "mbeskin.jpg"
@@ -83,7 +48,76 @@
             "Что может ожидать человека, если он вдруг решил внедрить дома автоматические системы управления устройствами. Опыт трех лет с разными устройствами, собственная система управления, доступные решения."
           ]
         }
+      }      
+    ]
+  },
+  {
+    "num": 152,
+    "name": "Heisenbug edition"
+    "datetime": "2022-03-31T19:00:00+03:00",
+    "season": 2022,
+    "place": {
+      "name": "Põhja Öökull", "loc": "https://www.google.com/maps/@59.4348549,24.7420298,3a,19.2y,231.35h,86.23t/data=!3m7!1e1!3m5!1sk0QGDJlOEDHOfv3dHPKeKw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3Dk0QGDJlOEDHOfv3dHPKeKw%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D286.97736%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656",
+      "addr": "Rüütli 28, 10130 Tallinn", "url": "https://www.facebook.com/pohjaookull"
+    },
+    "org": {"mod": ["astalnuhhin"], "photo": [""]},
+    "photo": [],
+    "event": "",
+    "speeches": [
+      {
+        "org": {"cam": [""], "edit": [""]},
+        "lang": "ru",
+        "labels": [],
+        "youtube": [],
+        "speakers": [
+          {
+            "names": {"*": "Ivan Ponomarjov", "ru": "Иван Пономарёв"},
+            "titles": {"*": "Техлид @ КУРС / Преподаватель @ МФТИ"},
+            "url": "https://inponomarev.ru",
+            "image": "iponomarjov.jpg"
+          }
+        ],
+        "titles": {"*": "Real Mock"},
+        "descr": {
+          "ru": [
+            "Доклад о моках в интеграционном тестировании, основанный на моём опыте и наблюдениях последних лет. Где они полезны, где бесполезны, что без них невозможно сделать и что невозможно сделать с ними?"
+          ]
+        }
       },
+      {
+        "org": {"cam": [""], "edit": [""]},
+        "lang": "ru",
+        "labels": [],
+        "youtube": [],
+        "speakers": [
+          {
+            "names": {"*": "Andrei Solntsev", "ru": "Андрей Солнцев"},
+            "titles": {"*": "Software developer @ Codeborne"},
+            "url": "https://ee.linkedin.com/in/asolntsev",
+            "image": "asolntsev_2018.jpg"
+          }
+        ],
+        "titles": {"ru": "Что-то про тесты"},
+        "descr": {
+          "ru": [
+            ""
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "num": 153,
+    "datetime": "2022-04-21T19:00:00+03:00",
+    "season": 2022,
+    "place": {
+      "name": "Põhja Öökull", "loc": "https://www.google.com/maps/@59.4348549,24.7420298,3a,19.2y,231.35h,86.23t/data=!3m7!1e1!3m5!1sk0QGDJlOEDHOfv3dHPKeKw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3Dk0QGDJlOEDHOfv3dHPKeKw%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D286.97736%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656",
+      "addr": "Rüütli 28, 10130 Tallinn", "url": "https://www.facebook.com/pohjaookull"
+    },
+    "org": {"mod": ["astalnuhhin"], "photo": [""]},
+    "photo": [],
+    "event": "",
+    "speeches": [
       {
         "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
@@ -101,6 +135,22 @@
         "descr": {
           "ru": [
             "Я уже делал доклад про DSL на Scala (https://www.youtube.com/watch?v=1qA8wGJff3g), с тех пор я активно использую эту практику в тестах. Последнее время много приходится использовать Kotlin, поэтому эта практика переехала на новый язык, но классический Kotlin DSL мне не очень понравился для этих целей, поэтому я готовлю его по своему. Я расскажу, как я это делаю, покажу много примеров, расскажу почему хорошо делать именно так и в конце покажу реализацию тестов на примере реального проекта, заказчики которого любезно разрешили мне демонстрацию кода, который я написал для них."
+          ]
+        }
+      },
+      {
+        "org": {"cam": [""], "edit": [""]},
+        "lang": "ru",
+        "labels": [],
+        "youtube": [],
+        "speakers": [
+          {
+          }
+        ],
+        "titles": {"ru": ""},
+        "descr": {
+          "ru": [
+            ""
           ]
         }
       }
