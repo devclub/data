@@ -8,8 +8,8 @@
       "addr": "Rüütli 28, 10130 Tallinn", "url": "https://www.facebook.com/pohjaookull"
     },
     "org": {"mod": ["astalnuhhin"], "photo": ["gbeskin"]},
-    "photo": [],
-    "event": "",
+    "photo": ["https://photos.app.goo.gl/jJ8a7duCk81jvxhw5"],
+    "event": "https://www.eventbrite.com/e/devclubeu-150-tickets-252491347417",
     "speeches": [
       {
         "org": {"cam": ["astalnuhhin"], "edit": [""]},
