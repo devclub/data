@@ -73,7 +73,7 @@
         "speakers": [
           {
             "names": {"*": "Ivan Ponomarjov", "ru": "Иван Пономарёв"},
-            "titles": {"*": "Техлид @ КУРС / Преподаватель @ МФТИ"},
+            "titles": {"*": "Staff Engineer @ Synthesized.io / Преподаватель @ Eesti Ettevõtluskõrgkool Mainor"},
             "url": "https://inponomarev.ru",
             "image": "iponomarjov.jpg"
           }
