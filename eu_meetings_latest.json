@@ -98,7 +98,7 @@
             "image": "asolntsev_2018.jpg"
           }
         ],
-        "titles": {"ru": "Что-то про тесты"},
+        "titles": {"ru": "Flaky bugs in Selenium"},
         "descr": {
           "ru": [
             ""
