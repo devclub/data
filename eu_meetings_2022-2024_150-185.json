@@ -1,5 +1,5 @@
 [
-    {
+  {
     "num": 151,
     "datetime": "2022-02-28T19:00:00+02:00",
     "season": 2022,
@@ -68,7 +68,7 @@
         "org": {"cam": ["astalnuhhin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": [],
-        "youtube": [],
+        "youtube": ["l4l53tqhScU"],
         "speakers": [
           {
             "names": {"*": "Jelena Solomina", "ru": "Елена Соломина"},
@@ -88,7 +88,7 @@
         "org": {"cam": ["astalnuhhin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": [],
-        "youtube": [],
+        "youtube": ["QOp6YV0ksrA"],
         "speakers": [
           {
             "names": {"*": "Dmitry Balabka", "ru": "Дмитрий Балабка"},
