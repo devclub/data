@@ -1,58 +1,5 @@
 [
   {
-    "num": 151,
-    "datetime": "2022-02-28T19:00:00+02:00",
-    "season": 2022,
-    "place": {
-      "name": "Põhja Öökull", "loc": "https://www.google.com/maps/@59.4348549,24.7420298,3a,19.2y,231.35h,86.23t/data=!3m7!1e1!3m5!1sk0QGDJlOEDHOfv3dHPKeKw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3Dk0QGDJlOEDHOfv3dHPKeKw%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D286.97736%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656",
-      "addr": "Rüütli 28, 10130 Tallinn", "url": "https://www.facebook.com/pohjaookull"
-    },
-    "org": {"mod": ["astalnuhhin"], "photo": [""]},
-    "photo": [],
-    "event": "https://www.eventbrite.com/e/devclubeu-151-tickets-274080872267",
-    "speeches": [
-      {
-        "org": {"cam": [""], "edit": [""]},
-        "lang": "ru",
-        "labels": [],
-        "youtube": [],
-        "speakers": [
-          {
-            "names": {"*": "Katariina Vainonen", "ru": "Катарина Вайнонен"},
-            "url": "https://www.facebook.com/katariina.vainonen",
-            "titles": {"*": "Тимлид @ Harno"},
-            "image": "kvainonen.jpg"
-          }
-        ],
-        "titles": {"ru": "50 женщин, 1 программист, 100500 госэкзаменов"},
-        "descr": {
-          "ru": [
-            "Катарина из Департамента по делам образования и молодёжи (www.harno.ee) расскажет, как устроено электронное оценивание в Эстонии, о развитии системы EIS (Eksamite infosüsteem). О забавных ошибках как системы, так и самих пользователей. О возможностях, которые находят специалисты по оцениванию для создания тестов и заданий. И как она работает в условиях, когда на всю команду из 50+ человек только 1 программист."
-          ]
-        }
-      },
-      {
-        "org": {"cam": [""], "edit": [""]},
-        "lang": "ru",
-        "labels": [],
-        "youtube": [],
-        "speakers": [
-          {
-            "names": {"*": "Misha Beshkin", "ru": "Миша Бешкин"},
-            "url": "https://ee.linkedin.com/in/mihailsb",
-            "image": "mbeskin.jpg"
-          }
-        ],
-        "titles": {"ru": "Автоматизация дома"},
-        "descr": {
-          "ru": [
-            "Что может ожидать человека, если он вдруг решил внедрить дома автоматические системы управления устройствами. Опыт трех лет с разными устройствами, собственная система управления, доступные решения."
-          ]
-        }
-      }      
-    ]
-  },
-  {
     "num": 152,
     "name": "Heisenbug edition",
     "datetime": "2022-03-31T19:00:00+03:00",
