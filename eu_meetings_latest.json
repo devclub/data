@@ -19,7 +19,7 @@
         "speakers": [
           {
             "names": {"*": "Eugene Mirotin", "ru": "Евгений Миротин"},
-            "titles": {"*": "Software Engineer @ Play North OÜ"},
+            "titles": {"*": "Principal Full Stack Developer @ Cosuno"},
             "url": "https://www.linkedin.com/in/guard",
             "image": "emirotin.jpeg"
           }
