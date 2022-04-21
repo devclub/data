@@ -72,6 +72,26 @@
         "youtube": [],
         "speakers": [
           {
+            "names": {"*": "Aleksander Solts", "ru": "Александр Сольц"},
+            "url": "https://www.linkedin.com/in/aleksander-solts-86641b4",
+            "titles": {"*": "Business Analyst @ Nortal"},
+            "image": "asolts.png"
+          }
+        ],
+        "titles": {"ru": "Аналитик для девелоперов — друг, враг или как"},
+        "descr": {
+          "ru": [
+            "Александр Сольц (Нортал) расскажет о роли бизнес-аналитика, взаимодействии внутри команд, работающих в разных странах и опыте проектов в экзотических местах."
+          ]
+        }
+      },
+      {
+        "org": {"cam": [""], "edit": [""]},
+        "lang": "ru",
+        "labels": [],
+        "youtube": [],
+        "speakers": [
+          {
             "names": {"*": "Ilja Zverev", "ru": "Илья Зверев"},
             "url": "http://ilya.zverev.info/",
             "titles": {"ru": "Редактор блога про OpenStreetMap"},
