@@ -1,59 +1,5 @@
 [
   {
-    "num": 153,
-    "datetime": "2022-04-21T19:00:00+03:00",
-    "season": 2022,
-    "place": {
-      "name": "Põhja Öökull", "loc": "https://www.google.com/maps/@59.4348549,24.7420298,3a,19.2y,231.35h,86.23t/data=!3m7!1e1!3m5!1sk0QGDJlOEDHOfv3dHPKeKw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3Dk0QGDJlOEDHOfv3dHPKeKw%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D286.97736%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656",
-      "addr": "Rüütli 28, 10130 Tallinn", "url": "https://www.facebook.com/pohjaookull"
-    },
-    "org": {"mod": ["astalnuhhin"], "photo": [""]},
-    "photo": [],
-    "event": "https://www.eventbrite.com/e/devclubeu-153-tickets-321132675477",
-    "speeches": [
-      {
-        "org": {"cam": [""], "edit": [""]},
-        "lang": "ru",
-        "labels": [],
-        "youtube": [],
-        "speakers": [
-          {
-            "names": {"*": "Eugene Mirotin", "ru": "Евгений Миротин"},
-            "titles": {"*": "Principal Full Stack Developer @ Cosuno"},
-            "url": "https://www.linkedin.com/in/guard",
-            "image": "emirotin.jpeg"
-          }
-        ],
-        "titles": {"*": "Recruiting and Tech interviews: the good, the bad and the ugly"},
-        "descr": {
-          "ru": [
-            "Что не так с наймом и техническими интервью во многих компаниях, и как можно сделать лучше."
-          ]
-        }
-      },
-      {
-        "org": {"cam": [""], "edit": [""]},
-        "lang": "ru",
-        "labels": [],
-        "youtube": [],
-        "speakers": [
-          {
-            "names": {"*": "Andrei Skopenko", "ru": "Андрей Скопенко"},
-            "url": "https://www.linkedin.com/in/andrei-skopenko-78284379",
-            "titles": {"*": "Vice President of Infrastructure & Data Engineering"},
-            "image": "askopenko.jpg"
-          }
-        ],
-        "titles": {"*": "Hire or die!"},
-        "descr": {
-          "ru": [
-            "Андрей не является хедхантером или работником HR, и последние 4 года он сам ищет людей в свою команду. В докладе Андрей поделится своим опытом поиска и найма работников на эстонском рынке, а также даст советы, как это сделать с минимальными затратами по времени без агентств по трудоустройству."
-          ]
-        }
-      }
-    ]
-  },
-  {
     "num": 154,
     "datetime": "2022-05-19T19:00:00+03:00",
     "season": 2022,
@@ -102,6 +48,39 @@
         "descr": {
           "ru": [
             "Проект открытых карт OpenStreetMap не раз упоминали в других докладах DevClub — но мало кто знает, что это такое на самом деле. Рисунки? Карты? Геоданные? Гора XML? Первое правило OSM — ты рассказываешь об OSM налево и направо. Поэтому давайте узнаем, чем этот проект приколен, почему даже после 11 лет в нём нескучно участвовать, и как забрать карты к себе."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "num": 155,
+    "datetime": "2022-06-30T19:00:00+03:00",
+    "season": 2022,
+    "place": {
+      "name": "Põhja Öökull", "loc": "https://www.google.com/maps/@59.4348549,24.7420298,3a,19.2y,231.35h,86.23t/data=!3m7!1e1!3m5!1sk0QGDJlOEDHOfv3dHPKeKw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3Dk0QGDJlOEDHOfv3dHPKeKw%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D286.97736%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656",
+      "addr": "Rüütli 28, 10130 Tallinn", "url": "https://www.facebook.com/pohjaookull"
+    },
+    "org": {"mod": ["astalnuhhin"], "photo": [""]},
+    "photo": [],
+    "event": "",
+    "speeches": [
+      {
+        "org": {"cam": [""], "edit": [""]},
+        "lang": "ru",
+        "labels": [],
+        "youtube": [],
+        "speakers": [
+          {
+            "names": {"*": "Anton Arhipov", "ru": "Антон Архипов"},
+            "titles": {"*": "Developer Advocate @ JetBrains"},
+            "url": "https://ee.linkedin.com/in/antonarhipov",
+            "image": "aarhipov.jpg"
+          }
+        ],
+        "titles": {"ru": "Про Kotlin"},
+        "descr": {
+          "ru": [
           ]
         }
       },
