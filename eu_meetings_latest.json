@@ -1,59 +1,5 @@
 [
   {
-    "num": 154,
-    "datetime": "2022-05-19T19:00:00+03:00",
-    "season": 2022,
-    "place": {
-      "name": "Põhja Öökull", "loc": "https://www.google.com/maps/@59.4348549,24.7420298,3a,19.2y,231.35h,86.23t/data=!3m7!1e1!3m5!1sk0QGDJlOEDHOfv3dHPKeKw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3Dk0QGDJlOEDHOfv3dHPKeKw%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D286.97736%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656",
-      "addr": "Rüütli 28, 10130 Tallinn", "url": "https://www.facebook.com/pohjaookull"
-    },
-    "org": {"mod": ["astalnuhhin"], "photo": [""]},
-    "photo": [],
-    "event": "https://www.eventbrite.com/e/devclubeu-154-tickets-338815956647",
-    "speeches": [
-      {
-        "org": {"cam": [""], "edit": [""]},
-        "lang": "ru",
-        "labels": [],
-        "youtube": [],
-        "speakers": [
-          {
-            "names": {"*": "Aleksander Solts", "ru": "Александр Сольц"},
-            "url": "https://www.linkedin.com/in/aleksander-solts-86641b4",
-            "titles": {"*": "Business Analyst @ Nortal"},
-            "image": "asolts.png"
-          }
-        ],
-        "titles": {"ru": "Аналитик для девелоперов — друг, враг или как"},
-        "descr": {
-          "ru": [
-            "Александр Сольц (Нортал) расскажет о роли бизнес-аналитика, взаимодействии внутри команд, работающих в разных странах и опыте проектов в экзотических местах."
-          ]
-        }
-      },
-      {
-        "org": {"cam": [""], "edit": [""]},
-        "lang": "ru",
-        "labels": [],
-        "youtube": [],
-        "speakers": [
-          {
-            "names": {"*": "Ilja Zverev", "ru": "Илья Зверев"},
-            "url": "http://ilya.zverev.info/",
-            "titles": {"ru": "Редактор блога про OpenStreetMap"},
-            "image": "izverev.jpg"
-          }
-        ],
-        "titles": {"ru": "Что и как OpenStreetMap"},
-        "descr": {
-          "ru": [
-            "Проект открытых карт OpenStreetMap не раз упоминали в других докладах DevClub — но мало кто знает, что это такое на самом деле. Рисунки? Карты? Геоданные? Гора XML? Первое правило OSM — ты рассказываешь об OSM налево и направо. Поэтому давайте узнаем, чем этот проект приколен, почему даже после 11 лет в нём нескучно участвовать, и как забрать карты к себе."
-          ]
-        }
-      }
-    ]
-  },
-  {
     "num": 155,
     "datetime": "2022-06-30T19:00:00+03:00",
     "season": 2022,
