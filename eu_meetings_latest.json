@@ -105,5 +105,39 @@
         }
       }
     ]
+  },
+  {
+    "num": 157,
+    "datetime": "2022-08-25T19:00:00+03:00",
+    "season": 2022,
+    "place": {
+      "name": "Põhja Öökull", "loc": "https://www.google.com/maps/@59.4348549,24.7420298,3a,19.2y,231.35h,86.23t/data=!3m7!1e1!3m5!1sk0QGDJlOEDHOfv3dHPKeKw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3Dk0QGDJlOEDHOfv3dHPKeKw%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D286.97736%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656",
+      "addr": "Rüütli 28, 10130 Tallinn", "url": "https://www.facebook.com/pohjaookull"
+    },
+    "org": {"mod": ["astalnuhhin"], "photo": [""]},
+    "photo": [],
+    "event": "",
+    "speeches": [
+      {
+        "org": {"cam": [""], "edit": [""]},
+        "lang": "ru",
+        "labels": [],
+        "youtube": [],
+        "speakers": [
+          {
+            "names": {"*": "Ervin Weber", "ru": "Эрвин Вебер"},
+            "titles": {"*": "Infrastructure Lead @ Pactum AI"},
+            "url": "https://ee.linkedin.com/in/webervin",
+            "image": "eweber.jpg"
+          }
+        ],
+        "titles": {"*": "Terraform. But why? But how?"},
+        "descr": {
+          "ru": [
+            "Почему мне нечем заменить terraform, что в нём нового, и зачем это всё. Вместе посмотрим пару неочевидных решений, которые пришлось наложить в продакшн."
+          ]
+        }
+      }
+    ]
   }
 ]
