@@ -12,7 +12,7 @@
     "event": "",
     "speeches": [
       {
-        "org": {"cam": [""], "edit": [""]},
+        "org": {"cam": ["astalnuhhin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": [],
         "youtube": [],
@@ -24,29 +24,30 @@
             "image": "aarhipov.jpg"
           }
         ],
-        "titles": {"ru": "Про Kotlin"},
+        "titles": {"ru": "«Kotlin DSL - это фикция!» или всё зависит от контекста"},
         "descr": {
           "ru": [
+            "Немного поговорим об основных элементах для создания т.н. DSL-ей в Kotlin и рассмотрим новую эксперементальную возможность, context receivers, которая, возможно, улучшит возможности Kotlin в этой области."
           ]
         }
       },
       {
-        "org": {"cam": [""], "edit": [""]},
+        "org": {"cam": ["astalnuhhin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": [],
         "youtube": [],
         "speakers": [
           {
-            "names": {"*": "Jevgeni Goloborodko", "ru": "Евгений Голобородько"},
-            "titles": {"*": "Software Architect & Founder @ Digital Magic Ltd"},
-            "url": "https://ee.linkedin.com/in/jevgeni-goloborodko-65a048a",
-            "image": "jgoloborodko_2020.jpg"
+            "names": {"*": "Ervin Weber", "ru": "Эрвин Вебер"},
+            "titles": {"*": "Infrastructure Lead @ Pactum AI"},
+            "url": "https://ee.linkedin.com/in/webervin",
+            "image": "eweber.jpg"
           }
         ],
-        "titles": {"ru": "Human readable тесты с использованием DSL на Kotlin"},
+        "titles": {"*": "Terraform. But why? But how?"},
         "descr": {
           "ru": [
-            "Я уже делал доклад про DSL на Scala (https://www.youtube.com/watch?v=1qA8wGJff3g), с тех пор я активно использую эту практику в тестах. Последнее время много приходится использовать Kotlin, поэтому эта практика переехала на новый язык, но классический Kotlin DSL мне не очень понравился для этих целей, поэтому я готовлю его по своему. Я расскажу, как я это делаю, покажу много примеров, расскажу почему хорошо делать именно так и в конце покажу реализацию тестов на примере реального проекта, заказчики которого любезно разрешили мне демонстрацию кода, который я написал для них."
+            "Почему мне нечем заменить terraform, что в нём нового, и зачем это всё. Вместе посмотрим пару неочевидных решений, которые пришлось наложить в продакшн."
           ]
         }
       }
@@ -118,6 +119,20 @@
     "photo": [],
     "event": "",
     "speeches": [
+    ]
+  },
+  {
+    "num": 158,
+    "datetime": "2022-09-29T19:00:00+03:00",
+    "season": 2022,
+    "place": {
+      "name": "Põhja Öökull", "loc": "https://www.google.com/maps/@59.4348549,24.7420298,3a,19.2y,231.35h,86.23t/data=!3m7!1e1!3m5!1sk0QGDJlOEDHOfv3dHPKeKw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3Dk0QGDJlOEDHOfv3dHPKeKw%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D286.97736%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656",
+      "addr": "Rüütli 28, 10130 Tallinn", "url": "https://www.facebook.com/pohjaookull"
+    },
+    "org": {"mod": ["astalnuhhin"], "photo": [""]},
+    "photo": [],
+    "event": "",
+    "speeches": [
       {
         "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
@@ -125,16 +140,16 @@
         "youtube": [],
         "speakers": [
           {
-            "names": {"*": "Ervin Weber", "ru": "Эрвин Вебер"},
-            "titles": {"*": "Infrastructure Lead @ Pactum AI"},
-            "url": "https://ee.linkedin.com/in/webervin",
-            "image": "eweber.jpg"
+            "names": {"*": "Jevgeni Goloborodko", "ru": "Евгений Голобородько"},
+            "titles": {"*": "Software Architect & Founder @ Digital Magic Ltd"},
+            "url": "https://ee.linkedin.com/in/jevgeni-goloborodko-65a048a",
+            "image": "jgoloborodko_2020.jpg"
           }
         ],
-        "titles": {"*": "Terraform. But why? But how?"},
+        "titles": {"ru": "Human readable тесты с использованием DSL на Kotlin"},
         "descr": {
           "ru": [
-            "Почему мне нечем заменить terraform, что в нём нового, и зачем это всё. Вместе посмотрим пару неочевидных решений, которые пришлось наложить в продакшн."
+            "Я уже делал доклад про DSL на Scala (https://www.youtube.com/watch?v=1qA8wGJff3g), с тех пор я активно использую эту практику в тестах. Последнее время много приходится использовать Kotlin, поэтому эта практика переехала на новый язык, но классический Kotlin DSL мне не очень понравился для этих целей, поэтому я готовлю его по своему. Я расскажу, как я это делаю, покажу много примеров, расскажу почему хорошо делать именно так и в конце покажу реализацию тестов на примере реального проекта, заказчики которого любезно разрешили мне демонстрацию кода, который я написал для них."
           ]
         }
       }
