@@ -3,10 +3,12 @@
   "team": [
     {"row": 1, "col": 1, "personCode": "astalnuhhin"},
     {"row": 1, "col": 2, "personCode": "klinnik"},
-    {"row": 1, "col": 3, "personCode": "gbeskin"}
+    {"row": 1, "col": 3, "personCode": "aarhipov"},
+    {"row": 2, "col": 1, "personCode": "gbeskin"},
+    {"row": 2, "col": 2, "personCode": "sgorski"},
+    {"row": 2, "col": 3, "personCode": "ijaama"}
   ],
-  "thanks": ["aarhipov", "asolntsev", "jtimosin", "sgorski", "ijaama", 
-     "jgoloborodko", "eweber", "asviridenko", "tgordejeva", "agritsevski", 
+  "thanks": ["asolntsev", "jtimosin", "jgoloborodko", "eweber", "asviridenko", "tgordejeva", "agritsevski", 
      "jmulenko", "amotsenov", "jholodkov", "zkirillov", "agrigorjev", "kbuhhalko"],
   "persons": {
     "aarhipov": {"names": {"*": "Anton Arhipov", "ru": "Антон Архипов"}, "image": "aarhipov_team.jpg", "url": "https://ee.linkedin.com/in/antonarhipov"},
