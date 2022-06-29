@@ -56,7 +56,8 @@
       {
         "descr": {
           "en": [
-            ""
+            "Flaky tests may cause plenty of headache to the engineers. Tests that passed just yesterday are now failing all of a sudden. No one chaned anything. It's just the wrong moon phase. It's just the matrix playing jokes on you. Novices just re-run the build, but real pros look into very gist of the problem. Each investigation unfolds a real crime scene. Sometimes it takes years.",
+            "I'll show some flaky tests from real projects and most importantly - how the truth could have been found there. Dedicated to automation and software engineers. To everyone who's into software testing and hard problems."
           ]
         },
         "lang": "en",
