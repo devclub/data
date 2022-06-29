@@ -1,5 +1,92 @@
 [
   {
+    "datetime": "2022-07-05T19:00:00+02:00",
+    "event": "https://www.eventbrite.com/",
+    "num": 80,
+    "org": {
+      "mod": [
+        "sgorski"
+      ],
+      "photo": [
+        "ijaama"
+      ]
+    },
+    "photo": [
+      ""
+    ],
+    "place": {
+      "addr": "Veerenni 24, 10135 Tallinn",
+      "loc": "https://goo.gl/maps/CD1wpGzwfSYJF679A",
+      "name": "Wise",
+      "url": "https://wise.com"
+    },
+    "season": 2022,
+    "speeches": [
+      {
+        "descr": {
+          "en": [
+            "The use case is how we reduced one pipeline processing from 6h to 1.5h and improved reliability by using best practices for processing (e.g. iterative), using Spark and improving how we integrate processing and orchestration code for easier testing. And a quick overview how the process could be even better with DBT."
+          ]
+        },
+        "lang": "en",
+        "org": {
+          "cam": [
+            "ijaama"
+          ]
+        },
+        "speakers": [
+          {
+            "image": "ottovonsperling.jpg",
+            "names": {
+              "*": "Otto von Sperling"
+            },
+            "titles": {
+              "*": "Data Scientist @ Wise"
+            },
+            "url": "https://www.linkedin.com/in/otto-von-sperling/"
+          }
+        ],
+        "titles": {
+          "*": "Orchestration of pipelines on large amounts of data: the good, the bad and the ugly"
+        },
+        "youtube": [
+          ""
+        ]
+      },
+      {
+        "descr": {
+          "en": [
+            ""
+          ]
+        },
+        "lang": "en",
+        "org": {
+          "cam": [
+            "ijaama"
+          ]
+        },
+        "speakers": [
+          {
+            "image": "asolntsev.jpg",
+            "names": {
+              "*": "Andrei Solntsev"
+            },
+            "titles": {
+              "*": "Software Engineer @ Codeborne"
+            },
+            "url": "https://www.linkedin.com/in/asolntsev"
+          }
+        ],
+        "titles": {
+          "*": "Flaky Tests"
+        },
+        "youtube": [
+          ""
+        ]
+      }
+    ]
+  },
+  {
     "datetime": "2020-01-30T19:00:00+02:00",
     "event": "https://www.eventbrite.com/e/devclub-80-veriff-tickets-91187972681",
     "num": 80,
