@@ -1113,7 +1113,7 @@
       "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
     "num": 58,
-    "org": {"mod": ["amotsenov"]},
+    "org": {"mod": ["amotsenov"], "photo": ["eweber"]},
     "photo": ["https://photos.app.goo.gl/en2e4Z1tr4Ucg9e3A"],
     "speeches": [
       {
