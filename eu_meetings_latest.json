@@ -11,6 +11,44 @@
     "photo": [],
     "event": "",
     "speeches": [
+      {
+        "org": {"cam": ["astalnuhhin"], "edit": [""]},
+        "lang": "ru",
+        "labels": [],
+        "youtube": [],
+        "speakers": [
+          {
+            "names": {"*": "Grigori Parfjonov", "ru": "Григорий Парфёнов"},
+            "titles": {"ru": "Инженер транспортного планирования @ Таллин"},
+            "url": "https://www.facebook.com/grigori.parfjonov",
+            "image": "gparfjonov.png"
+          }
+        ],
+        "titles": {"ru": "Транспортное планирование простыми словами с реальными примерами"},
+        "descr": {
+          "ru": [
+          ]
+        }
+      },
+      {
+        "org": {"cam": ["astalnuhhin"], "edit": [""]},
+        "lang": "ru",
+        "labels": [],
+        "youtube": [],
+        "speakers": [
+          {
+            "names": {"*": "Hanna Katargina", "ru": "Ханна Катаргина"},
+            "titles": {"*": ""},
+            "url": "https://www.facebook.com/juzci",
+            "image": "hkatargina.png"
+          }
+        ],
+        "titles": {"ru": "Мэйнфреймы и их удивительный мир"},
+        "descr": {
+          "ru": [
+          ]
+        }
+      }
     ]
   },
   {
