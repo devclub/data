@@ -1,8 +1,94 @@
 [
   {
+    "datetime": "2022-08-09T19:00:00+03:00",
+    "event": "",
+    "num": 82,
+    "org": {
+      "mod": [
+        "sgorski"
+      ],
+      "photo": [
+        "ijaama"
+      ]
+    },
+    "photo": [
+      ""
+    ],
+    "place": {
+      "addr": "Niine 11, 10414 Tallinn",
+      "loc": "https://g.page/veriff-tallinn",
+      "name": "Veriff",
+      "url": "https://veriff.com"
+    },
+    "season": 2022,
+    "speeches": [
+      {
+        "descr": {
+          "en": [
+            "Modern large-scale applications are a complex beast. You’ll often see them spanning hundreds of microservices, multiple data storage solutions and a variety of user-facing clients. End-to-end testing is a great tool to ensure all of the pieces play well together in concert. Join us in this from-the-trenches talk for an overview how Veriff handles system-wide end-to-end testing, the challenges we faced while building it and lessons learned after making E2E part of our regular deploy pipeline."
+          ]
+        },
+        "lang": "en",
+        "org": {
+          "cam": [
+            "ijaama"
+          ]
+        },
+        "speakers": [
+          {
+            "image": "mpink.jpg",
+            "names": {
+              "*": "Madis Pink"
+            },
+            "titles": {
+              "*": "Senior Developer Experience Engineer @ Veriff"
+            },
+            "url": "https://www.linkedin.com/in/madisp/"
+          }
+        ],
+        "titles": {
+          "*": "System-wide end-to-end testing at Veriff"
+        },
+        "youtube": [
+          ""
+        ]
+      },
+      {
+        "descr": {
+          "en": [
+            "Gleb spent the past decade training people to speak with clarity and meaning to others, from founders to engineers to scientists and designers. He learned the hard way that the role of a coach and a leader is to listen and ask questions. Fundamentally, these skills can be broken down into components, learned, and mastered. Mastery demands a lot of candid feedback—which is why the session will be interactive and practical."
+          ]
+        },
+        "lang": "en",
+        "org": {
+          "cam": [
+            "ijaama"
+          ]
+        },
+        "speakers": [
+          {
+            "image": "gmaltsev.jpg",
+            "names": {
+              "*": "Gleb Maltsev"
+            },
+            "titles": {
+              "*": "Data-Driven Pitch Coach"
+            },
+            "url": "https://www.linkedin.com/in/glebmaltsev/"
+          }
+        ],
+        "titles": {
+          "*": "Listen. Speak. Coach. Repeat: the basics of candid conversations"
+        },
+        "youtube": [
+          ""
+        ]
+      }
+    ]
+  },{
     "datetime": "2022-07-05T19:00:00+03:00",
     "event": "https://www.eventbrite.com/e/devclub-80-wise-5th-july-2022-tickets-376777340167",
-    "num": 80,
+    "num": 81,
     "org": {
       "mod": [
         "sgorski"
