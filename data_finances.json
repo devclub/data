@@ -28,6 +28,12 @@
     "Fedotov Dmitry"
   ],
   "companies": [
+    
+    {
+      "name": "Veriff",
+      "logo": "veriff.png",
+      "url": "https://veriff.com"
+    },
     {
       "name": "Põhja Öökull",
       "logo": "pohjaookull2.png",
