@@ -38,7 +38,7 @@
         "speakers": [
           {
             "names": {"*": "Hanna Katargina", "ru": "Ханна Катаргина"},
-            "titles": {"*": ""},
+            "titles": {"*": "Vulnerability Process Manager @ Swedbank"},
             "url": "https://www.facebook.com/juzci",
             "image": "hkatargina.png"
           }
@@ -46,6 +46,7 @@
         "titles": {"ru": "Мэйнфреймы и их удивительный мир"},
         "descr": {
           "ru": [
+            "Нет, не устарели. Нет, не бесполезны. Нет, не легаси. Нет, не только кобол и терминал. Нет, не обойдетесь. Об этом и поговорим."
           ]
         }
       }
