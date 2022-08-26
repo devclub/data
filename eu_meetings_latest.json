@@ -1,59 +1,5 @@
 [
   {
-    "num": 157,
-    "datetime": "2022-08-25T19:00:00+03:00",
-    "season": 2022,
-    "place": {
-      "name": "Põhja Öökull", "loc": "https://www.google.com/maps/@59.4348549,24.7420298,3a,19.2y,231.35h,86.23t/data=!3m7!1e1!3m5!1sk0QGDJlOEDHOfv3dHPKeKw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3Dk0QGDJlOEDHOfv3dHPKeKw%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D286.97736%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656",
-      "addr": "Rüütli 28, 10130 Tallinn", "url": "https://www.facebook.com/pohjaookull"
-    },
-    "org": {"mod": ["astalnuhhin"], "photo": [""]},
-    "photo": [],
-    "event": "https://www.eventbrite.com/e/devclubeu-157-tickets-404723247127",
-    "speeches": [
-      {
-        "org": {"cam": ["astalnuhhin"], "edit": [""]},
-        "lang": "ru",
-        "labels": [],
-        "youtube": [],
-        "speakers": [
-          {
-            "names": {"*": "Grigori Parfjonov", "ru": "Григорий Парфёнов"},
-            "titles": {"ru": "Инженер транспортного планирования @ Таллинн"},
-            "url": "https://www.facebook.com/grigori.parfjonov",
-            "image": "gparfjonov.png"
-          }
-        ],
-        "titles": {"ru": "Транспортное планирование простыми словами с реальными примерами"},
-        "descr": {
-          "ru": [
-            "Чем уникален Таллинн, и почему он никогда не станет Амстердамом? Зачем инженер лезет в \"чужой карман\"? Как математика спасёт город? Попробуем ответить на эти вопросы, а также рассмотрим транспортное планирование как инструмент социальной инженерии."
-          ]
-        }
-      },
-      {
-        "org": {"cam": ["astalnuhhin"], "edit": [""]},
-        "lang": "ru",
-        "labels": [],
-        "youtube": [],
-        "speakers": [
-          {
-            "names": {"*": "Hanna Katargina", "ru": "Ханна Катаргина"},
-            "titles": {"*": "Vulnerability Process Manager @ Swedbank"},
-            "url": "https://www.facebook.com/juzci",
-            "image": "hkatargina.png"
-          }
-        ],
-        "titles": {"ru": "Мэйнфреймы и их удивительный мир"},
-        "descr": {
-          "ru": [
-            "Нет, не устарели. Нет, не бесполезны. Нет, не легаси. Нет, не только кобол и терминал. Нет, не обойдетесь. Об этом и поговорим."
-          ]
-        }
-      }
-    ]
-  },
-  {
     "num": 158,
     "datetime": "2022-09-29T19:00:00+03:00",
     "season": 2022,
