@@ -18,6 +18,26 @@
         "youtube": [],
         "speakers": [
           {
+            "names": {"*": "Aleksei Shulga", "ru": "Алексей Шульга"},
+            "titles": {"*": "Game Director @ Into The Radius VR"},
+            "url": "https://www.linkedin.com/in/aleksei-shulga-976b03100",
+            "image": "ashulga.png"
+          }
+        ],
+        "titles": {"ru": "Разработка игр для VR"},
+        "descr": {
+          "ru": [
+            "В 2018 году Алексеем началась разработка VR-игры. Из хобби деятельность переросла в полноценный VR-проект с большой командой и далёкими планами. Речь пойдёт обо всём этом, а также технологиях, проблемах и особенностях разработки VR-игр."
+          ]
+        }
+      },
+      {
+        "org": {"cam": [""], "edit": [""]},
+        "lang": "ru",
+        "labels": [],
+        "youtube": [],
+        "speakers": [
+          {
             "names": {"*": "Jevgeni Goloborodko", "ru": "Евгений Голобородько"},
             "titles": {"*": "Software Architect & Founder @ Digital Magic Ltd"},
             "url": "https://ee.linkedin.com/in/jevgeni-goloborodko-65a048a",
