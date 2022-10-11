@@ -29,6 +29,11 @@
   ],
   "companies": [
     {
+      "name": "Twilio",
+      "logo": "twilio.png",
+      "url": "https://www.twilio.com"
+    },
+    {
       "name": "Põhja Öökull",
       "logo": "pohjaookull2.png",
       "url": "https://www.facebook.com/pohjaookull"
