@@ -42,16 +42,20 @@
         "youtube": [],
         "speakers": [
           {
-            "names": {"*": "Anton Arhipov", "ru": "Антон Архипов"},
-            "titles": {"*": "Developer Advocate @ JetBrains"},
-            "url": "https://ee.linkedin.com/in/antonarhipov",
-            "image": "aarhipov.jpg"
+            "names": {"*": "Andrei Solntsev", "ru": "Андрей Солнцев"},
+            "titles": {"*": "Software developer @ Codeborne"},
+            "url": "https://ee.linkedin.com/in/asolntsev",
+            "image": "asolntsev_2018.jpg"
           }
         ],
-        "titles": {"ru": "Новинки от JetBrains: Fleet, Qodana, TeamCity Pipelines и ещё кое-что"},
+        "titles": {"ru": "Как законтрибьютить в опенсорс, чтобы не сгореть со стыда"},
         "descr": {
           "ru": [
-            "Как и следует из названия, Антон расскажет о новинках от JetBrains."
+            "Мы все используем опенсорсные продукты. Но очень мало тех, кто решается туда законтрибьютить. Помимо банальной лени, есть и более серьёзные причины:",
+            "* Сложность/корявость самих проектов. С чего начать? Где лежат исходники? Как их скомпилировать? Почему всё красное?",
+            "* Боязнь показать свой код миру. А вдруг засмеют? А вдруг мой код покажется всем корявым?",
+            "Я покажу, как справиться с техническими и психологическими трудностями. Прямо во время доклада сделаем изменения в каких-нибудь опенсорсных проектах.",
+            "Сделаем Сову центром принятия опенсорсных решений!"
           ]
         }
       }
@@ -152,6 +156,26 @@
         "descr": {
           "ru": [
             "???"
+          ]
+        }
+      },
+      {
+        "org": {"cam": [""], "edit": [""]},
+        "lang": "ru",
+        "labels": [],
+        "youtube": [],
+        "speakers": [
+          {
+            "names": {"*": "Anton Arhipov", "ru": "Антон Архипов"},
+            "titles": {"*": "Developer Advocate @ JetBrains"},
+            "url": "https://ee.linkedin.com/in/antonarhipov",
+            "image": "aarhipov.jpg"
+          }
+        ],
+        "titles": {"ru": "Новинки от JetBrains: Fleet, Qodana, TeamCity Pipelines и ещё кое-что"},
+        "descr": {
+          "ru": [
+            "Как и следует из названия, Антон расскажет о новинках от JetBrains."
           ]
         }
       }
