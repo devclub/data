@@ -1,183 +1,365 @@
 [
   {
-    "num": 159,
-    "datetime": "2022-10-27T19:00:00+03:00",
-    "season": 2022,
-    "place": {
-      "name": "Põhja Öökull", "loc": "https://www.google.com/maps/@59.4348549,24.7420298,3a,19.2y,231.35h,86.23t/data=!3m7!1e1!3m5!1sk0QGDJlOEDHOfv3dHPKeKw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3Dk0QGDJlOEDHOfv3dHPKeKw%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D286.97736%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656",
-      "addr": "Rüütli 28, 10130 Tallinn", "url": "https://www.facebook.com/pohjaookull"
+    "datetime": "2022-11-03T19:00:00+02:00",
+    "event": "",
+    "num": 84,
+    "org": {
+      "mod": [
+        "sgorski"
+      ],
+      "photo": [
+        "ijaama"
+      ]
     },
-    "org": {"mod": ["astalnuhhin"], "photo": [""]},
-    "photo": [],
-    "event": "https://www.eventbrite.com/e/devclubeu-159-tickets-445056625347",
+    "photo": [
+      ""
+    ],
+    "place": {
+      "addr": "Lõõtsa 5, 11415 Tallinn",
+      "loc": "https://goo.gl/maps/TqX5YY2mQCSxSaRMA",
+      "name": "Playtech",
+      "url": "https://playtech.ee/"
+    },
+    "season": 2022,
     "speeches": [
       {
-        "org": {"cam": [""], "edit": [""]},
-        "lang": "ru",
-        "labels": [],
-        "youtube": [],
+        "descr": {
+          "en": [
+            "At a certain point in a tech company’s lifespan, it becomes abundantly clear that not all undertakings are completely successful. This point is nigh for Playtech as well, where previously hidden deficiencies may now be illuminated in searing light. Here, cautionary tales, unexpected outcomes, shocking revelations – all will be explored during this journey through some of Playtech’s most infamous mishaps.",
+            "Not every beginning has a happy ending… or any ending. Regardless of the outcome, most undertakings leave us with experiences we lacked when we started. They say that failure is a better teacher than success, and we have abused this idiom these past eight years. We humbly present to you, then, a window into the future (and past): aim for the cloud[s]; misapply ORM - thrice; see only nails when the only tool available is a hammer; Strings are not only attached but entangled in everything; multiple not-invented-here syndromes. We have all been here at least once.",
+            "One of the definitive characteristics of the consummate professional is the honest ability to recognize faults, even when those faults are touted as best practices; to address the process(es) which led to the cultivation of such deficiencies, and to have the courage to bring these issues to the forefront, even in the face of conventional thinking."
+          ]
+        },
+        "lang": "en",
+        "org": {
+          "cam": [
+            "ijaama"
+          ]
+        },
         "speakers": [
           {
-            "names": {"*": "Andrei Solntsev", "ru": "Андрей Солнцев"},
-            "titles": {"*": "Software developer @ Codeborne"},
-            "url": "https://ee.linkedin.com/in/asolntsev",
-            "image": "asolntsev_2018.jpg"
+            "image": "ssimeonoff.jpg",
+            "names": {
+              "*": "Stanimir Simeonoff"
+            },
+            "titles": {
+              "*": "Dev team lead @ Playtech"
+            },
+            "url": ""
+          },
+          {
+            "image": "ahaav.jpg",
+            "names": {
+              "*": "Allar Haav"
+            },
+            "titles": {
+              "*": "Senior software engineer @ Playtech"
+            },
+            "url": "https://www.linkedin.com/in/allar-haav/"
           }
         ],
-        "titles": {"ru": "WTF Thread Pools"},
-        "descr": {
-          "ru": [
-            "Что в джаве легко - это многопоточном программирование.",
-            "Что в джаве ещё легче - это многопоточно накосячить.",
-            "Рассмотрим типичные ошибки и реальный кейсы, приводившие к подвисанию продакшина.",
-            "И выясним, правда ли корутины котлина и новые виртуальные потоки из джавы 19 спасают ситуацию?",
-            "Всё как мы любим!"
-          ]
-        }
+        "titles": {
+          "*": "Eight Poor Design Choices in Eight Years at Playtech"
+        },
+        "youtube": [
+          ""
+        ]
       },
       {
-        "org": {"cam": [""], "edit": [""]},
-        "lang": "ru",
-        "labels": [],
-        "youtube": [],
+        "descr": {
+          "en": [
+            "In a SaaS product, the customers want to ensure that all of their sensitive data is securely stored and nobody else has access to it. Wrike has a feature just for that use case: Wrike Lock.",
+            "The idea behind the Wrike Lock is to have all sensitive customer data encrypted using our internal keys. Internal keys are stored in the database as strings encrypted by the key managed by the client. This way, we can not maliciously decrypt the customer's data unless the customer would willingly provide us access to decrypt internal keys.",
+            "As we're growing and moving towards a microservice platform, the current solution of having the key management system per service is not plausible anymore. A new centralized approach is desperately needed, where a single service manages the keys, settings, and access to the client's KMS.",
+            "There goes the idea of Wrike's Encryption as a Service. A microservice caching the keys, validating that we still have access to the client's KMS, and issuing the keys to the services which need to encrypt or decrypt the customer's sensitive data."
+          ]
+        },
+        "lang": "en",
+        "org": {
+          "cam": [
+            "ijaama"
+          ]
+        },
         "speakers": [
           {
-            "names": {"*": "Andrei Solntsev", "ru": "Андрей Солнцев"},
-            "titles": {"*": "Software developer @ Codeborne"},
-            "url": "https://ee.linkedin.com/in/asolntsev",
-            "image": "asolntsev_2018.jpg"
+            "image": "dgrankin.jpg",
+            "names": {
+              "*": "Daniil Grankin"
+            },
+            "titles": {
+              "*": "Software developer @ Wrike"
+            },
+            "url": "https://www.linkedin.com/in/grankin-daniil/"
           }
         ],
-        "titles": {"ru": "Как законтрибьютить в опенсорс, чтобы не сгореть со стыда"},
-        "descr": {
-          "ru": [
-            "Мы все используем опенсорсные продукты. Но очень мало тех, кто решается туда законтрибьютить. Помимо банальной лени, есть и более серьёзные причины:",
-            "* Сложность/корявость самих проектов. С чего начать? Где лежат исходники? Как их скомпилировать? Почему всё красное?",
-            "* Боязнь показать свой код миру. А вдруг засмеют? А вдруг мой код покажется всем корявым?",
-            "Я покажу, как справиться с техническими и психологическими трудностями. Прямо во время доклада сделаем изменения в каких-нибудь опенсорсных проектах.",
-            "Сделаем Сову центром принятия опенсорсных решений!"
-          ]
-        }
+        "titles": {
+          "*": "Encryption Key Management Service in Microservice Platform"
+        },
+        "youtube": [
+          ""
+        ]
       }
     ]
   },
   {
-    "num": 160,
-    "datetime": "2022-11-17T19:00:00+03:00",
-    "season": 2022,
-    "place": {
-      "name": "Põhja Öökull", "loc": "https://www.google.com/maps/@59.4348549,24.7420298,3a,19.2y,231.35h,86.23t/data=!3m7!1e1!3m5!1sk0QGDJlOEDHOfv3dHPKeKw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3Dk0QGDJlOEDHOfv3dHPKeKw%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D286.97736%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656",
-      "addr": "Rüütli 28, 10130 Tallinn", "url": "https://www.facebook.com/pohjaookull"
+    "datetime": "2022-10-18T19:00:00+03:00",
+    "event": "https://www.eventbrite.com/e/devclub-83-twilio-tickets-439941746607",
+    "num": 83,
+    "org": {
+      "mod": [
+        "sgorski"
+      ],
+      "photo": [
+        "ijaama"
+      ]
     },
-    "org": {"mod": ["astalnuhhin"], "photo": [""]},
-    "photo": [],
-    "event": "",
+    "photo": [
+      ""
+    ],
+    "place": {
+      "addr": "Veerenni 38, 10138 Tallinn",
+      "loc": "https://goo.gl/maps/k9GwSCJ53rTjNDV76",
+      "name": "Twilio",
+      "url": "https://www.twilio.com"
+    },
+    "season": 2022,
     "speeches": [
       {
-        "org": {"cam": [""], "edit": [""]},
-        "lang": "ru",
-        "labels": [],
-        "youtube": [],
+        "descr": {
+          "en": [
+            "Kubernetes is known to be a myriad of things, and when used in the appropriate context it provides the builder with multiple layers of helpful tooling. In this K8S day, Burak will first provide an introduction to the domain of K8S, then dive into the details of its innate high-availability and security tooling. He will tell us about how he built such an application that spanned millions of active users."
+          ]
+        },
+        "lang": "en",
+        "org": {
+          "cam": [
+            "ijaama"
+          ]
+        },
         "speakers": [
           {
-            "names": {"*": "Vyacheslav Tyutyunkov", "ru": "Вячеслав Тютюньков"},
-            "titles": {"*": "Backend Tech Lead @ Wrike"},
-            "url": "https://www.linkedin.com/in/tyutyunkovve",
-            "image": "vtyutyunkov.jpg"
+            "image": "bcun.jpg",
+            "names": {
+              "*": "Burak Çün"
+            },
+            "titles": {
+              "*": "Senior Software Engineer @ Twilio"
+            },
+            "url": "https://www.linkedin.com/in/burakcun/"
           }
         ],
-        "titles": {"ru": "К микросервисам через reverse engineering и кодогенерацию", "*": "Through reverse engineering and code generation to microservices"},
-        "descr": {
-          "ru": [
-            "Разрабатывая информационную систему с нуля, мы можем выбрать практически любой из множества вариантов как технологий, так и архитектур в целом, в том числе принципов взаимодействия частей системы. Но что же делать, если система уже есть и у неё довольно богатая история? Как большую энтерпрайз систему, исторически развивающуюся в режиме «монолита», разделить на микросервисы и организовать взаимодействие между ними? В большей степени проблема тут даже не столько в выборе архитектуры и построении взаимодействия, сколько в сложности поддержать имеющийся и постоянно изменяющийся под продуктовые нужны код «монолита», параллельно внедряя новые принципы и подходы. В докладе я расскажу как мы в Wrike, используя reverse engineering и немного «кодогенерации», реализовали первые шаги по выделению отдельных микросервисов и запустили первый «почти настоящий» BFF сервис в рамках нашего монолита."
-          ],
-          "*": [
-            "When developing an information system from scratch, we can choose almost any technology and architecture option in general, including the principle of interaction between system parts. But what if we already have a system with a large monolithic code base? How can such a large enterprise system be divided into microservices properly organized to interact with each other?",
-            "The main difficulty often lies in the fact that it is necessary to simultaneously maintain the existing monolithic code base and introduce new principles and approaches. In this article, I will tell you how we used reverse engineering and a dash of code generation to launch the first “almost real” BFF service as part of Wrike's monolithic system by taking first steps in isolating individual microservices."
-          ]
-        }
+        "titles": {
+          "*": "Kubernetes: when high-availability meets security"
+        },
+        "youtube": [
+          ""
+        ]
       },
       {
-        "org": {"cam": [""], "edit": [""]},
-        "lang": "ru",
-        "labels": [],
-        "youtube": [],
+        "descr": {
+          "en": [
+            "We started experimenting with Kubernetes in 2016 in Telia. Certainly still belive this is the way to go and the first target for new application deployments. It has been a long journey, let’s see what we’ve come up with and where are we struggling in DevSecOps teams."
+          ]
+        },
+        "lang": "en",
+        "org": {
+          "cam": [
+            "ijaama"
+          ]
+        },
         "speakers": [
           {
-            "names": {"*": "Yan Khonski", "ru": "Ян Хонский"},
-            "titles": {"*": "Backend software engineer @ Wrike"},
-            "url": "https://www.linkedin.com/in/yan-khonski",
-            "image": "ykhonski.jpg"
+            "image": "rrandmaa.jpg",
+            "names": {
+              "*": "Ranno Randmaa"
+            },
+            "titles": {
+              "*": "IT Architect @ Telia"
+            },
+            "url": "https://www.linkedin.com/in/rannorandmaa/"
           }
         ],
-        "titles": {"ru": "Блокировки и многоверсионность данных в PostgreSQL", "*": "Locks and versioning in the database transactions"},
-        "descr": {
-          "ru": [
-            "Как достичь различных уровней изоляции транзакций в базе данных? Какую выгоду нам принесёт тот или иной уровень изоляции, и чем мы за это пожертвуем? Как позволить другим клиентам читать данные, когда их кто-то изменяет в этот же момент?",
-            "Уровни изоляции транзакций определялись на основе запрета для разных уровней. Блокировка и многоверсионность данных позволяли клиентам одновременно работать с данными, при этом их доступ был изолирован.",
-            "Каждый из этих подходов - балансирование между пропускной способностью и согласованностью (consistency). Понимание обоих подходов поможет вам принять решение по масштабированию вашей базы данных.",
-            "Поиграемся на примерах в PostgreSQL. Посмотрим, как в PostgreSQL реализована изоляция транзакций и проверяется версия строки. Рассмотрим последствия многоверсионности данных и очистку базы от ненужных (удалённых) записей (VACUUM)."
-          ],
-          "*": [
-            "How transaction isolation is achieved in the databases? What trade-offs should we consider? Can we allow clients to read data, while someone is modifying the same data at the same time?",
-            "Transaction isolation levels were defined based on phenomena which are prohibited for different levels. Locking and versioning are used to isolate concurrent access to the same data by multiple clients. Each of these approaches will trade off with throughput and consistency. Understanding of both approaches will help you to make decisions when it comes to scaling your database.",
-            "We will play with PostgreSQL to see different phenomena for different transaction isolation level. We will try to understand how PostgreSQL implemented transaction isolation. We will look under the hood how the row version is checked. We will see the implications of versioning and how to deal with them (VACUUM)."
-          ]
-        }
+        "titles": {
+          "*": "Telia’s DevSecOps road to Kubernetes"
+        },
+        "youtube": [
+          ""
+        ]
       }
     ]
   },
   {
-    "num": 161,
-    "datetime": "2022-12-15T19:00:00+03:00",
-    "season": 2023,
-    "place": {
-      "name": "Põhja Öökull", "loc": "https://www.google.com/maps/@59.4348549,24.7420298,3a,19.2y,231.35h,86.23t/data=!3m7!1e1!3m5!1sk0QGDJlOEDHOfv3dHPKeKw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3Dk0QGDJlOEDHOfv3dHPKeKw%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D286.97736%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656",
-      "addr": "Rüütli 28, 10130 Tallinn", "url": "https://www.facebook.com/pohjaookull"
+    "datetime": "2022-08-09T19:00:00+03:00",
+    "event": "https://www.eventbrite.com/e/devclub-82-veriff-tickets-396611554837",
+    "num": 82,
+    "org": {
+      "mod": [
+        "sgorski"
+      ],
+      "photo": [
+        "ijaama"
+      ]
     },
-    "org": {"mod": ["astalnuhhin"], "photo": [""]},
-    "photo": [],
-    "event": "",
+    "photo": [
+      ""
+    ],
+    "place": {
+      "addr": "Niine 11, 10414 Tallinn",
+      "loc": "https://g.page/veriff-tallinn",
+      "name": "Veriff",
+      "url": "https://veriff.com"
+    },
+    "season": 2022,
     "speeches": [
       {
-        "org": {"cam": [""], "edit": [""]},
-        "lang": "ru",
-        "labels": [],
-        "youtube": [],
+        "descr": {
+          "en": [
+            "Modern large-scale applications are a complex beast. You’ll often see them spanning hundreds of microservices, multiple data storage solutions and a variety of user-facing clients. End-to-end testing is a great tool to ensure all of the pieces play well together in concert. Join us in this from-the-trenches talk for an overview how Veriff handles system-wide end-to-end testing, the challenges we faced while building it and lessons learned after making E2E part of our regular deploy pipeline."
+          ]
+        },
+        "lang": "en",
+        "org": {
+          "cam": [
+            "ijaama"
+          ]
+        },
         "speakers": [
           {
-            "names": {"*": "Anton Arhipov", "ru": "Антон Архипов"},
-            "titles": {"*": "Developer Advocate @ JetBrains"},
-            "url": "https://ee.linkedin.com/in/antonarhipov",
-            "image": "aarhipov.jpg"
+            "image": "mpink.jpg",
+            "names": {
+              "*": "Madis Pink"
+            },
+            "titles": {
+              "*": "Senior Developer Experience Engineer @ Veriff"
+            },
+            "url": "https://www.linkedin.com/in/madisp/"
           }
         ],
-        "titles": {"ru": "???"},
-        "descr": {
-          "ru": [
-            "???"
-          ]
-        }
+        "titles": {
+          "*": "System-wide end-to-end testing at Veriff"
+        },
+        "youtube": [
+          ""
+        ]
       },
       {
-        "org": {"cam": [""], "edit": [""]},
-        "lang": "ru",
-        "labels": [],
-        "youtube": [],
+        "descr": {
+          "en": [
+            "Gleb spent the past decade training people to speak with clarity and meaning to others, from founders to engineers to scientists and designers. He learned the hard way that the role of a coach and a leader is to listen and ask questions. Fundamentally, these skills can be broken down into components, learned, and mastered. Mastery demands a lot of candid feedback—which is why the session will be interactive and practical."
+          ]
+        },
+        "lang": "en",
+        "org": {
+          "cam": [
+            "ijaama"
+          ]
+        },
         "speakers": [
           {
-            "names": {"*": "Anton Arhipov", "ru": "Антон Архипов"},
-            "titles": {"*": "Developer Advocate @ JetBrains"},
-            "url": "https://ee.linkedin.com/in/antonarhipov",
-            "image": "aarhipov.jpg"
+            "image": "gmaltsev.jpg",
+            "names": {
+              "*": "Gleb Maltsev"
+            },
+            "titles": {
+              "*": "Data-Driven Pitch Coach"
+            },
+            "url": "https://www.linkedin.com/in/glebmaltsev/"
           }
         ],
-        "titles": {"ru": "Новинки от JetBrains: Fleet, Qodana, TeamCity Pipelines и ещё кое-что"},
+        "titles": {
+          "*": "Listen. Speak. Coach. Repeat: the basics of candid conversations"
+        },
+        "youtube": [
+          ""
+        ]
+      }
+    ]
+  },
+  {
+    "datetime": "2022-07-05T19:00:00+03:00",
+    "event": "https://www.eventbrite.com/e/devclub-80-wise-5th-july-2022-tickets-376777340167",
+    "num": 81,
+    "org": {
+      "mod": [
+        "sgorski"
+      ],
+      "photo": [
+        "ijaama"
+      ]
+    },
+    "photo": [
+      ""
+    ],
+    "place": {
+      "addr": "Veerenni 24D, 7th floor, 10135 Tallinn",
+      "loc": "https://goo.gl/maps/CD1wpGzwfSYJF679A",
+      "name": "Wise",
+      "url": "https://wise.com"
+    },
+    "season": 2022,
+    "speeches": [
+      {
         "descr": {
-          "ru": [
-            "Как и следует из названия, Антон расскажет о новинках от JetBrains."
+          "en": [
+            "The use case is how we reduced one pipeline processing from 6h to 1.5h and improved reliability by using best practices for processing (e.g. iterative), using Spark and improving how we integrate processing and orchestration code for easier testing. And a quick overview how the process could be even better with DBT."
           ]
-        }
+        },
+        "lang": "en",
+        "org": {
+          "cam": [
+            "ijaama"
+          ]
+        },
+        "speakers": [
+          {
+            "image": "ottovonsperling.jpg",
+            "names": {
+              "*": "Otto von Sperling"
+            },
+            "titles": {
+              "*": "Data Scientist @ Wise"
+            },
+            "url": "https://www.linkedin.com/in/otto-von-sperling/"
+          }
+        ],
+        "titles": {
+          "*": "Orchestration of pipelines on large amounts of data: the good, the bad and the ugly"
+        },
+        "youtube": [
+          ""
+        ]
+      },
+      {
+        "descr": {
+          "en": [
+            "Flaky tests may cause plenty of headache to the engineers. Tests that passed just yesterday are now failing all of a sudden. No one chaned anything. It's just the wrong moon phase. It's just the matrix playing jokes on you. Novices just re-run the build, but real pros look into very gist of the problem. Each investigation unfolds a real crime scene. Sometimes it takes years.",
+            "I'll show some flaky tests from real projects and most importantly - how the truth could have been found there. Dedicated to automation and software engineers. To everyone who's into software testing and hard problems."
+          ]
+        },
+        "lang": "en",
+        "org": {
+          "cam": [
+            "ijaama"
+          ]
+        },
+        "speakers": [
+          {
+            "image": "asolntsev.jpg",
+            "names": {
+              "*": "Andrei Solntsev"
+            },
+            "titles": {
+              "*": "Software Engineer @ Codeborne"
+            },
+            "url": "https://www.linkedin.com/in/asolntsev"
+          }
+        ],
+        "titles": {
+          "*": "Flaky Tests"
+        },
+        "youtube": [
+          ""
+        ]
       }
     ]
   }
