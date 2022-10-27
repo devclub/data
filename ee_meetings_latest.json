@@ -1,5 +1,107 @@
 [
   {
+    "datetime": "2022-11-03T19:00:00+02:00",
+    "event": "",
+    "num": 84,
+    "org": {
+      "mod": [
+        "sgorski"
+      ],
+      "photo": [
+        "ijaama"
+      ]
+    },
+    "photo": [
+      ""
+    ],
+    "place": {
+      "addr": "Lõõtsa 5, 11415 Tallinn",
+      "loc": "https://goo.gl/maps/TqX5YY2mQCSxSaRMA",
+      "name": "Playtech",
+      "url": "https://playtech.ee/"
+    },
+    "season": 2022,
+    "speeches": [
+      {
+        "descr": {
+          "en": [
+            "At a certain point in a tech company’s lifespan, it becomes abundantly clear that not all undertakings are completely successful. This point is nigh for Playtech as well, where previously hidden deficiencies may now be illuminated in searing light. Here, cautionary tales, unexpected outcomes, shocking revelations – all will be explored during this journey through some of Playtech’s most infamous mishaps.",
+            "Not every beginning has a happy ending… or any ending. Regardless of the outcome, most undertakings leave us with experiences we lacked when we started. They say that failure is a better teacher than success, and we have abused this idiom these past eight years. We humbly present to you, then, a window into the future (and past): aim for the cloud[s]; misapply ORM - thrice; see only nails when the only tool available is a hammer; Strings are not only attached but entangled in everything; multiple not-invented-here syndromes. We have all been here at least once.",
+            "One of the definitive characteristics of the consummate professional is the honest ability to recognize faults, even when those faults are touted as best practices; to address the process(es) which led to the cultivation of such deficiencies, and to have the courage to bring these issues to the forefront, even in the face of conventional thinking."
+          ]
+        },
+        "lang": "en",
+        "org": {
+          "cam": [
+            "ijaama"
+          ]
+        },
+        "speakers": [
+          {
+            "image": "ssimeonoff.jpg",
+            "names": {
+              "*": "Stanimir Simeonoff"
+            },
+            "titles": {
+              "*": "Dev team lead @ Playtech"
+            },
+            "url": ""
+          },
+          {
+            "image": "ahaav.jpg",
+            "names": {
+              "*": "Allar Haav"
+            },
+            "titles": {
+              "*": "Senior software engineer @ Playtech"
+            },
+            "url": "https://www.linkedin.com/in/allar-haav/"
+          }
+        ],
+        "titles": {
+          "*": "Eight Poor Design Choices in Eight Years at Playtech"
+        },
+        "youtube": [
+          ""
+        ]
+      },
+      {
+        "descr": {
+          "en": [
+            "In a SaaS product, the customers want to ensure that all of their sensitive data is securely stored and nobody else has access to it. Wrike has a feature just for that use case: Wrike Lock.",
+            "The idea behind the Wrike Lock is to have all sensitive customer data encrypted using our internal keys. Internal keys are stored in the database as strings encrypted by the key managed by the client. This way, we can not maliciously decrypt the customer's data unless the customer would willingly provide us access to decrypt internal keys.",
+            "As we're growing and moving towards a microservice platform, the current solution of having the key management system per service is not plausible anymore. A new centralized approach is desperately needed, where a single service manages the keys, settings, and access to the client's KMS.",
+            "There goes the idea of Wrike's Encryption as a Service. A microservice caching the keys, validating that we still have access to the client's KMS, and issuing the keys to the services which need to encrypt or decrypt the customer's sensitive data."
+          ]
+        },
+        "lang": "en",
+        "org": {
+          "cam": [
+            "ijaama"
+          ]
+        },
+        "speakers": [
+          {
+            "image": "dgrankin.jpg",
+            "names": {
+              "*": "Daniil Grankin"
+            },
+            "titles": {
+              "*": "Software developer @ Wrike"
+            },
+            "url": "https://www.linkedin.com/in/grankin-daniil/"
+          }
+        ],
+        "titles": {
+          "*": "Encryption Key Management Service in Microservice Platform"
+        },
+        "youtube": [
+          ""
+        ]
+      }
+    ]
+  },
+  {
     "datetime": "2022-10-18T19:00:00+03:00",
     "event": "https://www.eventbrite.com/e/devclub-83-twilio-tickets-439941746607",
     "num": 83,
