@@ -1,5 +1,431 @@
 [
   {
+    "datetime": "2022-10-18T19:00:00+03:00",
+    "event": "https://www.eventbrite.com/e/devclub-83-twilio-tickets-439941746607",
+    "num": 83,
+    "org": {
+      "mod": [
+        "sgorski"
+      ],
+      "photo": [
+        "ijaama"
+      ]
+    },
+    "photo": [
+      ""
+    ],
+    "place": {
+      "addr": "Veerenni 38, 10138 Tallinn",
+      "loc": "https://goo.gl/maps/k9GwSCJ53rTjNDV76",
+      "name": "Twilio",
+      "url": "https://www.twilio.com"
+    },
+    "season": 2022,
+    "speeches": [
+      {
+        "descr": {
+          "en": [
+            "Kubernetes is known to be a myriad of things, and when used in the appropriate context it provides the builder with multiple layers of helpful tooling. In this K8S day, Burak will first provide an introduction to the domain of K8S, then dive into the details of its innate high-availability and security tooling. He will tell us about how he built such an application that spanned millions of active users."
+          ]
+        },
+        "lang": "en",
+        "org": {
+          "cam": [
+            "ijaama"
+          ]
+        },
+        "speakers": [
+          {
+            "image": "bcun.jpg",
+            "names": {
+              "*": "Burak Çün"
+            },
+            "titles": {
+              "*": "Senior Software Engineer @ Twilio"
+            },
+            "url": "https://www.linkedin.com/in/burakcun/"
+          }
+        ],
+        "titles": {
+          "*": "Kubernetes: when high-availability meets security"
+        },
+        "youtube": [
+          ""
+        ]
+      },
+      {
+        "descr": {
+          "en": [
+            "We started experimenting with Kubernetes in 2016 in Telia. Certainly still belive this is the way to go and the first target for new application deployments. It has been a long journey, let’s see what we’ve come up with and where are we struggling in DevSecOps teams."
+          ]
+        },
+        "lang": "en",
+        "org": {
+          "cam": [
+            "ijaama"
+          ]
+        },
+        "speakers": [
+          {
+            "image": "rrandmaa.jpg",
+            "names": {
+              "*": "Ranno Randmaa"
+            },
+            "titles": {
+              "*": "IT Architect @ Telia"
+            },
+            "url": "https://www.linkedin.com/in/rannorandmaa/"
+          }
+        ],
+        "titles": {
+          "*": "Telia’s DevSecOps road to Kubernetes"
+        },
+        "youtube": [
+          ""
+        ]
+      }
+    ]
+  },
+  {
+    "datetime": "2022-08-09T19:00:00+03:00",
+    "event": "https://www.eventbrite.com/e/devclub-82-veriff-tickets-396611554837",
+    "num": 82,
+    "org": {
+      "mod": [
+        "sgorski"
+      ],
+      "photo": [
+        "ijaama"
+      ]
+    },
+    "photo": [
+      ""
+    ],
+    "place": {
+      "addr": "Niine 11, 10414 Tallinn",
+      "loc": "https://g.page/veriff-tallinn",
+      "name": "Veriff",
+      "url": "https://veriff.com"
+    },
+    "season": 2022,
+    "speeches": [
+      {
+        "descr": {
+          "en": [
+            "Modern large-scale applications are a complex beast. You’ll often see them spanning hundreds of microservices, multiple data storage solutions and a variety of user-facing clients. End-to-end testing is a great tool to ensure all of the pieces play well together in concert. Join us in this from-the-trenches talk for an overview how Veriff handles system-wide end-to-end testing, the challenges we faced while building it and lessons learned after making E2E part of our regular deploy pipeline."
+          ]
+        },
+        "lang": "en",
+        "org": {
+          "cam": [
+            "ijaama"
+          ]
+        },
+        "speakers": [
+          {
+            "image": "mpink.jpg",
+            "names": {
+              "*": "Madis Pink"
+            },
+            "titles": {
+              "*": "Senior Developer Experience Engineer @ Veriff"
+            },
+            "url": "https://www.linkedin.com/in/madisp/"
+          }
+        ],
+        "titles": {
+          "*": "System-wide end-to-end testing at Veriff"
+        },
+        "youtube": [
+          ""
+        ]
+      },
+      {
+        "descr": {
+          "en": [
+            "Gleb spent the past decade training people to speak with clarity and meaning to others, from founders to engineers to scientists and designers. He learned the hard way that the role of a coach and a leader is to listen and ask questions. Fundamentally, these skills can be broken down into components, learned, and mastered. Mastery demands a lot of candid feedback—which is why the session will be interactive and practical."
+          ]
+        },
+        "lang": "en",
+        "org": {
+          "cam": [
+            "ijaama"
+          ]
+        },
+        "speakers": [
+          {
+            "image": "gmaltsev.jpg",
+            "names": {
+              "*": "Gleb Maltsev"
+            },
+            "titles": {
+              "*": "Data-Driven Pitch Coach"
+            },
+            "url": "https://www.linkedin.com/in/glebmaltsev/"
+          }
+        ],
+        "titles": {
+          "*": "Listen. Speak. Coach. Repeat: the basics of candid conversations"
+        },
+        "youtube": [
+          ""
+        ]
+      }
+    ]
+  },
+  {
+    "datetime": "2022-07-05T19:00:00+03:00",
+    "event": "https://www.eventbrite.com/e/devclub-80-wise-5th-july-2022-tickets-376777340167",
+    "num": 81,
+    "org": {
+      "mod": [
+        "sgorski"
+      ],
+      "photo": [
+        "ijaama"
+      ]
+    },
+    "photo": [
+      ""
+    ],
+    "place": {
+      "addr": "Veerenni 24D, 7th floor, 10135 Tallinn",
+      "loc": "https://goo.gl/maps/CD1wpGzwfSYJF679A",
+      "name": "Wise",
+      "url": "https://wise.com"
+    },
+    "season": 2022,
+    "speeches": [
+      {
+        "descr": {
+          "en": [
+            "The use case is how we reduced one pipeline processing from 6h to 1.5h and improved reliability by using best practices for processing (e.g. iterative), using Spark and improving how we integrate processing and orchestration code for easier testing. And a quick overview how the process could be even better with DBT."
+          ]
+        },
+        "lang": "en",
+        "org": {
+          "cam": [
+            "ijaama"
+          ]
+        },
+        "speakers": [
+          {
+            "image": "ottovonsperling.jpg",
+            "names": {
+              "*": "Otto von Sperling"
+            },
+            "titles": {
+              "*": "Data Scientist @ Wise"
+            },
+            "url": "https://www.linkedin.com/in/otto-von-sperling/"
+          }
+        ],
+        "titles": {
+          "*": "Orchestration of pipelines on large amounts of data: the good, the bad and the ugly"
+        },
+        "youtube": [
+          ""
+        ]
+      },
+      {
+        "descr": {
+          "en": [
+            "Flaky tests may cause plenty of headache to the engineers. Tests that passed just yesterday are now failing all of a sudden. No one chaned anything. It's just the wrong moon phase. It's just the matrix playing jokes on you. Novices just re-run the build, but real pros look into very gist of the problem. Each investigation unfolds a real crime scene. Sometimes it takes years.",
+            "I'll show some flaky tests from real projects and most importantly - how the truth could have been found there. Dedicated to automation and software engineers. To everyone who's into software testing and hard problems."
+          ]
+        },
+        "lang": "en",
+        "org": {
+          "cam": [
+            "ijaama"
+          ]
+        },
+        "speakers": [
+          {
+            "image": "asolntsev.jpg",
+            "names": {
+              "*": "Andrei Solntsev"
+            },
+            "titles": {
+              "*": "Software Engineer @ Codeborne"
+            },
+            "url": "https://www.linkedin.com/in/asolntsev"
+          }
+        ],
+        "titles": {
+          "*": "Flaky Tests"
+        },
+        "youtube": [
+          ""
+        ]
+      }
+    ]
+  },
+  {
+    "datetime": "2020-01-30T19:00:00+02:00",
+    "event": "https://www.eventbrite.com/e/devclub-80-veriff-tickets-91187972681",
+    "num": 80,
+    "org": {
+      "mod": [
+        "sgorski"
+      ],
+      "photo": [
+        "ijaama"
+      ]
+    },
+    "photo": [
+      ""
+    ],
+    "place": {
+      "addr": "Niine 11, 10414 Tallinn",
+      "loc": "https://g.page/veriff-tallinn?share",
+      "name": "Veriff",
+      "url": "https://www.veriff.com"
+    },
+    "season": 2020,
+    "speeches": [
+      {
+        "descr": {
+          "en": [
+            "Tiit will look into evolution of testing as discipline and what might be there in future. Software testing has become integral part of development already long time ago but changes in approaches are becoming more frequent and involve growing need for technical skills and is moving towards production vs pre-release testing."
+          ]
+        },
+        "lang": "en",
+        "org": {
+          "cam": [
+            "ijaama"
+          ]
+        },
+        "speakers": [
+          {
+            "image": "tiit-paananen.jpg",
+            "names": {
+              "*": "Tiit Paananen"
+            },
+            "titles": {
+              "*": "VP of Engineering @ Veriff"
+            },
+            "url": "https://www.linkedin.com/in/tiitpaananen"
+          }
+        ],
+        "titles": {
+          "*": "Evolution of testing"
+        },
+        "youtube": [
+          ""
+        ]
+      },
+      {
+        "descr": {
+          "en": [
+            "Good application logs make debugging issues much easier, but they come with limitations. The usual human-readable prose is hard to parse, search, and correlate. We’ll look at how structured logs and JSON output make your life easier, get metrics straight out of the logs, and see how Veriff's automation team is using it all in practice."
+          ]
+        },
+        "lang": "en",
+        "org": {
+          "cam": [
+            "ijaama"
+          ]
+        },
+        "speakers": [
+          {
+            "image": "rivo-laks.jpeg",
+            "names": {
+              "*": "Rivo Laks"
+            },
+            "titles": {
+              "*": "Software Engineer @ Veriff"
+            },
+            "url": "https://www.linkedin.com/in/rivolaks"
+          }
+        ],
+        "titles": {
+          "*": "Veriff's Journey to Structured Logging"
+        },
+        "youtube": [
+          ""
+        ]
+      },
+      {
+        "descr": {
+          "en": [
+            "There is a wonder-drug, that makes you live longer, enhances your memory and creativity; makes you more attractive, slimmer and lowers food cravings. It also protects you from cancer and dementia, wards off colds, lowers your risk of strokes and heart disease. On top of that - this particular drug makes you more more happy, less depressed and less anxious. Want some?"
+          ]
+        },
+        "lang": "en",
+        "org": {
+          "cam": [
+            "ijaama"
+          ]
+        },
+        "speakers": [
+          {
+            "image": "martin-paroll.jpg",
+            "names": {
+              "*": "Martin Paroll"
+            },
+            "titles": {
+              "*": "IT Services Lead @ Bolt"
+            },
+            "url": "https://www.linkedin.com/in/martinparoll"
+          }
+        ],
+        "titles": {
+          "*": "Why we sleep"
+        },
+        "youtube": [
+          ""
+        ]
+      }
+    ]
+  },
+  {
+    "num": 79,
+    "season": 2020,
+    "datetime": "2019-12-17T19:00:00+02:00",
+    "place": {
+      "addr": "Liivalaia 33, 10118, Tallinn, Estonia", "loc": "https://goo.gl/maps/dW36V6WUFhnTdCw9A",
+      "name": "Olümpia hotell", "url": "https://www.radissonblu.com/en/olumpiahotel-tallinn"
+    },
+    "org": {"mod": ["sgorski"], "photo": ["gbeskin"]},
+    "photo": [""],
+    "event": "https://www.eventbrite.com/e/devclub-79-christmas-special-hotel-olumpia-december-17-tickets-85946112135",
+    "speeches": [
+      {
+        "org": {"cam": ["ijaama"]},
+        "youtube": [""], "lang": "en",
+        "speakers": [{
+          "image": "nsvandrey.jpg",
+          "names": {"*": "Nicholas Shane Vandrey"},
+          "titles": {"*": "BI Team Lead @ Veriff"},
+          "url": "https://www.linkedin.com/in/nicholas-vandrey-97059865/"
+        }],
+        "titles": {"*": "Practical Guide to Going Data-Driven"},
+        "descr": {
+          "en": [
+            "Veriff was started in 2015, but the first BI analyst didn’t join until the end of 2018. Over the last year, we’ve taken huge strides in becoming more data-driven. Now we have a dedicated team of four analysts and data scientists working on empowering Veriff with data. Here’s how we did it, and some of the things we learned on the way."
+          ]
+        }
+      },
+      {
+        "org": {"cam": ["ijaama"]},
+        "youtube": [""], "lang": "en",
+        "speakers": [{
+          "image": "nantiferov.jpg",
+          "names": {"*": "Nicolai Antiferov"},
+          "titles": {"*": "Infrastructure Engineer @ Paxful"},
+          "url": "https://www.linkedin.com/in/nklya/"
+        }],
+        "titles": {"*": "IaC evolution (how to avoid 💩 in the end)"},
+        "descr": {
+          "en": [
+            "It's 2019, and IaC is not a new term at all. But it's still not an easy thing. In this talk we will go through a couple of easy steps that can help in your DevOps journey 😉."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "num": 78,
     "season": 2019,
     "datetime": "2019-11-28T19:00:00+02:00",
