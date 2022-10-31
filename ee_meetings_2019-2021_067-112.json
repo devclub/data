@@ -7,7 +7,7 @@
       "addr": "Veerenni 38, 10138 Tallinn", "loc": "https://goo.gl/maps/k9GwSCJ53rTjNDV76",
       "name": "Twilio", "url": "https://www.twilio.com"
     },
-    "org": {"mod": ["sgorski"], "photo": ["ijaama"]},
+    "org": {"mod": ["asolntsev"], "photo": ["asolntsev"]},
     "photo": ["https://photos.app.goo.gl/vFCvRUAAb7aPNc7GA"],
     "event": "https://www.eventbrite.com/e/devclub-83-twilio-tickets-439941746607",
     "speeches": [
@@ -61,7 +61,7 @@
       "addr": "Niine 11, 10414 Tallinn", "loc": "https://g.page/veriff-tallinn",
       "name": "Veriff", "url": "https://veriff.com"
     },
-    "org": {"mod": ["sgorski"], "photo": ["ijaama"]},
+    "org": {"mod": ["sgorski"], "photo": ["gbeskin"]},
     "photo": ["https://photos.app.goo.gl/pAWrQpwFhcMVQ14Q6"],
     "event": "https://www.eventbrite.com/e/devclub-82-veriff-tickets-396611554837",
     "speeches": [
@@ -115,7 +115,7 @@
       "addr": "Veerenni 24D, 7th floor, 10135 Tallinn", "loc": "https://goo.gl/maps/CD1wpGzwfSYJF679A",
       "name": "Wise", "url": "https://wise.com"
     },
-    "org": {"mod": ["sgorski"], "photo": ["ijaama"]},
+    "org": {"mod": ["sgorski"], "photo": ["gbeskin"]},
     "photo": ["https://photos.app.goo.gl/4WQYW8S2Gg8K5kvW8"],
     "event": "https://www.eventbrite.com/e/devclub-80-wise-5th-july-2022-tickets-376777340167",
     "speeches": [
@@ -170,7 +170,7 @@
       "addr": "Niine 11, 10414 Tallinn", "loc": "https://g.page/veriff-tallinn?share",
       "name": "Veriff", "url": "https://www.veriff.com"
     },
-    "org": {"mod": ["sgorski"], "photo": ["ijaama"]},
+    "org": {"mod": ["sgorski"], "photo": ["klinnik"]},
     "photo": ["https://photos.app.goo.gl/Z5yECcaCWKWhh8ACA"],
     "event": "https://www.eventbrite.com/e/devclub-80-veriff-tickets-91187972681",
     "speeches": [
