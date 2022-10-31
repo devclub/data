@@ -262,120 +262,74 @@
     ]
   },
   {
-    "datetime": "2020-01-30T19:00:00+02:00",
-    "event": "https://www.eventbrite.com/e/devclub-80-veriff-tickets-91187972681",
     "num": 80,
-    "org": {
-      "mod": [
-        "sgorski"
-      ],
-      "photo": [
-        "ijaama"
-      ]
-    },
-    "photo": [
-      ""
-    ],
-    "place": {
-      "addr": "Niine 11, 10414 Tallinn",
-      "loc": "https://g.page/veriff-tallinn?share",
-      "name": "Veriff",
-      "url": "https://www.veriff.com"
-    },
     "season": 2020,
+    "datetime": "2020-01-30T19:00:00+02:00",
+    "place": {
+      "addr": "Niine 11, 10414 Tallinn", "loc": "https://g.page/veriff-tallinn?share",
+      "name": "Veriff", "url": "https://www.veriff.com"
+    },
+    "org": {"mod": ["sgorski"], "photo": ["ijaama"]},
+    "photo": ["https://photos.app.goo.gl/Z5yECcaCWKWhh8ACA"],
+    "event": "https://www.eventbrite.com/e/devclub-80-veriff-tickets-91187972681",
     "speeches": [
       {
+        "org": {"cam": ["ijaama"], "edit": ["ijaama"]},
+        "youtube": ["kYXIJKGvvLE"], "lang": "en",
+        "speakers": [{
+            "image": "tiit-paananen.jpg",
+            "names": {"*": "Tiit Paananen"},
+            "titles": {"*": "VP of Engineering @ Veriff"},
+            "url": "https://www.linkedin.com/in/tiitpaananen"
+          }],
+        "titles": {
+          "*": "Evolution of testing"
+        }
         "descr": {
           "en": [
             "Tiit will look into evolution of testing as discipline and what might be there in future. Software testing has become integral part of development already long time ago but changes in approaches are becoming more frequent and involve growing need for technical skills and is moving towards production vs pre-release testing."
           ]
-        },
-        "lang": "en",
-        "org": {
-          "cam": [
-            "ijaama"
-          ]
-        },
-        "speakers": [
-          {
-            "image": "tiit-paananen.jpg",
-            "names": {
-              "*": "Tiit Paananen"
-            },
-            "titles": {
-              "*": "VP of Engineering @ Veriff"
-            },
-            "url": "https://www.linkedin.com/in/tiitpaananen"
-          }
-        ],
-        "titles": {
-          "*": "Evolution of testing"
-        },
-        "youtube": [
-          ""
-        ]
+        }
       },
       {
-        "descr": {
-          "en": [
-            "Good application logs make debugging issues much easier, but they come with limitations. The usual human-readable prose is hard to parse, search, and correlate. We’ll look at how structured logs and JSON output make your life easier, get metrics straight out of the logs, and see how Veriff's automation team is using it all in practice."
-          ]
-        },
-        "lang": "en",
-        "org": {
-          "cam": [
-            "ijaama"
-          ]
-        },
+        "org": {"cam": ["ijaama"], "edit": ["ijaama"]},
+        "youtube": ["7O_PRVk2ZnQ"], "lang": "en",
         "speakers": [
           {
             "image": "rivo-laks.jpeg",
-            "names": {
-              "*": "Rivo Laks"
-            },
-            "titles": {
-              "*": "Software Engineer @ Veriff"
-            },
+            "names": {"*": "Rivo Laks"},
+            "titles": {"*": "Software Engineer @ Veriff"},
             "url": "https://www.linkedin.com/in/rivolaks"
           }
         ],
         "titles": {
           "*": "Veriff's Journey to Structured Logging"
         },
-        "youtube": [
-          ""
-        ]
-      },
-      {
         "descr": {
           "en": [
-            "There is a wonder-drug, that makes you live longer, enhances your memory and creativity; makes you more attractive, slimmer and lowers food cravings. It also protects you from cancer and dementia, wards off colds, lowers your risk of strokes and heart disease. On top of that - this particular drug makes you more more happy, less depressed and less anxious. Want some?"
+            "Good application logs make debugging issues much easier, but they come with limitations. The usual human-readable prose is hard to parse, search, and correlate. We’ll look at how structured logs and JSON output make your life easier, get metrics straight out of the logs, and see how Veriff's automation team is using it all in practice."
           ]
-        },
-        "lang": "en",
-        "org": {
-          "cam": [
-            "ijaama"
-          ]
-        },
+        }
+      },
+      {
+        "org": {"cam": ["ijaama"], "edit": ["ijaama"]},
+        "youtube": ["b8mIyn-tQQk"], "lang": "en",
         "speakers": [
           {
             "image": "martin-paroll.jpg",
-            "names": {
-              "*": "Martin Paroll"
-            },
-            "titles": {
-              "*": "IT Services Lead @ Bolt"
-            },
+            "names": {"*": "Martin Paroll"},
+            "titles": {"*": "IT Services Lead @ Bolt"},
             "url": "https://www.linkedin.com/in/martinparoll"
           }
         ],
         "titles": {
           "*": "Why we sleep"
         },
-        "youtube": [
-          ""
-        ]
+        "descr": {
+          "en": [
+            "There is a wonder-drug, that makes you live longer, enhances your memory and creativity; makes you more attractive, slimmer and lowers food cravings. It also protects you from cancer and dementia, wards off colds, lowers your risk of strokes and heart disease. On top of that - this particular drug makes you more more happy, less depressed and less anxious. Want some?"
+          ]
+        }
       }
     ]
   },
