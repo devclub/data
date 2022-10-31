@@ -174,90 +174,59 @@
     ]
   },
   {
-    "datetime": "2022-07-05T19:00:00+03:00",
-    "event": "https://www.eventbrite.com/e/devclub-80-wise-5th-july-2022-tickets-376777340167",
     "num": 81,
-    "org": {
-      "mod": [
-        "sgorski"
-      ],
-      "photo": [
-        "ijaama"
-      ]
-    },
-    "photo": [
-      ""
-    ],
+    "season": 2022,
+    "datetime": "2022-07-05T19:00:00+03:00",
     "place": {
       "addr": "Veerenni 24D, 7th floor, 10135 Tallinn",
       "loc": "https://goo.gl/maps/CD1wpGzwfSYJF679A",
       "name": "Wise",
       "url": "https://wise.com"
     },
-    "season": 2022,
+    "org": {"mod": ["sgorski"], "photo": ["ijaama"]},
+    "photo": ["https://photos.app.goo.gl/4WQYW8S2Gg8K5kvW8"],
+    "event": "https://www.eventbrite.com/e/devclub-80-wise-5th-july-2022-tickets-376777340167",
     "speeches": [
       {
-        "descr": {
-          "en": [
-            "The use case is how we reduced one pipeline processing from 6h to 1.5h and improved reliability by using best practices for processing (e.g. iterative), using Spark and improving how we integrate processing and orchestration code for easier testing. And a quick overview how the process could be even better with DBT."
-          ]
-        },
-        "lang": "en",
-        "org": {
-          "cam": [
-            "ijaama"
-          ]
-        },
+        "org": {"cam": ["ijaama"], "edit": ["ijaama"]},
+        "youtube": ["lOiiaudJ7mE"], "lang": "en",
         "speakers": [
           {
             "image": "ottovonsperling.jpg",
-            "names": {
-              "*": "Otto von Sperling"
-            },
-            "titles": {
-              "*": "Data Scientist @ Wise"
-            },
+            "names": {"*": "Otto von Sperling"},
+            "titles": {"*": "Data Scientist @ Wise"},
             "url": "https://www.linkedin.com/in/otto-von-sperling/"
           }
         ],
         "titles": {
           "*": "Orchestration of pipelines on large amounts of data: the good, the bad and the ugly"
         },
-        "youtube": [
-          ""
-        ]
-      },
-      {
         "descr": {
           "en": [
-            "Flaky tests may cause plenty of headache to the engineers. Tests that passed just yesterday are now failing all of a sudden. No one chaned anything. It's just the wrong moon phase. It's just the matrix playing jokes on you. Novices just re-run the build, but real pros look into very gist of the problem. Each investigation unfolds a real crime scene. Sometimes it takes years.",
-            "I'll show some flaky tests from real projects and most importantly - how the truth could have been found there. Dedicated to automation and software engineers. To everyone who's into software testing and hard problems."
+            "The use case is how we reduced one pipeline processing from 6h to 1.5h and improved reliability by using best practices for processing (e.g. iterative), using Spark and improving how we integrate processing and orchestration code for easier testing. And a quick overview how the process could be even better with DBT."
           ]
-        },
-        "lang": "en",
-        "org": {
-          "cam": [
-            "ijaama"
-          ]
-        },
+        }
+      },
+      {
+        "org": {"cam": ["ijaama"], "edit": ["ijaama"]},
+        "youtube": ["c5XT2v5gRY"], "lang": "en",
         "speakers": [
           {
             "image": "asolntsev.jpg",
-            "names": {
-              "*": "Andrei Solntsev"
-            },
-            "titles": {
-              "*": "Software Engineer @ Codeborne"
-            },
+            "names": {"*": "Andrei Solntsev"},
+            "titles": {"*": "Software Engineer @ Codeborne"},
             "url": "https://www.linkedin.com/in/asolntsev"
           }
         ],
         "titles": {
           "*": "Flaky Tests"
         },
-        "youtube": [
-          ""
-        ]
+        "descr": {
+          "en": [
+            "Flaky tests may cause plenty of headache to the engineers. Tests that passed just yesterday are now failing all of a sudden. No one chaned anything. It's just the wrong moon phase. It's just the matrix playing jokes on you. Novices just re-run the build, but real pros look into very gist of the problem. Each investigation unfolds a real crime scene. Sometimes it takes years.",
+            "I'll show some flaky tests from real projects and most importantly - how the truth could have been found there. Dedicated to automation and software engineers. To everyone who's into software testing and hard problems."
+          ]
+        }
       }
     ]
   },
@@ -284,7 +253,7 @@
           }],
         "titles": {
           "*": "Evolution of testing"
-        }
+        },
         "descr": {
           "en": [
             "Tiit will look into evolution of testing as discipline and what might be there in future. Software testing has become integral part of development already long time ago but changes in approaches are becoming more frequent and involve growing need for technical skills and is moving towards production vs pre-release testing."
