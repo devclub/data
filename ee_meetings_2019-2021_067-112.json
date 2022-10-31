@@ -1,175 +1,109 @@
 [
   {
-    "datetime": "2022-10-18T19:00:00+03:00",
-    "event": "https://www.eventbrite.com/e/devclub-83-twilio-tickets-439941746607",
     "num": 83,
-    "org": {
-      "mod": [
-        "sgorski"
-      ],
-      "photo": [
-        "ijaama"
-      ]
-    },
-    "photo": [
-      ""
-    ],
-    "place": {
-      "addr": "Veerenni 38, 10138 Tallinn",
-      "loc": "https://goo.gl/maps/k9GwSCJ53rTjNDV76",
-      "name": "Twilio",
-      "url": "https://www.twilio.com"
-    },
     "season": 2022,
+    "datetime": "2022-10-18T19:00:00+03:00",
+    "place": {
+      "addr": "Veerenni 38, 10138 Tallinn", "loc": "https://goo.gl/maps/k9GwSCJ53rTjNDV76",
+      "name": "Twilio", "url": "https://www.twilio.com"
+    },
+    "org": {"mod": ["sgorski"], "photo": ["ijaama"]},
+    "photo": ["https://photos.app.goo.gl/vFCvRUAAb7aPNc7GA"],
+    "event": "https://www.eventbrite.com/e/devclub-83-twilio-tickets-439941746607",
     "speeches": [
       {
-        "descr": {
-          "en": [
-            "Kubernetes is known to be a myriad of things, and when used in the appropriate context it provides the builder with multiple layers of helpful tooling. In this K8S day, Burak will first provide an introduction to the domain of K8S, then dive into the details of its innate high-availability and security tooling. He will tell us about how he built such an application that spanned millions of active users."
-          ]
-        },
-        "lang": "en",
-        "org": {
-          "cam": [
-            "ijaama"
-          ]
-        },
+        "org": {"cam": ["ijaama"], "edit": ["ijaama"]},
+        "youtube": [""], "lang": "en",
         "speakers": [
           {
             "image": "bcun.jpg",
-            "names": {
-              "*": "Burak Çün"
-            },
-            "titles": {
-              "*": "Senior Software Engineer @ Twilio"
-            },
+            "names": {"*": "Burak Çün"},
+            "titles": {"*": "Senior Software Engineer @ Twilio"},
             "url": "https://www.linkedin.com/in/burakcun/"
           }
         ],
         "titles": {
           "*": "Kubernetes: when high-availability meets security"
         },
-        "youtube": [
-          ""
-        ]
-      },
-      {
         "descr": {
           "en": [
-            "We started experimenting with Kubernetes in 2016 in Telia. Certainly still belive this is the way to go and the first target for new application deployments. It has been a long journey, let’s see what we’ve come up with and where are we struggling in DevSecOps teams."
+            "Kubernetes is known to be a myriad of things, and when used in the appropriate context it provides the builder with multiple layers of helpful tooling. In this K8S day, Burak will first provide an introduction to the domain of K8S, then dive into the details of its innate high-availability and security tooling. He will tell us about how he built such an application that spanned millions of active users."
           ]
-        },
-        "lang": "en",
-        "org": {
-          "cam": [
-            "ijaama"
-          ]
-        },
+        }
+      },
+      {
+        "org": {"cam": ["ijaama"], "edit": ["ijaama"]},
+        "youtube": [""], "lang": "en",
         "speakers": [
           {
             "image": "rrandmaa.jpg",
-            "names": {
-              "*": "Ranno Randmaa"
-            },
-            "titles": {
-              "*": "IT Architect @ Telia"
-            },
+            "names": {"*": "Ranno Randmaa"},
+            "titles": {"*": "IT Architect @ Telia"},
             "url": "https://www.linkedin.com/in/rannorandmaa/"
           }
         ],
         "titles": {
           "*": "Telia’s DevSecOps road to Kubernetes"
         },
-        "youtube": [
-          ""
-        ]
+        "descr": {
+          "en": [
+            "We started experimenting with Kubernetes in 2016 in Telia. Certainly still belive this is the way to go and the first target for new application deployments. It has been a long journey, let’s see what we’ve come up with and where are we struggling in DevSecOps teams."
+          ]
+        }
       }
     ]
   },
   {
-    "datetime": "2022-08-09T19:00:00+03:00",
-    "event": "https://www.eventbrite.com/e/devclub-82-veriff-tickets-396611554837",
     "num": 82,
-    "org": {
-      "mod": [
-        "sgorski"
-      ],
-      "photo": [
-        "ijaama"
-      ]
-    },
-    "photo": [
-      ""
-    ],
-    "place": {
-      "addr": "Niine 11, 10414 Tallinn",
-      "loc": "https://g.page/veriff-tallinn",
-      "name": "Veriff",
-      "url": "https://veriff.com"
-    },
     "season": 2022,
+    "datetime": "2022-08-09T19:00:00+03:00",
+    "place": {
+      "addr": "Niine 11, 10414 Tallinn", "loc": "https://g.page/veriff-tallinn",
+      "name": "Veriff", "url": "https://veriff.com"
+    },
+    "org": {"mod": ["sgorski"], "photo": ["ijaama"]},
+    "photo": ["https://photos.app.goo.gl/pAWrQpwFhcMVQ14Q6"],
+    "event": "https://www.eventbrite.com/e/devclub-82-veriff-tickets-396611554837",
     "speeches": [
       {
-        "descr": {
-          "en": [
-            "Modern large-scale applications are a complex beast. You’ll often see them spanning hundreds of microservices, multiple data storage solutions and a variety of user-facing clients. End-to-end testing is a great tool to ensure all of the pieces play well together in concert. Join us in this from-the-trenches talk for an overview how Veriff handles system-wide end-to-end testing, the challenges we faced while building it and lessons learned after making E2E part of our regular deploy pipeline."
-          ]
-        },
-        "lang": "en",
-        "org": {
-          "cam": [
-            "ijaama"
-          ]
-        },
+        "org": {"cam": ["ijaama"], "edit": ["ijaama"]},
+        "youtube": ["QnNOx8BUQi0"], "lang": "en",
         "speakers": [
           {
             "image": "mpink.jpg",
-            "names": {
-              "*": "Madis Pink"
-            },
-            "titles": {
-              "*": "Senior Developer Experience Engineer @ Veriff"
-            },
+            "names": {"*": "Madis Pink"},
+            "titles": {"*": "Senior Developer Experience Engineer @ Veriff"},
             "url": "https://www.linkedin.com/in/madisp/"
           }
         ],
         "titles": {
           "*": "System-wide end-to-end testing at Veriff"
         },
-        "youtube": [
-          ""
-        ]
-      },
-      {
         "descr": {
           "en": [
-            "Gleb spent the past decade training people to speak with clarity and meaning to others, from founders to engineers to scientists and designers. He learned the hard way that the role of a coach and a leader is to listen and ask questions. Fundamentally, these skills can be broken down into components, learned, and mastered. Mastery demands a lot of candid feedback—which is why the session will be interactive and practical."
+            "Modern large-scale applications are a complex beast. You’ll often see them spanning hundreds of microservices, multiple data storage solutions and a variety of user-facing clients. End-to-end testing is a great tool to ensure all of the pieces play well together in concert. Join us in this from-the-trenches talk for an overview how Veriff handles system-wide end-to-end testing, the challenges we faced while building it and lessons learned after making E2E part of our regular deploy pipeline."
           ]
-        },
-        "lang": "en",
-        "org": {
-          "cam": [
-            "ijaama"
-          ]
-        },
+        }
+      },
+      {
+        "org": {"cam": ["ijaama"], "edit": ["ijaama"]},
+        "youtube": ["jw88zeDH4lU"], "lang": "en",
         "speakers": [
           {
             "image": "gmaltsev.jpg",
-            "names": {
-              "*": "Gleb Maltsev"
-            },
-            "titles": {
-              "*": "Data-Driven Pitch Coach"
-            },
+            "names": {"*": "Gleb Maltsev"},
+            "titles": {"*": "Data-Driven Pitch Coach"},
             "url": "https://www.linkedin.com/in/glebmaltsev/"
           }
         ],
         "titles": {
           "*": "Listen. Speak. Coach. Repeat: the basics of candid conversations"
         },
-        "youtube": [
-          ""
-        ]
+        "descr": {
+          "en": [
+            "Gleb spent the past decade training people to speak with clarity and meaning to others, from founders to engineers to scientists and designers. He learned the hard way that the role of a coach and a leader is to listen and ask questions. Fundamentally, these skills can be broken down into components, learned, and mastered. Mastery demands a lot of candid feedback—which is why the session will be interactive and practical."
+          ]
+        }
       }
     ]
   },
@@ -178,10 +112,8 @@
     "season": 2022,
     "datetime": "2022-07-05T19:00:00+03:00",
     "place": {
-      "addr": "Veerenni 24D, 7th floor, 10135 Tallinn",
-      "loc": "https://goo.gl/maps/CD1wpGzwfSYJF679A",
-      "name": "Wise",
-      "url": "https://wise.com"
+      "addr": "Veerenni 24D, 7th floor, 10135 Tallinn", "loc": "https://goo.gl/maps/CD1wpGzwfSYJF679A",
+      "name": "Wise", "url": "https://wise.com"
     },
     "org": {"mod": ["sgorski"], "photo": ["ijaama"]},
     "photo": ["https://photos.app.goo.gl/4WQYW8S2Gg8K5kvW8"],
