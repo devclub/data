@@ -670,8 +670,13 @@
         "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
-        "youtube": ["SW_7-3UQTSQ"],
+        "youtubeRemoved": ["SW_7-3UQTSQ"],
         "origVid": ["https://vimeo.com/85480224"],
+        "info": {
+          "ru": "Антон Архипов, не уважая труд других организаторов, удалил это видео из базы.",
+          "en": "Anton Arhipov, not respecting the work of other organizers, removed this video from the database.",
+          "et": "Anton Arhipov, austamata teiste korraldajate tööd, eemaldas selle video andmebaasist."
+        },
         "speakers": [
           {
             "names": {"*": "Fillip Keks", "ru": "Филипп Кекс"},
