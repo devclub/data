@@ -84,16 +84,16 @@
         "youtube": [],
         "speakers": [
           {
-            "names": {"*": "Anton Arhipov", "ru": "Антон Архипов"},
-            "titles": {"*": "Developer Advocate @ JetBrains"},
-            "url": "https://ee.linkedin.com/in/antonarhipov",
-            "image": "aarhipov.jpg"
+            "names": {"*": "Ernest Bondarenko", "ru": "Эрнест Бондаренко"},
+            "titles": {"*": "Founder @ Food Filter"},
+            "url": "https://www.linkedin.com/in/ernest-bondarenko-a8ab12120",
+            "image": "ebondarenko.jpg"
           }
         ],
-        "titles": {"ru": "???"},
+        "titles": {"ru": ""},
         "descr": {
           "ru": [
-            "???"
+            ""
           ]
         }
       },
@@ -104,16 +104,56 @@
         "youtube": [],
         "speakers": [
           {
-            "names": {"*": "Anton Arhipov", "ru": "Антон Архипов"},
-            "titles": {"*": "Developer Advocate @ JetBrains"},
-            "url": "https://ee.linkedin.com/in/antonarhipov",
-            "image": "aarhipov.jpg"
+            "names": {"*": "Ivan Ponomarjov", "ru": "Иван Пономарёв"},
+            "titles": {"*": "Staff Engineer @ Synthesized.io / Преподаватель @ Eesti Ettevõtluskõrgkool Mainor"},
+            "url": "https://inponomarev.ru",
+            "image": "iponomarjov.jpg"
           }
         ],
-        "titles": {"ru": "Новинки от JetBrains: Fleet, Qodana, TeamCity Pipelines и ещё кое-что"},
+        "titles": {"ru": ""},
         "descr": {
           "ru": [
-            "Как и следует из названия, Антон расскажет о новинках от JetBrains."
+            ""
+          ]
+        }
+      },
+      {
+        "org": {"cam": [""], "edit": [""]},
+        "lang": "ru",
+        "labels": [],
+        "youtube": [],
+        "speakers": [
+          {
+            "names": {"*": "Andrei Solntsev", "ru": "Андрей Солнцев"},
+            "titles": {"*": "Software developer @ Codeborne"},
+            "url": "https://ee.linkedin.com/in/asolntsev",
+            "image": "asolntsev_2018.jpg"
+          }
+        ],
+        "titles": {"ru": ""},
+        "descr": {
+          "ru": [
+            ""
+          ]
+        }
+      },
+      {
+        "org": {"cam": [""], "edit": [""]},
+        "lang": "ru",
+        "labels": [],
+        "youtube": [],
+        "speakers": [
+          {
+            "names": {"*": "Ilja Zverev", "ru": "Илья Зверев"},
+            "url": "http://ilya.zverev.info/",
+            "titles": {"ru": "Редактор блога про OpenStreetMap"},
+            "image": "izverev.jpg"
+          }
+        ],
+        "titles": {"ru": ""},
+        "descr": {
+          "ru": [
+            ""
           ]
         }
       }
