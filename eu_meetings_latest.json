@@ -124,6 +124,26 @@
         "youtube": [],
         "speakers": [
           {
+            "names": {"*": "Jevgeni Goloborodko", "ru": "Евгений Голобородько"},
+            "titles": {"*": "Software Architect & Founder @ Digital Magic Ltd"},
+            "url": "https://ee.linkedin.com/in/jevgeni-goloborodko-65a048a",
+            "image": "jgoloborodko_2020.jpg"
+          }
+        ],
+        "titles": {"ru": ""},
+        "descr": {
+          "ru": [
+            ""
+          ]
+        }
+      },
+      {
+        "org": {"cam": [""], "edit": [""]},
+        "lang": "ru",
+        "labels": [],
+        "youtube": [],
+        "speakers": [
+          {
             "names": {"*": "Andrei Solntsev", "ru": "Андрей Солнцев"},
             "titles": {"*": "Software developer @ Codeborne"},
             "url": "https://ee.linkedin.com/in/asolntsev",
