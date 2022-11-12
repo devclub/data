@@ -2178,9 +2178,9 @@
         "youtubeRemoved": ["mG2irGDbuRA"],
         "origVid": ["https://www.youtube.com/watch?v=nK9vvySp8Rc"],
         "info": {
-          "ru": "Антон Архипов, не уважая труд других организаторов, удалил это видео из базы.",
-          "en": "Anton Arhipov, not respecting the work of other organizers, removed this video from the database.",
-          "et": "Anton Arhipov, austamata teiste korraldajate tööd, eemaldas selle video andmebaasist."
+          "ru": "Из-за глупости одного из организаторов видео больше нет в базе.",
+          "en": "Due to the activity of one of the organizers, the video is no longer in the database.",
+          "et": "Ühe korraldaja tegevuse tõttu pole videot enam andmebaasis."
         },
         "speakers": [
           {
