@@ -38,16 +38,16 @@
         "youtube": [],
         "speakers": [
           {
-            "names": {"*": "Ivan Ponomarjov", "ru": "Иван Пономарёв"},
-            "titles": {"*": "Staff Engineer @ Synthesized.io / Преподаватель @ Eesti Ettevõtluskõrgkool Mainor"},
-            "url": "https://inponomarev.ru",
-            "image": "iponomarjov.jpg"
+            "names": {"*": "Jevgeni Goloborodko", "ru": "Евгений Голобородько"},
+            "titles": {"*": "Software Architect & Founder @ Digital Magic Ltd"},
+            "url": "https://ee.linkedin.com/in/jevgeni-goloborodko-65a048a",
+            "image": "jgoloborodko_2020.jpg"
           }
         ],
-        "titles": {"ru": ""},
+        "titles": {"ru": "Рукожопство как образ жизни"},
         "descr": {
           "ru": [
-            ""
+            "(15 минут) Краткий рассказ о том, куда делось качество в софтверной индустрии или почему Скайнет нас не победит."
           ]
         }
       },
@@ -58,10 +58,10 @@
         "youtube": [],
         "speakers": [
           {
-            "names": {"*": "Jevgeni Goloborodko", "ru": "Евгений Голобородько"},
-            "titles": {"*": "Software Architect & Founder @ Digital Magic Ltd"},
-            "url": "https://ee.linkedin.com/in/jevgeni-goloborodko-65a048a",
-            "image": "jgoloborodko_2020.jpg"
+            "names": {"*": "Ivan Ponomarjov", "ru": "Иван Пономарёв"},
+            "titles": {"*": "Staff Engineer @ Synthesized.io / Преподаватель @ Eesti Ettevõtluskõrgkool Mainor"},
+            "url": "https://inponomarev.ru",
+            "image": "iponomarjov.jpg"
           }
         ],
         "titles": {"ru": ""},
