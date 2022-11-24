@@ -24,6 +24,7 @@
             "image": "vtyutyunkov.jpg"
           }
         ],
+        "presentations": ["20221117_vtyutyunkov_microservices.pdf"],
         "titles": {"ru": "К микросервисам через reverse engineering и кодогенерацию", "*": "Through reverse engineering and code generation to microservices"},
         "descr": {
           "ru": [
@@ -48,6 +49,7 @@
             "image": "ykhonski.jpg"
           }
         ],
+        "presentations": ["20221117_yhonski_db.pdf"],
         "titles": {"ru": "Блокировки и многоверсионность данных в PostgreSQL", "*": "Locks and versioning in the database transactions"},
         "descr": {
           "ru": [
