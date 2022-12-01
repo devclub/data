@@ -12,10 +12,10 @@
     "event": "https://www.eventbrite.com/e/devclubeu-160-tickets-464919856807",
     "speeches": [
       {
-        "org": {"cam": [""], "edit": [""]},
+        "org": {"cam": ["astalnuhhin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": [],
-        "youtube": [],
+        "youtube": ["Smt2mwLsSKs"],
         "speakers": [
           {
             "names": {"*": "Vyacheslav Tyutyunkov", "ru": "Вячеслав Тютюньков"},
@@ -37,10 +37,10 @@
         }
       },
       {
-        "org": {"cam": [""], "edit": [""]},
+        "org": {"cam": ["astalnuhhin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": [],
-        "youtube": [],
+        "youtube": ["91dQuZdwPF0"],
         "speakers": [
           {
             "names": {"*": "Yan Khonski", "ru": "Ян Хонский"},
