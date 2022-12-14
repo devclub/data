@@ -29,6 +29,11 @@
   ],
   "companies": [
     {
+      "name": "Eesti Energia",
+      "logo": "eenergia.png",
+      "url": "https://www.energia.ee"
+    },
+    {
       "name": "Põhja Öökull",
       "logo": "pohjaookull2.png",
       "url": "https://www.facebook.com/pohjaookull"
