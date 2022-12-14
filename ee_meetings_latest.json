@@ -4,7 +4,7 @@
     "season": 2022,
     "datetime": "2022-12-20T19:00:00+02:00",
     "place": {
-      "addr": "Lelle 22, 11318 Tallinn", "loc": "https://goo.gl/maps/guex438u13RLeFoL9",
+      "addr": "Veskiposti 2, 10138 Tallinn", "loc": "https://goo.gl/maps/TytqcJJX2o4PfaYT8",
       "name": "Eesti Energia", "url": "https://www.energia.ee/"
     },
     "org": {"mod": ["klinnik"], "photo": ["gbeshkin"]},
