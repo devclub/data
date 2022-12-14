@@ -1,5 +1,59 @@
 [
   {
+    "num": 85,
+    "season": 2022,
+    "datetime": "2022-12-20T19:00:00+02:00",
+    "place": {
+      "addr": "Lelle 22, 11318 Tallinn", "loc": "https://goo.gl/maps/guex438u13RLeFoL9",
+      "name": "Eesti Energia", "url": "https://www.energia.ee/"
+    },
+    "org": {"mod": ["klinnik"], "photo": ["gbeshkin"]},
+    "photo": [],
+    "event": "",
+    "speeches": [
+      {
+        "org": {"cam": [], "edit": []},
+        "youtube": [""], "lang": "en",
+        "speakers": [
+          {
+            "image": "avanem.jpg",
+            "names": {"*": "Andri Vanem"},
+            "titles": {"*": "Head of Software Development @ Eesti Energia"},
+            "url": "https://www.linkedin.com/in/andri-vanem/"
+          }
+        ],
+        "titles": {
+          "*": "50 shades of Software Development in Eesti Energia"
+        },
+        "descr": {
+          "en": [
+            "We will take the journey how Eesti Energia reached current state of Software development, what has been the pitfalls and success factors both on technical and human side."
+          ]
+        }
+      },
+      {
+        "org": {"cam": [], "edit": []},
+        "youtube": [""], "lang": "en",
+        "speakers": [
+          {
+            "image": "akurapov.jpg",
+            "names": {"*": "Artjom Kurapov"},
+            "titles": {"*": "Principal Software Engineer @ Pipedrive"},
+            "url": "https://www.linkedin.com/in/kurapov/"
+          }
+        ],
+        "titles": {
+          "*": "Scaling GraphQL subscriptions"
+        },
+        "descr": {
+          "en": [
+            "Artjom will share insights into scaling, enriching and efficiently delivering events to the frontend via GraphQL subscriptions, WebSockets, Redis pub-sub and Kafka to have an interactive web app experience."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "num": 84,
     "season": 2022,
     "datetime": "2022-11-03T19:00:00+02:00",
