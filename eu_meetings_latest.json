@@ -1,15 +1,15 @@
 [
   {
     "num": 162,
-    "datetime": "2022-12-15T19:00:00+02:00",
+    "datetime": "2023-01-31T19:00:00+02:00",
     "season": 2023,
     "place": {
       "name": "von Stackelberg", "loc": "https://www.google.com/maps/place/von+Stackelberg+Hotel+Tallinn/@59.4346861,24.7327445,17z/data=!3m1!4b1!4m9!3m8!1s0x0:0xf97f297140aa2b60!5m3!1s2023-03-25!4m1!1i2!8m2!3d59.434712!4d24.7324699",
       "addr": "Toompuiestee 23, 10130 Tallinn", "url": "https://www.facebook.com/pohjaookull"
     },
-    "org": {"mod": ["astalnuhhin"], "photo": [""]},
+    "org": {"mod": ["aarhipov"], "photo": ["klinnik"]},
     "photo": [],
-    "event": "https://www.eventbrite.com/e/devclubeu-161-tickets-483696839267",
+    "event": "",
     "speeches": [
       {
         "org": {"cam": [""], "edit": [""]},
