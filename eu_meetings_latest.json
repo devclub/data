@@ -1,7 +1,7 @@
 [
   {
-    "num": 162,
-    "datetime": "2023-01-31T19:00:00+02:00",
+    "num": 163,
+    "datetime": "2023-02-28T19:00:00+02:00",
     "season": 2023,
     "place": {
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
@@ -9,7 +9,7 @@
     },
     "org": {"mod": ["aarhipov"], "photo": ["klinnik"]},
     "photo": [],
-    "event": "https://www.eventbrite.com/e/devclubeu-162-tickets-517364038767",
+    "event": "https://www.eventbrite.com/e/devclubeu-163-TODO",
     "speeches": [
       {
         "org": {"cam": [""], "edit": [""]},
@@ -18,16 +18,16 @@
         "youtube": [],
         "speakers": [
           {
-            "names": {"*": "Sergey Kibish", "ru": "Сергей Кибиш"},
-            "titles": {"*": "Senior Solutions Architect @ C.T.Co"},
-            "url": "https://sergeykibish.com/",
-            "image": "skibish.jpg"
+            "names": {"*": "Vladimir Ivanov", "ru": "Владимир Иванов"},
+            "titles": {"*": "Senior Engineering Manager @ Bolt"},
+            "url": "https://vvsevolodovich.dev/",
+            "image": "vivanov.jpg"
           }
         ],
-        "titles": {"ru": "Кто такой этот ваш Фулл-Стек разработчик?"},
+        "titles": {"ru": "Архитектор ПО - роль или должность?"},
         "descr": {
           "ru": [
-            "В мире разработки очень много разных специализаций. Те кто сзади (backend), спереди (frontend), управляющие (managers) и другие. Более-менее им всем можно дать определение которое опишет, чем же они занимаются. Но есть один вид разработчиков, которых все хотят, но с ними не так всё просто — это Фулл-Стек. Кто они? Чем они занимаются? Зачем они? Это элита или просто тот в кого всё кидают и он делает? Давайте попробуем разобраться и наконец поймём кто это."
+            "В некоторых компаниях вы встретите формальные должности Архитекторов ПО, Архитекторов решений или Архитекторов Данных. В других нет архитекторов - зато там часто можно найти Стафф или Принципал инженеров. Мы поговорим, что за обязанностей у архитекторов и нужна ли такая должность в современной технологической компании."
           ]
         }
       },
@@ -38,16 +38,16 @@
         "youtube": [],
         "speakers": [
           {
-            "names": {"*": "Sergey Grinev", "ru": "Сергей Гринев"},
-            "titles": {"*": "Managing Director Azul Estonia"},
-            "url": "https://www.linkedin.com/in/sergeigrinev/",
-            "image": "sgrinev.jpg"
+            "names": {"*": "Oleg Shelajev", "ru": "Олег Шелаев"},
+            "titles": {"*": "Developer Advocate @ AtomicJar"},
+            "url": "linkedin.com/in/shelajev",
+            "image": "oshelaev.jpg"
           }
         ],
-        "titles": {"ru": "Brewing OpenJDK: what's behind your morning Java"},
+        "titles": {"ru": "Mastering Testcontainers for better integration tests"},
         "descr": {
           "ru": [
-            "Язык программирования Java когда-то был связан только с компанией Sun Microsystems, однако сейчас существует множество компаний, которые занимаются разработкой open-source продукта OpenJDK. Многие из этих компаний выпускают собственные билды OpenJDK. В данном докладе с помощью компании Azul я расскажу, почему важно наличие разнообразие вендоров OpenJDK, в чём тут коммерческая выгода, кто может эти заниматься, и зачем для выпуска билдов OpenJDK мы гоняем миллионы тестов в день"
+            "Testcontainers — отличный способ создать надежную тестовую среду. Эта библиотека позволяет создавать программируемые одноразовые контейнеры которые отлично подходят для интеграционных тестов. Мы подробно рассмотрим Testcontainers и узнаем как лучше всего отлаживать то, что происходит в контейнере, как строить более сложные топологии сервисов, и как можно использовать Testcontainers для локальной разработки в дополнение к интеграционным тестам."
           ]
         }
       }
