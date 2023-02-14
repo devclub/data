@@ -1,4 +1,58 @@
 [
+    {
+    "num": 162,
+    "datetime": "2023-01-31T19:00:00+02:00",
+    "season": 2023,
+    "place": {
+      "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
+      "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
+    },
+    "org": {"mod": ["aarhipov"], "photo": ["klinnik"]},
+    "photo": [],
+    "event": "https://www.eventbrite.com/e/devclubeu-162-tickets-517364038767",
+    "speeches": [
+      {
+        "org": {"cam": [""], "edit": [""]},
+        "lang": "ru",
+        "labels": [],
+        "youtube": [],
+        "speakers": [
+          {
+            "names": {"*": "Sergey Kibish", "ru": "Сергей Кибиш"},
+            "titles": {"*": "Senior Solutions Architect @ C.T.Co"},
+            "url": "https://sergeykibish.com/",
+            "image": "skibish.jpg"
+          }
+        ],
+        "titles": {"ru": "Кто такой этот ваш Фулл-Стек разработчик?"},
+        "descr": {
+          "ru": [
+            "В мире разработки очень много разных специализаций. Те кто сзади (backend), спереди (frontend), управляющие (managers) и другие. Более-менее им всем можно дать определение которое опишет, чем же они занимаются. Но есть один вид разработчиков, которых все хотят, но с ними не так всё просто — это Фулл-Стек. Кто они? Чем они занимаются? Зачем они? Это элита или просто тот в кого всё кидают и он делает? Давайте попробуем разобраться и наконец поймём кто это."
+          ]
+        }
+      },
+      {
+        "org": {"cam": [""], "edit": [""]},
+        "lang": "ru",
+        "labels": [],
+        "youtube": [],
+        "speakers": [
+          {
+            "names": {"*": "Sergey Grinev", "ru": "Сергей Гринев"},
+            "titles": {"*": "Managing Director Azul Estonia"},
+            "url": "https://www.linkedin.com/in/sergeigrinev/",
+            "image": "sgrinev.jpg"
+          }
+        ],
+        "titles": {"ru": "Brewing OpenJDK: what's behind your morning Java"},
+        "descr": {
+          "ru": [
+            "Язык программирования Java когда-то был связан только с компанией Sun Microsystems, однако сейчас существует множество компаний, которые занимаются разработкой open-source продукта OpenJDK. Многие из этих компаний выпускают собственные билды OpenJDK. В данном докладе с помощью компании Azul я расскажу, почему важно наличие разнообразие вендоров OpenJDK, в чём тут коммерческая выгода, кто может эти заниматься, и зачем для выпуска билдов OpenJDK мы гоняем миллионы тестов в день"
+          ]
+        }
+      }
+    ]
+  },
   {
     "num": 161,
     "datetime": "2022-12-15T19:00:00+02:00",
