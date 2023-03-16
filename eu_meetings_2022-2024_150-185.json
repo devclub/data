@@ -1,4 +1,58 @@
 [
+      {
+    "num": 163,
+    "datetime": "2023-02-28T19:00:00+02:00",
+    "season": 2023,
+    "place": {
+      "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
+      "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
+    },
+    "org": {"mod": ["aarhipov"], "photo": ["klinnik"]},
+    "photo": [],
+    "event": "https://www.eventbrite.com/e/163-tickets-549578793967",
+    "speeches": [
+      {
+        "org": {"cam": [""], "edit": [""]},
+        "lang": "ru",
+        "labels": [],
+        "youtube": [],
+        "speakers": [
+          {
+            "names": {"*": "Vladimir Ivanov", "ru": "Владимир Иванов"},
+            "titles": {"*": "Senior Engineering Manager @ Bolt"},
+            "url": "https://vvsevolodovich.dev/",
+            "image": "vivanov.png"
+          }
+        ],
+        "titles": {"ru": "Архитектор ПО - роль или должность?"},
+        "descr": {
+          "ru": [
+            "В некоторых компаниях вы встретите формальные должности Архитекторов ПО, Архитекторов решений или Архитекторов Данных. В других нет архитекторов - зато там часто можно найти Стафф или Принципал инженеров. Мы поговорим, что за обязанностей у архитекторов и нужна ли такая должность в современной технологической компании."
+          ]
+        }
+      },
+      {
+        "org": {"cam": [""], "edit": [""]},
+        "lang": "ru",
+        "labels": [],
+        "youtube": [],
+        "speakers": [
+          {
+            "names": {"*": "Oleg Shelajev", "ru": "Олег Шелаев"},
+            "titles": {"*": "Developer Advocate @ AtomicJar"},
+            "url": "linkedin.com/in/shelajev",
+            "image": "oshelaev.jpg"
+          }
+        ],
+        "titles": {"ru": "Mastering Testcontainers for better integration tests"},
+        "descr": {
+          "ru": [
+            "Testcontainers — отличный способ создать надежную тестовую среду. Эта библиотека позволяет создавать программируемые одноразовые контейнеры которые отлично подходят для интеграционных тестов. Мы подробно рассмотрим Testcontainers и узнаем как лучше всего отлаживать то, что происходит в контейнере, как строить более сложные топологии сервисов, и как можно использовать Testcontainers для локальной разработки в дополнение к интеграционным тестам."
+          ]
+        }
+      }
+    ]
+  },
     {
     "num": 162,
     "datetime": "2023-01-31T19:00:00+02:00",
