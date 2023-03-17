@@ -1,5 +1,59 @@
 [
   {
+    "num": 86,
+    "season": 2023,
+    "datetime": "2023-03-30T19:00:00+02:00",
+    "place": {
+      "addr": "Akadeemia tee 15b, 12618 Tallinn", "loc": "https://goo.gl/maps/Z5Fe3zGyugnQ17aLA",
+      "name": "Microsoft", "url": "https://www.microsoft.com/"
+    },
+    "org": {"mod": ["sgorski"], "photo": ["gbeshkin"]},
+    "photo": [],
+    "event": "",
+    "speeches": [
+      {
+        "org": {"cam": [], "edit": []},
+        "youtube": [""], "lang": "en",
+        "speakers": [
+          {
+            "image": "msponza.jpg",
+            "names": {"*": "Mateja Sponza"},
+            "titles": {"*": "Software Engineering Manager @ Microsoft"},
+            "url": "https://www.linkedin.com/in/mateja-sponza-5ab66b42/"
+          }
+        ],
+        "titles": {
+          "*": "How to use AI - even if you don't have a team of Data Scientists"
+        },
+        "descr": {
+          "en": [
+            "Have you ever wondered how could you bring more intelligence to your product or company even if you don’t have a whole team of data scientists? If you are an Engineer or a Product Manager (or anywhere in between), join this session and learn how you, and your existing team, can bring the power of Machine Learning to your next project. We will discuss how you can leverage existing tools and techniques that will help you utilize AI - even if you don't have a dedicated team of Data Scientists around."
+          ]
+        }
+      },
+      {
+        "org": {"cam": [], "edit": []},
+        "youtube": [""], "lang": "en",
+        "speakers": [
+          {
+            "image": "askopenko.jpg",
+            "names": {"*": "Andrei Skopenko"},
+            "titles": {"*": "CTO, Consultant"},
+            "url": "https://www.linkedin.com/in/andrei-skopenko-78284379/"
+          }
+        ],
+        "titles": {
+          "*": "Contribution score!"
+        },
+        "descr": {
+          "en": [
+            "A way for fairly measuring engineers' performance."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "num": 85,
     "season": 2022,
     "datetime": "2022-12-20T19:00:00+02:00",
