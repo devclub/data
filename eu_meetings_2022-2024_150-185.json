@@ -15,7 +15,7 @@
         "org": {"cam": ["eweber"], "edit": ["klinnik"]},
         "lang": "ru",
         "labels": [],
-        "youtube": [],
+        "youtube": ["nFgZWz6Cmkk"],
         "speakers": [
           {
             "names": {"*": "Vladimir Ivanov", "ru": "Владимир Иванов"},
@@ -35,7 +35,7 @@
         "org": {"cam": ["eweber"], "edit": ["klinnik"]},
         "lang": "ru",
         "labels": [],
-        "youtube": [],
+        "youtube": ["fCYu_xjg_qc"],
         "speakers": [
           {
             "names": {"*": "Oleg Shelajev", "ru": "Олег Шелаев"},
@@ -69,7 +69,7 @@
         "org": {"cam": ["jgoloborodko"], "edit": ["klinnik"]},
         "lang": "ru",
         "labels": [],
-        "youtube": [],
+        "youtube": ["f9DvfW48oBU"],
         "speakers": [
           {
             "names": {"*": "Sergey Kibish", "ru": "Сергей Кибиш"},
@@ -89,7 +89,7 @@
         "org": {"cam": ["jgoloborodko"], "edit": ["klinnik"]},
         "lang": "ru",
         "labels": [],
-        "youtube": [],
+        "youtube": ["Ni3QSus__Tk"],
         "speakers": [
           {
             "names": {"*": "Sergey Grinev", "ru": "Сергей Гринев"},
