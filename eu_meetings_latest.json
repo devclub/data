@@ -7,12 +7,12 @@
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
       "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
     },
-    "org": {"mod": ["aarhipov"], "photo": ["klinnik"]},
+    "org": {"mod": ["lskorinskaya"], "photo": ["klinnik"]},
     "photo": ["https://photos.app.goo.gl/q3DoLaMtW3xvMH3dA"],
     "event": "https://www.eventbrite.com/e/devclubeu164-tickets-591302540817",
     "speeches": [
       {
-        "org": {"cam": [""], "edit": [""]},
+        "org": {"cam": ["jgoloborodko"], "edit": ["klinnik"]},
         "lang": "ru",
         "labels": [],
         "youtube": [],
@@ -32,7 +32,7 @@
         }
       },
       {
-        "org": {"cam": [""], "edit": [""]},
+        "org": {"cam": ["jgoloborodko"], "edit": ["klinnik"]},
         "lang": "ru",
         "labels": [],
         "youtube": [],
