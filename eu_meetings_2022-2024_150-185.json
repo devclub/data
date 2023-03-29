@@ -7,12 +7,12 @@
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
       "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
     },
-    "org": {"mod": ["aarhipov"], "photo": ["klinnik"]},
+    "org": {"mod": ["izverev"], "photo": ["gbeskin"]},
     "photo": ["https://photos.app.goo.gl/JJFrk2t7RPZqQTcQ9"],
     "event": "https://www.eventbrite.com/e/163-tickets-549578793967",
     "speeches": [
       {
-        "org": {"cam": [""], "edit": ["klinnik"]},
+        "org": {"cam": ["eweber"], "edit": ["klinnik"]},
         "lang": "ru",
         "labels": [],
         "youtube": [],
@@ -32,7 +32,7 @@
         }
       },
       {
-        "org": {"cam": [""], "edit": ["klinnik"]},
+        "org": {"cam": ["eweber"], "edit": ["klinnik"]},
         "lang": "ru",
         "labels": [],
         "youtube": [],
@@ -61,12 +61,12 @@
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
       "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
     },
-    "org": {"mod": ["aarhipov"], "photo": ["klinnik"]},
+    "org": {"mod": ["izverev"], "photo": ["gbeskin"]},
     "photo": ["https://photos.app.goo.gl/DdyVSFeUXbUcc2hQ6"],
     "event": "https://www.eventbrite.com/e/devclubeu-162-tickets-517364038767",
     "speeches": [
       {
-        "org": {"cam": [""], "edit": ["klinnik"]},
+        "org": {"cam": ["jgoloborodko"], "edit": ["klinnik"]},
         "lang": "ru",
         "labels": [],
         "youtube": [],
@@ -86,7 +86,7 @@
         }
       },
       {
-        "org": {"cam": [""], "edit": ["klinnik"]},
+        "org": {"cam": ["jgoloborodko"], "edit": ["klinnik"]},
         "lang": "ru",
         "labels": [],
         "youtube": [],
