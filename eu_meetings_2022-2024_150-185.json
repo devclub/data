@@ -1,5 +1,59 @@
 [
   {
+    "num": 164,
+    "datetime": "2023-03-28T19:00:00+03:00",
+    "season": 2023,
+    "place": {
+      "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
+      "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
+    },
+    "org": {"mod": ["lskorinskaya"], "photo": ["klinnik"]},
+    "photo": ["https://photos.app.goo.gl/q3DoLaMtW3xvMH3dA"],
+    "event": "https://www.eventbrite.com/e/devclubeu164-tickets-591302540817",
+    "speeches": [
+      {
+        "org": {"cam": ["jgoloborodko"], "edit": ["klinnik"]},
+        "lang": "ru",
+        "labels": [],
+        "youtube": [],
+        "speakers": [
+          {
+            "names": {"*": "Michael Raer", "ru": "Михаил Раер"},
+            "titles": {"*": "Principal Software Engineering Manager @ Microsoft"},
+            "url": "https://www.linkedin.com/in/mraer/",
+            "image": "mraer.jpg"
+          }
+        ],
+        "titles": {"ru": "Testing in Production"},
+        "descr": {
+          "ru": [
+            "Достаточно ли отдельных энвайрментов, или нужно тестировать в продакшене, и как это делать безопасно"
+          ]
+        }
+      },
+      {
+        "org": {"cam": ["jgoloborodko"], "edit": ["klinnik"]},
+        "lang": "ru",
+        "labels": [],
+        "youtube": [],
+        "speakers": [
+          {
+            "names": {"*": "Eugene Mirotin", "ru": "Евгений Миротин"},
+            "titles": {"*": "Lead Software Engineer @ Moon Rocket"},
+            "url": "https://www.linkedin.com/in/guard/",
+            "image": "emirotin.jpeg"
+          }
+        ],
+        "titles": {"ru": "Эволюция JS"},
+        "descr": {
+          "ru": [
+            "Как возник и развивался язык. Ошибки дизайна. Новый процесс стандартизации. Актуальные тренды и значимые изменения в языке."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "num": 163,
     "datetime": "2023-02-28T19:00:00+02:00",
     "season": 2023,
