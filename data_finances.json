@@ -29,6 +29,16 @@
   ],
   "companies": [
     {
+      "name": "Lightyear",
+      "logo": "lightyear.png",
+      "url": "https://golightyear.com"
+    },
+    {
+      "name": "Grünfin",
+      "logo": "grunfin.png",
+      "url": "https://www.grunfin.com"
+    },
+    {
       "name": "✱-prfct.ee",
       "logo": "prfct.png",
       "url": "http://prfct.ee"
