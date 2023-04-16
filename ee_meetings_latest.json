@@ -1,5 +1,59 @@
 [
   {
+    "num": 87,
+    "season": 2023,
+    "datetime": "2023-04-27T19:00:00+03:00",
+    "place": {
+      "addr": "Volta 1, 10411 Tallinn", "loc": "https://goo.gl/maps/CKuqcNkgqXy1pSSs5",
+      "name": "Lightyear", "url": "https://golightyear.com/"
+    },
+    "org": {"mod": ["sgorski"], "photo": ["gbeshkin"]},
+    "photo": [],
+    "event": "",
+    "speeches": [
+      {
+        "org": {"cam": [], "edit": []},
+        "youtube": [""], "lang": "en",
+        "speakers": [
+          {
+            "image": "akirkal.jpg",
+            "names": {"*": "Alar Kirkal"},
+            "titles": {"*": "Product Engineer @ Lightyear"},
+            "url": "https://www.linkedin.com/in/alar-kirikal-3492146b/"
+          }
+        ],
+        "titles": {
+          "*": "How does Flutter really work?"
+        },
+        "descr": {
+          "en": [
+            "Flutter is an open-source mobile app development framework, that allows building high-quality native mobile apps using a single codebase. It’s easy to learn, developers love it and it can help speed up your development by a lot. All this is possible without developers even needing to know, how Flutter actually works. To make the most out of Flutter, it’s important to have a good understanding of how it works under the hood. We’ll discuss some key concepts and techniques that make Flutter unique and powerful."
+          ]
+        }
+      },
+      {
+        "org": {"cam": [], "edit": []},
+        "youtube": [""], "lang": "en",
+        "speakers": [
+          {
+            "image": "alumberg.jpg",
+            "names": {"*": "Alvar Lumberg"},
+            "titles": {"*": "CTO, co-founder @ Grünfin"},
+            "url": "https://www.linkedin.com/in/alvarlumberg/"
+          }
+        ],
+        "titles": {
+          "*": "Joy and Usefulness of Feedback Loops"
+        },
+        "descr": {
+          "en": [
+            "This talk explores the power of feedback loops in personal growth and professional impact. Drawing from personal experiences, we discuss the usefulness of discovering and strengthening feedback loops, with a particular focus on how software engineers can leverage these loops to continuously improve their skills and effectiveness."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "num": 86,
     "season": 2023,
     "datetime": "2023-03-30T19:00:00+03:00",
