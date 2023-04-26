@@ -15,7 +15,7 @@
         "org": {"cam": ["jgoloborodko"], "edit": ["klinnik"]},
         "lang": "ru",
         "labels": [],
-        "youtube": [],
+        "youtube": ["evDn0AvTDSQ"],
         "speakers": [
           {
             "names": {"*": "Michael Raer", "ru": "Михаил Раер"},
@@ -35,7 +35,7 @@
         "org": {"cam": ["jgoloborodko"], "edit": ["klinnik"]},
         "lang": "ru",
         "labels": [],
-        "youtube": [],
+        "youtube": ["R6M7uiKSfvo"],
         "speakers": [
           {
             "names": {"*": "Eugene Mirotin", "ru": "Евгений Миротин"},
@@ -186,6 +186,7 @@
             "image": "ebondarenko.jpg"
           }
         ],
+        "presentations": ["20221215_ebondarenko_foodfilter.pdf"],
         "titles": {"ru": "Food Filter: стартап как челлендж"},
         "descr": {
           "ru": [
@@ -226,6 +227,7 @@
             "image": "jgoloborodko_2020.jpg"
           }
         ],
+        "presentations": ["20221215_jgoloborodko_quality.pdf"],
         "titles": {"ru": "Рукожопство как образ жизни"},
         "descr": {
           "ru": [
@@ -246,6 +248,7 @@
             "image": "asolntsev_2018.jpg"
           }
         ],
+        "presentations": ["20221215_asolntsev_pr.pdf"],
         "titles": {"ru": "Думай как пиарщик"},
         "descr": {
           "ru": [
@@ -266,6 +269,7 @@
             "image": "izverev.jpg"
           }
         ],
+        "presentations": ["20221215_izverev_licenses.pdf"],
         "titles": {"ru": "Открывай как боженька"},
         "descr": {
           "ru": [
