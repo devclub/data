@@ -7,12 +7,12 @@
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
       "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
     },
-    "org": {"mod": ["lskorinskaya"], "photo": ["klinnik"]},
+    "org": {"mod": ["aarhipov"], "photo": ["gbeskin"]},
     "photo": [],
     "event": "https://www.eventbrite.com/e/165-tickets-618144024417",
     "speeches": [
       {
-        "org": {"cam": ["jgoloborodko"], "edit": ["klinnik"]},
+        "org": {"cam": ["eweber"], "edit": ["klinnik"]},
         "lang": "ru",
         "labels": [],
         "youtube": [],
@@ -32,7 +32,7 @@
         }
       },
       {
-        "org": {"cam": ["jgoloborodko"], "edit": ["klinnik"]},
+        "org": {"cam": ["eweber"], "edit": ["klinnik"]},
         "lang": "ru",
         "labels": [],
         "youtube": [],
