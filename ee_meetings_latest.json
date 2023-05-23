@@ -16,8 +16,8 @@
         "youtube": [""], "lang": "en",
         "speakers": [
           {
-            "image": "akirkal.jpg",
-            "names": {"*": "Alar Kirkal"},
+            "image": "akirikal.jpg",
+            "names": {"*": "Alar Kirikal"},
             "titles": {"*": "Product Engineer @ Lightyear"},
             "url": "https://www.linkedin.com/in/alar-kirikal-3492146b/"
           }
