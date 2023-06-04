@@ -18,12 +18,12 @@
           {
             "image": "bumurzokov.jpg",
             "names": {"*": "Bobur Umurzokov"},
-            "titles": {"*": "Developer audience lead @ Microsoft"},
+            "titles": {"*": "Developer Advocate for Apache APISIX"},
             "url": "https://www.linkedin.com/in/boburumurzokov/"
           }
         ],
         "titles": {
-          "*": "Powering AI Capabilities with API Management and OpenAI API Integration"
+          "*": "Enhancing ChatGPT with API management and OpenAI API"
         },
         "descr": {
           "en": [
