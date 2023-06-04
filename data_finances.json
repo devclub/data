@@ -29,14 +29,9 @@
   ],
   "companies": [
     {
-      "name": "Lightyear",
-      "logo": "lightyear.png",
-      "url": "https://golightyear.com"
-    },
-    {
-      "name": "Grünfin",
-      "logo": "grunfin.png",
-      "url": "https://www.grunfin.com"
+      "name": "Eesti Energia",
+      "logo": "eenergia.png",
+      "url": "https://www.energia.ee"
     },
     {
       "name": "✱-prfct.ee",
