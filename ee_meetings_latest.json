@@ -1,5 +1,66 @@
 [
   {
+    "num": 88,
+    "season": 2023,
+    "datetime": "2023-06-13T19:00:00+03:00",
+    "place": {
+      "addr": "Veskiposti 2, 10138 Tallinn", "loc": "https://goo.gl/maps/TytqcJJX2o4PfaYT8",
+      "name": "Eesti Energia", "url": "https://www.energia.ee/"
+    },
+    "org": {"mod": ["sgorski"], "photo": ["gbeshkin"]},
+    "photo": [],
+    "event": "",
+    "speeches": [
+      {
+        "org": {"cam": [], "edit": []},
+        "youtube": [""], "lang": "en",
+        "speakers": [
+          {
+            "image": "bumurzokov.jpg",
+            "names": {"*": "Bobur Umurzokov"},
+            "titles": {"*": "Developer audience lead @ Microsoft"},
+            "url": "https://www.linkedin.com/in/boburumurzokov/"
+          }
+        ],
+        "titles": {
+          "*": "Powering AI Capabilities with API Management and OpenAI API Integration"
+        },
+        "descr": {
+          "en": [
+            "As the usage of AI grows, we need scalable, performant, and secure API integrations. ",
+            "In this talk, we will explore the benefits of integrating an open-source Apache APISIX API management solution with the OpenAI API."
+          ]
+        }
+      },
+      {
+        "org": {"cam": [], "edit": []},
+        "youtube": [""], "lang": "en",
+        "speakers": [
+          {
+            "image": "aarhipov.jpg",
+            "names": {"*": "Anton Arhipov"},
+            "titles": {"*": "Developer Advocate in Kotlin team @ JetBrains"},
+            "url": "https://www.linkedin.com/in/antonarhipov/"
+          }
+        ],
+        "titles": {
+          "*": "Debugging with IntelliJ IDEA"
+        },
+        "descr": {
+          "en": [
+            "Historically, debuggers are used to help locate and fix bugs. Nowadays, the debugger in IntelliJ IDEA can help you do much more than that. Let's see how the debugger helps make the development process more productive. I demo various features for debugging Java applications, including not-so-standard ones, like:",
+            "* Lambda breakpoints",
+            "* Stream chain tracing",
+            "* Dropping the frame",
+            "* Emulated method breakpoint",
+            "* Evaluate and log",
+            "* Non-suspending breakpoints and some others"
+          ]
+        }
+      }
+    ]
+  },
+  {
     "num": 87,
     "season": 2023,
     "datetime": "2023-04-27T19:00:00+03:00",
