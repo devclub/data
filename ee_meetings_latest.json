@@ -16,6 +16,26 @@
         "youtube": [""], "lang": "en",
         "speakers": [
           {
+            "image": "otcanet.jpg",
+            "names": {"*": "Oscar Toledo Canet"},
+            "titles": {"*": "Software Architect @ Eesti Energia"},
+            "url": "https://www.linkedin.com/in/oscar-toledo-64b10a56/"
+          }
+        ],
+        "titles": {
+          "*": "Build and Deploy a Kubernetes-based environment"
+        },
+        "descr": {
+          "en": [
+            "An overview of a CI/CD pipelines based on Kubernetes and Implemented using the tools Argo Workflow, ArgoCD and Kaniko."
+          ]
+        }
+      },
+      {
+        "org": {"cam": [], "edit": []},
+        "youtube": [""], "lang": "en",
+        "speakers": [
+          {
             "image": "bumurzokov.jpg",
             "names": {"*": "Bobur Umurzokov"},
             "titles": {"*": "Developer Advocate for Apache APISIX"},
@@ -29,32 +49,6 @@
           "en": [
             "As the usage of AI grows, we need scalable, performant, and secure API integrations. ",
             "In this talk, we will explore the benefits of integrating an open-source Apache APISIX API management solution with the OpenAI API."
-          ]
-        }
-      },
-      {
-        "org": {"cam": [], "edit": []},
-        "youtube": [""], "lang": "en",
-        "speakers": [
-          {
-            "image": "aarhipov.jpg",
-            "names": {"*": "Anton Arhipov"},
-            "titles": {"*": "Developer Advocate in Kotlin team @ JetBrains"},
-            "url": "https://www.linkedin.com/in/antonarhipov/"
-          }
-        ],
-        "titles": {
-          "*": "Debugging with IntelliJ IDEA"
-        },
-        "descr": {
-          "en": [
-            "Historically, debuggers are used to help locate and fix bugs. Nowadays, the debugger in IntelliJ IDEA can help you do much more than that. Let's see how the debugger helps make the development process more productive. I demo various features for debugging Java applications, including not-so-standard ones, like:",
-            "* Lambda breakpoints",
-            "* Stream chain tracing",
-            "* Dropping the frame",
-            "* Emulated method breakpoint",
-            "* Evaluate and log",
-            "* Non-suspending breakpoints and some others"
           ]
         }
       }
