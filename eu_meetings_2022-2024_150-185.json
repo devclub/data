@@ -1,5 +1,59 @@
 [
   {
+    "num": 166,
+    "datetime": "2023-05-31T19:00:00+03:00",
+    "season": 2023,
+    "place": {
+      "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
+      "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
+    },
+    "org": {"mod": ["aarhipov"], "photo": ["gbeskin"]},
+    "photo": ["https://photos.app.goo.gl/TrUPp6nQMFYXybpY9"],
+    "event": "https://www.eventbrite.com/e/637528132807",
+    "speeches": [
+      {
+        "org": {"cam": ["eweber"], "edit": ["klinnik"]},
+        "lang": "ru",
+        "labels": [],
+        "youtube": [],
+        "speakers": [
+          {
+            "names": {"*": "Ilia Chernetskii", "ru": "Илья Чернецкий"},
+            "titles": {"*": "JavaScript Engineer @ Evolution"},
+            "url": "https://www.linkedin.com/in/ichernetskii/",
+            "image": "ichernetskii.jpg"
+          }
+        ],
+        "titles": {"ru": "Оптимизация в JavaScript: решение проблем с производительностью в React и за его пределами"},
+        "descr": {
+          "ru": [
+            "Существует миллион способов написать медленный JavaScript код. Рассмотрим на практике самые популярные из них! Изучим инструменты поиска проблем с производительностью и способы их решения на примере медленной работы React приложения. Коснёмся также проблем менеджеров состояния и отрисовки в браузере."
+          ]
+        }
+      },
+      {
+        "org": {"cam": ["eweber"], "edit": ["klinnik"]},
+        "lang": "ru",
+        "labels": [],
+        "youtube": [],
+        "speakers": [
+          {
+            "names": {"*": "Ivan Ponomarjov", "ru": "Иван Пономарёв"},
+            "titles": {"*": "Staff Engineer @ Synthesized.io"},
+            "url": "https://inponomarev.ru",
+            "image": "iponomarjov.jpg"
+          }
+        ],
+        "titles": {"ru": "Как генерировать данные для интеграционных тестов"},
+        "descr": {
+          "ru": [
+            "В 2017 году TestContainers навсегда изменили то, как мы работаем с интеграционными тестами: теперь мы выполняем их повсюду, где есть Docker. Настало время сделать ещё один шаг вперёд и упростить интеграционные тесты, связанные с реляционными БД. От фабрик тестовых данных и инициализационных скриптов можно отказаться, заменив их синтезированными данными. А чем тесты короче и проще в написании, тем больше мы их можем написать, и повысить качество."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "num": 165,
     "datetime": "2023-04-25T19:00:00+03:00",
     "season": 2023,
