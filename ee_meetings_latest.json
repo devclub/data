@@ -1,5 +1,59 @@
 [
   {
+    "num": 89,
+    "season": 2023,
+    "datetime": "2023-07-04T19:00:00+03:00",
+    "place": {
+      "addr": "Sepise 8, 11415 Tallinn", "loc": "https://goo.gl/maps/NHJdcu348AbVzJZm9",
+      "name": "Codeborne", "url": "https://codeborne.com/"
+    },
+    "org": {"mod": ["sgorski"], "photo": ["gbeshkin"]},
+    "photo": [],
+    "event": "",
+    "speeches": [
+      {
+        "org": {"cam": [], "edit": []},
+        "youtube": [""], "lang": "en",
+        "speakers": [
+          {
+            "image": "ejogi.jpg",
+            "names": {"*": "Erik Jõgi"},
+            "titles": {"*": "Founder of Codeborne"},
+            "url": "https://www.linkedin.com/in/erikjogi/"
+          }
+        ],
+        "titles": {
+          "*": "eXtreme Programming in real life at Codeborne"
+        },
+        "descr": {
+          "en": [
+            "We are practicing it daily and are both happy and proud of it. I will tell about our daily routines and practices that make it work for us. I will leave space for questions so that you can get answers about the aspects of XP that interest you the most."
+          ]
+        }
+      },
+      {
+        "org": {"cam": [], "edit": []},
+        "youtube": [""], "lang": "en",
+        "speakers": [
+          {
+            "image": "akeks.jpg",
+            "names": {"*": "Anton Keks"},
+            "titles": {"*": "Founder of Codeborne"},
+            "url": "https://www.linkedin.com/in/antonkeks/"
+          }
+        ],
+        "titles": {
+          "*": "What is Svelte and why you should be using it?"
+        },
+        "descr": {
+          "en": [
+            "Svelte is a relatively young UI framework that we use in many projects at Codeborne. Anton will tell you why we think it is better than the alternatives."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "num": 88,
     "season": 2023,
     "datetime": "2023-06-13T19:00:00+03:00",
