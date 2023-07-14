@@ -1,5 +1,59 @@
 [
   {
+    "num": 167,
+    "datetime": "2023-06-27T19:00:00+03:00",
+    "season": 2023,
+    "place": {
+      "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
+      "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
+    },
+    "org": {"mod": ["aarhipov"], "photo": ["gbeskin"]},
+    "photo": [""],
+    "event": "https://www.eventbrite.com/e/devclubeu-167-tickets-660291839667",
+    "speeches": [
+      {
+        "org": {"cam": ["eweber"], "edit": ["klinnik"]},
+        "lang": "ru",
+        "labels": [],
+        "youtube": [],
+        "speakers": [
+          {
+            "names": {"*": "Ivan Ponomarjov", "ru": "Иван Пономарёв"},
+            "titles": {"*": "Staff Engineer @ Synthesized.io"},
+            "url": "https://inponomarev.ru",
+            "image": "iponomarjov.jpg"
+          }
+        ],
+        "titles": {"ru": "Celesta: создание бизнес-логики в Java-экосистеме"},
+        "descr": {
+          "ru": [
+            "Открытый проект Celesta, разрабатываемый на GitHub, невелик, но уже набрал неплохое портфолио из успешных внедрений. Я расскажу о некоторых идеях, делающих его непохожим на другие системы такого класса: как была достигнута простота миграции структуры базы данных через идемпотентный DDL, возможность прозрачного тестирования процедур, изменяющих данные в базе, и т. п."
+          ]
+        }
+      },
+      {
+        "org": {"cam": ["eweber"], "edit": ["klinnik"]},
+        "lang": "ru",
+        "labels": [],
+        "youtube": [],
+        "speakers": [
+          {
+            "names": {"*": "Александр Малиновский", "ru": "Александр Малиновский"},
+            "titles": {"*": "Technical Lead at Twilio"},
+            "url": "https://www.linkedin.com/in/alex-malinovskiy-183854110/",
+            "image": "amalinovsky.jpg"
+          }
+        ],
+        "titles": {"ru": "Эволюция микросервисной архитектуры Twilio Conversations API"},
+        "descr": {
+          "ru": [
+            "Поговорим об эволюции микросервисной архитектуры продукта Twilio под названием Conversations API. Мы коснемся основных причин и драйверов изменения архитектуры, подходов, которые мы использовали для разделения сервисов, а также ситуаций, в которых мы решили объединить несколько сервисов в один. Также рассмотрим конечный результат новой архитектуры, как она решает поставленные задачи и как ее можно использовать для реализации новых функций продукта."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "num": 166,
     "datetime": "2023-05-31T19:00:00+03:00",
     "season": 2023,
