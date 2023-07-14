@@ -19,7 +19,7 @@
         "speakers": [
           {
             "names": {"*": "Andrey Mukamolov", "ru": "Андрей Мукамолов"},
-            "titles": {"*": "Staff Engineer @ Synthesized.io"},
+            "titles": {"*": "Embedded Developer @ BambooApp"},
             "url": "https://www.linkedin.com/in/andrei-mukamolau/",
             "image": "amukamolov.jpg"
           }
@@ -38,7 +38,7 @@
         "youtube": [],
         "speakers": [
           {
-            "names": {"*": "Anton Arhipov", "ru": "Антон Архипов},
+            "names": {"*": "Anton Arhipov", "ru": "Антон Архипов"},
             "titles": {"*": "Developer Advocate @ JetBrains"},
             "url": "https://www.linkedin.com/in/antonarhipov/",
             "image": "aarhipov.jpg"
