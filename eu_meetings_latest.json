@@ -1,7 +1,7 @@
 [
   {
-    "num": 167,
-    "datetime": "2023-06-27T19:00:00+03:00",
+    "num": 168,
+    "datetime": "2023-06-25T19:00:00+03:00",
     "season": 2023,
     "place": {
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
@@ -9,7 +9,7 @@
     },
     "org": {"mod": ["aarhipov"], "photo": ["gbeskin"]},
     "photo": [""],
-    "event": "https://www.eventbrite.com/e/devclubeu-167-tickets-660291839667",
+    "event": "https://www.eventbrite.com/e/",
     "speeches": [
       {
         "org": {"cam": ["eweber"], "edit": ["klinnik"]},
@@ -18,16 +18,16 @@
         "youtube": [],
         "speakers": [
           {
-            "names": {"*": "Ivan Ponomarjov", "ru": "Иван Пономарёв"},
+            "names": {"*": "Andrey Mukamolov", "ru": "Андрей Мукамолов"},
             "titles": {"*": "Staff Engineer @ Synthesized.io"},
-            "url": "https://inponomarev.ru",
-            "image": "iponomarjov.jpg"
+            "url": "https://www.linkedin.com/in/andrei-mukamolau/",
+            "image": "amukamolov.jpg"
           }
         ],
-        "titles": {"ru": "Celesta: создание бизнес-логики в Java-экосистеме"},
+        "titles": {"ru": "Автомобиль в твоём Arduino"},
         "descr": {
           "ru": [
-            "Открытый проект Celesta, разрабатываемый на GitHub, невелик, но уже набрал неплохое портфолио из успешных внедрений. Я расскажу о некоторых идеях, делающих его непохожим на другие системы такого класса: как была достигнута простота миграции структуры базы данных через идемпотентный DDL, возможность прозрачного тестирования процедур, изменяющих данные в базе, и т. п."
+            "Современные машины напичканы электроникой и эту электронику надо программировать. А если надо программировать то надо и тестировать. Есть придумка, как тестировать приложения для автомобилей без автомобилей. Что будет в докладе: Qt, FreeRTOS, CAN, Arduino"
           ]
         }
       },
@@ -38,16 +38,16 @@
         "youtube": [],
         "speakers": [
           {
-            "names": {"*": "Александр Малиновский", "ru": "Александр Малиновский"},
-            "titles": {"*": "Technical Lead at Twilio"},
-            "url": "https://www.linkedin.com/in/alex-malinovskiy-183854110/",
-            "image": "amalinovsky.jpg"
+            "names": {"*": "Anton Arhipov", "ru": "Антон Архипов},
+            "titles": {"*": "Developer Advocate @ JetBrains"},
+            "url": "https://www.linkedin.com/in/antonarhipov/",
+            "image": "aarhipov.jpg"
           }
         ],
-        "titles": {"ru": "Эволюция микросервисной архитектуры Twilio Conversations API"},
+        "titles": {"ru": "Полезняшки отладчика в IntelliJ IDEA"},
         "descr": {
           "ru": [
-            "Поговорим об эволюции микросервисной архитектуры продукта Twilio под названием Conversations API. Мы коснемся основных причин и драйверов изменения архитектуры, подходов, которые мы использовали для разделения сервисов, а также ситуаций, в которых мы решили объединить несколько сервисов в один. Также рассмотрим конечный результат новой архитектуры, как она решает поставленные задачи и как ее можно использовать для реализации новых функций продукта."
+            "Демонстрация всевозможных трюков которые можно сделать для отладки Java-приложений: нюансы HotSwap-a, лямбда-брейкпойнты, отслеживание цепочек вызовов Stream API, настройки точек останова, и ещё много чего.
           ]
         }
       }
