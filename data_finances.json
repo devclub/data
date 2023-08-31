@@ -29,6 +29,11 @@
   ],
   "companies": [
     {
+      "name": "Wise",
+      "logo": "wise_blue_navy.png",
+      "url": "https://wise.com"
+    },
+    {
       "name": "Codeborne",
       "logo": "codeborne.png",
       "url": "https://codeborne.com"
