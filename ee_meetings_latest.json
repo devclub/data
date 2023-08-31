@@ -1,5 +1,60 @@
 [
   {
+    "num": 90,
+    "season": 2023,
+    "datetime": "2023-09-07T19:00:00+03:00",
+    "place": {
+      "addr": "Veerenni 24, 10135 Tallinn", "loc": "https://goo.gl/maps/YoywzWCGFSJBu3aK6",
+      "name": "Wise", "url": "https://wise.com/"
+    },
+    "org": {"mod": ["sgorski"], "photo": ["gbeshkin"]},
+    "photo": [],
+    "event": "",
+    "speeches": [
+      {
+        "org": {"cam": [], "edit": []},
+        "youtube": [""], "lang": "en",
+        "speakers": [
+          {
+            "image": "dhnatiuk.jpg",
+            "names": {"*": "Dmytro Hnatiuk"},
+            "titles": {"*": "Staff Engineer, Wise"},
+            "url": "https://www.linkedin.com/in/dhnatiuk/"
+          }
+        ],
+        "titles": {
+          "*": "ServiceWise"
+        },
+        "descr": {
+          "en": [
+            "Get ready to dive into the age-old tech debate – monoliths or microservices – with a twist! Our speaker, Dmytro Hnatiuk from Wise, is about to take us on a journey through the services that power Wise's world. Ever wondered how scaling impacts the services we rely on? Dmytro's got the scoop. He'll chat about what stays, what changes, and what's on the horizon as Wise keeps growing."
+          ]
+        }
+      },
+      {
+        "org": {"cam": [], "edit": []},
+        "youtube": [""], "lang": "en",
+        "speakers": [
+          {
+            "image": "bumurzokov.jpg",
+            "names": {"*": "Bobur Umurzokov"},
+            "titles": {"*": "Developer Advocate"},
+            "url": "https://www.linkedin.com/in/boburumurzokov/"
+          }
+        ],
+        "titles": {
+          "*": "Powering ChatGPT with your own data"
+        },
+        "descr": {
+          "en": [
+            "An AI chatbot like ChatGPT can not answer questions about unfamiliar topics, recent events after 2021, or non-public documents. This task gets even more complicated when you deal with data that constantly changes. What should you do?",
+            "This presentation showcases a solution to these hurdles. You will learn how to build your AI app and how language models such as those provided by OpenAI (Embeddings) and Pathway Python libraries can query real-time data intelligently without vector databases. This method opens up the potential to build solid systems for retrieving information, recommending content, or even making chatbots that answer user questions based on ever-changing streaming data."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "num": 89,
     "season": 2023,
     "datetime": "2023-07-04T19:00:00+03:00",
