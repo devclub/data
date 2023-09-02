@@ -670,7 +670,12 @@
       },
       {
         "org": {"cam": ["gbeskin"], "edit": ["klinnik"]},
-        "youtube": ["SZLuf5IKp7k"], "lang": "en",
+        "lang": "en",
+        "info": {
+          "ru": "По просьбе докладчика видео не будет выложено в публичный доступ.",
+          "en": "Video is not edited by speaker request",
+          "et": "Video on kõneleja soovil kinni pandud."
+        },
         "labels": ["engineering", "data"],
         "speakers": [{
           "image": "lkoobas.jpg",
