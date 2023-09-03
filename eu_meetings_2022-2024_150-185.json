@@ -7,15 +7,15 @@
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
       "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
     },
-    "org": {"mod": ["aarhipov"], "photo": ["gbeskin"]},
-    "photo": [""],
+    "org": {"mod": ["izverev"], "photo": ["gbeskin"]},
+    "photo": ["https://photos.app.goo.gl/8sgdgmc9ru1hmzPU6"],
     "event": "https://www.eventbrite.com/e/devclubeu-168-tickets-677959353677",
     "speeches": [
       {
-        "org": {"cam": ["eweber"], "edit": ["klinnik"]},
+        "org": {"cam": ["lskorinskaya"], "edit": ["aarhipov"]},
         "lang": "ru",
         "labels": [],
-        "youtube": [],
+        "youtube": ["aHrVdN1nId0"],
         "speakers": [
           {
             "names": {"*": "Andrey Mukamolov", "ru": "Андрей Мукамолов"},
@@ -32,10 +32,10 @@
         }
       },
       {
-        "org": {"cam": ["eweber"], "edit": ["klinnik"]},
+        "org": {"cam": ["lskorinskaya"], "edit": ["aarhipov"]},
         "lang": "ru",
         "labels": [],
-        "youtube": [],
+        "youtube": ["4sKpx2F30r8"],
         "speakers": [
           {
             "names": {"*": "Anton Arhipov", "ru": "Антон Архипов"},
@@ -61,15 +61,15 @@
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
       "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
     },
-    "org": {"mod": ["aarhipov"], "photo": ["gbeskin"]},
-    "photo": [""],
+    "org": {"mod": ["aarhipov"], "photo": ["klinnik"]},
+    "photo": ["https://photos.app.goo.gl/WWna6sLnFBJAYgaLA"],
     "event": "https://www.eventbrite.com/e/devclubeu-167-tickets-660291839667",
     "speeches": [
       {
-        "org": {"cam": ["eweber"], "edit": ["klinnik"]},
+        "org": {"cam": ["jgoloborodko"], "edit": ["klinnik"]},
         "lang": "ru",
         "labels": [],
-        "youtube": [],
+        "youtube": ["uweOD-OdZVo"],
         "speakers": [
           {
             "names": {"*": "Ivan Ponomarjov", "ru": "Иван Пономарёв"},
@@ -86,10 +86,10 @@
         }
       },
       {
-        "org": {"cam": ["eweber"], "edit": ["klinnik"]},
+        "org": {"cam": ["jgoloborodko"], "edit": ["klinnik"]},
         "lang": "ru",
         "labels": [],
-        "youtube": [],
+        "youtube": ["XPV5Jt7UdMk"],
         "speakers": [
           {
             "names": {"*": "Александр Малиновский", "ru": "Александр Малиновский"},
@@ -115,15 +115,15 @@
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
       "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
     },
-    "org": {"mod": ["aarhipov"], "photo": ["gbeskin"]},
-    "photo": ["https://photos.app.goo.gl/TrUPp6nQMFYXybpY9"],
+    "org": {"mod": ["izverev"], "photo": ["klinnik"]},
+    "photo": ["https://photos.app.goo.gl/Xk5PcxakhP3Pu9qv6"],
     "event": "https://www.eventbrite.com/e/637528132807",
     "speeches": [
       {
         "org": {"cam": ["eweber"], "edit": ["klinnik"]},
         "lang": "ru",
         "labels": [],
-        "youtube": [],
+        "youtube": ["8OnDLyG2XMQ"],
         "speakers": [
           {
             "names": {"*": "Ilia Chernetskii", "ru": "Илья Чернецкий"},
@@ -143,7 +143,7 @@
         "org": {"cam": ["eweber"], "edit": ["klinnik"]},
         "lang": "ru",
         "labels": [],
-        "youtube": [],
+        "youtube": ["iXIgGIBAb_Y"],
         "speakers": [
           {
             "names": {"*": "Ivan Ponomarjov", "ru": "Иван Пономарёв"},
@@ -177,7 +177,7 @@
         "org": {"cam": ["eweber"], "edit": ["klinnik"]},
         "lang": "ru",
         "labels": [],
-        "youtube": [],
+        "youtube": ["tBkf_cEGpzE"],
         "speakers": [
           {
             "names": {"*": "Ilja Zverev", "ru": "Илья Зверев"},
@@ -197,7 +197,7 @@
         "org": {"cam": ["eweber"], "edit": ["klinnik"]},
         "lang": "ru",
         "labels": [],
-        "youtube": [],
+        "youtube": ["TsnqS2iu5Xw"],
         "speakers": [
           {
             "names": {"*": "Григорий Парфенов", "ru": "Григорий Парфенов"},
