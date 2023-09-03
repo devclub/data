@@ -7,13 +7,13 @@
       "addr": "Sepise 8, 11415 Tallinn", "loc": "https://goo.gl/maps/NHJdcu348AbVzJZm9",
       "name": "Codeborne", "url": "https://codeborne.com/"
     },
-    "org": {"mod": ["sgorski"], "photo": ["gbeshkin"]},
-    "photo": [],
+    "org": {"mod": ["sgorski"], "photo": ["klinnik"]},
+    "photo": ["https://photos.app.goo.gl/LmjX3uFiz35Mtp3p6"],
     "event": "https://www.eventbrite.com/e/devclub-89-codeborne-special-tickets-668383070757",
     "speeches": [
       {
-        "org": {"cam": [], "edit": []},
-        "youtube": [""], "lang": "en",
+        "org": {"cam": [], "edit": ["klinnik"]},
+        "youtube": ["2BDKEnwl3Dc"], "lang": "en",
         "speakers": [
           {
             "image": "ejogi.jpg",
@@ -62,12 +62,12 @@
       "name": "Eesti Energia", "url": "https://www.energia.ee/"
     },
     "org": {"mod": ["sgorski"], "photo": ["gbeshkin"]},
-    "photo": [],
+    "photo": ["https://photos.app.goo.gl/pEBxGdySR9yThQj28"],
     "event": "https://www.eventbrite.com/e/devclub-88-eesti-energia-13-june-2023-tickets-650131700417/",
     "speeches": [
       {
-        "org": {"cam": [], "edit": []},
-        "youtube": [""], "lang": "en",
+        "org": {"cam": [], "edit": ["klinnik"]},
+        "youtube": ["Y4wo3ffZZps"], "lang": "en",
         "speakers": [
           {
             "image": "otcanet.jpg",
@@ -86,8 +86,8 @@
         }
       },
       {
-        "org": {"cam": [], "edit": []},
-        "youtube": [""], "lang": "en",
+        "org": {"cam": [], "edit": ["klinnik"]},
+        "youtube": ["9pRNSKDHCRI"], "lang": "en",
         "speakers": [
           {
             "image": "bumurzokov.jpg",
@@ -117,12 +117,12 @@
       "name": "Lightyear", "url": "https://golightyear.com/"
     },
     "org": {"mod": ["sgorski"], "photo": ["gbeshkin"]},
-    "photo": [],
+    "photo": ["https://photos.app.goo.gl/hHG5EJrWLUrp3u9G7"],
     "event": "https://www.eventbrite.com/e/devclub-87-with-lightyear-grunfin-tickets-618398987017",
     "speeches": [
       {
-        "org": {"cam": [], "edit": []},
-        "youtube": [""], "lang": "en",
+        "org": {"cam": [], "edit": ["klinnik"]},
+        "youtube": ["TOEraRlS68k"], "lang": "en",
         "speakers": [
           {
             "image": "akirikal.jpg",
@@ -141,8 +141,8 @@
         }
       },
       {
-        "org": {"cam": [], "edit": []},
-        "youtube": [""], "lang": "en",
+        "org": {"cam": [], "edit": ["klinnik"]},
+        "youtube": ["7z0zrEP-ZA0"], "lang": "en",
         "speakers": [
           {
             "image": "alumberg.jpg",
@@ -170,13 +170,13 @@
       "addr": "Akadeemia tee 15b, 12618 Tallinn", "loc": "https://goo.gl/maps/Z5Fe3zGyugnQ17aLA",
       "name": "Microsoft", "url": "https://www.microsoft.com/"
     },
-    "org": {"mod": ["sgorski"], "photo": ["gbeshkin"]},
-    "photo": [],
+    "org": {"mod": ["sgorski"], "photo": ["klinnik"]},
+    "photo": ["https://photos.app.goo.gl/2tEGEazzHeyjntPi8"],
     "event": "https://www.eventbrite.com/e/devclub-86-microsoft-30032023-tickets-594710875237",
     "speeches": [
       {
-        "org": {"cam": [], "edit": []},
-        "youtube": [""], "lang": "en",
+        "org": {"cam": [], "edit": ["klinnik"]},
+        "youtube": ["eqmjP2ne6mE"], "lang": "en",
         "speakers": [
           {
             "image": "msponza.jpg",
@@ -195,8 +195,8 @@
         }
       },
       {
-        "org": {"cam": [], "edit": []},
-        "youtube": [""], "lang": "en",
+        "org": {"cam": [], "edit": ["klinnik"]},
+        "youtube": ["pphMemu4ezM"], "lang": "en",
         "speakers": [
           {
             "image": "askopenko_2023.jpg",
@@ -224,8 +224,8 @@
       "addr": "Veskiposti 2, 10138 Tallinn", "loc": "https://goo.gl/maps/TytqcJJX2o4PfaYT8",
       "name": "Eesti Energia", "url": "https://www.energia.ee/"
     },
-    "org": {"mod": ["klinnik"], "photo": ["gbeshkin"]},
-    "photo": [],
+    "org": {"mod": ["klinnik"], "photo": ["klinnik"]},
+    "photo": ["https://photos.app.goo.gl/YLLsNTW1amGboxmn7"],
     "event": "https://www.eventbrite.com/e/488837515167",
     "speeches": [
       {
