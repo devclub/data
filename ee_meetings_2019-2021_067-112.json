@@ -1,5 +1,340 @@
 [
   {
+    "num": 89,
+    "season": 2023,
+    "datetime": "2023-07-04T19:00:00+03:00",
+    "place": {
+      "addr": "Sepise 8, 11415 Tallinn", "loc": "https://goo.gl/maps/NHJdcu348AbVzJZm9",
+      "name": "Codeborne", "url": "https://codeborne.com/"
+    },
+    "org": {"mod": ["sgorski"], "photo": ["gbeshkin"]},
+    "photo": [],
+    "event": "https://www.eventbrite.com/e/devclub-89-codeborne-special-tickets-668383070757",
+    "speeches": [
+      {
+        "org": {"cam": [], "edit": []},
+        "youtube": [""], "lang": "en",
+        "speakers": [
+          {
+            "image": "ejogi.jpg",
+            "names": {"*": "Erik Jõgi"},
+            "titles": {"*": "Founder of Codeborne"},
+            "url": "https://www.linkedin.com/in/erikjogi/"
+          }
+        ],
+        "titles": {
+          "*": "eXtreme Programming in real life at Codeborne"
+        },
+        "descr": {
+          "en": [
+            "We are practicing it daily and are both happy and proud of it. I will tell about our daily routines and practices that make it work for us. I will leave space for questions so that you can get answers about the aspects of XP that interest you the most."
+          ]
+        }
+      },
+      {
+        "org": {"cam": [], "edit": []},
+        "youtube": [""], "lang": "en",
+        "speakers": [
+          {
+            "image": "akeks.jpg",
+            "names": {"*": "Anton Keks"},
+            "titles": {"*": "Founder of Codeborne"},
+            "url": "https://www.linkedin.com/in/antonkeks/"
+          }
+        ],
+        "titles": {
+          "*": "What is Svelte and why you should be using it?"
+        },
+        "descr": {
+          "en": [
+            "Svelte is a relatively young UI framework that we use in many projects at Codeborne. Anton will tell you why we think it is better than the alternatives."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "num": 88,
+    "season": 2023,
+    "datetime": "2023-06-13T19:00:00+03:00",
+    "place": {
+      "addr": "Veskiposti 2, 10138 Tallinn", "loc": "https://goo.gl/maps/TytqcJJX2o4PfaYT8",
+      "name": "Eesti Energia", "url": "https://www.energia.ee/"
+    },
+    "org": {"mod": ["sgorski"], "photo": ["gbeshkin"]},
+    "photo": [],
+    "event": "https://www.eventbrite.com/e/devclub-88-eesti-energia-13-june-2023-tickets-650131700417/",
+    "speeches": [
+      {
+        "org": {"cam": [], "edit": []},
+        "youtube": [""], "lang": "en",
+        "speakers": [
+          {
+            "image": "otcanet.jpg",
+            "names": {"*": "Oscar Toledo Canet"},
+            "titles": {"*": "Software Architect @ Eesti Energia"},
+            "url": "https://www.linkedin.com/in/oscar-toledo-64b10a56/"
+          }
+        ],
+        "titles": {
+          "*": "Build and Deploy a Kubernetes-based environment"
+        },
+        "descr": {
+          "en": [
+            "An overview of a CI/CD pipelines based on Kubernetes and Implemented using the tools Argo Workflow, ArgoCD and Kaniko."
+          ]
+        }
+      },
+      {
+        "org": {"cam": [], "edit": []},
+        "youtube": [""], "lang": "en",
+        "speakers": [
+          {
+            "image": "bumurzokov.jpg",
+            "names": {"*": "Bobur Umurzokov"},
+            "titles": {"*": "Developer Advocate for Apache APISIX"},
+            "url": "https://www.linkedin.com/in/boburumurzokov/"
+          }
+        ],
+        "titles": {
+          "*": "Enhancing ChatGPT with API management and OpenAI API"
+        },
+        "descr": {
+          "en": [
+            "As the usage of AI grows, we need scalable, performant, and secure API integrations. ",
+            "In this talk, we will explore the benefits of integrating an open-source Apache APISIX API management solution with the OpenAI API."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "num": 87,
+    "season": 2023,
+    "datetime": "2023-04-27T19:00:00+03:00",
+    "place": {
+      "addr": "Volta 1, 10411 Tallinn", "loc": "https://goo.gl/maps/CKuqcNkgqXy1pSSs5",
+      "name": "Lightyear", "url": "https://golightyear.com/"
+    },
+    "org": {"mod": ["sgorski"], "photo": ["gbeshkin"]},
+    "photo": [],
+    "event": "https://www.eventbrite.com/e/devclub-87-with-lightyear-grunfin-tickets-618398987017",
+    "speeches": [
+      {
+        "org": {"cam": [], "edit": []},
+        "youtube": [""], "lang": "en",
+        "speakers": [
+          {
+            "image": "akirikal.jpg",
+            "names": {"*": "Alar Kirikal"},
+            "titles": {"*": "Product Engineer @ Lightyear"},
+            "url": "https://www.linkedin.com/in/alar-kirikal-3492146b/"
+          }
+        ],
+        "titles": {
+          "*": "How does Flutter really work?"
+        },
+        "descr": {
+          "en": [
+            "Flutter is an open-source mobile app development framework, that allows building high-quality native mobile apps using a single codebase. It’s easy to learn, developers love it and it can help speed up your development by a lot. All this is possible without developers even needing to know, how Flutter actually works. To make the most out of Flutter, it’s important to have a good understanding of how it works under the hood. We’ll discuss some key concepts and techniques that make Flutter unique and powerful."
+          ]
+        }
+      },
+      {
+        "org": {"cam": [], "edit": []},
+        "youtube": [""], "lang": "en",
+        "speakers": [
+          {
+            "image": "alumberg.jpg",
+            "names": {"*": "Alvar Lumberg"},
+            "titles": {"*": "CTO, co-founder @ Grünfin"},
+            "url": "https://www.linkedin.com/in/alvarlumberg/"
+          }
+        ],
+        "titles": {
+          "*": "Joy and Usefulness of Feedback Loops"
+        },
+        "descr": {
+          "en": [
+            "This talk explores the power of feedback loops in personal growth and professional impact. Drawing from personal experiences, we discuss the usefulness of discovering and strengthening feedback loops, with a particular focus on how software engineers can leverage these loops to continuously improve their skills and effectiveness."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "num": 86,
+    "season": 2023,
+    "datetime": "2023-03-30T19:00:00+03:00",
+    "place": {
+      "addr": "Akadeemia tee 15b, 12618 Tallinn", "loc": "https://goo.gl/maps/Z5Fe3zGyugnQ17aLA",
+      "name": "Microsoft", "url": "https://www.microsoft.com/"
+    },
+    "org": {"mod": ["sgorski"], "photo": ["gbeshkin"]},
+    "photo": [],
+    "event": "https://www.eventbrite.com/e/devclub-86-microsoft-30032023-tickets-594710875237",
+    "speeches": [
+      {
+        "org": {"cam": [], "edit": []},
+        "youtube": [""], "lang": "en",
+        "speakers": [
+          {
+            "image": "msponza.jpg",
+            "names": {"*": "Mateja Sponza"},
+            "titles": {"*": "Software Engineering Manager @ Microsoft"},
+            "url": "https://www.linkedin.com/in/mateja-sponza-5ab66b42/"
+          }
+        ],
+        "titles": {
+          "*": "How to use AI - even if you don't have a team of Data Scientists"
+        },
+        "descr": {
+          "en": [
+            "Have you ever wondered how could you bring more intelligence to your product or company even if you don’t have a whole team of data scientists? If you are an Engineer or a Product Manager (or anywhere in between), join this session and learn how you, and your existing team, can bring the power of Machine Learning to your next project. We will discuss how you can leverage existing tools and techniques that will help you utilize AI - even if you don't have a dedicated team of Data Scientists around."
+          ]
+        }
+      },
+      {
+        "org": {"cam": [], "edit": []},
+        "youtube": [""], "lang": "en",
+        "speakers": [
+          {
+            "image": "askopenko_2023.jpg",
+            "names": {"*": "Andrei Skopenko"},
+            "titles": {"*": "CTO, Consultant"},
+            "url": "https://www.linkedin.com/in/andrei-skopenko-78284379/"
+          }
+        ],
+        "titles": {
+          "*": "Contribution score!"
+        },
+        "descr": {
+          "en": [
+            "This storytelling about issues you might see each half-year when you are trying to fairy reward your employees, so-called \"performance review\" process. I will propose my approach and share my experience with focus on software engineers."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "num": 85,
+    "season": 2023,
+    "datetime": "2022-12-20T19:00:00+02:00",
+    "place": {
+      "addr": "Veskiposti 2, 10138 Tallinn", "loc": "https://goo.gl/maps/TytqcJJX2o4PfaYT8",
+      "name": "Eesti Energia", "url": "https://www.energia.ee/"
+    },
+    "org": {"mod": ["klinnik"], "photo": ["gbeshkin"]},
+    "photo": [],
+    "event": "https://www.eventbrite.com/e/488837515167",
+    "speeches": [
+      {
+        "org": {"cam": ["ijaama"], "edit": ["ijaama"]},
+        "youtube": ["MJ9nVznZ-cM"], "lang": "en",
+        "speakers": [
+          {
+            "image": "avanem.jpg",
+            "names": {"*": "Andri Vanem"},
+            "titles": {"*": "Head of Software Development @ Eesti Energia"},
+            "url": "https://www.linkedin.com/in/andri-vanem/"
+          }
+        ],
+        "titles": {
+          "*": "50 shades of Software Development in Eesti Energia"
+        },
+        "descr": {
+          "en": [
+            "We will take the journey how Eesti Energia reached current state of Software development, what has been the pitfalls and success factors both on technical and human side."
+          ]
+        }
+      },
+      {
+        "org": {"cam": ["ijaama"], "edit": ["ijaama"]},
+        "youtube": ["MJ9nVznZ-cM"], "lang": "en",
+        "speakers": [
+          {
+            "image": "akurapov.jpg",
+            "names": {"*": "Artjom Kurapov"},
+            "titles": {"*": "Principal Software Engineer @ Pipedrive"},
+            "url": "https://www.linkedin.com/in/kurapov/"
+          }
+        ],
+        "titles": {
+          "*": "Scaling GraphQL subscriptions"
+        },
+        "descr": {
+          "en": [
+            "Artjom will share insights into scaling, enriching and efficiently delivering events to the frontend via GraphQL subscriptions, WebSockets, Redis pub-sub and Kafka to have an interactive web app experience."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "num": 84,
+    "season": 2022,
+    "datetime": "2022-11-03T19:00:00+02:00",
+    "place": {
+      "addr": "Lõõtsa 5, 11415 Tallinn", "loc": "https://goo.gl/maps/TqX5YY2mQCSxSaRMA",
+      "name": "Playtech", "url": "https://playtech.ee/"
+    },
+    "org": {"mod": ["asolntsev"], "photo": ["klinnik"]},
+    "photo": ["https://photos.app.goo.gl/Wo2Lv4bK7xyEhisE6"],
+    "event": "https://www.eventbrite.com/e/devclub-84-playtech-tickets-453326340287",
+    "speeches": [
+      {
+        "org": {"cam": ["ijaama"], "edit": ["ijaama"]},
+        "youtube": ["fqRPRtU5U6o"], "lang": "en",
+        "speakers": [
+          {
+            "image": "ssimeonoff.jpg",
+            "names": {"*": "Stanimir Simeonoff"},
+            "titles": {"*": "Dev team lead @ Playtech"}
+          },
+          {
+            "image": "ahaav.jpg",
+            "names": {"*": "Allar Haav"},
+            "titles": {"*": "Senior software engineer @ Playtech"},
+            "url": "https://www.linkedin.com/in/allar-haav/"
+          }
+        ],
+        "titles": {
+          "*": "Eight Poor Design Choices in Eight Years at Playtech"
+        },
+        "descr": {
+          "en": [
+            "At a certain point in a tech company’s lifespan, it becomes abundantly clear that not all undertakings are completely successful. This point is nigh for Playtech as well, where previously hidden deficiencies may now be illuminated in searing light. Here, cautionary tales, unexpected outcomes, shocking revelations – all will be explored during this journey through some of Playtech’s most infamous mishaps.",
+            "Not every beginning has a happy ending… or any ending. Regardless of the outcome, most undertakings leave us with experiences we lacked when we started. They say that failure is a better teacher than success, and we have abused this idiom these past eight years. We humbly present to you, then, a window into the future (and past): aim for the cloud[s]; misapply ORM - thrice; see only nails when the only tool available is a hammer; Strings are not only attached but entangled in everything; multiple not-invented-here syndromes. We have all been here at least once.",
+            "One of the definitive characteristics of the consummate professional is the honest ability to recognize faults, even when those faults are touted as best practices; to address the process(es) which led to the cultivation of such deficiencies, and to have the courage to bring these issues to the forefront, even in the face of conventional thinking."
+          ]
+        }
+      },
+      {
+        "org": {"cam": ["ijaama"], "edit": ["ijaama"]},
+        "youtube": ["fqRPRtU5U6o"], "lang": "en",
+        "speakers": [
+          {
+            "image": "dgrankin.jpg",
+            "names": {"*": "Daniil Grankin"},
+            "titles": {"*": "Software developer @ Wrike"},
+            "url": "https://www.linkedin.com/in/grankin-daniil/"
+          }
+        ],
+        "titles": {
+          "*": "Encryption Key Management Service in Microservice Platform"
+        },
+        "descr": {
+          "en": [
+            "In a SaaS product, the customers want to ensure that all of their sensitive data is securely stored and nobody else has access to it. Wrike has a feature just for that use case: Wrike Lock.",
+            "The idea behind the Wrike Lock is to have all sensitive customer data encrypted using our internal keys. Internal keys are stored in the database as strings encrypted by the key managed by the client. This way, we can not maliciously decrypt the customer's data unless the customer would willingly provide us access to decrypt internal keys.",
+            "As we're growing and moving towards a microservice platform, the current solution of having the key management system per service is not plausible anymore. A new centralized approach is desperately needed, where a single service manages the keys, settings, and access to the client's KMS.",
+            "There goes the idea of Wrike's Encryption as a Service. A microservice caching the keys, validating that we still have access to the client's KMS, and issuing the keys to the services which need to encrypt or decrypt the customer's sensitive data."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "num": 83,
     "season": 2022,
     "datetime": "2022-10-18T19:00:00+03:00",
