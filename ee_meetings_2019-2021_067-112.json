@@ -293,7 +293,12 @@
     "event": "https://www.eventbrite.com/e/devclub-78-topia-november-28-tickets-83309812893",
     "speeches": [
       {
-        "youtube": [""], "lang": "en",
+        "info": {
+          "en": "Video is not recorded for technical reasons.",
+          "et": "Video ei tule, pole salvestatud.",
+          "ru": "Видео не записано по техническим причинам."
+        },
+        "lang": "en",
         "labels": ["iac", "Infrastructure as code"],
         "speakers": [{
             "image": "mkerma.jpg",
@@ -309,7 +314,12 @@
         }
       },
       {
-        "youtube": [""], "lang": "en",
+        "info": {
+          "en": "Video is not recorded for technical reasons.",
+          "et": "Video ei tule, pole salvestatud.",
+          "ru": "Видео не записано по техническим причинам."
+        },
+        "lang": "en",
         "labels": ["AI", "Machine learning"],
         "speakers": [{
             "image": "akorotkov.jpg",
