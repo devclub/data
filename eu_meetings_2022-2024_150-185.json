@@ -1,5 +1,59 @@
 [
   {
+    "num": 169,
+    "datetime": "2023-08-29T19:00:00+03:00",
+    "season": 2023,
+    "place": {
+      "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
+      "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
+    },
+    "org": {"mod": ["izverev"], "photo": ["gbeskin"]},
+    "photo": ["https://photos.app.goo.gl/NNraXYhjxAJkSUmd9"],
+    "event": "https://www.eventbrite.com/e/",
+    "speeches": [
+      {
+        "org": {"cam": ["eweber"], "edit": ["klinnik"]},
+        "lang": "ru",
+        "labels": [],
+        "youtube": [],
+        "speakers": [
+          {
+            "names": {"*": "Julia Jolkin", "ru": "Юлия Ёлкин"},
+            "titles": {"*": "Fullstack IT Recruiter @ IT Talent"},
+            "url": "https://www.linkedin.com/in/juliajolkin/",
+            "image": "jjolkin.jpg"
+          }
+        ],
+        "titles": {"ru": "Что, опять? Ретроградный Меркурий эстонского IT рынка труда. Update 2023."},
+        "descr": {
+          "ru": [
+            "В 2022 - 2023 годах по рынку прошла волна серьезных сокращений, приток иностранных специалистов значительно сократился, список привычных стран-доноров изменился. Количество предложений работы сократилось. Рост зарплат замедлился, конкуренция возросла, но глобальный рынок стал более доступным. Давайте обсудим, как кризис 2022/2023 отличается от кризиса во время COVID 2020 года и чего ожидать далее. За последние 2 года я проконсультировала большое количество потерявших работу специалистов IT, с интересом анализируя, по какой причине их поиски новой работы затягиваются. Буду рада подсказать вам, что стоит предпринять, чтобы не бояться потерять работу и как без проблем и максимально быстро найти работу. "
+          ]
+        }
+      },
+      {
+        "org": {"cam": ["eweber"], "edit": ["klinnik"]},
+        "lang": "ru",
+        "labels": [],
+        "youtube": [],
+        "speakers": [
+          {
+            "names": {"*": "Mihhail Dunajev", "ru": "Михаил Дунаев"},
+            "titles": {"*": "Co-founder @ prfct.ee"},
+            "url": "https://www.linkedin.com/in/mikhail-dunaev-ab6b6a68",
+            "image": "mdunajev.jpg"
+          }
+        ],
+        "titles": {"ru": "Hейроиллюстрации и Промпт-инжиниринг"},
+        "descr": {
+          "ru": [
+            "Генерация эффектных иллюстраций и фотографий без таланта и опыта. Midjourney, DALL·E 2, Stable Diffusion, NSFW."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "num": 168,
     "datetime": "2023-07-25T19:00:00+03:00",
     "season": 2023,
