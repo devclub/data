@@ -1,7 +1,7 @@
 [
   {
-    "num": 170,
-    "datetime": "2023-09-28T19:00:00+03:00",
+    "num": 171,
+    "datetime": "2023-10-24T19:00:00+03:00",
     "season": 2023,
     "place": {
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
@@ -9,7 +9,7 @@
     },
     "org": {"mod": ["izverev"], "photo": ["gbeskin"]},
     "photo": [""],
-    "event": "https://www.eventbrite.com/e/devclubeu-170-tickets-723403668847?aff=oddtdtcreator",
+    "event": "https://www.eventbrite.com/e/",
     "speeches": [
       {
         "org": {"cam": ["eweber"], "edit": ["klinnik"]},
@@ -18,16 +18,16 @@
         "youtube": [],
         "speakers": [
           {
-            "names": {"*": "Yana Malykhina", "ru": "Яна Малыхина"},
-            "titles": {"*": "QA manager, Parallels"},
-            "url": "",
-            "image": "ymalykhina.jpg"
+            "names": {"*": "Руставиль Нуркаев", "ru": "Руставиль Нуркаев"},
+            "titles": {"*": "Swedbank"},
+            "url": "https://www.linkedin.com/in/rustavil-nurkaev-a33495150/",
+            "image": "rnurkaev.jpg"
           }
         ],
-        "titles": {"ru": "Таймтрекинг: польза и вред"},
+        "titles": {"ru": "Multi-module clean architecture"},
         "descr": {
           "ru": [
-            "Рассказ будет о том, как Яна 'изобрела' и использовала тайм-трекинг. По результатам опроса, проведённого среди коллег, любви к таймтрекингу не наблюдается. Давайте обсудим, какие ошибки менеджмента приводят к такому негативному отношению сотрудников и для чего на самом деле нужен тайм-трекинг."
+            "Руставиль поделится своим опытом применения Clean architecture для Java/Kotlin проектов используя Gradle multi-modules для определения архитектуры проекта."
           ]
         }
       },
@@ -38,16 +38,16 @@
         "youtube": [],
         "speakers": [
           {
-            "names": {"*": "Jevgeni Goloborodko", "ru": "Евгений Голобородько"},
-            "titles": {"*": "Software Architect & Founder @ Digital Magic Ltd"},
-            "url": "https://ee.linkedin.com/in/jevgeni-goloborodko-65a048a",
-            "image": "jgoloborodko_2023.jpg"
+            "names": {"*": "Yuri Karnilaev", "ru": "Юрий Карнилаев"},
+            "titles": {"*": "Stiltsoft"},
+            "url": "https://www.linkedin.com/in/karnilaev/",
+            "image": "ykarnilaev.jpg"
           }
         ],
-        "titles": {"ru": "Превосходство React в 2023"},
+        "titles": {"ru": "Из разработчика на 1С в Fullstack разработчика для платформы Atlassian"},
         "descr": {
           "ru": [
-            "Мотивацией для выбора данной темы послужил доклад Антона Кекса о Svelte, в котором он представил React в негативном свете, называя его устаревшим и неудачным инструментом, который уступает Svelte во всех аспектах. В своем выступлении я намерен представить более объективную картину и рассказать о современном состоянии React, обосновав, почему он по-прежнему остается самым востребованным, актуальным и надежным. Я также планирую развенчать несколько мифов, о которых упомянул Антон, и пожурить его за использование своего авторитета для несения вкусовщины в массы. Svelte тоже немного достанется, потому что ответных сравнений не избежать"
+            "Ранее я работал 10 лет разработчиком 1С и тимлидом команды разработчиков 1С, сейчас работаю Full stack разработчиком приложений для платформы Atlassian. В текущем докладе хочу поделиться опытом перехода и неочевидными моментами, которые при этом возникали."
           ]
         }
       }      
