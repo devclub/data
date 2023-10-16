@@ -1,5 +1,60 @@
 [
   {
+    "num": 91,
+    "season": 2023,
+    "datetime": "2023-10-26T19:00:00+03:00",
+    "place": {
+      "addr": "Sepise 8, 11415 Tallinn", "loc": "https://maps.app.goo.gl/4EBKqmuhxRUt82kK6",
+      "name": "Codeborne", "url": "https://codeborne.com/"
+    },
+    "org": {"mod": ["sgorski"], "photo": ["gbeshkin"]},
+    "photo": [],
+    "event": "",
+    "speeches": [
+      {
+        "org": {"cam": [], "edit": []},
+        "youtube": [""], "lang": "en",
+        "speakers": [
+          {
+            "image": "ejogi.jpg",
+            "names": {"*": "Erik Jõgi"},
+            "titles": {"*": "Founder, Codeborne"},
+            "url": "https://www.linkedin.com/in/erikjogi/"
+          }
+        ],
+        "titles": {
+          "*": "eXtreme Programming IRL Part 2"
+        },
+        "descr": {
+          "en": [
+            "Erik will further elaborate on Codeborne's ongoing journey with eXtreme Programming."
+          ]
+        }
+      },
+      {
+        "org": {"cam": [], "edit": []},
+        "youtube": [""], "lang": "en",
+        "speakers": [
+          {
+            "image": "vivanov.jpg",
+            "names": {"*": "Vladimir Ivanov"},
+            "titles": {"*": "Senior Engineering Manager, Bolt"},
+            "url": "https://www.linkedin.com/in/%F0%9F%93%9A-vladimir-ivanov-a4440226/"
+          }
+        ],
+        "titles": {
+          "*": "Introduction to Frugal Software Architecture"
+        },
+        "descr": {
+          "en": [
+            "Imagine the scenario of countless startups that secure substantial investments only to squander them on expensive hires and extravagant resources without much thought. These companies, lured by the promise of rapid growth and success, fail to assess the long-term consequences of their spending choices. As a result, they find themselves grappling with bloated budgets, inefficient processes, and limited runway to sustain their operations, not to mention laying off the staff, they were so eager to hire.",
+            "Welcome to Frugal Software Architecure: a set of principles to balance strategic investments and cost optimizations to achieve big goals."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "num": 90,
     "season": 2023,
     "datetime": "2023-09-07T19:00:00+03:00",
