@@ -1,5 +1,60 @@
 [
   {
+    "num": 92,
+    "season": 2023,
+    "datetime": "2023-11-09T19:00:00+02:00",
+    "place": {
+      "addr": "Lõõtsa 5, 11415 Tallinn", "loc": "https://maps.app.goo.gl/Eov3fvn4NVSjVRYL7",
+      "name": "Playtech", "url": "https://playtech.com/"
+    },
+    "org": {"mod": ["sgorski"], "photo": ["gbeshkin"]},
+    "photo": [],
+    "event": "",
+    "speeches": [
+      {
+        "org": {"cam": [], "edit": []},
+        "youtube": [""], "lang": "en",
+        "speakers": [
+          {
+            "image": "vkanemagi.jpg",
+            "names": {"*": "Valdo Kanemägi"},
+            "titles": {"*": "Operating Systems Team Lead @ Playtech"},
+            "url": "https://www.linkedin.com/in/valdo-kanem%C3%A4gi-2637b990/"
+          }
+        ],
+        "titles": {
+          "*": "Running a private cloud - the good, the bad and the ugly!"
+        },
+        "descr": {
+          "en": [
+            "A brief introduction to Playtech private cloud solution. How it came to be, what are the challenges and how we manage it."
+          ]
+        }
+      },
+      {
+        "org": {"cam": [], "edit": []},
+        "youtube": [""], "lang": "en",
+        "speakers": [
+          {
+            "image": "asolntsev.jpg",
+            "names": {"*": "Andrei Solntsev"},
+            "titles": {"*": "Software developer @ Codeborne"},
+            "url": "https://www.linkedin.com/in/asolntsev/"
+          }
+        ],
+        "titles": {
+          "*": "How to debug autotests"
+        },
+        "descr": {
+          "en": [
+            "How to solve typical problems: enabling debug logs, setting breakpoints, reading thread dumps, resolving dependencies, and so on.",
+            "Seemingly basic things, but many people don't know or use all of this."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "num": 91,
     "season": 2023,
     "datetime": "2023-10-26T19:00:00+03:00",
