@@ -1,7 +1,7 @@
 [
   {
-    "num": 171,
-    "datetime": "2023-10-24T19:00:00+03:00",
+    "num": 172,
+    "datetime": "2023-11-28T19:00:00+03:00",
     "season": 2023,
     "place": {
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
@@ -9,7 +9,7 @@
     },
     "org": {"mod": ["izverev"], "photo": ["gbeskin"]},
     "photo": [""],
-    "event": "https://www.eventbrite.com/e/devclubeu-171-tickets-737035010557",
+    "event": "https://www.eventbrite.com/e/",
     "speeches": [
       {
         "org": {"cam": ["eweber"], "edit": ["klinnik"]},
@@ -18,16 +18,16 @@
         "youtube": [],
         "speakers": [
           {
-            "names": {"*": "Руставиль Нуркаев", "ru": "Руставиль Нуркаев"},
-            "titles": {"*": "Swedbank"},
-            "url": "https://www.linkedin.com/in/rustavil-nurkaev-a33495150/",
-            "image": "rnurkaev.jpg"
+            "names": {"*": "Ервин Вебер", "ru": "Erwin Weber"},
+            "titles": {"*": "PACTUM"},
+            "url": "https://www.linkedin.com/in/webervin",
+            "image": "eweber.jpg"
           }
         ],
-        "titles": {"ru": "Multi-module clean architecture"},
+        "titles": {"ru": "Уничтожь свой старый JSON ключ"},
         "descr": {
           "ru": [
-            "Руставиль поделится своим опытом применения Clean architecture для Java/Kotlin проектов используя Gradle multi-modules для определения архитектуры проекта."
+            "В наши дни слишком часто в разработке, да и в бою использую ключи которые кто-то где-то скачал, и куда-то закачал. Эта практика вызывает глубокую печаль у специалистов по безопасности. Пора переходить на более современные методы. Я покажу как это сделать на примере Google Cloud."
           ]
         }
       },
@@ -38,16 +38,16 @@
         "youtube": [],
         "speakers": [
           {
-            "names": {"*": "Yuri Karnilaev", "ru": "Юрий Карнилаев"},
-            "titles": {"*": "Stiltsoft"},
-            "url": "https://www.linkedin.com/in/karnilaev/",
-            "image": "ykarnilaev.jpg"
+            "names": {"*": "TBD", "ru": "TBD"},
+            "titles": {"*": "..."},
+            "url": "https://www.linkedin.com/in/",
+            "image": "devclubeu.jpg"
           }
         ],
-        "titles": {"ru": "Из разработчика на 1С в Fullstack разработчика для платформы Atlassian"},
+        "titles": {"ru": "TBD"},
         "descr": {
           "ru": [
-            "Ранее я работал 10 лет разработчиком 1С и тимлидом команды разработчиков 1С, сейчас работаю Full stack разработчиком приложений для платформы Atlassian. В текущем докладе хочу поделиться опытом перехода и неочевидными моментами, которые при этом возникали."
+            "Lorem ipsum dolor sit amet"
           ]
         }
       }      
