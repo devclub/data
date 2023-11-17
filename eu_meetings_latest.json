@@ -18,7 +18,7 @@
         "youtube": [],
         "speakers": [
           {
-            "names": {"*": "Ервин Вебер", "ru": "Erwin Weber"},
+            "names": {"*": "Erwin Weber", "ru": "Ервин Вебер"},
             "titles": {"*": "PACTUM"},
             "url": "https://www.linkedin.com/in/webervin",
             "image": "eweber_2023.jpg"
