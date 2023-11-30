@@ -1,5 +1,60 @@
 [
   {
+    "num": 93,
+    "season": 2023,
+    "datetime": "2023-12-07T19:00:00+02:00",
+    "place": {
+      "addr": "Lõõtsa 1A, 11415 Tallinn", "loc": "https://maps.app.goo.gl/te7isiafUrA3EZRc7",
+      "name": "Rush Street Interactive", "url": "https://www.rushstreetinteractive.com/"
+    },
+    "org": {"mod": ["sgorski"], "photo": ["gbeshkin"]},
+    "photo": [],
+    "event": "",
+    "speeches": [
+      {
+        "org": {"cam": [], "edit": []},
+        "youtube": [""], "lang": "en",
+        "speakers": [
+          {
+            "image": "kkann.jpg",
+            "names": {"*": "Kaarel Kann"},
+            "titles": {"*": "Server Engineer @ RSI"},
+            "url": ""
+          }
+        ],
+        "titles": {
+          "*": "Demystifying Feature Lead"
+        },
+        "descr": {
+          "en": [
+            "Software can be developed and delivered in multitude of ways. Waterfall and agile both have their places in software world. There is, however, one thing in common in development processes when we look at great software (and delivery efficiency): these teams or companies have great leaders.",
+            "I'll explore the idea that a great leader doesn't have to have a title to lead. We can create the leadership within a team to move closer to engineering driven development in order to deliver great software faster."
+          ]
+        }
+      },
+      {
+        "org": {"cam": [], "edit": []},
+        "youtube": [""], "lang": "en",
+        "speakers": [
+          {
+            "image": "spirohov.jpg",
+            "names": {"*": "Serhii Pirohov"},
+            "titles": {"*": "QA Manager"},
+            "url": ""
+          }
+        ],
+        "titles": {
+          "*": "How to test an FPV drone"
+        },
+        "descr": {
+          "en": [
+            "Many have seen how FPV drones work, but just as many have not delved into the topic of what they are made of and how they are tested. In my presentation, I will talk about how it all works and how the testing process takes place. This topic is very interesting because it involves the intersection of both hardware and software components."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "num": 92,
     "season": 2023,
     "datetime": "2023-11-09T19:00:00+02:00",
