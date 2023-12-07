@@ -19,7 +19,7 @@
         "speakers": [
           {
             "names": {"*": "Artem Kurapov", "ru": "Артём Курапов"},
-            "titles": {"*": "PACTUM"},
+            "titles": {"*": "Founder @ Gratheon, Engineer @ Clarifai"},
             "url": "https://www.linkedin.com/in/kurapov/",
             "image": "akurapov.jpg"
           }
