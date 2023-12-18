@@ -1,5 +1,17 @@
 [
   {
+    "num": 173,
+    "datetime": "2023-12-20T19:00:00+02:00",
+    "season": 2023,
+    "place": {
+      "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
+      "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
+    },
+    "org": {"mod": ["izverev"], "photo": ["gbeskin"]},
+    "photo": [""],
+    "event": "https://www.eventbrite.com/e/devclubeu-173-tickets-773937236107",
+    "speeches": [
+      {
         "org": {"cam": ["eweber"], "edit": ["klinnik"]},
         "lang": "ru",
         "labels": [],
@@ -18,19 +30,7 @@
             "В условиях, когда ИИ является отличительной чертой инноваций, мы понимаем, что проекты без него могут показаться тусклыми. Поэкспериментировав с передовыми инструментами, такими как ChatGPT и Midjourney, вы, вероятно, обдумываете оптимальный способ их беспрепятственного внедрения. Давайте проясним этот процесс, кульминацией которого станет практическое программирование с использованием мощных возможностей Azure OpenAI. Этот доклад обещает снабдить вас всем необходимым и доказать, что все, что вам нужно для внедрения ИИ в ваши предприятия, находится прямо здесь. И да, описание было создано с помощью ChatGPT. Давайте встретимся и посмотрим, насколько это соответствует реальности"
           ]
         }
-  },
-  {
-    "num": 173,
-    "datetime": "2023-12-20T19:00:00+02:00",
-    "season": 2023,
-    "place": {
-      "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
-      "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
-    },
-    "org": {"mod": ["izverev"], "photo": ["gbeskin"]},
-    "photo": [""],
-    "event": "https://www.eventbrite.com/e/devclubeu-173-tickets-773937236107",
-    "speeches": [
+      },
       {
         "org": {"cam": ["eweber"], "edit": ["klinnik"]},
         "lang": "ru",
