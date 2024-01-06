@@ -10,22 +10,18 @@
     {"month": 12, "price": 200}
   ],
   "persons": [
-    "Kuznetsov Dmitri",
-    "Ljahhovets Vassili",
-    "Klugman Konstantin",
-    "Belugin Aleksandr",
-    "Filippov Alexey",
-    "Troškov Dmitri",
-    "Salomatin Nikita",
-    "Rumjantsev Vladislav",
-    "Štšerbak Deniss",
-    "Tshepurov Anton",
-    "Tsirihhov Juri",
-    "Kirjanov Sergei",
-    "Palamartšuk Grigori",
-    "Arlou Andrei",
-    "Pavlov Konstantin",
-    "Fedotov Dmitry"
+    "Aleksandr Belugin",
+    "Alexey Filippov",
+    "Andrei Arlou",
+    "Anton Tšepurov",
+    "Deniss Štšerbak",
+    "Dmitri Troškov",
+    "Grigori Palamartšuk",
+    "Konstantin Klugman",
+    "Konstantin Pavlov",
+    "Nikita Salomatin",
+    "Sergei Kirjanov",
+    "Vladislav Rumjantsev"
   ],
   "companies": [
     
