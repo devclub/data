@@ -22,6 +22,12 @@
             "titles": {"*": "Биохакер и генератор идей"},
             "url": "https://www.linkedin.com/in/slinko/",
             "image": "eslinko.jpg"
+          },
+          {
+            "names": {"*": "Denis Vinogradov", "ru": "Денис Виноградов"},
+            "titles": {"*": "Digital creator"},
+            "url": "https://www.facebook.com/tapecut",
+            "image": "dvinogradov.jpg"
           }
         ],
         "titles": {"ru": "Биохакинг, как способ оживить свой мозг и работоспособность"},
