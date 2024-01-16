@@ -1,5 +1,79 @@
 [
   {
+    "num": 173,
+    "datetime": "2023-12-20T19:00:00+02:00",
+    "season": 2023,
+    "place": {
+      "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
+      "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
+    },
+    "org": {"mod": ["izverev"], "photo": ["gbeskin"]},
+    "photo": [""],
+    "event": "https://www.eventbrite.com/e/devclubeu-173-tickets-773937236107",
+    "speeches": [
+      {
+        "org": {"cam": ["eweber"], "edit": ["klinnik"]},
+        "lang": "ru",
+        "labels": [],
+        "youtube": [],
+        "speakers": [
+          {
+            "names": {"*": "Kirill Linnik", "ru": "Кирилл Линник"},
+            "titles": {"*": "Principal Group Engineering Manager @ Microsoft"},
+            "url": "https://www.linkedin.com/in/kirill-linnik/",
+            "image": "klinnik.jpg"
+          }
+        ],
+        "titles": {"ru": "ИИ — практический способ создания крутых вещей и понимания того, когда вам все еще нужен человек"},
+        "descr": {
+          "ru": [
+            "В условиях, когда ИИ является отличительной чертой инноваций, мы понимаем, что проекты без него могут показаться тусклыми. Поэкспериментировав с передовыми инструментами, такими как ChatGPT и Midjourney, вы, вероятно, обдумываете оптимальный способ их беспрепятственного внедрения. Давайте проясним этот процесс, кульминацией которого станет практическое программирование с использованием мощных возможностей Azure OpenAI. Этот доклад обещает снабдить вас всем необходимым и доказать, что все, что вам нужно для внедрения ИИ в ваши предприятия, находится прямо здесь. И да, описание было создано с помощью ChatGPT. Давайте встретимся и посмотрим, насколько это соответствует реальности"
+          ]
+        }
+      },
+      {
+        "org": {"cam": ["eweber"], "edit": ["klinnik"]},
+        "lang": "ru",
+        "labels": [],
+        "youtube": [],
+        "speakers": [
+          {
+            "names": {"*": "Artem Kurapov", "ru": "Артём Курапов"},
+            "titles": {"*": "Founder @ Gratheon, Engineer @ Clarifai"},
+            "url": "https://www.linkedin.com/in/kurapov/",
+            "image": "akurapov2.jpg"
+          }
+        ],
+        "titles": {"ru": "Пчеловодство и AI"},
+        "descr": {
+          "ru": [
+            "Привет! Я люблю пчёл и AI, о чём и вам расскажу. Пилю стартап, ищу единомышленников. Расскажу о тех стеке - благо все opensource. А ещё буду рад послушать ваши советы."
+          ]
+        }
+      },
+      {
+        "org": {"cam": ["eweber"], "edit": ["klinnik"]},
+        "lang": "ru",
+        "labels": [],
+        "youtube": [],
+        "speakers": [
+          {
+            "names": {"*": "Andrei Solntsev", "ru": "Андрей Солнцев"},
+            "titles": {"*": "Разработчик @ Selenide"},
+            "url": "https://www.linkedin.com/in/kirill-linnik/",
+            "image": "asolntsev_2018.jpg"
+          }
+        ],
+        "titles": {"ru": "Почему у нас 7 нот"},
+        "descr": {
+          "ru": [
+            "Оффтопик на новый год. Будет и чутка музыки, и чутка программирования."
+          ]
+        }
+      }        
+    ]
+  },
+  {
     "num": 172,
     "datetime": "2023-11-28T19:00:00+02:00",
     "season": 2023,
