@@ -1,5 +1,61 @@
 [
   {
+    "num": 94,
+    "season": 2024,
+    "datetime": "2024-04-18T19:00:00+03:00",
+    "place": {
+      "addr": "Veerenni 24, 10135 Tallinn", "loc": "https://maps.app.goo.gl/8G7Q95boekzc7u286",
+      "name": "Wise", "url": "https://wise.com/"
+    },
+    "org": {"mod": ["sgorski"], "photo": ["gbeshkin"]},
+    "photo": [],
+    "event": "",
+    "speeches": [
+      {
+        "org": {"cam": [], "edit": []},
+        "youtube": [""], "lang": "en",
+        "speakers": [
+          {
+            "image": "danjos.jpg",
+            "names": {"*": "Daniel Arruda Santos Anjos"},
+            "titles": {"*": "Engineering Lead @ Wise"},
+            "url": "https://www.linkedin.com/in/dasanjos/"
+          }
+        ],
+        "titles": {
+          "*": "Being a Product Engineer at Wise"
+        },
+        "descr": {
+          "en": [
+            "Join us for an exclusive peek into the world of product engineering at Wise. Our Engineering Lead Daniel Arruda Santos Anjos will take the stage to unravel the mysteries and unveil the essence of being a product engineer. Get ready to delve into firsthand experiences straight from our speaker, as we decode the journey of engineering excellence at Wise."
+          ]
+        }
+      },
+      {
+        "org": {"cam": [], "edit": []},
+        "youtube": [""], "lang": "en",
+        "speakers": [
+          {
+            "image": "akeks.jpg",
+            "names": {"*": "Anton Keks"},
+            "titles": {"*": "Co-founder @Codeborne"},
+            "url": ""
+          }
+        ],
+        "titles": {
+          "*": "Breaking Chains: Confronting Common Productivity Hurdles in Modern Software Development"
+        },
+        "descr": {
+          "en": [
+            "Having had the opportunity to work with various organizations and teams on software projects in recent years, I've realized that many teams blindly follow established best practices or technologies without realizing that some of them can actually hinder productivity, causing delays in meeting project deadlines and diminishing developer satisfaction. Often, developers or managers, stressed by impending deadlines, worsen their situation by adopting even more inefficient practices or intentionally accruing technical debt, further complicating their circumstances.",
+            "In this talk, I'll explain why some popular practices might not be as effective as commonly believed, highlighting the actual problems they solve and the specific situations in which they could be beneficial. These examples draw from my 20+ years of experience and the recognition of my company, Codeborne, as one of the more quick and efficient software development partners.",
+            "Let's reconsider how teams can work more enjoyably and efficiently, minimizing wasted time. The goal is to illustrate that there are alternative, more effective ways to develop software and to give you ideas to make better choices when initiating a new project or improving your current practices."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "num": 93,
     "season": 2023,
     "datetime": "2023-12-07T19:00:00+02:00",
