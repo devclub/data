@@ -7,12 +7,12 @@
       "name": "Wisercat Estonia OÜ", "loc": "https://maps.app.goo.gl/5zSHSSQestoERXcJ9",
       "addr": "Tartu mnt 80f, 2nd floor, Tallinn 10137", "url": "https://maps.app.goo.gl/NepvKvm79FwovdxJ6"
     },
-    "org": {"mod": ["izverev"], "photo": ["gbeskin"]},
+    "org": {"mod": ["asolntsev"], "photo": ["klinnik"]},
     "photo": ["https://photos.app.goo.gl/hZt9fYgCLWxjzfbc8"],
     "event": "https://www.eventbrite.com/e/devclubeu-176-tickets-863034347967",
     "speeches": [
       {
-        "org": {"cam": ["eweber"], "edit": ["klinnik"]},
+        "org": {"cam": ["lskorinskaya"], "edit": ["klinnik"]},
         "lang": "ru",
         "labels": [],
         "youtube": ["0hCWK0G1wyI"],
@@ -32,7 +32,7 @@
         }
       },
       {
-        "org": {"cam": ["eweber"], "edit": ["klinnik"]},
+        "org": {"cam": ["lskorinskaya"], "edit": ["klinnik"]},
         "lang": "ru",
         "labels": [],
         "youtube": ["tK4haX0M0IE"],
@@ -61,12 +61,12 @@
       "name": "Wisercat Estonia OÜ", "loc": "https://maps.app.goo.gl/5zSHSSQestoERXcJ9",
       "addr": "Tartu mnt 80f, 2nd floor, Tallinn 10137", "url": "https://maps.app.goo.gl/NepvKvm79FwovdxJ6"
     },
-    "org": {"mod": ["izverev"], "photo": ["gbeskin"]},
-    "photo": ["https://photos.app.goo.gl/Yad4BViAvsoaPKcW9"],
+    "org": {"mod": ["klinnik"], "photo": ["gbeskin"]},
+    "photo": ["https://photos.app.goo.gl/orFQ7SJKCKTsKL89A"],
     "event": "https://www.eventbrite.com/e/devclubeu-175-tickets-830125075447",
     "speeches": [
       {
-        "org": {"cam": ["eweber"], "edit": ["klinnik"]},
+        "org": {"cam": ["lskorinskaya"], "edit": ["klinnik"]},
         "lang": "ru",
         "labels": [],
         "youtube": ["2JvqByh3ZlY"],
@@ -86,7 +86,7 @@
         }
       },
       {
-        "org": {"cam": ["eweber"], "edit": ["klinnik"]},
+        "org": {"cam": ["lskorinskaya"], "edit": ["klinnik"]},
         "lang": "ru",
         "labels": [],
         "youtube": ["pr8ub97tbdA"],
@@ -115,12 +115,12 @@
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
       "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
     },
-    "org": {"mod": ["izverev"], "photo": ["gbeskin"]},
+    "org": {"mod": ["izverev"], "photo": ["klinnik"]},
     "photo": ["https://photos.app.goo.gl/Yad4BViAvsoaPKcW9"],
     "event": "https://www.eventbrite.com/e/devclubeu-174-tickets-800218865167",
     "speeches": [
       {
-        "org": {"cam": ["eweber"], "edit": ["klinnik"]},
+        "org": {"cam": [""], "edit": ["klinnik"]},
         "lang": "ru",
         "labels": [],
         "youtube": ["dei3zqTtPuQ"],
@@ -146,7 +146,7 @@
         }
       },
       {
-        "org": {"cam": ["eweber"], "edit": ["klinnik"]},
+        "org": {"cam": [""], "edit": ["klinnik"]},
         "lang": "ru",
         "labels": [],
         "youtube": ["4Kh5yppP8zY"],
@@ -175,12 +175,12 @@
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
       "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
     },
-    "org": {"mod": ["izverev"], "photo": ["gbeskin"]},
+    "org": {"mod": ["jgoloborodko"], "photo": ["gbeskin"]},
     "photo": ["https://photos.app.goo.gl/S3qMBk2y3B6hg9jV8"],
     "event": "https://www.eventbrite.com/e/devclubeu-173-tickets-773937236107",
     "speeches": [
       {
-        "org": {"cam": ["eweber"], "edit": ["klinnik"]},
+        "org": {"cam": ["lskorinskaya"], "edit": ["klinnik"]},
         "lang": "ru",
         "labels": [],
         "youtube": ["Olw3TABTOmw"],
@@ -200,7 +200,7 @@
         }
       },
       {
-        "org": {"cam": ["eweber"], "edit": ["klinnik"]},
+        "org": {"cam": ["lskorinskaya"], "edit": ["klinnik"]},
         "lang": "ru",
         "labels": [],
         "youtube": ["f6splQuiLkY"],
@@ -220,7 +220,7 @@
         }
       },
       {
-        "org": {"cam": ["eweber"], "edit": ["klinnik"]},
+        "org": {"cam": ["lskorinskaya"], "edit": ["klinnik"]},
         "lang": "ru",
         "labels": [],
         "youtube": ["0XziRDFSzZk"],
@@ -250,11 +250,11 @@
       "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
     },
     "org": {"mod": ["izverev"], "photo": ["gbeskin"]},
-    "photo": ["https://photos.app.goo.gl/XfvU853x52SgFrJ96"],
+    "photo": ["https://photos.app.goo.gl/Wjm1VZEgnQGuC4au6"],
     "event": "https://www.eventbrite.com/e/devclubeu-172-tickets-761074392997?aff=oddtdtcreator",
     "speeches": [
       {
-        "org": {"cam": ["eweber"], "edit": ["klinnik"]},
+        "org": {"cam": ["lskorinskaya"], "edit": ["klinnik"]},
         "lang": "ru",
         "labels": [],
         "youtube": ["aJXU2Z7HS3Y"],
@@ -303,12 +303,12 @@
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
       "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
     },
-    "org": {"mod": ["izverev"], "photo": ["gbeskin"]},
-    "photo": ["https://photos.app.goo.gl/XfvU853x52SgFrJ96"],
+    "org": {"mod": [""], "photo": ["lskorinskaya"]},
+    "photo": ["https://photos.app.goo.gl/DfjvTu7DH9ADtWSg8"],
     "event": "https://www.eventbrite.com/e/devclubeu-171-tickets-737035010557",
     "speeches": [
       {
-        "org": {"cam": ["eweber"], "edit": ["klinnik"]},
+        "org": {"cam": ["lskorinskaya"], "edit": ["klinnik"]},
         "lang": "ru",
         "labels": [],
         "youtube": ["W3YyjR_pWHI"],
@@ -328,7 +328,7 @@
         }
       },
       {
-        "org": {"cam": ["eweber"], "edit": ["klinnik"]},
+        "org": {"cam": ["lskorinskaya"], "edit": ["klinnik"]},
         "lang": "ru",
         "labels": [],
         "youtube": ["ljDquLrqNEk"],
@@ -357,7 +357,7 @@
       "name": "The von Stackelberg Hotel Tallinn", "loc": "https://goo.gl/maps/bKgbrTmjPkP2",
       "addr": "Toompuiestee 23, Tallinn 10137", "url": "https://www.vonstackelberghotel.com"
     },
-    "org": {"mod": ["izverev"], "photo": ["gbeskin"]},
+    "org": {"mod": ["asolntsev"], "photo": ["lskorinskaya", "azaugarova"]},
     "photo": ["https://photos.app.goo.gl/XfvU853x52SgFrJ96"],
     "event": "https://www.eventbrite.com/e/devclubeu-170-tickets-723403668847?aff=oddtdtcreator",
     "speeches": [
@@ -382,7 +382,7 @@
         }
       },
       {
-        "org": {"cam": ["eweber"], "edit": ["klinnik"]},
+        "org": {"cam": ["eweber"], "edit": ["jgoloborodko"]},
         "lang": "ru",
         "labels": [],
         "youtube": ["ZsEyCWu1S7c"],
