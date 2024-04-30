@@ -7,7 +7,7 @@
       "addr": "Veerenni 24, 10135 Tallinn", "loc": "https://maps.app.goo.gl/8G7Q95boekzc7u286",
       "name": "Wise", "url": "https://wise.com/"
     },
-    "org": {"mod": ["sgorski"], "photo": ["gbeshkin"]},
+    "org": {"mod": [], "photo": []},
     "photo": [],
     "event": "https://www.eventbrite.com/e/881743256817",
     "speeches": [
