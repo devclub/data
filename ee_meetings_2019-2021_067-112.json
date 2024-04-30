@@ -7,8 +7,8 @@
       "addr": "Lõõtsa 1A, 11415 Tallinn", "loc": "https://maps.app.goo.gl/te7isiafUrA3EZRc7",
       "name": "Rush Street Interactive", "url": "https://www.rushstreetinteractive.com/"
     },
-    "org": {"mod": ["sgorski"], "photo": ["gbeshkin"]},
-    "photo": [],
+    "org": {"mod": [], "photo": ["gbeskin"]},
+    "photo": ["https://photos.app.goo.gl/TwHif2cusA3BeLmT7"],
     "event": "https://www.eventbrite.com/e/devclub-93-christmas-special-rsi-tickets-769855076257",
     "speeches": [
       {
@@ -62,13 +62,13 @@
       "addr": "Lõõtsa 5, 11415 Tallinn", "loc": "https://maps.app.goo.gl/Eov3fvn4NVSjVRYL7",
       "name": "Playtech", "url": "https://playtech.com/"
     },
-    "org": {"mod": ["sgorski"], "photo": ["gbeshkin"]},
-    "photo": [],
+    "org": {"mod": [], "photo": []},
+    "photo": ["https://photos.app.goo.gl/7GQDFsNAgseZ1SQGA"],
     "event": "https://www.eventbrite.com/e/devclub-92-playtech-tickets-749543533887",
     "speeches": [
       {
         "org": {"cam": [], "edit": []},
-        "youtube": [""], "lang": "en",
+        "youtube": ["BPsjtB86L9w"], "lang": "en",
         "speakers": [
           {
             "image": "vkanemagi.jpg",
@@ -88,7 +88,7 @@
       },
       {
         "org": {"cam": [], "edit": []},
-        "youtube": [""], "lang": "en",
+        "youtube": ["BPsjtB86L9w"], "lang": "en",
         "speakers": [
           {
             "image": "asolntsev.jpg",
@@ -117,13 +117,13 @@
       "addr": "Sepise 8, 11415 Tallinn", "loc": "https://maps.app.goo.gl/4EBKqmuhxRUt82kK6",
       "name": "Codeborne", "url": "https://codeborne.com/"
     },
-    "org": {"mod": ["sgorski"], "photo": ["gbeshkin"]},
-    "photo": [],
+    "org": {"mod": [], "photo": ["lskorinskaya"]},
+    "photo": ["https://photos.app.goo.gl/NebCKc7eGtK1S6uQ8"],
     "event": "https://www.eventbrite.com/e/devclub-91-codeborne-tickets-739371137977",
     "speeches": [
       {
-        "org": {"cam": [], "edit": []},
-        "youtube": [""], "lang": "en",
+        "org": {"cam": [], "edit": ["klinnik"]},
+        "youtube": ["cjgFTUiF0Pg"], "lang": "en",
         "speakers": [
           {
             "image": "ejogi.jpg",
@@ -142,8 +142,8 @@
         }
       },
       {
-        "org": {"cam": [], "edit": []},
-        "youtube": [""], "lang": "en",
+        "org": {"cam": [], "edit": ["klinnik"]},
+        "youtube": ["xo-4bamhSfI"], "lang": "en",
         "speakers": [
           {
             "image": "vivanov.jpg",
@@ -172,13 +172,13 @@
       "addr": "Veerenni 24, 10135 Tallinn", "loc": "https://goo.gl/maps/YoywzWCGFSJBu3aK6",
       "name": "Wise", "url": "https://wise.com/"
     },
-    "org": {"mod": ["sgorski"], "photo": ["gbeshkin"]},
-    "photo": [],
+    "org": {"mod": [], "photo": []},
+    "photo": ["https://photos.app.goo.gl/DyWkqJ1tafZ7odCN6"],
     "event": "https://www.eventbrite.com/e/devclub-90-wise-september-7-2023-tickets-710344548667",
     "speeches": [
       {
         "org": {"cam": [], "edit": []},
-        "youtube": [""], "lang": "en",
+        "youtube": ["ezxEJq_0kIA"], "lang": "en",
         "speakers": [
           {
             "image": "dhnatiuk.jpg",
@@ -198,7 +198,7 @@
       },
       {
         "org": {"cam": [], "edit": []},
-        "youtube": [""], "lang": "en",
+        "youtube": ["9pRNSKDHCRI"], "lang": "en",
         "speakers": [
           {
             "image": "bumurzokov.jpg",
