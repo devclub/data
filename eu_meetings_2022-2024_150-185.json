@@ -1,5 +1,59 @@
 [
   {
+    "num": 177,
+    "datetime": "2024-04-24T19:00:00+03:00",
+    "season": 2024,
+    "place": {
+      "name": "Wisercat Estonia OÜ", "loc": "https://maps.app.goo.gl/5zSHSSQestoERXcJ9",
+      "addr": "Tartu mnt 80f, 2nd floor, Tallinn 10137", "url": "https://maps.app.goo.gl/NepvKvm79FwovdxJ6"
+    },
+    "org": {"mod": [""], "photo": [""]},
+    "photo": [""],
+    "event": "https://www.eventbrite.com/e/devclubeu-177-tickets-885105453237",
+    "speeches": [
+      {
+        "org": {"cam": [""], "edit": [""]},
+        "lang": "ru",
+        "labels": [],
+        "youtube": [],
+        "speakers": [
+          {
+            "names": {"*": "Jevgeni Marenkov", "ru": "Евгений Маренков"},
+            "titles": {"*": "Software Engineer @ Microsoft"},
+            "url": "https://www.linkedin.com/in/jevgeni-marenkov-97a59b47/",
+            "image": "jmarenkov.jpg"
+          }
+        ],
+        "titles": {"ru": "Distributed Tracing - оно того стоит?"},
+        "descr": {
+          "ru": [
+            "Я долгие годы очень тесно работал с внедрением distributed tracing в организацию и команды. На первый взгляд, это очень крутая штука, которую очень сложно правильно приготовить. В этом докладе я покажу, демо на сколько tracing хорош и так же покажу как получить ценность от этого инструмента. Это не просто и надо понимать, что хочешь получить."
+          ]
+        }
+      },
+      {
+        "org": {"cam": [""], "edit": [""]},
+        "lang": "ru",
+        "labels": [],
+        "youtube": [],
+        "speakers": [
+          {
+            "names": {"*": "Mikhail Dunaev", "ru": "Михаил Дунаев"},
+            "titles": {"*": "Chief AI Officer"},
+            "url": "https://www.linkedin.com/in/mikhail-dunaev/",
+            "image": "mdunajev.jpg"
+          }
+        ],
+        "titles": {"ru": "Создание игровых миров с помощью ИИ"},
+        "descr": {
+          "ru": [
+            "На примере моего экспериментального проекта я расскажу как создавать бесконечные миры для казуальных игр с помощью таких инструментов как Stable Diffusion, Deforum и тд."
+          ]
+        }
+      }        
+    ]
+  },
+  {
     "num": 176,
     "datetime": "2024-03-27T19:00:00+02:00",
     "season": 2024,
