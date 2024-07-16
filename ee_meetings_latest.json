@@ -1,33 +1,33 @@
 [
   {
-    "num": 94,
+    "num": 95,
     "season": 2024,
-    "datetime": "2024-04-18T19:00:00+03:00",
+    "datetime": "2024-07-23T19:00:00+03:00",
     "place": {
-      "addr": "Veerenni 24, 10135 Tallinn", "loc": "https://maps.app.goo.gl/8G7Q95boekzc7u286",
-      "name": "Wise", "url": "https://wise.com/"
+      "name": "Askend", "loc": "https://maps.app.goo.gl/5zSHSSQestoERXcJ9",
+      "addr": "Tartu mnt 80f, 2nd floor, Tallinn 10137", "url": "https://maps.app.goo.gl/NepvKvm79FwovdxJ6"
     },
     "org": {"mod": [], "photo": []},
     "photo": [],
-    "event": "https://www.eventbrite.com/e/881743256817",
+    "event": "https://www.eventbrite.com/e/",
     "speeches": [
       {
         "org": {"cam": [], "edit": []},
         "youtube": [""], "lang": "en",
         "speakers": [
           {
-            "image": "danjos.jpg",
-            "names": {"*": "Daniel Arruda Santos Anjos"},
-            "titles": {"*": "Engineering Lead @ Wise"},
-            "url": "https://www.linkedin.com/in/dasanjos/"
+            "image": "aadamovich.jpg",
+            "names": {"*": "Andrey Adamovich"},
+            "titles": {"*": "CTO @ VLAVI Group"},
+            "url": "https://www.linkedin.com/in/andreyadamovich/"
           }
         ],
         "titles": {
-          "*": "Being a Product Engineer at Wise"
+          "*": "Supply chain attacks: examples and mitigation"
         },
         "descr": {
           "en": [
-            "Join us for an exclusive peek into the world of product engineering at Wise. Our Engineering Lead Daniel Arruda Santos Anjos will take the stage to unravel the mysteries and unveil the essence of being a product engineer. Get ready to delve into firsthand experiences straight from our speaker, as we decode the journey of engineering excellence at Wise."
+            "In this talk, we explore well-known and lesser-known  attack vectors for software delivery pipelines and supply chains (log4shell, SolarWinds, browseraluod, leftPad, and others). Our digital world relies heavily on software, and there are various ways this software can be compromised, affecting everything from individual apps on our phones to the global networks that keep our societies running."
           ]
         }
       },
@@ -36,20 +36,18 @@
         "youtube": [""], "lang": "en",
         "speakers": [
           {
-            "image": "akeks.jpg",
-            "names": {"*": "Anton Keks"},
-            "titles": {"*": "Co-founder @Codeborne"},
-            "url": ""
+            "image": "bumurzokov.jpg",
+            "names": {"*": "Bobur Umurzokov"},
+            "titles": {"*": "Developer Advocate"},
+            "url": "https://www.linkedin.com/in/boburumurzokov/"
           }
         ],
         "titles": {
-          "*": "Breaking Chains: Confronting Common Productivity Hurdles in Modern Software Development"
+          "*": "Python-based data streaming pipelines within minutes"
         },
         "descr": {
           "en": [
-            "Having had the opportunity to work with various organizations and teams on software projects in recent years, I've realized that many teams blindly follow established best practices or technologies without realizing that some of them can actually hinder productivity, causing delays in meeting project deadlines and diminishing developer satisfaction. Often, developers or managers, stressed by impending deadlines, worsen their situation by adopting even more inefficient practices or intentionally accruing technical debt, further complicating their circumstances.",
-            "In this talk, I'll explain why some popular practices might not be as effective as commonly believed, highlighting the actual problems they solve and the specific situations in which they could be beneficial. These examples draw from my 20+ years of experience and the recognition of my company, Codeborne, as one of the more quick and efficient software development partners.",
-            "Let's reconsider how teams can work more enjoyably and efficiently, minimizing wasted time. The goal is to illustrate that there are alternative, more effective ways to develop software and to give you ideas to make better choices when initiating a new project or improving your current practices."
+            "No shards, No partitions, No Kafka. You will learn how to use modern and free-to-start tools like GlassFlow, Debezium, NATS message broker, Docker, and Kubernetes to build a sample end-to-end AI-powered data pipeline."
           ]
         }
       }
