@@ -21,7 +21,7 @@
             "names": {"*": "Andrei Solntsev", "ru": "Андрей Солнцев"},
             "titles": {"*": "Software developer @ Codeborne"},
             "url": "https://ee.linkedin.com/in/asolntsev",
-            "image": "asolntsev_2018.jpg"
+            "image": "asolntsev_original.jpg"
           }
         ],
         "titles": {"ru": "Одноразовое изделие № 0000"},
@@ -42,13 +42,14 @@
             "names": {"*": "Andrei Solntsev", "ru": "Андрей Солнцев"},
             "titles": {"*": "QA @ Swedbank"},
             "url": "https://www.linkedin.com/in/andrei-solntsev-6352a3211",
-            "image": "mplaceholder.png"
+            "image": "asolntsev_cosplay.jpg"
           }
         ],
-        "titles": {"ru": "OSS библиотека для сериализации JSON в Java"},
+        "titles": {"ru": "Jsoln: долой NullPointer!"},
         "descr": {
           "ru": [
-            "Jsoln (https://github.com/BLDrei/jsoln) - это (первая?) библиотека, которая поддерживает DTO филды типа Optional, с блэкджеком и другими плюшками. Проект в стадии разработки, но есть главный каркас, который можно продемонстрировать девелоперам и получить фидбек."
+            "Есть миллион библиотек для десериализации JSON в Java. И все они позволяют полям быть nullable. Хотя класс Optional существует давно, и почему-то никто им не пользуется по назначению.",
+            "Благо, теперь есть Jsoln (aka JSON Стетхем), который раскидает поля на nullable и non-nullable и наваляет люлей мутабельным листам."
           ]
         }
       }        
