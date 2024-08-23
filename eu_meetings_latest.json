@@ -1,7 +1,7 @@
 [
   {
-    "num": 179,
-    "datetime": "2024-07-30T19:00:00+03:00",
+    "num": 185,
+    "datetime": "2024-08-28T19:00:00+03:00",
     "season": 2024,
     "place": {
       "name": "Askend", "loc": "https://maps.app.goo.gl/5zSHSSQestoERXcJ9",
@@ -9,7 +9,7 @@
     },
     "org": {"mod": [""], "photo": [""]},
     "photo": [""],
-    "event": "https://www.eventbrite.com/e/devclubeu-179-tickets-950936415417",
+    "event": "https://www.eventbrite.com/e/",
     "speeches": [
       {
         "org": {"cam": [""], "edit": [""]},
@@ -18,17 +18,16 @@
         "youtube": [],
         "speakers": [
           {
-            "names": {"*": "Andrei Solntsev", "ru": "Андрей Солнцев"},
-            "titles": {"*": "Software developer @ Codeborne"},
-            "url": "https://ee.linkedin.com/in/asolntsev",
-            "image": "asolntsev_original.jpg"
+            "names": {"*": "Juri Bogdanov", "ru": "Юрий Богданов"},
+            "titles": {"*": "Java Developer"},
+            "url": "https://www.linkedin.com/in/juri-bogdanov/",
+            "image": "jbogdanov.jpg"
           }
         ],
-        "titles": {"ru": "Одноразовое изделие № 0000"},
+        "titles": {"ru": "Как найти работу программисту после сокращения"},
         "descr": {
           "ru": [
-            "Авторизация при помощи одноразового кодика - типичная функция. Сгенерировать несколько случайных цифр, послать СМСкой и заставить юзера их ввести - казалось бы, тривиально.",
-            "В этом докладе мы рассмотрим тысячу и один способ, как тут можно накосячить. Дело не такое простое, как кажется на первый взгляд."
+            "Что делать, если тебя сократили. Как прокачать свои скиллы и своё CV. Что говорить на собеседованиях. Личный опыт из 6и месечного поиска работы после сокращения."
           ]
         }
       },
@@ -39,17 +38,16 @@
         "youtube": [],
         "speakers": [
           {
-            "names": {"*": "Andrei Solntsev", "ru": "Андрей Солнцев"},
-            "titles": {"*": "QA @ Swedbank"},
-            "url": "https://www.linkedin.com/in/andrei-solntsev-6352a3211",
-            "image": "asolntsev_cosplay.jpg"
+            "names": {"*": "Anton Arhipov", "ru": "Антон Архипов"},
+            "titles": {"*": "Developer Advocate @ JetBrains"},
+            "url": "https://www.linkedin.com/in/antonarhipov/",
+            "image": "aarhipov.jpg"
           }
         ],
-        "titles": {"ru": "Jsoln: долой NullPointer!"},
+        "titles": {"ru": "K(onstruc)tor: есть ли жизнь за пределами Spring Boot?"},
         "descr": {
           "ru": [
-            "Есть миллион библиотек для десериализации JSON в Java. И все они позволяют полям быть nullable. Хотя класс Optional существует давно, и почему-то никто им не пользуется по назначению.",
-            "Благо, теперь есть Jsoln (aka JSON Стетхем), который раскидает поля на nullable и non-nullable и наваляет люлей мутабельным листам."
+            "Ktor - это фреймворк для разработки веб-приложений на Kotlin. В этом докладе мы увидим, что Ktor предлагает 'из коробки', какие библиотеки часто используются в проектах с Ktor (Exposed, Koin). Обсудим, как структурировать приложения с Ktor, и как применить знания которые у нас уже есть из Spring Boot."
           ]
         }
       }        
