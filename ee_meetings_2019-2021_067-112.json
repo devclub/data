@@ -30,26 +30,6 @@
             "In this talk, we explore well-known and lesser-known  attack vectors for software delivery pipelines and supply chains (log4shell, SolarWinds, browseraluod, leftPad, and others). Our digital world relies heavily on software, and there are various ways this software can be compromised, affecting everything from individual apps on our phones to the global networks that keep our societies running."
           ]
         }
-      },
-      {
-        "org": {"cam": [], "edit": []},
-        "youtube": [""], "lang": "en",
-        "speakers": [
-          {
-            "image": "bumurzokov.jpg",
-            "names": {"*": "Bobur Umurzokov"},
-            "titles": {"*": "Developer Advocate"},
-            "url": "https://www.linkedin.com/in/boburumurzokov/"
-          }
-        ],
-        "titles": {
-          "*": "Python-based data streaming pipelines within minutes"
-        },
-        "descr": {
-          "en": [
-            "No shards, No partitions, No Kafka. You will learn how to use modern and free-to-start tools like GlassFlow, Debezium, NATS message broker, Docker, and Kubernetes to build a sample end-to-end AI-powered data pipeline."
-          ]
-        }
       }
     ]
   },
