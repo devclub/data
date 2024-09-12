@@ -1,5 +1,59 @@
 [
   {
+    "num": 95,
+    "season": 2024,
+    "datetime": "2024-07-23T19:00:00+03:00",
+    "place": {
+      "name": "Askend", "loc": "https://maps.app.goo.gl/5zSHSSQestoERXcJ9",
+      "addr": "Tartu mnt 80f, 2nd floor, Tallinn 10137", "url": "https://maps.app.goo.gl/NepvKvm79FwovdxJ6"
+    },
+    "org": {"mod": [], "photo": []},
+    "photo": [],
+    "event": "https://www.eventbrite.com/e/devclubee-95-andrey-adamovich-bobur-umurzokov-tickets-949318676717",
+    "speeches": [
+      {
+        "org": {"cam": [], "edit": []},
+        "youtube": [""], "lang": "en",
+        "speakers": [
+          {
+            "image": "aadamovich.jpg",
+            "names": {"*": "Andrey Adamovich"},
+            "titles": {"*": "CTO @ VLAVI Group"},
+            "url": "https://www.linkedin.com/in/andreyadamovich/"
+          }
+        ],
+        "titles": {
+          "*": "Supply chain attacks: examples and mitigation"
+        },
+        "descr": {
+          "en": [
+            "In this talk, we explore well-known and lesser-known  attack vectors for software delivery pipelines and supply chains (log4shell, SolarWinds, browseraluod, leftPad, and others). Our digital world relies heavily on software, and there are various ways this software can be compromised, affecting everything from individual apps on our phones to the global networks that keep our societies running."
+          ]
+        }
+      },
+      {
+        "org": {"cam": [], "edit": []},
+        "youtube": [""], "lang": "en",
+        "speakers": [
+          {
+            "image": "bumurzokov.jpg",
+            "names": {"*": "Bobur Umurzokov"},
+            "titles": {"*": "Developer Advocate"},
+            "url": "https://www.linkedin.com/in/boburumurzokov/"
+          }
+        ],
+        "titles": {
+          "*": "Python-based data streaming pipelines within minutes"
+        },
+        "descr": {
+          "en": [
+            "No shards, No partitions, No Kafka. You will learn how to use modern and free-to-start tools like GlassFlow, Debezium, NATS message broker, Docker, and Kubernetes to build a sample end-to-end AI-powered data pipeline."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "num": 94,
     "season": 2024,
     "datetime": "2024-04-18T19:00:00+03:00",
