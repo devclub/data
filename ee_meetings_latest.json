@@ -1,33 +1,33 @@
 [
   {
-    "num": 95,
+    "num": 96,
     "season": 2024,
-    "datetime": "2024-07-23T19:00:00+03:00",
+    "datetime": "2024-09-26T19:00:00+03:00",
     "place": {
-      "name": "Askend", "loc": "https://maps.app.goo.gl/5zSHSSQestoERXcJ9",
-      "addr": "Tartu mnt 80f, 2nd floor, Tallinn 10137", "url": "https://maps.app.goo.gl/NepvKvm79FwovdxJ6"
+      "name": "Bally's Estonia", "loc": "https://maps.app.goo.gl/j9TzdTRg5sUw3CGQA",
+      "addr": "Rotermanni 6, 10111 Tallinn, 6th floor", "url": "https://maps.app.goo.gl/j9TzdTRg5sUw3CGQA"
     },
     "org": {"mod": [], "photo": []},
     "photo": [],
-    "event": "https://www.eventbrite.com/e/devclubee-95-andrey-adamovich-bobur-umurzokov-tickets-949318676717",
+    "event": "https://www.eventbrite.com/e/",
     "speeches": [
       {
         "org": {"cam": [], "edit": []},
         "youtube": [""], "lang": "en",
         "speakers": [
           {
-            "image": "aadamovich.jpg",
-            "names": {"*": "Andrey Adamovich"},
-            "titles": {"*": "CTO @ VLAVI Group"},
-            "url": "https://www.linkedin.com/in/andreyadamovich/"
+            "image": "mcaron.jpg",
+            "names": {"*": "Miguel Caron"},
+            "titles": {"*": "General Manager Bally's Estonia"},
+            "url": "https://www.linkedin.com/in/miguelcaronceo/"
           }
         ],
         "titles": {
-          "*": "Supply chain attacks: examples and mitigation"
+          "*": "6 Leadership Styles and how to use them based on the context."
         },
         "descr": {
           "en": [
-            "In this talk, we explore well-known and lesser-known  attack vectors for software delivery pipelines and supply chains (log4shell, SolarWinds, browseraluod, leftPad, and others). Our digital world relies heavily on software, and there are various ways this software can be compromised, affecting everything from individual apps on our phones to the global networks that keep our societies running."
+            "Leadership styles are Leaders "tools" in their toolbox. I will show them which tools to use when. "
           ]
         }
       },
