@@ -1,5 +1,59 @@
 [
   {
+    "num": 180,
+    "datetime": "2024-08-28T19:00:00+03:00",
+    "season": 2024,
+    "place": {
+      "name": "Askend", "loc": "https://maps.app.goo.gl/5zSHSSQestoERXcJ9",
+      "addr": "Tartu mnt 80f, 2nd floor, Tallinn 10137", "url": "https://maps.app.goo.gl/NepvKvm79FwovdxJ6"
+    },
+    "org": {"mod": [""], "photo": [""]},
+    "photo": [""],
+    "event": "https://www.eventbrite.com/e/devclubeu-180-tickets-1001132453117",
+    "speeches": [
+      {
+        "org": {"cam": [""], "edit": [""]},
+        "lang": "ru",
+        "labels": [],
+        "youtube": [],
+        "speakers": [
+          {
+            "names": {"*": "Juri Bogdanov", "ru": "Юрий Богданов"},
+            "titles": {"*": "Java Developer"},
+            "url": "https://www.linkedin.com/in/juri-bogdanov/",
+            "image": "jbogdanov.jpg"
+          }
+        ],
+        "titles": {"ru": "Как найти работу программисту после сокращения"},
+        "descr": {
+          "ru": [
+            "Что делать, если тебя сократили. Как прокачать свои скиллы и своё CV. Что говорить на собеседованиях. Личный опыт из 6и месечного поиска работы после сокращения."
+          ]
+        }
+      },
+      {
+        "org": {"cam": [""], "edit": [""]},
+        "lang": "ru",
+        "labels": [],
+        "youtube": [],
+        "speakers": [
+          {
+            "names": {"*": "Anton Arhipov", "ru": "Антон Архипов"},
+            "titles": {"*": "Developer Advocate @ JetBrains"},
+            "url": "https://www.linkedin.com/in/antonarhipov",
+            "image": "aarhipov2.jpg"
+          }
+        ],
+        "titles": {"ru": "K(onstruc)tor: есть ли жизнь за пределами Spring Boot?"},
+        "descr": {
+          "ru": [
+            "Ktor - это фреймворк для разработки веб-приложений на Kotlin. В этом докладе мы увидим, что Ktor предлагает 'из коробки', какие библиотеки часто используются в проектах с Ktor (Exposed, Koin). Обсудим, как структурировать приложения с Ktor, и как применить знания которые у нас уже есть из Spring Boot."
+          ]
+        }
+      }        
+    ]
+  },
+  {
     "num": 179,
     "datetime": "2024-07-30T19:00:00+03:00",
     "season": 2024,
