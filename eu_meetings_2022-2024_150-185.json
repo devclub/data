@@ -1,5 +1,59 @@
 [
   {
+    "num": 181,
+    "datetime": "2024-10-02T19:00:00+03:00",
+    "season": 2024,
+    "place": {
+      "name": "Askend", "loc": "https://maps.app.goo.gl/5zSHSSQestoERXcJ9",
+      "addr": "Tartu mnt 80f, 2nd floor, Tallinn 10137", "url": "https://maps.app.goo.gl/NepvKvm79FwovdxJ6"
+    },
+    "org": {"mod": [""], "photo": [""]},
+    "photo": [""],
+    "event": "https://www.eventbrite.com/e/devclubeu-181-tickets-1026005930357",
+    "speeches": [
+      {
+        "org": {"cam": [""], "edit": [""]},
+        "lang": "ru",
+        "labels": [],
+        "youtube": [],
+        "speakers": [
+          {
+            "names": {"*": "Vladimir Ivanov", "ru": "Владимир Иванов"},
+            "titles": {"*": "Senior Engineering Manager @ Bolt"},
+            "url": "https://www.linkedin.com/in/%F0%9F%93%9A-vladimir-ivanov-a4440226/",
+            "image": "vivanov.jpg"
+          }
+        ],
+        "titles": {"ru": "API Gateways: что, зачем и как"},
+        "descr": {
+          "ru": [
+            "Представьте, что вы управляете SaaS-бизнесом, который предоставляет свои услуги через API: он может продавать курсы валют, данные о погоде, предлагать платежные или аутентификационные/авторизационные сервисы. Тогда вам нужно решить несколько проблем: контроль доступа, балансировка нагрузки, маршрутизация, мониторинг и т.д. Давайте поговорим об этих проблемах и о том, как API-шлюзы (на примере AWS API Gateway) могут помочь их решить."
+          ]
+        }
+      },
+      {
+        "org": {"cam": [""], "edit": [""]},
+        "lang": "ru",
+        "labels": [],
+        "youtube": [],
+        "speakers": [
+          {
+            "names": {"*": "Andrei Solntsev", "ru": "Андрей Солнцев"},
+            "titles": {"*": "Software developer @ Codeborne"},
+            "url": "https://ee.linkedin.com/in/asolntsev",
+            "image": "asolntsev_original.jpg"
+          }
+        ],
+        "titles": {"ru": "TDD: балласт или помощник"},
+        "descr": {
+          "ru": [
+            "Давненько мы не говорили про TDD. Большинству из нас не до тестов - и без них проблем хватает. Есть горстка энтузиастов, которые агитируют нас тесты и обещают райскую жизнь. Но не лукавят ли они? Можно ли писать тесты и при этом успевать делать фичи?"
+          ]
+        }
+      }
+    ]
+  },
+  {
     "num": 180,
     "datetime": "2024-08-28T19:00:00+03:00",
     "season": 2024,
