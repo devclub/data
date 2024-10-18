@@ -1,7 +1,7 @@
 [
   {
-    "num": 181,
-    "datetime": "2024-10-02T19:00:00+03:00",
+    "num": 182,
+    "datetime": "2024-10-30T19:00:00+03:00",
     "season": 2024,
     "place": {
       "name": "Askend", "loc": "https://maps.app.goo.gl/5zSHSSQestoERXcJ9",
@@ -9,7 +9,7 @@
     },
     "org": {"mod": [""], "photo": [""]},
     "photo": [""],
-    "event": "https://www.eventbrite.com/e/devclubeu-181-tickets-1026005930357",
+    "event": "https://www.eventbrite.com/e/",
     "speeches": [
       {
         "org": {"cam": [""], "edit": [""]},
@@ -18,16 +18,16 @@
         "youtube": [],
         "speakers": [
           {
-            "names": {"*": "Vladimir Ivanov", "ru": "Владимир Иванов"},
-            "titles": {"*": "Senior Engineering Manager @ Bolt"},
-            "url": "https://www.linkedin.com/in/%F0%9F%93%9A-vladimir-ivanov-a4440226/",
-            "image": "vivanov.jpg"
+            "names": {"*": "Julia Jolkin", "ru": "Юлия Ёлкин"},
+            "titles": {"*": "Fullstack IT Recruiter @ IT Talent"},
+            "url": "https://www.linkedin.com/in/juliajolkin/",
+            "image": "jjolkin.jpg"
           }
         ],
-        "titles": {"ru": "API Gateways: что, зачем и как"},
+        "titles": {"ru": "Секреты LinkedIn, которые упростят поиск работы"},
         "descr": {
           "ru": [
-            "Представьте, что вы управляете SaaS-бизнесом, который предоставляет свои услуги через API: он может продавать курсы валют, данные о погоде, предлагать платежные или аутентификационные/авторизационные сервисы. Тогда вам нужно решить несколько проблем: контроль доступа, балансировка нагрузки, маршрутизация, мониторинг и т.д. Давайте поговорим об этих проблемах и о том, как API-шлюзы (на примере AWS API Gateway) могут помочь их решить."
+            "Секреты LinkedIn, которые упростят поиск работы. Описание доклада: Поговорим о том, как искать работу в IT в 100 раз быстрее и никогда не бояться ее потерять. Обсудим новые правила игры на рынке ИТ-вакансий и кто теперь побеждает в этой карьерной гонке. Исправим типичные ошибки, которые делают вас невидимкой для потенциальных работодателей и мешают им пригласить вас на собеседование. "
           ]
         }
       },
@@ -38,16 +38,16 @@
         "youtube": [],
         "speakers": [
           {
-            "names": {"*": "Andrei Solntsev", "ru": "Андрей Солнцев"},
-            "titles": {"*": "Software developer @ Codeborne"},
-            "url": "https://ee.linkedin.com/in/asolntsev",
-            "image": "asolntsev_original.jpg"
+            "names": {"*": "Pavel Grigorenko", "ru": "Павел Григоренко"},
+            "titles": {"*": "Lead Software Engineer @ Guardtime"},
+            "url": "https://www.linkedin.com/in/pavelgrigorenko/",
+            "image": "pgrigorenko.jpg"
           }
         ],
-        "titles": {"ru": "TDD: балласт или помощник"},
+        "titles": {"ru": "Релокация айтишника в Нидерланды"},
         "descr": {
           "ru": [
-            "Давненько мы не говорили про TDD. Большинству из нас не до тестов - и без них проблем хватает. Есть горстка энтузиастов, которые агитируют нас тесты и обещают райскую жизнь. Но не лукавят ли они? Можно ли писать тесты и при этом успевать делать фичи?"
+            "Нюансы переезда и трудоустроиства в Нидерланды для айтишников"
           ]
         }
       }
