@@ -1,33 +1,33 @@
 [
   {
-    "num": 96,
+    "num": 97,
     "season": 2024,
-    "datetime": "2024-09-26T19:00:00+03:00",
+    "datetime": "2024-12-11T19:00:00+03:00",
     "place": {
-      "name": "Bally's Estonia", "loc": "https://maps.app.goo.gl/j9TzdTRg5sUw3CGQA",
-      "addr": "Rotermanni 6, 10111 Tallinn, 6th floor", "url": "https://maps.app.goo.gl/j9TzdTRg5sUw3CGQA"
+      "name": "Askend", "loc": "https://maps.app.goo.gl/5zSHSSQestoERXcJ9",
+      "addr": "Tartu mnt 80f, 2nd floor, Tallinn 10137", "url": "https://maps.app.goo.gl/NepvKvm79FwovdxJ6"
     },
     "org": {"mod": [], "photo": []},
     "photo": [],
-    "event": "https://www.eventbrite.com/e/devclubee-96-miguel-caron-bobur-umurzokov-tickets-1015186459027",
+    "event": "https://www.eventbrite.com/e/",
     "speeches": [
       {
         "org": {"cam": [], "edit": []},
         "youtube": [""], "lang": "en",
         "speakers": [
           {
-            "image": "mcaron.jpg",
-            "names": {"*": "Miguel Caron"},
-            "titles": {"*": "General Manager Bally's Estonia"},
-            "url": "https://www.linkedin.com/in/miguelcaronceo/"
+            "image": "asbitnev.jpg",
+            "names": {"*": "Andrei Sbitnev"},
+            "titles": {"*": "TypeScript developer @ xDataGroup"},
+            "url": "https://ee.linkedin.com/in/andrei-sbitnev-a6995811a"
           }
         ],
         "titles": {
-          "*": "6 Leadership Styles and how to use them based on the context."
+          "*": "Building 3D game models using AI"
         },
         "descr": {
           "en": [
-            "Leadership styles are Leaders tools in their toolbox. I will show them which tools to use when. "
+            "Using my pet project as an example, I’ll explain how to create 3D models for games using Stable Diffusion and Tripo AI. figurix.com is my pet project that lets you create a cartoon-style 3D model from a single photo."
           ]
         }
       },
@@ -43,11 +43,11 @@
           }
         ],
         "titles": {
-          "*": "Python-based data streaming pipelines within minutes"
+          "*": "Why I’m done with unpaid interview assignments and what companies should do instead"
         },
         "descr": {
           "en": [
-            "No shards, No partitions, No Kafka. You will learn how to use modern and free-to-start tools like GlassFlow, Debezium, NATS message broker, Docker, and Kubernetes to build a sample end-to-end AI-powered data pipeline."
+            "In this talk, we’ll explore why home tasks often feel like unpaid labor and the lack of context they provide about real-world job expectations. I'll also share alternative approaches to technical interviews that focus on a fairer evaluation process."
           ]
         }
       }
