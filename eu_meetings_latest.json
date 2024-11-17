@@ -39,8 +39,8 @@
         "speakers": [
           {
             "names": {"*": "Grigori Parfjonov", "ru": "Григорий Парфёнов"},
-            "titles": {"*": "Lead Software Engineer @ Guardtime"},
-            "url": "https://www.linkedin.com/in/pavelgrigorenko/",
+            "titles": {"*": "Инженер транспортного планирования"},
+            "url": "https://www.linkedin.com/in/grigori-parfjonov-a6a59125b/",
             "image": "gparfjonov.png"
           }
         ],
