@@ -58,6 +58,26 @@
         "youtube": [],
         "speakers": [
           {
+            "names": {"*": "Yana Malykhina", "ru": "Яна Малыхина"},
+            "titles": {"*": "QA manager, Parallels"},
+            "url": "",
+            "image": "ymalykhina.jpg"
+          }
+        ],
+        "titles": {"ru": "Колесо жизненного баланса"},
+        "descr": {
+          "ru": [
+            "Как я использовала колесо для получения обратной связи от команды и во что это вылилось."
+          ]
+        }
+      },
+      {
+        "org": {"cam": [""], "edit": [""]},
+        "lang": "ru",
+        "labels": [],
+        "youtube": [],
+        "speakers": [
+          {
             "names": {"*": "Andrei Solntsev", "ru": "Андрей Солнцев"},
             "titles": {"*": "QA @ Swedbank"},
             "url": "https://www.linkedin.com/in/andrei-solntsev-6352a3211",
