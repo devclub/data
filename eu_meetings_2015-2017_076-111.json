@@ -1671,18 +1671,18 @@
         "examples": ["https://github.com/mihhail-lapushkin/devclub_nov2015"]
       },
       {
-        "org": {"cam": ["astalnuhhin"], "edit": ["astalnuhhin"]},
+        "org": {"cam": ["jtimosin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": [],
-        "youtube": ["xBYkGBqFPeI"],
+        "youtube": ["qKTREnERaec"],
         "speakers": [
           {
-            "names": {"*": "Nikita Salnikov-Tarnovski", "ru": "Никита Сальников-Тарновский"},
-            "url": "https://ee.linkedin.com/in/nikem",
-            "image": "nsalnikov.jpg"
+            "names": {"*": "Aleksei Fjodorov", "ru": "Алексей Фёдоров"},
+            "image": "afjodorov.jpg"
           }
         ],
-        "titles": {"ru": "Как изобретение велосипедов спасло компанию Plumbr"},
+        "titles": {"ru": "Синхронизация без блокировок и СМС"},
+        "presentations": ["http://www.slideshare.net/23derevo/ss-55524945"],
         "top": {"season": 2015, "place": 4}
       }
     ]
