@@ -1645,16 +1645,15 @@
         "org": {"cam": ["jtimosin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": [],
-        "youtube": ["qKTREnERaec"],
+        "youtube": ["xBYkGBqFPeI"],
         "speakers": [
           {
-            "names": {"*": "Aleksei Fjodorov", "ru": "Алексей Фёдоров"},
-            "image": "afjodorov.jpg"
+            "names": {"*": "Nikita Salnikov-Tarnovski", "ru": "Никита Сальников-Тарновский"},
+            "url": "https://ee.linkedin.com/in/nikem",
+            "image": "nsalnikov.jpg"
           }
         ],
-        "titles": {"ru": "Синхронизация без блокировок и СМС"},
-        "presentations": ["http://www.slideshare.net/23derevo/ss-55524945"],
-        "top": {"season": 2015, "place": 4}
+        "titles": {"ru": "Как изобретение велосипедов спасло компанию Plumbr"}
       },
       {
         "org": {"cam": ["jtimosin"], "edit": ["astalnuhhin"]},
@@ -1672,18 +1671,18 @@
         "examples": ["https://github.com/mihhail-lapushkin/devclub_nov2015"]
       },
       {
-        "org": {"cam": ["jtimosin"], "edit": ["astalnuhhin"]},
+        "org": {"cam": ["astalnuhhin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
         "labels": [],
-        "youtube": ["qKTREnERaec"],
+        "youtube": ["xBYkGBqFPeI"],
         "speakers": [
           {
-            "names": {"*": "Aleksei Fjodorov", "ru": "Алексей Фёдоров"},
-            "image": "afjodorov.jpg"
+            "names": {"*": "Nikita Salnikov-Tarnovski", "ru": "Никита Сальников-Тарновский"},
+            "url": "https://ee.linkedin.com/in/nikem",
+            "image": "nsalnikov.jpg"
           }
         ],
-        "titles": {"ru": "Синхронизация без блокировок и СМС"},
-        "presentations": ["http://www.slideshare.net/23derevo/ss-55524945"],
+        "titles": {"ru": "Как изобретение велосипедов спасло компанию Plumbr"},
         "top": {"season": 2015, "place": 4}
       }
     ]
