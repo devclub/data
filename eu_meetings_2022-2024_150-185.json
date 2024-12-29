@@ -15,7 +15,7 @@
         "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
-        "youtube": [],
+        "youtube": ["wrSOUDnhQ9g"],
         "speakers": [
           {
             "names": {"*": "Vladimir Ovodenko", "ru": "Владимир Оводенко"},
@@ -35,7 +35,7 @@
         "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
-        "youtube": [],
+        "youtube": ["kWlZ6lNQfmI"],
         "speakers": [
           {
             "names": {"*": "Grigori Parfjonov", "ru": "Григорий Парфёнов"},
@@ -70,7 +70,7 @@
         "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
-        "youtube": [],
+        "youtube": ["1-CSN6w-4zQ"],
         "speakers": [
           {
             "names": {"*": "Julia Jolkin", "ru": "Юлия Ёлкин"},
@@ -91,7 +91,7 @@
         "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
-        "youtube": [],
+        "youtube": ["0V_dsuBG8HE"],
         "speakers": [
           {
             "names": {"*": "Pavel Grigorenko", "ru": "Павел Григоренко"},
@@ -125,7 +125,7 @@
         "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
-        "youtube": [],
+        "youtube": ["whWwEVZVdvo"],
         "speakers": [
           {
             "names": {"*": "Vladimir Ivanov", "ru": "Владимир Иванов"},
@@ -145,7 +145,7 @@
         "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
-        "youtube": [],
+        "youtube": ["kEgaf7tketU"],
         "speakers": [
           {
             "names": {"*": "Andrei Solntsev", "ru": "Андрей Солнцев"},
@@ -179,7 +179,7 @@
         "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
-        "youtube": [],
+        "youtube": ["FXFacJYxJh0"],
         "speakers": [
           {
             "names": {"*": "Juri Bogdanov", "ru": "Юрий Богданов"},
@@ -199,7 +199,7 @@
         "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
-        "youtube": [],
+        "youtube": ["KZ6bVaTeviA"],
         "speakers": [
           {
             "names": {"*": "Anton Arhipov", "ru": "Антон Архипов"},
@@ -233,7 +233,7 @@
         "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
-        "youtube": [],
+        "youtube": ["gBvc8VJGpVI"],
         "speakers": [
           {
             "names": {"*": "Andrei Solntsev", "ru": "Андрей Солнцев"},
@@ -254,7 +254,7 @@
         "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
-        "youtube": [],
+        "youtube": ["Vkz0f-PddZM"],
         "speakers": [
           {
             "names": {"*": "Andrei Solntsev", "ru": "Андрей Солнцев"},
@@ -289,7 +289,7 @@
         "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
-        "youtube": [],
+        "youtube": ["W2V6JwJ_tnc"],
         "speakers": [
           {
             "names": {"*": "Jaroslav Judin", "ru": "Ярослав Юдин"},
@@ -309,7 +309,7 @@
         "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
-        "youtube": [],
+        "youtube": ["15wDcaIrQPw"],
         "speakers": [
           {
             "names": {"*": "Juri Bogdanov", "ru": "Юрий Богданов"},
@@ -343,7 +343,7 @@
         "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
-        "youtube": [],
+        "youtube": ["k1LcDEwuNO8"],
         "speakers": [
           {
             "names": {"*": "Jevgeni Marenkov", "ru": "Евгений Маренков"},
@@ -363,7 +363,7 @@
         "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
-        "youtube": [],
+        "youtube": ["q-EDLi1YXk"],
         "speakers": [
           {
             "names": {"*": "Mikhail Dunaev", "ru": "Михаил Дунаев"},
