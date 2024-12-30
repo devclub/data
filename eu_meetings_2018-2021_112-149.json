@@ -709,7 +709,7 @@
       {
         "org": {"cam": ["gbeskin"], "edit": ["klinnik"]},
         "lang": "ru",
-        "labels": ["tests"],
+        "labels": ["tests", "experience"],
         "youtube": ["SSglWLW40Ac"],
         "speakers": [
           {
@@ -1636,7 +1636,7 @@
       {
         "org": {"cam": ["astalnuhhin"], "edit": ["asviridenko"]},
         "lang": "ru",
-        "labels": ["tests", "flacky"],
+        "labels": ["tests", "flaky"],
         "youtube": ["elQ2LGGU2bg"],
         "speakers": [
           {

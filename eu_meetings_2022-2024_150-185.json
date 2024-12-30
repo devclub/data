@@ -530,7 +530,7 @@
       {
         "org": {"cam": [""], "edit": ["klinnik"]},
         "lang": "ru",
-        "labels": [],
+        "labels": ["tests", "java", "experience"],
         "youtube": ["4Kh5yppP8zY"],
         "speakers": [
           {
@@ -564,7 +564,7 @@
       {
         "org": {"cam": ["lskorinskaya"], "edit": ["klinnik"]},
         "lang": "ru",
-        "labels": [],
+        "labels": ["AI", "Machine learning"],
         "youtube": ["Olw3TABTOmw"],
         "speakers": [
           {
@@ -584,7 +584,7 @@
       {
         "org": {"cam": ["lskorinskaya"], "edit": ["klinnik"]},
         "lang": "ru",
-        "labels": [],
+        "labels": ["AI", "Machine learning"],
         "youtube": ["f6splQuiLkY"],
         "speakers": [
           {
@@ -604,7 +604,7 @@
       {
         "org": {"cam": ["lskorinskaya"], "edit": ["klinnik"]},
         "lang": "ru",
-        "labels": [],
+        "labels": ["offtopic"],
         "youtube": ["0XziRDFSzZk"],
         "speakers": [
           {
@@ -747,7 +747,7 @@
       {
         "org": {"cam": ["eweber"], "edit": ["klinnik"]},
         "lang": "ru",
-        "labels": [],
+        "labels": ["self-improvement"],
         "youtube": ["TvJwopF_QtY"],
         "speakers": [
           {
@@ -1929,7 +1929,7 @@
       {
         "org": {"cam": ["astalnuhhin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
-        "labels": [],
+        "labels": ["self-improvement"],
         "youtube": ["l4l53tqhScU"],
         "speakers": [
           {
@@ -1950,7 +1950,7 @@
       {
         "org": {"cam": ["astalnuhhin"], "edit": ["astalnuhhin"]},
         "lang": "ru",
-        "labels": [],
+        "labels": ["AI", "Machine learning"],
         "youtube": ["QOp6YV0ksrA"],
         "speakers": [
           {
