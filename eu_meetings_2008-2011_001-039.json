@@ -3,7 +3,7 @@
     "datetime": "2011-11-30T19:00:00+02:00",
     "season": 2011,
     "place": {
-      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", 
+      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2",
       "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
     "num": 39,
@@ -77,7 +77,7 @@
     "datetime": "2011-10-26T19:00:00+03:00",
     "season": 2011,
     "place": {
-      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", 
+      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2",
       "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
     "num": 38,
@@ -350,7 +350,7 @@
     "datetime": "2011-07-28T19:00:00+03:00",
     "season": 2011,
     "place": {
-      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", 
+      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2",
       "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
     "num": 35,
@@ -590,7 +590,7 @@
     "datetime": "2011-05-31T19:00:00+03:00",
     "season": 2011,
     "place": {
-      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", 
+      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2",
       "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
     "num": 33,
@@ -664,7 +664,7 @@
     "datetime": "2011-04-27T19:00:00+03:00",
     "season": 2011,
     "place": {
-      "name": "Hotell Susi", "loc": "https://goo.gl/maps/55CMMhKW67K2", 
+      "name": "Hotell Susi", "loc": "https://goo.gl/maps/55CMMhKW67K2",
       "addr": "Peterburi tee 48, 11415 Tallinn", "url": "http://www.susihotel.ee"
     },
     "num": 32,
@@ -735,7 +735,7 @@
     "datetime": "2011-03-25T19:00:00+02:00",
     "season": 2011,
     "place": {
-      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", 
+      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2",
       "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
     "num": 31,
@@ -788,7 +788,7 @@
     "datetime": "2011-02-25T19:00:00+02:00",
     "season": 2011,
     "place": {
-      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", 
+      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2",
       "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
     "num": 30,
@@ -1277,7 +1277,7 @@
     "datetime": "2010-07-27T19:00:00+03:00",
     "season": 2010,
     "place": {
-      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", 
+      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2",
       "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
     "num": 23,
@@ -1351,7 +1351,7 @@
     "datetime": "2010-06-28T19:00:00+03:00",
     "season": 2010,
     "place": {
-      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", 
+      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2",
       "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
     "num": 22,
@@ -1422,7 +1422,7 @@
     "datetime": "2010-05-26T19:00:00+03:00",
     "season": 2010,
     "place": {
-      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", 
+      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2",
       "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
     "num": 21,
@@ -1498,7 +1498,7 @@
     "datetime": "2010-04-30T19:00:00+03:00",
     "season": 2010,
     "place": {
-      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", 
+      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2",
       "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
     "num": 20,
@@ -1873,7 +1873,7 @@
     "datetime": "2009-11-26T19:00:00+02:00",
     "season": 2009,
     "place": {
-      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", 
+      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2",
       "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
     "num": 15,
@@ -1944,7 +1944,7 @@
     "datetime": "2009-10-29T19:00:00+02:00",
     "season": 2009,
     "place": {
-      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", 
+      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2",
       "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
     "num": 14,
@@ -2021,7 +2021,7 @@
     "datetime": "2009-09-29T19:00:00+03:00",
     "season": 2009,
     "place": {
-      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2", 
+      "name": "Hotell Oru", "loc": "https://goo.gl/maps/uVvhcosKMyS2",
       "addr": "Narva mnt 120, 10127 Tallinn", "url": "http://www.oruhotel.ee"
     },
     "num": 13,
@@ -2048,7 +2048,7 @@
         "titles": {"ru": "Ping-pong программирование"},
         "descr": {
           "ru": [
-            "Так называемое “пинг-понг программирование” является детищем двух известных практик экстремального программирования – парного программирования, и разработки через тестирование. Суть в том, чтобы писать тесты до того как будет написан сам код, при этом, выдерживая наименьшие шаги при написании кода. Т.е. один программист пишет один тест, который компилируется, но “падает”. Затем, второй программист должен написать код, который будет отвечать заранее написанному тесту, и, соответсвенно он же должен будет написать следующий тест, чтобы первый программист написал соответствующий код. Всё это весело и довольно эффектно, но без сомнения требует довольно высокой концентрации на поставленной задаче. Будем рады, если в этой презентации кто то нашёл для себя нечто полезное. Наша цель была показать, как можно программировать вдвоём, а заодно и заставить задуматься присутствующих программистов, как они пишут свой код. Пишите комментарии, соучастники!"
+            "Так называемое “пинг-понг программирование” - детище двух известных практик экстремального программирования: парного программирования и разработки через тестирование. Суть в том, чтобы писать тесты до того, как будет написан сам код, при этом выдерживая наименьшие шаги при написании кода. Т.е. один программист пишет один тест, который компилируется, но “падает”. Затем второй программист должен написать код, который будет отвечать заранее написанному тесту, и соответственно, он же должен будет написать следующий тест, чтобы первый программист написал соответствующий код. Всё это весело и довольно эффектно, но без сомнения, требует довольно высокой концентрации на поставленной задаче. Будем рады, если в этой презентации кто-то нашёл для себя что-то полезное. Наша цель была показать, как можно программировать вдвоём, а заодно и заставить задуматься присутствующих программистов, как они пишут свой код. Пишите комментарии, соучастники!"
           ]
         },
         "top": {"season": 2009, "place": 2}
