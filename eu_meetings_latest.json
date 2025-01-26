@@ -38,7 +38,7 @@
         "youtube": [],
         "speakers": [
           {
-            "names": {"*": "Artem Romanov", "ru": "Артём романов"},
+            "names": {"*": "Artem Romanov", "ru": "Артём Романов"},
             "titles": {"*": "Generalist"},
             "url": "https://www.linkedin.com/in/artem-romanov-645155220/",
             "image": "mplaceholder.png"
