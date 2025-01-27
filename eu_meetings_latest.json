@@ -18,26 +18,6 @@
         "youtube": [],
         "speakers": [
           {
-            "names": {"*": "Tatjana Anisimova", "ru": "Татьяна Анисимова"},
-            "titles": {"*": "Business & Executive Coach ICU"},
-            "url": "https://www.linkedin.com/in/tatjana-anisimova-12964247/",
-            "image": "wplaceholder.png"
-          }
-        ],
-        "titles": {"ru": "Польза коучинга в работе"},
-        "descr": {
-          "ru": [
-            "Я хочу рассказать о коучинге, и как его можно применять в обычной жизни, в работе, в управлении. Это очень мощный, работающий и гуманный инструмент, хотя некоторые думают, что это что-то похожее на шарлатанство. Приведу примеры кейсов, где использовала коучинг для пользы человека."
-          ]
-        }
-      },
-      {
-        "org": {"cam": [""], "edit": [""]},
-        "lang": "ru",
-        "labels": [],
-        "youtube": [],
-        "speakers": [
-          {
             "names": {"*": "Artem Romanov", "ru": "Артём Романов"},
             "titles": {"*": "Generalist"},
             "url": "https://www.linkedin.com/in/artem-romanov-645155220/",
@@ -64,7 +44,7 @@
             "image": "eweber_2023.jpg"
           }
         ],
-        "titles": {"ru": "TBD"},
+        "titles": {"ru": "Стартап с нуля и к звёздам: подводные камни в базе данных."},
         "descr": {
           "ru": [
             "TBD"
