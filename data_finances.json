@@ -9,19 +9,18 @@
     {"month": 6, "price": 250},
     {"month": 12, "price": 200}
   ],
-  "persons": [
+  "persons": [    
     "Aleksandr Belugin",
     "Alexey Filippov",
     "Andrei Arlou",
     "Anton Tšepurov",
     "Deniss Štšerbak",
     "Dmitri Troškov",
-    "Grigori Palamartšuk",
     "Konstantin Klugman",
     "Konstantin Pavlov",
     "Nikita Salomatin",
     "Sergei Kirjanov",
-    "Vladislav Rumjantsev"
+    "Stepan Teus"
   ],
   "companies": [
     {
