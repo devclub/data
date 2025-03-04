@@ -15,7 +15,7 @@
         "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
-        "youtube": [],
+        "youtube": ["yfY300r4fAo"],
         "speakers": [
           {
             "names": {"*": "Artem Romanov", "ru": "Артём Романов"},
@@ -35,7 +35,7 @@
         "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
-        "youtube": [],
+        "youtube": ["kjr_44wnqsE"],
         "speakers": [
           {
             "names": {"*": "Ervin Weber", "ru": "Эрвин Вебер"},
@@ -109,7 +109,7 @@
         "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": ["self-improvement"],
-        "youtube": [],
+        "youtube": ["uDoP0nCf9YM"],
         "speakers": [
           {
             "names": {"*": "Yana Malykhina", "ru": "Яна Малыхина"},
