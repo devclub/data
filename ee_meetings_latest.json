@@ -14,6 +14,7 @@
       {
         "org": {"cam": [], "edit": []},
         "youtube": [], "lang": "en",
+        "labels": ["programming", "LLM", "Kotlin"],
         "speakers": [
           {
             "image": "kpavlov.jpg",
@@ -34,6 +35,7 @@
       {
         "org": {"cam": [], "edit": []},
         "youtube": [], "lang": "en",
+        "labels": ["management", "soft skills"],
         "speakers": [
           {
             "image": "sbelyaev.jpg",
