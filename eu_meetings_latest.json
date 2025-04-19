@@ -41,7 +41,7 @@
             "names": {"*": "TBD", "ru": "TBD"},
             "titles": {"*": "tbd"},
             "url": "",
-            "image": "placeholder.jpg"
+            "image": "mplaceholder.png"
           }
         ],
         "titles": {"ru": "Миграция 2х больших систем Töötukassa с AngularJS на Angular"},
