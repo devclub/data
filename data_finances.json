@@ -44,6 +44,16 @@
       "url": "https://xdatagroup.io"
     },
     {
+      "name": "pawaTech",
+      "logo": "pawatech.jpg",
+      "url": "https://www.pawatech.com"
+    },
+    {
+      "name": "APSTEC Systems",
+      "logo": "apstec.jpg",
+      "url": "https://www.apstecsystems.com"
+    },
+    {
       "name": "Swedbank",
       "logo": "swedbank.png",
       "url": "https://www.swedbank.ee/about/careers"
@@ -57,11 +67,6 @@
       "name": "JetBrains",
       "logo": "jetbrains.png",
       "url": "https://www.jetbrains.com"
-    },
-    {
-      "name": "pawaTech",
-      "logo": "pawatech.jpg",
-      "url": "https://www.pawatech.com"
     }
   ]
 }
