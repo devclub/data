@@ -1,5 +1,61 @@
 [
   {
+    "num": 98,
+    "season": 2025,
+    "datetime": "2025-03-26T19:00:00+02:00",
+    "place": {
+      "name": "Askend", "loc": "https://maps.app.goo.gl/5zSHSSQestoERXcJ9",
+      "addr": "Tartu mnt 80f, 2nd floor, Tallinn 10137", "url": "https://maps.app.goo.gl/NepvKvm79FwovdxJ6"
+    },
+    "org": {"mod": [], "photo": []},
+    "photo": [],
+    "event": "https://www.eventbrite.com/e/devclubee-98-konstantin-pavlov-stanislav-belyaev-tickets-1277814992039",
+    "speeches": [
+      {
+        "org": {"cam": [], "edit": []},
+        "youtube": [], "lang": "en",
+        "labels": ["programming", "LLM", "Kotlin"],
+        "speakers": [
+          {
+            "image": "kpavlov.jpg",
+            "names": {"*": "Konstantin Pavlov"},
+            "titles": {"*": "Software Engineer @ Twilio"},
+            "url": "https://www.linkedin.com/in/kpavlov/"
+          }
+        ],
+        "titles": {
+          "*": "Bringing LangChain4j to Kotlin"
+        },
+        "descr": {
+          "en": [
+            "LangChain4j is a Java library that simplifies working with Large Language Models (LLMs). But using it in Kotlin isn’t always seamless—especially when working with coroutines. In this talk, I’ll share my experience creating a Kotlin wrapper for LangChain4j, making its API more natural for Kotlin developers. I’ll show how to adapt Java APIs for coroutines and demonstrate practical examples: 1) Building AI-powered services for an RPG game. 2) Testing AI integrations with the ai-mocks library. If you’re looking to integrate LLMs into Kotlin projects, this session will give you a solid starting point."
+          ]
+        }
+      },
+      {
+        "org": {"cam": [], "edit": []},
+        "youtube": [], "lang": "en",
+        "labels": ["management", "soft skills"],
+        "speakers": [
+          {
+            "image": "sbelyaev.jpg",
+            "names": {"*": "Stanislav Belyaev"},
+            "titles": {"*": "Technical Product Manager @ Microsoft"},
+            "url": "https://www.linkedin.com/in/stanislav-belyaev/"
+          }
+        ],
+        "titles": {
+          "*": "Authority, Power, and Expertise: How Do They Shape Your Work?"
+        },
+        "descr": {
+          "en": [
+            "What happens when someone gains authority? They gain power and influence over others. This talk explores different types of power, how they manifest in professional settings—through titles, symbols of authority, and expertise—and their impact on decision-making. We’ll examine how experts and leaders can recognize and mitigate authority bias, ensuring sound, unbiased decisions. Whether you’re a manager, team lead, or a technical expert, understanding these dynamics can help you navigate influence responsibly. Based on research on power and authority, this talk provides practical insights for technical professionals."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "num": 97,
     "season": 2024,
     "datetime": "2024-12-11T19:00:00+03:00",
