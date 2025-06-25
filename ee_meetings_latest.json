@@ -14,7 +14,7 @@
       {
         "org": {"cam": [], "edit": []},
         "youtube": [], "lang": "en",
-         "labels": ["management", "soft skills"],
+        "labels": ["management", "soft skills"],
         "speakers": [
           {
             "image": "ogolovachov.jpg",
@@ -34,22 +34,21 @@
       },
       {
         "org": {"cam": [], "edit": []},
-        "youtube": [], "lang": "en",
-        "labels": ["management", "soft skills"],
+        "lang": "en",
+        "labels": ["offtopic"],
+        "youtube": [],
         "speakers": [
           {
-            "image": "mplaceholder.png",
-            "names": {"*": "TBD"},
-            "titles": {"*": "tbd"},
-            "url": "https://www.linkedin.com/"
+            "names": {"*": "Andrei Solntsev"},
+            "titles": {"*": "Software craftsman @ Codeborne"},
+            "url": "https://ee.linkedin.com/in/asolntsev",
+            "image": "asolntsev_2018.jpg"
           }
         ],
-        "titles": {
-          "*": "T.B.D"
-        },
+        "titles": {"*": "Why do we have 7 notes?"},
         "descr": {
-          "en": [
-            "tbd tbd tbd"
+          "*": [
+            "Why do we have 7 notes? Why not 6 or 8? I will show the answer using programming, mathematics and live instruments."
           ]
         }
       }
