@@ -24,20 +24,20 @@
     ]
   ],
   "meetingsUrls": {
-    "main": "https://data.devclub.eu/ee_meetings_latest.json",
+    "main": "https://devclub.github.io/data/ee_meetings_latest.json",
     "archive": [
-      "https://data.devclub.eu/ee_meetings_2019-2027_067-112.json",
-      "https://data.devclub.eu/ee_meetings_2016-2018_043-066.json",
-      "https://data.devclub.eu/ee_meetings_2011-2015_001-042.json"
+      "https://devclub.github.io/data/ee_meetings_2019-2027_067-112.json",
+      "https://devclub.github.io/data/ee_meetings_2016-2018_043-066.json",
+      "https://devclub.github.io/data/ee_meetings_2011-2015_001-042.json"
     ]
   },
-  "seminarsUrl": "https://data.devclub.eu/data_seminars.json",
+  "seminarsUrl": "https://devclub.github.io/data/data_seminars.json",
   "finances": {
-    "dataUrl": "https://data.devclub.eu/data_finances.json",
+    "dataUrl": "https://devclub.github.io/data/data_finances.json",
     "logoUrlPrefix": "https://data.devclub.eu/finances"
   },
   "team": {
-    "dataUrl": "https://data.devclub.eu/data_team.json",
+    "dataUrl": "https://devclub.github.io/data/data_team.json",
     "personUrlPrefix": "https://data.devclub.eu/persons"
   },
   "resources": {
