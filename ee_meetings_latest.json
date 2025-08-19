@@ -35,7 +35,7 @@
       {
         "org": {"cam": [], "edit": []},
         "lang": "en",
-        "labels": ["TODO"],
+        "labels": [""],
         "youtube": [],
         "speakers": [
           {
@@ -56,6 +56,25 @@
           "*": [
             "Big Tech quietly rewrote the job and the change is reaching everyone else. Amazon, Microsoft, and Google reset how software is planned, built, and measured, and those norms are flowing into startups and mid‑size teams. AI copilots raise the performance bar. People partners and managers reshape definition of “ownership.” Product sense and cost discipline are now non‑negotiable. Engineers must reason like PMs; PMs must think like system designers. Output isn’t the bar, but outcomes are.\n\nJoin us to decode the new skill stack and leave with a playbook whether you ship code or roadmaps.\n\nWho should attend: software engineers, PMs, tech leads, EMs, and founders who want to stay on the top of competitive market."
           ]
+        }
+      },
+      {
+        "org": {"cam": [], "edit": []},
+        "lang": "en",
+        "labels": [""],
+        "youtube": [],
+        "speakers": [
+          {
+            "names": {"*": "Külli Siimon"},
+            "titles": {"*": "Senior Tech Lead @ Inbank, 7+ years in IT, psychologist in heart. You can find me figuring life out with Cursor, Cappuccino and Corgi by my side."},
+            "url": "",
+            "image": "külli-siimon.png"
+          }
+        ],
+        "titles": {"*": ""},
+        "descr": {
+          "*": [
+            ""]
         }
       }
     ]
