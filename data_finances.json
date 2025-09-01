@@ -24,6 +24,11 @@
   ],
   "companies": [
     {
+      "name": "Inbank",
+      "logo": "inbank.png",
+      "url": "https://inbank.eu/careers"
+    },
+    {
       "name": "Codeborne",
       "logo": "codeborne.png",
       "url": "https://codeborne.com"
