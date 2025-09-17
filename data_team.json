@@ -5,14 +5,13 @@
     {"row": 1, "col": 2, "personCode": "klinnik"},
     {"row": 1, "col": 3, "personCode": "aarhipov"},
     {"row": 2, "col": 1, "personCode": "gbeskin"},
-    {"row": 2, "col": 2, "personCode": "sgorski"},
+    {"row": 2, "col": 2, "personCode": "asolntsev"},
     {"row": 2, "col": 3, "personCode": "jgoloborodko"},
     {"row": 2, "col": 4, "personCode": "izverev"},
     {"row": 2, "col": 5, "personCode": "lskorinskaya"},
-    {"row": 2, "col": 6, "personCode": "eweber"},
-    {"row": 2, "col": 7, "personCode": "ijaama"}
+    {"row": 2, "col": 6, "personCode": "eweber"}
   ],
-  "thanks": ["asolntsev", "jtimosin", "asviridenko", "tgordejeva", "agritsevski", "jmulenko", "amotsenov", "jholodkov", "zkirillov", "agrigorjev", "kbuhhalko"],
+  "thanks": ["sgorski", "ijaama", "jtimosin", "asviridenko", "tgordejeva", "agritsevski", "jmulenko", "amotsenov", "jholodkov", "zkirillov", "agrigorjev", "kbuhhalko"],
   "persons": {
     "aarhipov": {"names": {"*": "Anton Arhipov", "ru": "Антон Архипов"}, "image": "aarhipov_team.jpg", "url": "https://ee.linkedin.com/in/antonarhipov"},
     "agrigorjev": {"names": {"*": "Arseni Grigorjev", "ru": "Арсений Григорьев"}, "image": "agrigorjev_team.jpg", "url": "https://ee.linkedin.com/in/arsenig"},
