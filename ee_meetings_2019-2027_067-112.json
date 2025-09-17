@@ -1,5 +1,121 @@
 [
   {
+    "num": 100,
+    "season": 2025,
+    "datetime": "2025-09-03T19:00:00+03:00",
+    "place": {
+      "name": "Inbank", "loc": "https://maps.app.goo.gl/rbxqPxu7HRu4LSNE6",
+      "addr": "Niine 11, 2A floor (Kalamaja, Tallinn)", "url": "https://maps.app.goo.gl/rbxqPxu7HRu4LSNE6"
+    },
+    "org": {"mod": [], "photo": []},
+    "photo": [],
+    "event": "https://www.eventbrite.com/e/devclubee-100-olga-khodyreva-dmytro-kolomiets-kulli-siimon-tickets-1606830215429?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl",
+    "speeches": [
+      {
+        "org": {"cam": [], "edit": []},
+        "youtube": [], "lang": "en",
+        "labels": ["programming", "teaching", "AI"],
+        "speakers": [
+          {
+            "image": "okhodyreva.jpg",
+            "names": {"*": "Olga Khodyreva"},
+            "titles": {"*": "Educational Technologist"},
+            "url": "https://www.linkedin.com/in/olga-khodyreva-a6118a17b/"
+          }
+        ],
+        "titles": {
+          "*": "Teaching IT in schools"
+        },
+        "descr": {
+          "en": [
+            "The reality of school IT: how children master programming and design, create cool projects and find it interesting. Which programs and methods really work in the classroom and what difficulties they face. Personal experience, examples of students' work and a look at modern school computer science, as well as the role and possibilities of AI for schoolchildren."
+          ]
+        }
+      },
+      {
+        "org": {"cam": [], "edit": []},
+        "lang": "en",
+        "labels": [],
+        "youtube": [],
+        "speakers": [
+          {
+            "names": {"*": "Dmytro Kolomiets"},
+            "titles": {"*": "Engineering Manager @ Inbank, mentor, AI enthusiast, over 13+ years in IT, ex-Bolt, ex-Microsoft."},
+            "url": "",
+            "image": "dmytro-kolomiets.png"
+          },
+          {
+            "names": {"*": "Külli Siimon"},
+            "titles": {"*": "Senior Tech Lead @ Inbank, 7+ years in IT, psychologist in heart. You can find me figuring life out with Cursor, Cappuccino and Corgi by my side."},
+            "url": "",
+            "image": "külli-siimon.png"
+          }
+        ],
+        "titles": {"*": "Engineer 2.0: The Playbook Big Tech Wrote – Now You Will Be Using"},
+        "descr": {
+          "*": [
+            "Big Tech quietly rewrote the job and the change is reaching everyone else. Amazon, Microsoft, and Google reset how software is planned, built, and measured, and those norms are flowing into startups and mid‑size teams. AI copilots raise the performance bar. People partners and managers reshape definition of “ownership.” Product sense and cost discipline are now non‑negotiable. Engineers must reason like PMs; PMs must think like system designers. Output isn’t the bar, but outcomes are.\n\nJoin us to decode the new skill stack and leave with a playbook whether you ship code or roadmaps.\n\nWho should attend: software engineers, PMs, tech leads, EMs, and founders who want to stay on the top of competitive market."
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "num": 99,
+    "season": 2025,
+    "datetime": "2025-06-30T19:00:00+03:00",
+    "place": {
+      "name": "Askend", "loc": "https://maps.app.goo.gl/5zSHSSQestoERXcJ9",
+      "addr": "Tartu mnt 80f, 2nd floor, Tallinn 10137", "url": "https://maps.app.goo.gl/NepvKvm79FwovdxJ6"
+    },
+    "org": {"mod": [], "photo": []},
+    "photo": [],
+    "event": "https://www.eventbrite.com/e/devclubee-99-oleg-golovachov-andrei-solntsev-tickets-1434472468769",
+    "speeches": [
+      {
+        "org": {"cam": [], "edit": []},
+        "youtube": [], "lang": "en",
+        "labels": ["management", "soft skills"],
+        "speakers": [
+          {
+            "image": "ogolovachov.jpg",
+            "names": {"*": "Oleg Golovachov"},
+            "titles": {"*": "Entrepreneur, ex-CTO @ Blocktrade"},
+            "url": "https://www.linkedin.com/in/oleg-golovachov-80b16a1/"
+          }
+        ],
+        "titles": {
+          "*": "Why Managers Aren't As Dumb As We Thought"
+        },
+        "descr": {
+          "en": [
+            "When you're a developer, it often feels like managers get in the way of “real work,” don’t understand priorities, and generally slow down progress. In this talk, I’ll share how my perspective changed after I went through the journey from developer to CTO. Why management makes “strange” decisions, how a product looks from different levels, and what’s actually behind what seems like sabotage. This talk is an honest insider’s look and an attempt to build a bridge between code and management."
+          ]
+        }
+      },
+      {
+        "org": {"cam": [], "edit": []},
+        "lang": "en",
+        "labels": ["offtopic"],
+        "youtube": [],
+        "speakers": [
+          {
+            "names": {"*": "Andrei Solntsev"},
+            "titles": {"*": "Software craftsman @ Codeborne"},
+            "url": "https://ee.linkedin.com/in/asolntsev",
+            "image": "asolntsev_2018.jpg"
+          }
+        ],
+        "titles": {"*": "Why do we have 7 notes?"},
+        "descr": {
+          "*": [
+            "Why do we have 7 notes? Why not 6 or 8? I will show the answer using programming, mathematics and live instruments."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "num": 98,
     "season": 2025,
     "datetime": "2025-03-26T19:00:00+02:00",
