@@ -1,7 +1,7 @@
 [
   {
-    "num": 191,
-    "datetime": "2025-09-24T19:00:00+03:00",
+    "num": 192,
+    "datetime": "2025-10-28T19:00:00+03:00",
     "season": 2025,
     "place": {
       "name": "Askend", "loc": "https://maps.app.goo.gl/5zSHSSQestoERXcJ9",
@@ -18,16 +18,16 @@
         "youtube": [],
         "speakers": [
           {
-            "names": {"*": "Elena Barbanova", "ru": "Елена Барбанова"},
-            "titles": {"*": "Senior business/data analyst"},
-            "url": "https://www.linkedin.com/in/aljona-elena-barbanova-b0b810b5",
-            "image": "elena_barbanova.jpeg"
+            "names": {"*": "Artem Smirnov", "ru": "Артём Смирнов"},
+            "titles": {"*": "Founder @ Actinis"},
+            "url": "https://www.linkedin.com/in/artem-smirnov-at-labster/",
+            "image": "artem-smirnov.jpeg"
           }
         ],
-        "titles": {"ru": "Путь в аналитики"},
+        "titles": {"ru": "Skia - кросс-платформенный рендеринг графики"},
         "descr": {
           "ru": [
-            "Зачем аналитика бизнесу? Зачем аналитику образование? Что нужнее аналитику - Питон, SQL или Chat GPT? Эти и другие темы с примерами из жизни."
+            "Skia - штука, с помощью которой рисуется почти вся графика в Android, Chromium, Flutter (раньше) и много где ещё. Результаты её работы все постоянно видят, но о самой библиотеке мало кто знает. Расскажу на примере того, как оно работает под капотом у Android."
           ]
         }
       },
@@ -38,16 +38,16 @@
         "youtube": [],
         "speakers": [
           {
-            "names": {"*": "Nikolay Sekachev", "ru": "Николай Секачев"},
+            "names": {"*": "Dmitri Plahhotnikov", "ru": "Дмитрий Плахотников"},
             "titles": {"*": ""},
-            "url": "https://www.linkedin.com/in/nikolay-sekachev-99b34547/",
-            "image": "nikolay_sekachev.jpeg"
+            "url": "https://www.linkedin.com/in/dmitri-plahhotnikov-0bbb7323/",
+            "image": "dmitri-plahhotnikov.jpeg"
           }
         ],
-        "titles": {"ru": "Vibe coding в продакшене - миф или реальность?"},
+        "titles": {"ru": "Почему люди играют в азартные игры"},
         "descr": {
           "ru": [
-            "Я вайбкодил на протяжении 6 мес и вот чему научился... что работает, а что нет: IDE, языки, фреймворки. Сколько это стоит и как вайбкодить бесплатно. Какие LLM использовать. Покажу несколько реализованных проектов."
+            "Про механизм работы мозга, нейротрансмиттеры, как это влияет на азартные игры."
           ]
         }
       }

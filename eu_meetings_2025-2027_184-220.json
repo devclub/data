@@ -1,5 +1,59 @@
 [
   {
+    "num": 191,
+    "datetime": "2025-09-24T19:00:00+03:00",
+    "season": 2025,
+    "place": {
+      "name": "Askend", "loc": "https://maps.app.goo.gl/5zSHSSQestoERXcJ9",
+      "addr": "Tartu mnt 80f, 2nd floor, Tallinn 10137", "url": "https://maps.app.goo.gl/NepvKvm79FwovdxJ6"
+    },
+    "org": {"mod": [""], "photo": [""]},
+    "photo": [""],
+    "event": "",
+    "speeches": [
+      {
+        "org": {"cam": [""], "edit": [""]},
+        "lang": "ru",
+        "labels": [],
+        "youtube": [],
+        "speakers": [
+          {
+            "names": {"*": "Elena Barbanova", "ru": "Елена Барбанова"},
+            "titles": {"*": "Senior business/data analyst"},
+            "url": "https://www.linkedin.com/in/aljona-elena-barbanova-b0b810b5",
+            "image": "elena_barbanova.jpeg"
+          }
+        ],
+        "titles": {"ru": "Путь в аналитики"},
+        "descr": {
+          "ru": [
+            "Зачем аналитика бизнесу? Зачем аналитику образование? Что нужнее аналитику - Питон, SQL или Chat GPT? Эти и другие темы с примерами из жизни."
+          ]
+        }
+      },
+      {
+        "org": {"cam": [""], "edit": [""]},
+        "lang": "ru",
+        "labels": [],
+        "youtube": [],
+        "speakers": [
+          {
+            "names": {"*": "Nikolay Sekachev", "ru": "Николай Секачев"},
+            "titles": {"*": ""},
+            "url": "https://www.linkedin.com/in/nikolay-sekachev-99b34547/",
+            "image": "nikolay_sekachev.jpeg"
+          }
+        ],
+        "titles": {"ru": "Vibe coding в продакшене - миф или реальность?"},
+        "descr": {
+          "ru": [
+            "Я вайбкодил на протяжении 6 мес и вот чему научился... что работает, а что нет: IDE, языки, фреймворки. Сколько это стоит и как вайбкодить бесплатно. Какие LLM использовать. Покажу несколько реализованных проектов."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "num": 190,
     "datetime": "2025-08-27T19:00:00+03:00",
     "season": 2025,
