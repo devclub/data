@@ -35,7 +35,7 @@
       {
         "org": {"cam": [], "edit": []},
         "lang": "en",
-        "labels": [],
+        "labels": ["User Experience", "Service design", "Product"],
         "youtube": [],
         "speakers": [
           {
