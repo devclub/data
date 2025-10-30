@@ -9,7 +9,7 @@
     {"month": 6, "price": 250},
     {"month": 12, "price": 200}
   ],
-  "persons": [    
+  "persons": [
     "Aleksandr Belugin",
     "Alexey Filippov",
     "Andrei Arlou",
@@ -23,11 +23,6 @@
     "Stepan Teus"
   ],
   "companies": [
-    {
-      "name": "Inbank",
-      "logo": "inbank.png",
-      "url": "https://inbank.eu/careers"
-    },
     {
       "name": "Codeborne",
       "logo": "codeborne.png",
