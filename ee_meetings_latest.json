@@ -1,54 +1,60 @@
 [
   {
-    "num": 102,
+    "num": 103,
     "season": 2025,
-    "datetime": "2025-11-18T19:00:00+02:00",
+    "datetime": "2025-12-18T19:00:00+02:00",
     "place": {
-      "addr": "Kopli tn 68a, 10412 Tallinn", "loc": "https://maps.app.goo.gl/8G7Q95boekzc7u286",
-      "name": "Wise", "url": "https://wise.com/"
+      "addr": "Liivalaia 34, 15040 Tallinn", "loc": "https://maps.app.goo.gl/9VuZ2HD3xzjhPzNk6",
+      "name": "Swedbank", "url": "https://swedbank.ee/private/home/contacts"
     },
     "org": {"mod": [], "photo": []},
     "photo": [],
-    "event": "https://www.eventbrite.com/e/devclubee-102-dmytro-hnatiuk-anna-shishkova-tickets-1925395161759?aff=oddtdtcreator",
+    "event": "",
     "speeches": [
       {
         "org": {"cam": [], "edit": []},
         "youtube": [], "lang": "en",
-        "labels": ["programming", "database", "finances"],
+        "labels": ["programming", "microservice", "java", "finances"],
         "speakers": [
           {
-            "image": "dhnatiuk.jpg",
-            "names": {"*": "Dmytro Hnatiuk"},
-            "titles": {"*": "Principal Software Engineer @ Wise"},
-            "url": "https://www.linkedin.com/in/dhnatiuk/"
+            "image": "markus-backman.jpeg",
+            "names": {"*": "Markus Backman"},
+            "titles": {"*": "Technology Enterprise Architect"},
+            "url": "https://www.linkedin.com/in/markus-backman/"
           }
         ],
         "titles": {
-          "*": "Scaling a Beast: Lessons from 400x Growth in a High-Stakes Financial System"
+          "*": "Andromeda: Opinionated Micro-services That Scale at a Bank — our journey in platform engineering"
         },
         "descr": {
           "en": [
-            "Scaling a system from 66 million to over 25 billion records is no easy feat - especially when it’s a core financial system where every number has to be right, and data needs to be fresh right now. In this session, I’ll share the ups and downs of managing this kind of growth without losing my sanity. You’ll learn how to balance high data accuracy with real-time performance, optimize your app logic, and avoid the usual traps of database scaling. This isn’t about turning you into a database expert - it’s about giving you the practical, no-BS strategies you need to scale your systems without getting overwhelmed by technical headaches. Perfect for engineers and architects who want to tackle big challenges and come out on top."
+            "Moving towards micro-services can, if not careful, lead to chaos: inconsistent practices, unpredictable releases, maintenance burden, and slow velocity. In a highly regulated environment like banking, this chaos isn’t just inconvenient — it becomes a compliance, security, and operational risk.\n\n \n\nIn this talk we present Andromeda, our opinionated micro-service platform — not just a technical foundation, but a disciplined approach to delivering software safely and consistently at scale.\n\n \n\nWe will cover:\n * What Andromeda is: the tech stack, the runtime model, and the built-in safety rails that shape how teams build, test, deploy, and run micro-services.\n * How we do it: the processes, governance, and automated controls that ensure developer autonomy while embedding compliance-by-design — essential for a bank operating under strict regulation.\n * Who powers it: the teams, culture, and shared responsibility model that make platform engineering work in practice.\n * Why we built it: the challenges of fragmented service landscapes, compliance overhead, and operational inconsistency — and how an opinionated platform helped us regain control and accelerate delivery.\n * Where we are now: lessons learned, what worked, what didn’t, and how the platform continues to evolve.\n\n \n\nThis talk is valuable for anyone building or operating micro-services, especially in regulated or large-scale environments. You’ll get practical insights into how a platform-centric, opinionated approach can create speed, reliability, and compliance — all at the same time."
           ]
         }
       },
       {
         "org": {"cam": [], "edit": []},
         "lang": "en",
-        "labels": ["User Experience", "Service design", "Product"],
+        "labels": ["programming", "microservice", "java", "finances"],
         "youtube": [],
         "speakers": [
           {
-            "image": "anna_shishkova.jpeg",
-            "names": {"*": "Anna Shishkova"},
-            "titles": {"*": "Product Business Analyst"},
-            "url": "https://www.linkedin.com/in/anna-shishkova-3b435264/"
+            "image": "aleksei-gussarov.jpeg",
+            "names": {"* ": "Aleksei Gussarov"},
+            "titles": {"*": "Baltic Channels Architect"},
+            "url": "https://www.linkedin.com/in/alekseigussarov/"
+          },
+          {
+            "image": "rustavil-nurkaev.jpeg",
+            "names": {"*": "Rustavil Nurkaev"},
+            "titles": {"*": "Baltic Channels Software Engineer"},
+            "url": "https://www.linkedin.com/in/rustavil/"
           }
         ],
-        "titles": {"*": "Service Design in Action: From Concepts to Real-World Impact"},
+        "titles": {"*": "Andromeda platform: hands-on developer experience"},
         "descr": {
           "*": [
-            "This presentation explores the essence of Service Design — what it is, who it’s for, and how it helps organizations create meaningful value. Through practical examples, we’ll look at how service design principles drive innovation and improve customer experiences across industries."
+            "In this practical, end-to-end demo, we’ll walk through the full lifecycle of a Java application running on the Andromeda Platform—from project creation (or certain feature development) to deployment in managed environments. \nYou’ll see how the platform delivers a streamlined Developer Experience that accelerates delivery through efficient project setup, automated CI/CD pipelines, environment management, built-in observability, and risk-aware change controls."
           ]
         }
       }

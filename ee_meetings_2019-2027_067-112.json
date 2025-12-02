@@ -1,5 +1,60 @@
 [
   {
+    "num": 102,
+    "season": 2025,
+    "datetime": "2025-11-18T19:00:00+02:00",
+    "place": {
+      "addr": "Kopli tn 68a, 10412 Tallinn", "loc": "https://maps.app.goo.gl/8G7Q95boekzc7u286",
+      "name": "Wise", "url": "https://wise.com/"
+    },
+    "org": {"mod": [], "photo": []},
+    "photo": [],
+    "event": "https://www.eventbrite.com/e/devclubee-102-dmytro-hnatiuk-anna-shishkova-tickets-1925395161759?aff=oddtdtcreator",
+    "speeches": [
+      {
+        "org": {"cam": [], "edit": []},
+        "youtube": ["k1lDnCNCNhI"], "lang": "en",
+        "labels": ["programming", "database", "finances"],
+        "speakers": [
+          {
+            "image": "dhnatiuk.jpg",
+            "names": {"*": "Dmytro Hnatiuk"},
+            "titles": {"*": "Principal Software Engineer @ Wise"},
+            "url": "https://www.linkedin.com/in/dhnatiuk/"
+          }
+        ],
+        "titles": {
+          "*": "Scaling a Beast: Lessons from 400x Growth in a High-Stakes Financial System"
+        },
+        "descr": {
+          "en": [
+            "Scaling a system from 66 million to over 25 billion records is no easy feat - especially when it’s a core financial system where every number has to be right, and data needs to be fresh right now. In this session, I’ll share the ups and downs of managing this kind of growth without losing my sanity. You’ll learn how to balance high data accuracy with real-time performance, optimize your app logic, and avoid the usual traps of database scaling. This isn’t about turning you into a database expert - it’s about giving you the practical, no-BS strategies you need to scale your systems without getting overwhelmed by technical headaches. Perfect for engineers and architects who want to tackle big challenges and come out on top."
+          ]
+        }
+      },
+      {
+        "org": {"cam": [], "edit": []},
+        "lang": "en",
+        "labels": ["User Experience", "Service design", "Product"],
+        "youtube": ["OFjK-EoVJHs"],
+        "speakers": [
+          {
+            "image": "anna_shishkova.jpeg",
+            "names": {"*": "Anna Shishkova"},
+            "titles": {"*": "Product Business Analyst"},
+            "url": "https://www.linkedin.com/in/anna-shishkova-3b435264/"
+          }
+        ],
+        "titles": {"*": "Service Design in Action: From Concepts to Real-World Impact"},
+        "descr": {
+          "*": [
+            "This presentation explores the essence of Service Design — what it is, who it’s for, and how it helps organizations create meaningful value. Through practical examples, we’ll look at how service design principles drive innovation and improve customer experiences across industries."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "num": 101,
     "season": 2025,
     "datetime": "2025-10-07T19:00:00+03:00",
@@ -13,7 +68,7 @@
     "speeches": [
       {
         "org": {"cam": [], "edit": []},
-        "youtube": [], "lang": "en",
+        "youtube": ["aPy7-LamA3Q"], "lang": "en",
         "labels": ["programming", "teaching", "AI"],
         "speakers": [
           {
@@ -36,7 +91,7 @@
         "org": {"cam": [], "edit": []},
         "lang": "en",
         "labels": [],
-        "youtube": [],
+        "youtube": ["k1lDnCNCNhI"],
         "speakers": [
           {
             "image": "bumurzokov.jpg",
@@ -68,7 +123,7 @@
     "speeches": [
       {
         "org": {"cam": [], "edit": []},
-        "youtube": [], "lang": "en",
+        "youtube": ["AR6Kd3iDH3w"], "lang": "en",
         "labels": ["programming", "teaching", "AI"],
         "speakers": [
           {
@@ -91,7 +146,7 @@
         "org": {"cam": [], "edit": []},
         "lang": "en",
         "labels": [],
-        "youtube": [],
+        "youtube": ["Eci2QpEyDZQ"],
         "speakers": [
           {
             "names": {"*": "Dmytro Kolomiets"},
@@ -129,7 +184,7 @@
     "speeches": [
       {
         "org": {"cam": [], "edit": []},
-        "youtube": [], "lang": "en",
+        "youtube": ["TkQ5lwghvlI"], "lang": "en",
         "labels": ["management", "soft skills"],
         "speakers": [
           {
@@ -152,7 +207,7 @@
         "org": {"cam": [], "edit": []},
         "lang": "en",
         "labels": ["offtopic"],
-        "youtube": [],
+        "youtube": ["dhqhHm5rc3A"],
         "speakers": [
           {
             "names": {"*": "Andrei Solntsev"},
@@ -184,7 +239,7 @@
     "speeches": [
       {
         "org": {"cam": [], "edit": []},
-        "youtube": [], "lang": "en",
+        "youtube": ["pmB-QPwu7Qo"], "lang": "en",
         "labels": ["programming", "LLM", "Kotlin"],
         "speakers": [
           {
@@ -205,7 +260,7 @@
       },
       {
         "org": {"cam": [], "edit": []},
-        "youtube": [], "lang": "en",
+        "youtube": ["cXYSW1NMTJM"], "lang": "en",
         "labels": ["management", "soft skills"],
         "speakers": [
           {
