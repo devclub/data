@@ -112,7 +112,7 @@
         "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
-        "youtube": [],
+        "youtube": ["LUrjoApNEws"],
         "speakers": [
           {
             "names": {"*": "Vladimir Ovodenko", "ru": "Владимир Оводенко"},
@@ -132,7 +132,7 @@
         "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
-        "youtube": [],
+        "youtube": ["TiPxXhnX1i0"],
         "speakers": [
           {
             "names": {"*": "Anton Nazarenko", "ru": "Антон Назаренко"},
@@ -166,7 +166,7 @@
         "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
-        "youtube": [],
+        "youtube": ["qOCGj-KkpxE"],
         "speakers": [
           {
             "names": {"*": "Artem Smirnov", "ru": "Артём Смирнов"},
@@ -186,7 +186,7 @@
         "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
-        "youtube": [],
+        "youtube": ["2keKKC-spHs"],
         "speakers": [
           {
             "names": {"*": "Dmitri Plahhotnikov", "ru": "Дмитрий Плахотников"},
@@ -220,7 +220,7 @@
         "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
-        "youtube": [],
+        "youtube": ["yZlN1z3Hluo"],
         "speakers": [
           {
             "names": {"*": "Elena Barbanova", "ru": "Елена Барбанова"},
@@ -240,7 +240,7 @@
         "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
-        "youtube": [],
+        "youtube": ["Fr9kPUhPm64"],
         "speakers": [
           {
             "names": {"*": "Nikolay Sekachev", "ru": "Николай Секачев"},
@@ -294,7 +294,7 @@
         "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
-        "youtube": [],
+        "youtube": ["Lpnft6jwosY"],
         "speakers": [
           {
             "names": {"*": "Ilya Zverev", "ru": "Илья Зверев"},
@@ -329,7 +329,7 @@
         "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
-        "youtube": [],
+        "youtube": ["Z8NT6TZge4A"],
         "speakers": [
           {
             "names": {"*": "Evgueni Semenov", "ru": "Евгений Семенов"},
@@ -349,7 +349,7 @@
         "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
-        "youtube": [],
+        "youtube": ["JUj6ZL9XpYY"],
         "speakers": [
           {
             "names": {"*": "Anton Keks", "ru": "Антон Кекс"},
@@ -383,7 +383,7 @@
         "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
-        "youtube": [],
+        "youtube": ["GX62qaacacM"],
         "speakers": [
           {
             "names": {"*": "Olga Khodyreva", "ru": "Ольга Ходырева"},
@@ -404,7 +404,7 @@
         "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
-        "youtube": [],
+        "youtube": ["4v-UMTvrugc"],
         "speakers": [
           {
             "names": {"*": "Ilya Zverev", "ru": "Илья Зверев"},
@@ -438,7 +438,7 @@
         "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
-        "youtube": [],
+        "youtube": ["pvYMIckLBw4"],
         "speakers": [
           {
             "names": {"*": "Eduard Ansperi", "ru": "Эдуард Анспери"},
@@ -458,7 +458,7 @@
         "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
-        "youtube": [],
+        "youtube": ["7QuCMuI7brw"],
         "speakers": [
           {
             "names": {"*": "Aleksandr Belkov", "ru": "Александр Белков"},
@@ -492,7 +492,7 @@
         "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
-        "youtube": [],
+        "youtube": ["_vXPAJd8Bog"],
         "speakers": [
           {
             "names": {"*": "Tatjana Anisimova", "ru": "Татьяна Анисимова"},
@@ -512,7 +512,7 @@
         "org": {"cam": [""], "edit": [""]},
         "lang": "ru",
         "labels": [],
-        "youtube": [],
+        "youtube": ["VqnuQIMijsQ"],
         "speakers": [
           {
             "names": {"*": "Dmitri Gostev", "ru": "Дмитрий Гостев"},
