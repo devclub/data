@@ -1,5 +1,102 @@
 [
   {
+    "num": 194,
+    "datetime": "2025-12-22T19:00:00+02:00",
+    "season": 2025,
+    "place": {
+      "name": "Askend", "loc": "https://maps.app.goo.gl/5zSHSSQestoERXcJ9",
+      "addr": "Tartu mnt 80f, 2nd floor, Tallinn 10137", "url": "https://maps.app.goo.gl/NepvKvm79FwovdxJ6"
+    },
+    "org": {"mod": [""], "photo": [""]},
+    "photo": [""],
+    "event": "https://www.eventbrite.com/e/devclubeu194-tickets-1978567444488",
+    "speeches": [
+      {
+        "org": {"cam": ["lskorinskaya"], "edit": ["klinnik"]},
+        "lang": "ru",
+        "labels": [],
+        "youtube": [],
+        "speakers": [
+          {
+            "names": {"*": "Ilja Zverev", "ru": "Илья Зверев"},
+            "titles": {"*": "Сбежал на Mastodon"},
+            "url": "https://www.linkedin.com/in/ilja-zverev/",
+            "image": "izverev.jpg"
+          }
+        ],
+        "titles": {"ru": "Enshittification: почему веб-платформы портятся, и что с этим делать"},
+        "descr": {
+          "ru": [
+            "Вы замечали, как фейсбук показывает 70% рекламы и прячет посты от людей, на которых вы подписаны?",
+            "Как Bolt поднимает цены и, в то же время не даёт водителям нормально заработать?",
+            "Как Google испортил свой поиск? Как Твитер... ну, вы знаете. Как все. Начинают офигенно, но со временем превращают свои платформы в дерьмо, чтобы выжать пару лишних долларов.",
+            "Для этого Кори Доктороу придумал слово: enshittification. Оно не только обозначает конкретный процесс порчи платформ, но и подсказывает способы этого избежать. Что делать, когда, в свою очередь, испортится BlueSky? Давайте разберёмся."
+          ]
+        }
+      },
+      {
+        "org": {"cam": ["lskorinskaya"], "edit": ["klinnik"]},
+        "lang": "ru",
+        "labels": [],
+        "youtube": [],
+        "speakers": [
+          {
+            "names": {"*": "Andrei Solntsev", "ru": "Андрей Солнцев"},
+            "titles": {"*": "Tech Lead @ Swedbank / чемпион Эстонии по кубику рубика вслепую"},
+            "url": "https://www.linkedin.com/in/andrei-solntsev-6352a3211",
+            "image": "asolntsev_jr.png"
+          }
+        ],
+        "titles": {"ru": "Как собрать кубик Рубика с завязанными глазами?"},
+        "descr": {
+          "ru": [
+            "Новогодний оффтопик"
+          ]
+        }
+      },
+      {
+        "org": {"cam": ["lskorinskaya"], "edit": ["klinnik"]},
+        "lang": "ru",
+        "labels": [],
+        "youtube": [],
+        "speakers": [
+          {
+            "names": {"*": "Artem Kurapov", "ru": "Артём Курапов"},
+            "titles": {"*": "Инженер"},
+            "url": "https://www.linkedin.com/in/kurapov/",
+            "image": "akurapov2.jpg"
+          }
+        ],
+        "titles": {"ru": "Как там пчёлы?"},
+        "descr": {
+          "ru": [
+            "Лёгонький доклад-update про видео-мониторинг пчёл с помощью AI"
+          ]
+        }
+      },
+      {
+        "org": {"cam": ["lskorinskaya"], "edit": ["klinnik"]},
+        "lang": "ru",
+        "labels": [],
+        "youtube": [],
+        "speakers": [
+          {
+            "names": {"*": "Andrei Solntsev", "ru": "Андрей Солнцев"},
+            "titles": {"*": "Software developer @ Codeborne"},
+            "url": "https://ee.linkedin.com/in/asolntsev",
+            "image": "asolntsev_2018.jpg"
+          }
+        ],
+        "titles": {"ru": "Исправь свои слайды!"},
+        "descr": {
+          "ru": [
+            "Лёгкий способ резко улучшить почти любую презентацию."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "num": 193,
     "datetime": "2025-11-25T19:00:00+02:00",
     "season": 2025,
