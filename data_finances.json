@@ -24,11 +24,6 @@
   ],
   "companies": [
     {
-      "name": "Codeborne",
-      "logo": "codeborne.png",
-      "url": "https://codeborne.com"
-    },
-    {
       "name": "Askend",
       "logo": "askend.png",
       "url": "https://askend.com/"
