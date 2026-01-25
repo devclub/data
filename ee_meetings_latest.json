@@ -1,62 +1,50 @@
 [
   {
-    "num": 103,
+    "num": 104,
     "season": 2025,
-    "datetime": "2025-12-18T19:00:00+02:00",
+    "datetime": "2026-02-07T19:00:00+02:00",
     "place": {
-      "addr": "Liivalaia 34, 15040 Tallinn",
-      "loc": "https://maps.app.goo.gl/9VuZ2HD3xzjhPzNk6",
-      "name": "Swedbank",
-      "url": "https://swedbank.ee/private/home/contacts"
+      "addr": "Ahtri 6, Golden Gate, 10151 Tallinn, Estonia",
+      "loc": "https://maps.app.goo.gl/6ffkAiWvhcmehrDt8",
+      "name": "Wallester",
+      "url": "https://wallester.com/blog/company/a-new-home-for-a-new-era-wallester-opens-its-headquarters-in-tallinns-golden-gate"
     },
     "org": {
       "mod": [],
       "photo": []
     },
     "photo": [],
-    "event": "https://www.eventbrite.com/e/devclubee-103-markus-backman-aleksei-gussarov-rustavil-nurkaev-tickets-1976728608480",
+    "event": "",
     "speeches": [
       {
         "org": {
           "cam": [],
           "edit": []
         },
-        "youtube": [],
         "lang": "en",
         "labels": [
-          "programming",
-          "microservice",
-          "java",
-          "finances"
         ],
+        "youtube": [],
         "speakers": [
           {
-            "image": "markus-backman.jpeg",
+            "image": "oluwafemi-shobande.jpeg",
             "names": {
-              "*": "Markus Backman"
+              "*": "Oluwafemi Shobande"
             },
             "titles": {
-              "*": "Technology Enterprise Architect"
+              "*": "Senior Software Engineer @ Bolt"
             },
-            "url": "https://www.linkedin.com/in/markus-backman/"
+            "url": "https://www.linkedin.com/in/oluwafemi-shobande/"
           }
         ],
         "titles": {
-          "*": "Andromeda: Opinionated Micro-services That Scale at a Bank — our journey in platform engineering"
+          "*": "Durable Execution"
         },
         "descr": {
-          "en": [
-            "Moving towards micro-services can, if not careful, lead to chaos: inconsistent practices, unpredictable releases, maintenance burden, and slow velocity. In a highly regulated environment like banking, this chaos isn’t just inconvenient — it becomes a compliance, security, and operational risk.",
-            "In this talk we present Andromeda, our opinionated micro-service platform — not just a technical foundation, but a disciplined approach to delivering software safely and consistently at scale.",
-            "",
-            "We will cover:",
-            " * What Andromeda is: the tech stack, the runtime model, and the built-in safety rails that shape how teams build, test, deploy, and run micro-services.",
-            " * How we do it: the processes, governance, and automated controls that ensure developer autonomy while embedding compliance-by-design — essential for a bank operating under strict regulation.",
-            " * Who powers it: the teams, culture, and shared responsibility model that make platform engineering work in practice.",
-            " * Why we built it: the challenges of fragmented service landscapes, compliance overhead, and operational inconsistency — and how an opinionated platform helped us regain control and accelerate delivery.",
-            " * Where we are now: lessons learned, what worked, what didn’t, and how the platform continues to evolve.",
-            "",
-            "This talk is valuable for anyone building or operating micro-services, especially in regulated or large-scale environments. You’ll get practical insights into how a platform-centric, opinionated approach can create speed, reliability, and compliance — all at the same time."
+          "*": [
+            "Durable execution is about building long running workflows that survive crashes.",
+            "Specifically, I'll be showcasing the unique approach implemented in Aiki; an open source tool I'm building GitHub",
+            "http://github.com/aikirun/aiki: Durable Execution Platform."
           ]
         }
       },
@@ -65,43 +53,28 @@
           "cam": [],
           "edit": []
         },
+        "youtube": [],
         "lang": "en",
         "labels": [
-          "programming",
-          "microservice",
-          "java",
-          "finances"
         ],
-        "youtube": [],
         "speakers": [
           {
-            "image": "aleksei-gussarov.jpeg",
+            "image": "",
             "names": {
-              "*": "Aleksei Gussarov"
+              "*": "Andrei Gornostaev"
             },
             "titles": {
-              "*": "Baltic Channels Architect"
+              "*": "Chief Technology Officer @ Wallester"
             },
-            "url": "https://www.linkedin.com/in/alekseigussarov/"
-          },
-          {
-            "image": "rustavil-nurkaev.jpeg",
-            "names": {
-              "*": "Rustavil Nurkaev"
-            },
-            "titles": {
-              "*": "Baltic Channels Software Engineer"
-            },
-            "url": "https://www.linkedin.com/in/rustavil/"
+            "url": ""
           }
         ],
         "titles": {
-          "*": "Andromeda platform: hands-on developer experience"
+          "*": "TBD"
         },
         "descr": {
-          "*": [
-            "In this practical, end-to-end demo, we’ll walk through the full lifecycle of a Java application running on the Andromeda Platform—from project creation (or certain feature development) to deployment in managed environments.",
-            "You’ll see how the platform delivers a streamlined Developer Experience that accelerates delivery through efficient project setup, automated CI/CD pipelines, environment management, built-in observability, and risk-aware change controls."
+          "en": [
+            "TBD"
           ]
         }
       }

@@ -1,5 +1,113 @@
 [
   {
+    "num": 103,
+    "season": 2025,
+    "datetime": "2025-12-18T19:00:00+02:00",
+    "place": {
+      "addr": "Liivalaia 34, 15040 Tallinn",
+      "loc": "https://maps.app.goo.gl/9VuZ2HD3xzjhPzNk6",
+      "name": "Swedbank",
+      "url": "https://swedbank.ee/private/home/contacts"
+    },
+    "org": {
+      "mod": [],
+      "photo": []
+    },
+    "photo": [],
+    "event": "https://www.eventbrite.com/e/devclubee-103-markus-backman-aleksei-gussarov-rustavil-nurkaev-tickets-1976728608480",
+    "speeches": [
+      {
+        "org": {
+          "cam": [],
+          "edit": []
+        },
+        "youtube": [],
+        "lang": "en",
+        "labels": [
+          "programming",
+          "microservice",
+          "java",
+          "finances"
+        ],
+        "speakers": [
+          {
+            "image": "markus-backman.jpeg",
+            "names": {
+              "*": "Markus Backman"
+            },
+            "titles": {
+              "*": "Technology Enterprise Architect"
+            },
+            "url": "https://www.linkedin.com/in/markus-backman/"
+          }
+        ],
+        "titles": {
+          "*": "Andromeda: Opinionated Micro-services That Scale at a Bank — our journey in platform engineering"
+        },
+        "descr": {
+          "en": [
+            "Moving towards micro-services can, if not careful, lead to chaos: inconsistent practices, unpredictable releases, maintenance burden, and slow velocity. In a highly regulated environment like banking, this chaos isn’t just inconvenient — it becomes a compliance, security, and operational risk.",
+            "In this talk we present Andromeda, our opinionated micro-service platform — not just a technical foundation, but a disciplined approach to delivering software safely and consistently at scale.",
+            "",
+            "We will cover:",
+            " * What Andromeda is: the tech stack, the runtime model, and the built-in safety rails that shape how teams build, test, deploy, and run micro-services.",
+            " * How we do it: the processes, governance, and automated controls that ensure developer autonomy while embedding compliance-by-design — essential for a bank operating under strict regulation.",
+            " * Who powers it: the teams, culture, and shared responsibility model that make platform engineering work in practice.",
+            " * Why we built it: the challenges of fragmented service landscapes, compliance overhead, and operational inconsistency — and how an opinionated platform helped us regain control and accelerate delivery.",
+            " * Where we are now: lessons learned, what worked, what didn’t, and how the platform continues to evolve.",
+            "",
+            "This talk is valuable for anyone building or operating micro-services, especially in regulated or large-scale environments. You’ll get practical insights into how a platform-centric, opinionated approach can create speed, reliability, and compliance — all at the same time."
+          ]
+        }
+      },
+      {
+        "org": {
+          "cam": [],
+          "edit": []
+        },
+        "lang": "en",
+        "labels": [
+          "programming",
+          "microservice",
+          "java",
+          "finances"
+        ],
+        "youtube": [],
+        "speakers": [
+          {
+            "image": "aleksei-gussarov.jpeg",
+            "names": {
+              "*": "Aleksei Gussarov"
+            },
+            "titles": {
+              "*": "Baltic Channels Architect"
+            },
+            "url": "https://www.linkedin.com/in/alekseigussarov/"
+          },
+          {
+            "image": "rustavil-nurkaev.jpeg",
+            "names": {
+              "*": "Rustavil Nurkaev"
+            },
+            "titles": {
+              "*": "Baltic Channels Software Engineer"
+            },
+            "url": "https://www.linkedin.com/in/rustavil/"
+          }
+        ],
+        "titles": {
+          "*": "Andromeda platform: hands-on developer experience"
+        },
+        "descr": {
+          "*": [
+            "In this practical, end-to-end demo, we’ll walk through the full lifecycle of a Java application running on the Andromeda Platform—from project creation (or certain feature development) to deployment in managed environments.",
+            "You’ll see how the platform delivers a streamlined Developer Experience that accelerates delivery through efficient project setup, automated CI/CD pipelines, environment management, built-in observability, and risk-aware change controls."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "num": 102,
     "season": 2025,
     "datetime": "2025-11-18T19:00:00+02:00",
