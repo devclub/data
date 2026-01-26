@@ -70,11 +70,15 @@
           }
         ],
         "titles": {
-          "*": "TBD"
+          "*": "Software Development in a Regulated Environment"
         },
         "descr": {
           "en": [
-            "TBD"
+            "This talk explores how software development actually works inside a financially regulated company, using Wallester as a real-world example.",
+            "It challenges common myths that regulation slows teams down or forces heavy bureaucracy, showing instead how good engineering practices naturally align with compliance needs.",
+            "I’ll explain what “being regulated” really means for developers, focusing on practical IT risks rather than legal theory.",
+            "The talk covers how Wallester manages those risks through embedded controls such as identity and access management, secure software development and change management, monitoring and logging, incident and vulnerability management, data encryption, and backup and business continuity planning.",
+            "The goal is to show that many regulatory controls are simply well-executed engineering practices with accountability and traceability built in."
           ]
         }
       }
