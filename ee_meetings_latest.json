@@ -1,2 +1,80 @@
 [
+  {
+    "num": 105,
+    "season": 2025,
+    "datetime": "2026-03-04T19:00:00+02:00",
+    "place": {
+      "addr": "Ahtri 6, Golden Gate, 10151 Tallinn, Estonia",
+      "loc": "https://maps.app.goo.gl/6ffkAiWvhcmehrDt8",
+      "name": "Wallester",
+      "url": "https://wallester.com/blog/company/a-new-home-for-a-new-era-wallester-opens-its-headquarters-in-tallinns-golden-gate"
+    },
+    "org": {
+      "mod": [],
+      "photo": []
+    },
+    "photo": [],
+    "event": "",
+    "speeches": [
+      {
+        "org": {
+          "cam": [],
+          "edit": []
+        },
+        "lang": "en",
+        "labels": [
+        ],
+        "youtube": [],
+        "speakers": [
+          {
+            "image": "andrei-skopenko.jpeg",
+            "names": {
+              "*": "Andrei Skopenko"
+            },
+            "titles": {
+              "*": "VP of Engineering @ Wallester"
+            },
+            "url": "https://skopenko.net/"
+          }
+        ],
+        "titles": {
+          "*": "You Build It, You Run It: The Pain & Power of On-Call"
+        },
+        "descr": {
+          "*": [
+            "This presentation focuses on Incident Management I built in NoOnes from a cultural and operational perspective, emphasizing the principle of Full Ownership.",
+            "It argues that engineers should be on-call to experience the consequences of their code, which naturally drives quality improvements like writing cleaner code and adding proper observability.",
+            "The core message is \"You build what you run, you run what you build\", aligning with modern high-performing engineering organizations.",
+            "Implementing this full ownership model creates closed-loop learning, reduces friction between Dev and Ops, and ultimately leads to fewer incidents.",
+            "The presentation also describes the necessary structure for a proper process, including documentation, tooling, and focusing alerts on symptoms (SLIs/SLOs) rather than just noise.",
+            "Finally, it highlights the critical need for a dedicated person to oversee and iterate on the entire incident management process."
+          ]
+        }
+      },
+      {
+        "org": {"cam": [], "edit": []},
+        "lang": "en",
+        "labels": [],
+        "youtube": [],
+        "speakers": [
+          {
+            "names": {"*": "Andrei Solntsev"},
+            "titles": {"*": "Software craftsman @ Codeborne"},
+            "url": "https://ee.linkedin.com/in/asolntsev",
+            "image": "asolntsev_2018.jpg"
+          }
+        ],
+        "titles": {"*": "Flaky unit-tests"},
+        "descr": {
+          "*": [
+            "Usually we think that UI tests are flaky and slow, while unit-tests are fast stable.",
+            "Unit-test don't run browser, don't connect to database, don't call http services. They mock everything. What can possible go wrong?",
+            "But is that really the case?",
+            "It’s time to bust the myth that unit tests are immune to instability. Let's expose the 'dark side' of unit testing!",
+            "I’ll share a series of nightmarish examples where unit tests failed unpredictably, and walk you through the detective work required to find and fix them."
+          ]
+        }
+      }
+    ]
+  }
 ]
