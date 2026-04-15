@@ -22,6 +22,12 @@
             "titles": {"*": "Founder & CTO @supaplex"},
             "url": "https://www.linkedin.com/in/oleg-golovachov/",
             "image": "ogolovachov.jpg"
+          },
+          {
+            "names": {"*": "Alex Doronin", "ru": "Алекс Доронин"},
+            "titles": {"*": "Fractional CISO"},
+            "url": "https://www.linkedin.com/in/aleksandrdoronin/",
+            "image": "alex-doronin.jpeg"
           }
         ],
         "titles": {"ru": "Безопасность AI-систем: от теории к практике"},
