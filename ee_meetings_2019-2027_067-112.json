@@ -1,7 +1,7 @@
 [
   {
     "num": 105,
-    "season": 2025,
+    "season": 2026,
     "datetime": "2026-03-04T19:00:00+02:00",
     "place": {
       "addr": "Ahtri 6, Golden Gate, 10151 Tallinn, Estonia",
@@ -79,7 +79,7 @@
   },
   {
     "num": 104,
-    "season": 2025,
+    "season": 2026,
     "datetime": "2026-02-04T19:00:00+02:00",
     "place": {
       "addr": "Ahtri 6, Golden Gate, 10151 Tallinn, Estonia",
@@ -164,7 +164,7 @@
   },
   {
     "num": 103,
-    "season": 2025,
+    "season": 2026,
     "datetime": "2025-12-18T19:00:00+02:00",
     "place": {
       "addr": "Liivalaia 34, 15040 Tallinn",
@@ -554,7 +554,7 @@
   },
   {
     "num": 97,
-    "season": 2024,
+    "season": 2025,
     "datetime": "2024-12-11T19:00:00+03:00",
     "place": {
       "name": "Askend", "loc": "https://maps.app.goo.gl/5zSHSSQestoERXcJ9",
@@ -753,7 +753,7 @@
   },
   {
     "num": 93,
-    "season": 2023,
+    "season": 2024,
     "datetime": "2023-12-07T19:00:00+02:00",
     "place": {
       "addr": "Lõõtsa 1A, 11415 Tallinn", "loc": "https://maps.app.goo.gl/te7isiafUrA3EZRc7",
