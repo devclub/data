@@ -1,2 +1,77 @@
 [
+  {
+    "num": 107,
+    "season": 2026,
+    "datetime": "2026-06-30T19:00:00+03:00",
+    "place": {
+      "addr": "Kai tn 4, 10111 Tallinn",
+      "loc": "https://maps.app.goo.gl/qWmzTx4KXBkCS3tS8",
+      "name": "Coolbet",
+      "url": "https://www.coolbet.com/et/tere-tulemast"
+    },
+    "org": {
+      "mod": [],
+      "photo": []
+    },
+    "photo": [],
+    "event": "",
+    "speeches": [
+      {
+        "org": {
+          "cam": [],
+          "edit": []
+        },
+        "lang": "en",
+        "labels": [
+        ],
+        "youtube": [],
+        "speakers": [
+          {
+            "image": "nophoto.png",
+            "names": {
+              "*": "Umut Pazarbasi"
+            },
+            "titles": {
+              "*": "Lead DBA Administrator @ Coolbet"
+            },
+            "url": "https://ee.linkedin.com/in/upazarbasi"
+          }
+        ],
+        "titles": {
+          "*": "So you want to be a DBA?"
+        },
+        "descr": {
+          "*": [
+            "Day-to-day life of a DBA. Tips and tricks from a DBA's POV to developers."
+          ]
+        }
+      },
+      {
+        "org": {"cam": [], "edit": []},
+        "lang": "en",
+        "labels": [],
+        "youtube": [],
+        "speakers": [
+          {
+            "image": "elis_laasik.jpeg",
+            "names": {"*": "Elis Laasik"},
+            "titles": {"*": "Job title: UX/UI designer and developer @ Codeborne"},
+            "url": "https://www.linkedin.com/in/elislaasik/"
+          }
+        ],
+        "titles": {"*": "Train your design eye (UI design eye)"},
+        "descr": {
+          "*": [
+            "Most developers are already making design decisions every day — every padding value, every color choice, every div placement.",
+            "But without knowing the underlying rules, it's hard to tell what's off and even harder to fix it.",
+            "Design taste isn't a gift. It's a set of logical, learnable rules — and once you know them, your eye starts catching things automatically.",
+            "This talk walks you through the four rules that come up in almost every design review: alignment, spacing, sizing, and color.",
+            "Each one is explained with real before/after examples, exaggerated on purpose so the difference is impossible to miss.",
+            "By the end you'll have a framework you can apply immediately — whether you're reviewing your own work, giving feedback, or prompting AI to fix something specific.",
+            "The developers who get consistently great UI aren't the ones with the most design talent. They're the ones who know what to look for."
+          ]
+        }
+      }
+    ]
+  }
 ]
