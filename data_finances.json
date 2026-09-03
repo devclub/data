@@ -21,6 +21,11 @@
   ],
   "companies": [
     {
+      "name": "Wallester",
+      "logo": "wallester.png",
+      "url": "https://wallester.bamboohr.com/careers"
+    },
+    {
       "name": "Askend",
       "logo": "askend.png",
       "url": "https://askend.com/"
