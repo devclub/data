@@ -1,20 +1,20 @@
 [
   {
-    "num": 107,
+    "num": 108,
     "season": 2026,
-    "datetime": "2026-06-30T19:00:00+03:00",
+    "datetime": "2026-09-17T19:00:00+03:00",
     "place": {
-      "addr": "Kai tn 4, 10111 Tallinn. If you are facing away from the Old Town, the entrance is on the left side of the red brick building (on the Kai street side) and not on the courtyard side of the Porto Franco complex. Look for the sign \"Kai 4 Büroo\". When you arrive, use the doorbell located next to the elevator.",
-      "loc": "https://maps.app.goo.gl/qWmzTx4KXBkCS3tS8",
-      "name": "Coolbet",
-      "url": "https://www.coolbet.com/et/tere-tulemast"
+      "addr": "Ahtri 6, Golden Gate, 10151 Tallinn, Estonia",
+      "loc": "https://maps.app.goo.gl/6ffkAiWvhcmehrDt8",
+      "name": "Wallester",
+      "url": "https://wallester.com/blog/company/a-new-home-for-a-new-era-wallester-opens-its-headquarters-in-tallinns-golden-gate"
     },
     "org": {
       "mod": [],
       "photo": []
     },
     "photo": [],
-    "event": "https://www.eventbrite.com/e/devclubee-107-umut-pazarbasi-elis-laasik-tickets-1991977765118",
+    "event": "",
     "speeches": [
       {
         "org": {
@@ -27,48 +27,57 @@
         "youtube": [],
         "speakers": [
           {
-            "image": "umut_pazarbasi.png",
+            "image": "franklin-ezeji.jpeg",
             "names": {
-              "*": "Umut Pazarbasi"
+              "*": "Franklin Ezeji"
             },
             "titles": {
-              "*": "Lead DBA Administrator @ Coolbet"
+              "*": "Senior Software Engineer @ Eesti Energia"
             },
-            "url": "https://ee.linkedin.com/in/upazarbasi"
+            "url": "https://www.linkedin.com/in/franklin-ezeji-a68068160/"
           }
         ],
         "titles": {
-          "*": "So you want to be a DBA?"
+          "*": "SchedNext: Building a Lightweight Agent Runtime for Cloud, Edge, and Embedded Systems"
         },
         "descr": {
           "*": [
-            "Day-to-day life of a DBA. Tips and tricks from a DBA's POV to developers."
+            "Modern software systems increasingly need lightweight automation that can run reliably across cloud, edge, and embedded environments.",
+            "In this talk, I will introduce SchedNext, a lightweight agent runtime designed to schedule, execute, and observe workloads through filesystem-native interfaces.",
+            "I will walk through the architecture, design decisions, and challenges involved in building a portable runtime that can operate across different environments.",
+            "The session will include a live demonstration of scheduling and running agents, showing how the same concepts can apply from server-side automation to edge devices."
           ]
         }
       },
       {
-        "org": {"cam": [], "edit": []},
+        "org": {
+          "cam": [],
+          "edit": []
+        },
         "lang": "en",
         "labels": [],
         "youtube": [],
         "speakers": [
           {
-            "image": "elis_laasik.jpeg",
-            "names": {"*": "Elis Laasik"},
-            "titles": {"*": "Job title: UX/UI designer and developer @ Codeborne"},
-            "url": "https://www.linkedin.com/in/elislaasik/"
+            "image": "zeynep-oztug.jpeg",
+            "names": {
+              "*": "Zeynep Oztug"
+            },
+            "titles": {
+              "*": "Engineering Lead"
+            },
+            "url": "https://www.linkedin.com/in/zeynep-%C3%B6ztu%C4%9F/"
           }
         ],
-        "titles": {"*": "Train your design eye (UI design eye)"},
+        "titles": {
+          "*": "Thinking Beyond Code: Practical Engineering Decisions in Modern Systems"
+        },
         "descr": {
           "*": [
-            "Most developers are already making design decisions every day — every padding value, every color choice, every div placement.",
-            "But without knowing the underlying rules, it's hard to tell what's off and even harder to fix it.",
-            "Design taste isn't a gift. It's a set of logical, learnable rules — and once you know them, your eye starts catching things automatically.",
-            "This talk walks you through the four rules that come up in almost every design review: alignment, spacing, sizing, and color.",
-            "Each one is explained with real before/after examples, exaggerated on purpose so the difference is impossible to miss.",
-            "By the end you'll have a framework you can apply immediately — whether you're reviewing your own work, giving feedback, or prompting AI to fix something specific.",
-            "The developers who get consistently great UI aren't the ones with the most design talent. They're the ones who know what to look for."
+            "Software engineering is often associated with writing code, but the real challenges appear in the decisions behind the code.",
+            "How do we choose the right technologies? How do we balance speed, reliability, and complexity? And how do we make decisions that will still make sense years later?",
+            "This talk explores the practical side of engineering: understanding tradeoffs, making technology choices, and thinking about systems rather than isolated components.",
+            "Through real examples, we will look at how engineers move from simply implementing tasks to making decisions that shape resilient and maintainable systems."
           ]
         }
       }
