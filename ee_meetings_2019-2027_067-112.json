@@ -1,5 +1,89 @@
 [
   {
+    "num": 108,
+    "season": 2026,
+    "datetime": "2026-09-17T19:00:00+03:00",
+    "place": {
+      "addr": "Ahtri 6, Golden Gate, 10151 Tallinn, Estonia",
+      "loc": "https://maps.app.goo.gl/6ffkAiWvhcmehrDt8",
+      "name": "Wallester",
+      "url": "https://wallester.com/blog/company/a-new-home-for-a-new-era-wallester-opens-its-headquarters-in-tallinns-golden-gate"
+    },
+    "org": {
+      "mod": [],
+      "photo": []
+    },
+    "photo": [],
+    "event": "",
+    "speeches": [
+      {
+        "org": {
+          "cam": [],
+          "edit": []
+        },
+        "lang": "en",
+        "labels": [
+        ],
+        "youtube": [],
+        "speakers": [
+          {
+            "image": "franklin-ezeji.jpeg",
+            "names": {
+              "*": "Franklin Ezeji"
+            },
+            "titles": {
+              "*": "Senior Software Engineer @ Eesti Energia"
+            },
+            "url": "https://www.linkedin.com/in/franklin-ezeji-a68068160/"
+          }
+        ],
+        "titles": {
+          "*": "SchedNext: Building a Lightweight Agent Runtime for Cloud, Edge, and Embedded Systems"
+        },
+        "descr": {
+          "*": [
+            "Modern software systems increasingly need lightweight automation that can run reliably across cloud, edge, and embedded environments.",
+            "In this talk, I will introduce SchedNext, a lightweight agent runtime designed to schedule, execute, and observe workloads through filesystem-native interfaces.",
+            "I will walk through the architecture, design decisions, and challenges involved in building a portable runtime that can operate across different environments.",
+            "The session will include a live demonstration of scheduling and running agents, showing how the same concepts can apply from server-side automation to edge devices."
+          ]
+        }
+      },
+      {
+        "org": {
+          "cam": [],
+          "edit": []
+        },
+        "lang": "en",
+        "labels": [],
+        "youtube": [],
+        "speakers": [
+          {
+            "image": "zeynep-oztug.jpeg",
+            "names": {
+              "*": "Zeynep Oztug"
+            },
+            "titles": {
+              "*": "Engineering Lead"
+            },
+            "url": "https://www.linkedin.com/in/zeynep-%C3%B6ztu%C4%9F/"
+          }
+        ],
+        "titles": {
+          "*": "Thinking Beyond Code: Practical Engineering Decisions in Modern Systems"
+        },
+        "descr": {
+          "*": [
+            "Software engineering is often associated with writing code, but the real challenges appear in the decisions behind the code.",
+            "How do we choose the right technologies? How do we balance speed, reliability, and complexity? And how do we make decisions that will still make sense years later?",
+            "This talk explores the practical side of engineering: understanding tradeoffs, making technology choices, and thinking about systems rather than isolated components.",
+            "Through real examples, we will look at how engineers move from simply implementing tasks to making decisions that shape resilient and maintainable systems."
+          ]
+        }
+      }
+    ]
+  },
+  {
     "num": 106,
     "season": 2026,
     "datetime": "2026-04-22T19:00:00+03:00",
