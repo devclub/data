@@ -53,6 +53,35 @@
             "Building financial crime tooling isn’t just about integrating a watchlist API. It is about balancing low latency, minimizing false positives, and satisfying strict regulators. Join us as we break down how our product, compliance, and engineering teams bridged the gap between legal policy and distributed systems to build an in-house sanctions engine."
           ]
         }
+      },
+      {
+        "org": {
+          "cam": [],
+          "edit": []
+        },
+        "lang": "en",
+        "labels": [],
+        "youtube": [],
+        "speakers": [
+          {
+            "image": "mcaron.jpg",
+            "names": {
+              "*": "Miguel Caron"
+            },
+            "titles": {
+              "*": "GM and Chair of Bally's Estonia OU"
+            },
+            "url": "https://www.linkedin.com/in/miguelcaronceo/"
+          }
+        ],
+        "titles": {
+          "*": "Generative Culture for Engineers (Westrum/Dora)"
+        },
+        "descr": {
+          "*": [
+            "Generative Culture is a way of working where information flows freely, problems come to the surface early, and failure is treated as something to learn from, not something to punish. Teams that work this way ship more often, recover from incidents faster and make better decisions, because the truth reaches the people who need it. For software engineers, that means blameless postmortems, honest design reviews and being able to say \"this date won't work\" without paying for it."
+          ]
+        }
       }
     ]
   }
