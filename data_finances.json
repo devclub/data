@@ -21,6 +21,12 @@
   ],
   "companies": [
     {
+      "name": "Inbank",
+      "logo": "inbank.png",
+      "url": "https://inbank.eu/careers",
+      "endDate": "2026-12-31"
+    },
+    {
       "name": "Wallester",
       "logo": "wallester.png",
       "url": "https://wallester.bamboohr.com/careers"
